@@ -5,7 +5,7 @@
 ---
 
 ### 🛠 Skills
-- Game Development: **Godot 4**, **Blender 4.2**
+- Game Development: **Godot 4**, **Unreal Engine 5**, **Blender 4.2**
 - Network Design: **Cisco Packet Tracer**
 - Custom Protocol Design
 - LEGO and Minecraft modding

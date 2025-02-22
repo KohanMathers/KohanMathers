@@ -1,4 +1,4 @@
-# 👾 Quiet Terminal Interactive
+# 👾 K Mathers
 
 **Aspiring data hoarder, game developer, and tech enthusiast based in Milton Keynes, UK.**
 

@@ -29,12 +29,6 @@
 
 ---
 
-### 🎵 Favorite Band
-- **Dutty Moonshine Big Band**  
-  _(Check out their album: *Most Wanted*)_
-
----
-
 ### 🧩 Personal Highlights
 - Homebrewed 3DS enthusiast.
 - Working on my own AI robot _(paused for now)_.

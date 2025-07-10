@@ -46,5 +46,4 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-Now Playing: None
-<!-- END_NOW_PLAYING -->
+Now Playing: **Get Ur Freak On** - **Missy Elliott — Miss E... So Addictive**<!-- END_NOW_PLAYING -->

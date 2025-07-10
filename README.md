@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Lost in a Glaze - Hype Man Sage & Mista Trick — You
+- 🎵 **Now Playing:** Are You Okay - nihmune — Are You Okay?
 - 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 7h 18m ago
 
-*Last updated: 10-07-2025 13:30:32*
+*Last updated: 10-07-2025 13:31:14*
 <!-- END_NOW_PLAYING -->

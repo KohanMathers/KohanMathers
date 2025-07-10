@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-Now Playing: **HEAR ME OUT** - **AmaLee — HEAR ME OUT - Single**
+Now Playing: **Fluorescent Adolescent** - **Arctic Monkeys — Favourite Worst Nightmare**
 
-Last updated: 10-07-2025 03:29:02
+Last updated: 10-07-2025 03:29:07
 <!-- END_NOW_PLAYING -->

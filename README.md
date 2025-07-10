@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-Now Playing: **Fluorescent Adolescent** - **Arctic Monkeys — Favourite Worst Nightmare**
+Now Playing: **(Something Inside) So Strong** - **Labi Siffre — So Strong**
 
-Last updated: 10-07-2025 03:29:07
+Last updated: 10-07-2025 03:32:09
 <!-- END_NOW_PLAYING -->

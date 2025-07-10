@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** My Goodbye - Jorge Rivera-Herrans & Teagan Earley — EPIC: The Cyclops Sag...
-- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 4h 24m ago
+- 🎵 **Now Playing:** Truth & Fiction - The Undercover Hippy — Truth & Fiction
+- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 4h 25m ago
 
-*Last updated: 10-07-2025 22:30:03*
+*Last updated: 10-07-2025 22:30:37*
 <!-- END_NOW_PLAYING -->

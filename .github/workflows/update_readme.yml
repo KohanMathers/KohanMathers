@@ -3,6 +3,10 @@ on:
   schedule:
     - cron: '*/2 * * * *'  # every 2 minutes
   workflow_dispatch:
+
+permissions:
+  contents: write  # Allow the action to write to the repository
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest

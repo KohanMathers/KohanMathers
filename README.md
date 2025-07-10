@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Recovery - Frank Turner — Tape Deck Heart (Deluxe Edition)
+- 🎵 **Now Playing:** Christmas. [I’d Rather Die] - Seb Lowe — Christmas. [I’d Rather Die] - Single
 - 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 6h 58m ago
 
-*Last updated: 10-07-2025 13:10:23*
+*Last updated: 10-07-2025 13:11:04*
 <!-- END_NOW_PLAYING -->

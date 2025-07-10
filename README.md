@@ -45,4 +45,6 @@ a game studio where being generic was never an option.
 > status
 ```
 
-Coming when I work out Github Actions
+<!-- NOW_PLAYING -->
+Now Playing: None
+<!-- END_NOW_PLAYING -->

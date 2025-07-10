@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Buddies - Frank Turner & Jon Snodgrass — Buddies
-- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 7 hours ago
+- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 7h 3m ago
 
-*Last updated: 10-07-2025 13:12:45*
+*Last updated: 10-07-2025 13:15:25*
 <!-- END_NOW_PLAYING -->

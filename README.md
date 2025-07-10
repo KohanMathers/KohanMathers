@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Starving (feat. Zedd) - Hailee Steinfeld & Grey — Starving (feat. Zedd) - Single
-- 💻 **Coding Status:** 9 minutes ago | Coding index.html | In project RandomThings | With language HTML
+- 🎵 **Now Playing:** We'll Be Fine - Jorge Rivera-Herrans, Teagan Earley & Miguel Veloso — EPIC: ...
+- 💻 **Last seen coding** in *HTML*, editing `index.html` (Project: RandomThings) - 17 minutes ago
 
-*Last updated: 10-07-2025 04:00:48*
+*Last updated: 10-07-2025 04:08:35*
 <!-- END_NOW_PLAYING -->

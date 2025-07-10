@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** 1933 - Frank Turner — Be More Kind
-- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 4h 15m ago
+- 🎵 **Now Playing:** The Opening Act of Spring - Frank Turner — Positive Songs for Negative People
+- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 4h 19m ago
 
-*Last updated: 10-07-2025 22:21:12*
+*Last updated: 10-07-2025 22:24:23*
 <!-- END_NOW_PLAYING -->

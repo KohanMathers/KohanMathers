@@ -1,1 +1,1 @@
-Now Playing: **Never Leave You (Uh Oooh, Uh Oooh)** - **Lumidee — Never Leave You (Uh Oooh, Uh Oooh) - Single**
+Now Playing: **Around the World (La La La La La) [Radio Version]** - **A Touch of Class — Planet Pop**

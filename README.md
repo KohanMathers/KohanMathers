@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Little Changes - Frank Turner — Be More Kind
-- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 3h 34m ago
+- 🎵 **Now Playing:** How Lovely - Reinaeiry — How Lovely - Single
+- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 3h 35m ago
 
-*Last updated: 10-07-2025 21:39:54*
+*Last updated: 10-07-2025 21:40:22*
 <!-- END_NOW_PLAYING -->

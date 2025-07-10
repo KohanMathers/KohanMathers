@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Opening Act of Spring - Frank Turner — Positive Songs for Negative People
-- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 4h 19m ago
+- 🎵 **Now Playing:** My Goodbye - Jorge Rivera-Herrans & Teagan Earley — EPIC: The Cyclops Sag...
+- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 4h 22m ago
 
-*Last updated: 10-07-2025 22:25:00*
+*Last updated: 10-07-2025 22:27:23*
 <!-- END_NOW_PLAYING -->

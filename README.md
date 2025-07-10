@@ -46,4 +46,7 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-Now Playing: **Get Ur Freak On** - **Missy Elliott — Miss E... So Addictive**<!-- END_NOW_PLAYING -->
+Now Playing: **Lip Gloss** - **Lil Mama — Lip Gloss - Single**
+
+Last updated: 10-07-2025 03:13:01
+<!-- END_NOW_PLAYING -->

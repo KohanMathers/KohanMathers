@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-Now Playing: **Polaroid Picture** - **Frank Turner — Tape Deck Heart (Deluxe Edition)**
+Now Playing: **Dreamer** - **The Undercover Hippy — Poor Little England**
 
-Last updated: 10-07-2025 03:41:07
+Last updated: 10-07-2025 03:41:28
 <!-- END_NOW_PLAYING -->

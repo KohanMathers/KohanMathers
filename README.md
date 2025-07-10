@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-🎵 **Now Playing:** Little Wolf - Jorge Rivera-Herrans, Various Artists — EPIC: The Wisdom Sag...
+🎵 **Now Playing:** The Challenge - Jorge Rivera-Herrans, Anna Lea & Cast of EPIC: The Musical —...
 💻 **Coding Status:** Not coding
 
-*Last updated: 10-07-2025 03:56:03*
+*Last updated: 10-07-2025 03:57:25*
 <!-- END_NOW_PLAYING -->

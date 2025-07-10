@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Buddies - Frank Turner & Jon Snodgrass — Buddies
+- 🎵 **Now Playing:** 1=1=1 - Subculture Sage — Subculture Sage EP
 - 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 7h 3m ago
 
-*Last updated: 10-07-2025 13:15:25*
+*Last updated: 10-07-2025 13:16:09*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-🎵 **Now Playing:** Sour Worms - nihmune — Run from the Sun
+🎵 **Now Playing:** Little Wolf - Jorge Rivera-Herrans, Various Artists — EPIC: The Wisdom Sag...
 💻 **Coding Status:** Not coding
 
-*Last updated: 10-07-2025 03:54:03*
+*Last updated: 10-07-2025 03:54:09*
 <!-- END_NOW_PLAYING -->

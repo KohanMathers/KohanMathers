@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** So Am I - Ava Max — Heaven & Hell
+- 🎵 **Now Playing:** Hey Boy - The Undercover Hippy — Hey Boy - Single
 - 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 6h 51m ago
 
-*Last updated: 10-07-2025 13:03:54*
+*Last updated: 10-07-2025 13:03:58*
 <!-- END_NOW_PLAYING -->

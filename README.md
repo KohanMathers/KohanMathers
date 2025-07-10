@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-🎵 **Now Playing:** Last Living Souls - Gorillaz — Hip Hop at Fifty: Argentina Vol.2
+🎵 **Now Playing:** Sour Worms - nihmune — Run from the Sun
 💻 **Coding Status:** Not coding
 
-*Last updated: 10-07-2025 03:53:43*
+*Last updated: 10-07-2025 03:54:03*
 <!-- END_NOW_PLAYING -->

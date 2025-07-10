@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Lost in a Glaze - Hype Man Sage & Mista Trick — You
-- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 7h 11m ago
+- 🎵 **Now Playing:** The Graveyard of the Outcast Dead - Frank Turner — No Man's Land
+- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 7h 12m ago
 
-*Last updated: 10-07-2025 13:24:14*
+*Last updated: 10-07-2025 13:24:28*
 <!-- END_NOW_PLAYING -->

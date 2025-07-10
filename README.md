@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-Now Playing: **Not listening to music** - **Check again later**
+Now Playing: **Must Have Been the Wind** - **Alec Benjamin — These Two Windows**
 
-Last updated: 10-07-2025 03:19:10
+Last updated: 10-07-2025 03:22:43
 <!-- END_NOW_PLAYING -->

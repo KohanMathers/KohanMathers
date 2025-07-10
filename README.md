@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-🎵 **Now Playing:** There Are Other Ways - Jorge Rivera-Herrans, Talya Sindel & Cast of EPIC: The Music...
+🎵 **Now Playing:** Last Living Souls - Gorillaz — Hip Hop at Fifty: Argentina Vol.2
 💻 **Coding Status:** Not coding
 
-*Last updated: 10-07-2025 03:46:58*
+*Last updated: 10-07-2025 03:52:48*
 <!-- END_NOW_PLAYING -->

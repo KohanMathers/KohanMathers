@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** 1=1=1 - Subculture Sage — Subculture Sage EP
+- 🎵 **Now Playing:** The Graveyard of the Outcast Dead - Frank Turner — No Man's Land
 - 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 7h 8m ago
 
-*Last updated: 10-07-2025 13:20:28*
+*Last updated: 10-07-2025 13:20:34*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Who's Thinking (feat. Tertia May) - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Last seen coding** in *HTML*, editing `index.html` (Project: RandomThings) - 19 minutes ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 55 minutes ago
 
-*Last updated: 10-07-2025 04:10:39*
+*Last updated: 10-07-2025 07:08:04*
 <!-- END_NOW_PLAYING -->

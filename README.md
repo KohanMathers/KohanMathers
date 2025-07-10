@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 🎵 **Now Playing:** The Challenge - Jorge Rivera-Herrans, Anna Lea & Cast of EPIC: The Musical —...
-💻 **Coding Status:** Not coding
+💻 **Coding Status:** 7 minutes ago | file: index.html | project: RandomThings | language: HTML
 
-*Last updated: 10-07-2025 03:57:25*
+*Last updated: 10-07-2025 03:58:52*
 <!-- END_NOW_PLAYING -->

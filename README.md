@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-Now Playing: **The Opening Act of Spring (Acoustic)** - **Frank Turner — Positive Songs for Negative People (Deluxe)**
+Now Playing: **HEAR ME OUT** - **AmaLee — HEAR ME OUT - Single**
 
-Last updated: 10-07-2025 03:26:02
+Last updated: 10-07-2025 03:29:02
 <!-- END_NOW_PLAYING -->

@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-Now Playing: **1 Thing** - **Amerie — Touch**
+Now Playing: **See You Again (Rock Mafia Remix)** - **Miley Cyrus — Breakout**
 
-Last updated: 10-07-2025 03:18:52
+Last updated: 10-07-2025 03:19:03
 <!-- END_NOW_PLAYING -->

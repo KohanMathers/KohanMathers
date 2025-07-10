@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 4h 9m ago
+- 🎵 **Now Playing:** It's Gonna Be Me - *NSYNC — No Strings Attached
+- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 4h 11m ago
 
-*Last updated: 10-07-2025 22:14:56*
+*Last updated: 10-07-2025 22:16:48*
 <!-- END_NOW_PLAYING -->

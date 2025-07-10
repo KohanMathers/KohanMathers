@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-🎵 **Now Playing:** The Challenge - Jorge Rivera-Herrans, Anna Lea & Cast of EPIC: The Musical —...
-💻 **Coding Status:** 7 minutes ago | file: index.html | project: RandomThings | language: HTML
+- 🎵 **Now Playing:** Starving (feat. Zedd) - Hailee Steinfeld & Grey — Starving (feat. Zedd) - Single
+- 💻 **Coding Status:** 9 minutes ago | Coding index.html | In project RandomThings | With language HTML
 
-*Last updated: 10-07-2025 03:58:52*
+*Last updated: 10-07-2025 04:00:48*
 <!-- END_NOW_PLAYING -->

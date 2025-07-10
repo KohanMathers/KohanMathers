@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-Now Playing: **(Something Inside) So Strong** - **Labi Siffre — So Strong**
+Now Playing: **Polaroid Picture** - **Frank Turner — Tape Deck Heart (Deluxe Edition)**
 
-Last updated: 10-07-2025 03:32:09
+Last updated: 10-07-2025 03:37:48
 <!-- END_NOW_PLAYING -->

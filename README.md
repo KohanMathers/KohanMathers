@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-Now Playing: **Must Have Been the Wind** - **Alec Benjamin — These Two Windows**
+Now Playing: **The Opening Act of Spring (Acoustic)** - **Frank Turner — Positive Songs for Negative People (Deluxe)**
 
-Last updated: 10-07-2025 03:22:43
+Last updated: 10-07-2025 03:26:02
 <!-- END_NOW_PLAYING -->

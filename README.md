@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Truth & Fiction - The Undercover Hippy — Truth & Fiction
-- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 4h 25m ago
+- 🎵 **Now Playing:** 1 4 3 - Elijah — 1 4 3 - Single
+- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 4h 29m ago
 
-*Last updated: 10-07-2025 22:30:37*
+*Last updated: 10-07-2025 22:35:03*
 <!-- END_NOW_PLAYING -->

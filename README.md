@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Get Better - Frank Turner — Positive Songs for Negative People
-- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 6h 48m ago
+- 🎵 **Now Playing:** So Am I - Ava Max — Heaven & Hell
+- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 6h 51m ago
 
-*Last updated: 10-07-2025 13:00:18*
+*Last updated: 10-07-2025 13:03:54*
 <!-- END_NOW_PLAYING -->

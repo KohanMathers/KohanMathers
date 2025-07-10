@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** We'll Be Fine - Jorge Rivera-Herrans, Teagan Earley & Miguel Veloso — EPIC: ...
-- 💻 **Last seen coding** in *HTML*, editing `index.html` (Project: RandomThings) - 17 minutes ago
+- 🎵 **Now Playing:** Who's Thinking (feat. Tertia May) - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Last seen coding** in *HTML*, editing `index.html` (Project: RandomThings) - 19 minutes ago
 
-*Last updated: 10-07-2025 04:09:13*
+*Last updated: 10-07-2025 04:10:39*
 <!-- END_NOW_PLAYING -->

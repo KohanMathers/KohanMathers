@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** 1 4 3 - Elijah — 1 4 3 - Single
-- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 4h 29m ago
+- 🎵 **Now Playing:** Who's Thinking (feat. Tertia May) - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Last seen coding** in *Text*, editing `temp.txt` (Project: RandomThings) - 4h 33m ago
 
-*Last updated: 10-07-2025 22:35:06*
+*Last updated: 10-07-2025 22:38:27*
 <!-- END_NOW_PLAYING -->

@@ -1,0 +1,47 @@
+name: Update README with Now Playing
+on:
+  schedule:
+    - cron: '*/2 * * * *'  # every 2 minutes
+  workflow_dispatch:
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update README with now playing
+        run: |
+          if [ -f now_playing.md ]; then
+            # Create a temporary file with the new content
+            echo "<!-- NOW_PLAYING -->" > temp_now_playing.txt
+            cat now_playing.md >> temp_now_playing.txt
+            echo "<!-- END_NOW_PLAYING -->" >> temp_now_playing.txt
+            
+            # Use awk to replace the content between markers
+            awk '
+              /<!-- NOW_PLAYING -->/ {
+                system("cat temp_now_playing.txt")
+                # Skip until END_NOW_PLAYING
+                while ((getline line) > 0) {
+                  if (line ~ /<!-- END_NOW_PLAYING -->/) break
+                }
+                next
+              }
+              { print }
+            ' README.md > README_temp.md
+            
+            mv README_temp.md README.md
+            rm temp_now_playing.txt
+          else
+            echo "now_playing.md not found"
+          fi
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Update now playing status"
+            git push
+          else
+            echo "No changes to commit"
+          fi

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fight or Flight - Conan Gray — Kid Krow
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 8 minutes ago
+- 🎵 **Now Playing:** From the Ritz to the Rubble - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 9 minutes ago
 
-*Last updated: 11-07-2025 23:07:08*
+*Last updated: 11-07-2025 23:08:07*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Drop Dead Gorgeous - VOILÀ — Drop Dead Gorgeous - Single
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 33 minutes ago
+- 🎵 **Now Playing:** I Fell In Love With a Talking Head - Seb Lowe — I Fell In Love With a Talking Head - EP
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 34 minutes ago
 
-*Last updated: 11-07-2025 23:32:19*
+*Last updated: 11-07-2025 23:32:51*
 <!-- END_NOW_PLAYING -->

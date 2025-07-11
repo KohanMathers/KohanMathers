@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Slipping Through My Fingers - Meryl Streep & Amanda Seyfried — Mamma Mia! (The Movie Sound...
-- 💻 **Coding Status:** Not coding
+- 🎵 **Now Playing:** Just Friends - JORDY — Just Friends - Single
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - Just now
 
-*Last updated: 12-07-2025 00:31:43*
+*Last updated: 12-07-2025 00:35:36*
 <!-- END_NOW_PLAYING -->

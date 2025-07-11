@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Burden to Bear - MathematicPony — Burden to Bear - Single
+- 🎵 **Now Playing:** Rebellion - hololive English -Advent- — Rebellion - Single
 - 💻 **Last seen coding** in *Java*, editing `NametagManager.java` (Project: PlaceholderNametags) - 2h 26m ago
 
-*Last updated: 11-07-2025 17:29:23*
+*Last updated: 11-07-2025 17:30:12*
 <!-- END_NOW_PLAYING -->

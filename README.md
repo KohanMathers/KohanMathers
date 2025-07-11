@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Want It That Way - Backstreet Boys — Millennium
+- 🎵 **Now Playing:** Clint Eastwood - Gorillaz — Clint Eastwood - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 12-07-2025 00:17:37*
+*Last updated: 12-07-2025 00:21:06*
 <!-- END_NOW_PLAYING -->

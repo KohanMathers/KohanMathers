@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Madness - Subculture Sage — Subculture Sage EP
+- 🎵 **Now Playing:** Salt - Ava Max — Heaven & Hell
 - 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 3 minutes ago
 
-*Last updated: 11-07-2025 23:02:05*
+*Last updated: 11-07-2025 23:02:12*
 <!-- END_NOW_PLAYING -->

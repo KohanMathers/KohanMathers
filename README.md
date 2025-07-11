@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Just Friends (feat. Elijah & Melody Snowflake) - Meelz — Just Friends (feat. Elijah & Melody Snowflake) - Single
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 18 minutes ago
+- 🎵 **Now Playing:** Seasons (feat. Harley Bird) - Rival & CADMIUM — Seasons (feat. Harley Bird) - Single
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 20 minutes ago
 
-*Last updated: 11-07-2025 23:17:12*
+*Last updated: 11-07-2025 23:19:06*
 <!-- END_NOW_PLAYING -->

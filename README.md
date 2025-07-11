@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** MY NAME - Sinder, Trickywi & Vienna — MY NAME - Single
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 58 minutes ago
+- 🎵 **Now Playing:** Here's a Story - Seb Lowe — Here's a Story - Single
+- 💻 **Coding Status:** Not coding
 
-*Last updated: 11-07-2025 23:57:33*
+*Last updated: 12-07-2025 00:00:22*
 <!-- END_NOW_PLAYING -->

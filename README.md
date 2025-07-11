@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Strawberries & Cigarettes - Troye Sivan — It's a Music Match
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 24 minutes ago
+- 🎵 **Now Playing:** The Next Storm (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 27 minutes ago
 
-*Last updated: 11-07-2025 23:23:16*
+*Last updated: 11-07-2025 23:26:36*
 <!-- END_NOW_PLAYING -->

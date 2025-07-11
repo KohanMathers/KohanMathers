@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Would You Fall in Love with Me Again - Jorge Rivera-Herrans & Anna Lea — EPIC: The Ithaca Saga (Off...
+- 🎵 **Now Playing:** I Want It That Way - Backstreet Boys — Millennium
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 12-07-2025 00:11:45*
+*Last updated: 12-07-2025 00:17:37*
 <!-- END_NOW_PLAYING -->

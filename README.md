@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Where We Sat (Skit) - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** Tommy & Loretta (feat. OdjBox) - Dutty Moonshine Big Band — City of Sin
 - 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 47 minutes ago
 
-*Last updated: 11-07-2025 23:46:26*
+*Last updated: 11-07-2025 23:46:36*
 <!-- END_NOW_PLAYING -->

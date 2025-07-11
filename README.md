@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Just Friends - JORDY — Just Friends - Single
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 2 minutes ago
+- 🎵 **Now Playing:** Anime Makes Me Cum - Lucy Pyre — Anime Makes Me Cum - Single
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 4 minutes ago
 
-*Last updated: 12-07-2025 00:37:43*
+*Last updated: 12-07-2025 00:38:46*
 <!-- END_NOW_PLAYING -->

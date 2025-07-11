@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Hell Is Forever - Andrew Underberg, Sam Haft, Alex Brightman & Erika Henningse...
+- 🎵 **Now Playing:** Favorite Liar - The Wrecks — We Are the Wrecks - Single
 - 💻 **Last seen coding** in *Java*, editing `NametagManager.java` (Project: PlaceholderNametags) - 2h 6m ago
 
-*Last updated: 11-07-2025 17:09:38*
+*Last updated: 11-07-2025 17:09:41*
 <!-- END_NOW_PLAYING -->

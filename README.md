@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Reasons Not to Be an Idiot - Frank Turner — Love Ire & Song
+- 🎵 **Now Playing:** Favorite Liar - The Wrecks — We Are the Wrecks - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 12-07-2025 00:03:57*
+*Last updated: 12-07-2025 00:07:46*
 <!-- END_NOW_PLAYING -->

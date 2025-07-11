@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Java*, editing `NametagManager.java` (Project: PlaceholderNametags) - 2h 5m ago
+- 🎵 **Now Playing:** The Challenge - Jorge Rivera-Herrans, Anna Lea & Cast of EPIC: The Musical —...
+- 💻 **Last seen coding** in *Java*, editing `NametagManager.java` (Project: PlaceholderNametags) - 2h 6m ago
 
-*Last updated: 11-07-2025 17:09:13*
+*Last updated: 11-07-2025 17:09:34*
 <!-- END_NOW_PLAYING -->

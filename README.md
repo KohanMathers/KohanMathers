@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: PlaceholderNametags) - 36 minutes ago
+- 💻 **Currently coding** in *Java*, editing `NametagManager.java` (Project: PlaceholderNametags) - 4 minutes ago
 
-*Last updated: 11-07-2025 15:03:07*
+*Last updated: 11-07-2025 15:08:09*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** 18 - Anarbor — Burnout (Deluxe Version)
-- 💻 **Last seen coding** in *Java*, editing `NametagManager.java` (Project: PlaceholderNametags) - 2h 20m ago
+- 🎵 **Now Playing:** Burden to Bear - MathematicPony — Burden to Bear - Single
+- 💻 **Last seen coding** in *Java*, editing `NametagManager.java` (Project: PlaceholderNametags) - 2h 22m ago
 
-*Last updated: 11-07-2025 17:24:20*
+*Last updated: 11-07-2025 17:25:37*
 <!-- END_NOW_PLAYING -->

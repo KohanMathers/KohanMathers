@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** From the Ritz to the Rubble - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 9 minutes ago
+- 🎵 **Now Playing:** Rat Shit - Seb Lowe — The Other Half - EP
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 12 minutes ago
 
-*Last updated: 11-07-2025 23:08:07*
+*Last updated: 11-07-2025 23:11:16*
 <!-- END_NOW_PLAYING -->

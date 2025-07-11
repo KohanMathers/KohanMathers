@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Favorite Liar - The Wrecks — We Are the Wrecks - Single
+- 🎵 **Now Playing:** Would You Fall in Love with Me Again - Jorge Rivera-Herrans & Anna Lea — EPIC: The Ithaca Saga (Off...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 12-07-2025 00:07:46*
+*Last updated: 12-07-2025 00:11:45*
 <!-- END_NOW_PLAYING -->

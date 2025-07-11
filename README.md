@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Tommy & Loretta (feat. OdjBox) - Dutty Moonshine Big Band — City of Sin
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 53 minutes ago
+- 🎵 **Now Playing:** Ghostin' You - Caitlin Myers — Ghostin' You - Single
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 54 minutes ago
 
-*Last updated: 11-07-2025 23:52:29*
+*Last updated: 11-07-2025 23:53:18*
 <!-- END_NOW_PLAYING -->

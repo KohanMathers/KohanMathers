@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Next Storm (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 28 minutes ago
+- 🎵 **Now Playing:** Drop Dead Gorgeous - VOILÀ — Drop Dead Gorgeous - Single
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 31 minutes ago
 
-*Last updated: 11-07-2025 23:27:17*
+*Last updated: 11-07-2025 23:30:12*
 <!-- END_NOW_PLAYING -->

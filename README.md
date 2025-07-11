@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Ghostin' You - Caitlin Myers — Ghostin' You - Single
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 54 minutes ago
+- 🎵 **Now Playing:** MY NAME - Sinder, Trickywi & Vienna — MY NAME - Single
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 58 minutes ago
 
-*Last updated: 11-07-2025 23:53:18*
+*Last updated: 11-07-2025 23:56:41*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** 1933 - Frank Turner — Be More Kind
-- 💻 **Last seen coding** in *Java*, editing `NametagManager.java` (Project: PlaceholderNametags) - 2h 16m ago
+- 🎵 **Now Playing:** 18 - Anarbor — Burnout (Deluxe Version)
+- 💻 **Last seen coding** in *Java*, editing `NametagManager.java` (Project: PlaceholderNametags) - 2h 19m ago
 
-*Last updated: 11-07-2025 17:19:52*
+*Last updated: 11-07-2025 17:23:02*
 <!-- END_NOW_PLAYING -->

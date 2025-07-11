@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fictional - Khloe Rose — Fictional - Single
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 43 minutes ago
+- 🎵 **Now Playing:** Where We Sat (Skit) - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 47 minutes ago
 
-*Last updated: 11-07-2025 23:42:24*
+*Last updated: 11-07-2025 23:46:26*
 <!-- END_NOW_PLAYING -->

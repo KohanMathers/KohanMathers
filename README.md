@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Madness - Subculture Sage — Subculture Sage EP
-- 💻 **Last seen coding** in *Java*, editing `NametagManager.java` (Project: PlaceholderNametags) - 7h 54m ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - Just now
 
-*Last updated: 11-07-2025 22:58:11*
+*Last updated: 11-07-2025 22:59:15*
 <!-- END_NOW_PLAYING -->

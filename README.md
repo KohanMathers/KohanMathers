@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Big Smoke Autumn Blues - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** Slipping Through My Fingers - Meryl Streep & Amanda Seyfried — Mamma Mia! (The Movie Sound...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 12-07-2025 00:27:06*
+*Last updated: 12-07-2025 00:31:43*
 <!-- END_NOW_PLAYING -->

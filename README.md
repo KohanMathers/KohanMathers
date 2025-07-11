@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Here's a Story - Seb Lowe — Here's a Story - Single
+- 🎵 **Now Playing:** Reasons Not to Be an Idiot - Frank Turner — Love Ire & Song
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 12-07-2025 00:02:35*
+*Last updated: 12-07-2025 00:03:57*
 <!-- END_NOW_PLAYING -->

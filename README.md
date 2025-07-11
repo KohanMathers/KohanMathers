@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Burn (feat. Casey Lee Williams & Lamar Hall) - Jeff Williams — Songs Part One (feat. Casey Lee Williams)
-- 💻 **Last seen coding** in *Java*, editing `NametagManager.java` (Project: PlaceholderNametags) - 2h 15m ago
+- 🎵 **Now Playing:** 1933 - Frank Turner — Be More Kind
+- 💻 **Last seen coding** in *Java*, editing `NametagManager.java` (Project: PlaceholderNametags) - 2h 16m ago
 
-*Last updated: 11-07-2025 17:19:18*
+*Last updated: 11-07-2025 17:19:52*
 <!-- END_NOW_PLAYING -->

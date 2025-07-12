@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** HEAR ME OUT - AmaLee — HEAR ME OUT - Single
+- 🎵 **Now Playing:** Out of Breath - Frank Turner — Positive Songs for Negative People (Deluxe)
 - 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 16h 25m ago
 
-*Last updated: 12-07-2025 16:59:50*
+*Last updated: 12-07-2025 17:00:10*
 <!-- END_NOW_PLAYING -->

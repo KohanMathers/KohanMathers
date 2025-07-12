@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** One Heart One Life - The Undercover Hippy — Truth & Fiction
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 17h 41m ago
+- 🎵 **Now Playing:** Brain Rot - nihmune — Hard to Think
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 17h 42m ago
 
-*Last updated: 12-07-2025 18:16:04*
+*Last updated: 12-07-2025 18:17:20*
 <!-- END_NOW_PLAYING -->

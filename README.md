@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Little Talks - Of Monsters and Men — My Head Is an Animal
+- 🎵 **Now Playing:** Crush Culture - Conan Gray — Sunset Season - EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 13-07-2025 00:43:19*
+*Last updated: 13-07-2025 00:47:45*
 <!-- END_NOW_PLAYING -->

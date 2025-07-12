@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Rollercoasters (feat. Cropper) [Bonus Track] - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 15h 35m ago
+- 🎵 **Now Playing:** Lose My Head - Freya Skye — Lose My Head - Single
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 15h 37m ago
 
-*Last updated: 12-07-2025 16:10:45*
+*Last updated: 12-07-2025 16:11:55*
 <!-- END_NOW_PLAYING -->

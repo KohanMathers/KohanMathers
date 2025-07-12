@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Crush Culture - Conan Gray — Sunset Season - EP
+- 🎵 **Now Playing:** Alyssa Greene - Isabelle McCalla — The Prom: A New Musical (Original Broadwa...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 13-07-2025 00:47:45*
+*Last updated: 13-07-2025 00:51:09*
 <!-- END_NOW_PLAYING -->

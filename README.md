@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Silent Key - Frank Turner — Positive Songs for Negative People
+- 🎵 **Now Playing:** Give Me Your Attention - The Waiting — Pretty Little Liar - EP
 - 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 14h 48m ago
 
-*Last updated: 12-07-2025 15:22:52*
+*Last updated: 12-07-2025 15:22:56*
 <!-- END_NOW_PLAYING -->

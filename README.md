@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Lose My Head - Freya Skye — Lose My Head - Single
+- 🎵 **Now Playing:** To You, From Me - Naethan Apollo — Hello World
 - 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 15h 37m ago
 
-*Last updated: 12-07-2025 16:11:55*
+*Last updated: 12-07-2025 16:11:59*
 <!-- END_NOW_PLAYING -->

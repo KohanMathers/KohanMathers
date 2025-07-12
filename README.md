@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Little Changes - Frank Turner — Be More Kind
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 17 hours ago
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 17h 6m ago
 
-*Last updated: 12-07-2025 17:35:45*
+*Last updated: 12-07-2025 17:40:47*
 <!-- END_NOW_PLAYING -->

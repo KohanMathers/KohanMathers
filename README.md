@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Puppeteer - Jorge Rivera-Herrans, Armando Julián, Talya Sindel & Cast of...
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 15h 15m ago
+- 🎵 **Now Playing:** You Happened - Jo Ellen Pellman, Ariana DeBose, Nathaniel J. Potvin, Nico G...
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 15h 18m ago
 
-*Last updated: 12-07-2025 15:49:52*
+*Last updated: 12-07-2025 15:52:50*
 <!-- END_NOW_PLAYING -->

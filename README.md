@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Lay All Your Love On Me - Dominic Cooper & Amanda Seyfried — Mamma Mia! The Movie Soun...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 13-07-2025 00:03:48*
+*Last updated: 13-07-2025 00:23:57*
 <!-- END_NOW_PLAYING -->

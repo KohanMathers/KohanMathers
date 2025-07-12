@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** As We Do Our Thing - The Allergies — As We Do Our Thing
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 16h 45m ago
+- 🎵 **Now Playing:** Sour Worms - nihmune — Run from the Sun
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 16h 49m ago
 
-*Last updated: 12-07-2025 17:20:37*
+*Last updated: 12-07-2025 17:24:40*
 <!-- END_NOW_PLAYING -->

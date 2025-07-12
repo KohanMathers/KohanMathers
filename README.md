@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Love You Like the Movies - Anthem Lights — Escape
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 16h 5m ago
+- 🎵 **Now Playing:** Feel Good Inc - Gorillaz — Retro 00's
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 16h 6m ago
 
-*Last updated: 12-07-2025 16:40:17*
+*Last updated: 12-07-2025 16:41:36*
 <!-- END_NOW_PLAYING -->

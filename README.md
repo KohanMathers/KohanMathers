@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Josephine - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 🎵 **Now Playing:** Little Talks - Of Monsters and Men — My Head Is an Animal
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 13-07-2025 00:39:56*
+*Last updated: 13-07-2025 00:43:19*
 <!-- END_NOW_PLAYING -->

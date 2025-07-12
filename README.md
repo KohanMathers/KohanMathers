@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Lifeboat - Frank Turner — Be More Kind
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 20h 12m ago
+- 🎵 **Now Playing:** Burden to Bear - MathematicPony — Burden to Bear - Single
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 20h 15m ago
 
-*Last updated: 12-07-2025 20:47:16*
+*Last updated: 12-07-2025 20:49:59*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Opening Act of Spring (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 15h 10m ago
+- 🎵 **Now Playing:** Puppeteer - Jorge Rivera-Herrans, Armando Julián, Talya Sindel & Cast of...
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 15h 11m ago
 
-*Last updated: 12-07-2025 15:44:50*
+*Last updated: 12-07-2025 15:46:21*
 <!-- END_NOW_PLAYING -->

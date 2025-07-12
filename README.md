@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Go Yet Baby - nihmune — Hard to Think
+- 🎵 **Now Playing:** 18 - Anarbor — Burnout (Deluxe Version)
 - 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 15h 30m ago
 
-*Last updated: 12-07-2025 16:04:59*
+*Last updated: 12-07-2025 16:05:05*
 <!-- END_NOW_PLAYING -->

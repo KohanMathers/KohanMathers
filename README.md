@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Running from the Thoughts - Dub Pistols featuring Terry Hall — Speakers and Tweeters
+- 🎵 **Now Playing:** Intro - Gorillaz — Demon Days
 - 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 16h 15m ago
 
-*Last updated: 12-07-2025 16:50:22*
+*Last updated: 12-07-2025 16:50:40*
 <!-- END_NOW_PLAYING -->

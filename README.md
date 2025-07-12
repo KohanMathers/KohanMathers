@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Brain Rot - nihmune — Hard to Think
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 17h 42m ago
+- 🎵 **Now Playing:** Pancakes for Dinner - Lizzy McAlpine — Give Me A Minute
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 17h 45m ago
 
-*Last updated: 12-07-2025 18:17:20*
+*Last updated: 12-07-2025 18:20:10*
 <!-- END_NOW_PLAYING -->

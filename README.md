@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alyssa Greene - Isabelle McCalla — The Prom: A New Musical (Original Broadwa...
+- 🎵 **Now Playing:** Fiança - Dutty Moonshine Big Band — City of Sin
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 13-07-2025 00:51:09*
+*Last updated: 13-07-2025 00:53:41*
 <!-- END_NOW_PLAYING -->

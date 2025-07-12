@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Josephine (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 🎵 **Now Playing:** Natural Disaster (feat. Trickywi, Vienna & Yuzu) - Bao The Whale — Natural Disaster - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 13-07-2025 00:28:25*
+*Last updated: 13-07-2025 00:31:55*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Intro - Gorillaz — Demon Days
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 16h 15m ago
+- 🎵 **Now Playing:** Why We Fight (1) - The Undercover Hippy — Why We Fight E.P. - EP
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 16h 16m ago
 
-*Last updated: 12-07-2025 16:50:40*
+*Last updated: 12-07-2025 16:51:44*
 <!-- END_NOW_PLAYING -->

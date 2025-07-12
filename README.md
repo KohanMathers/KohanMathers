@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Happened - Jo Ellen Pellman, Ariana DeBose, Nathaniel J. Potvin, Nico G...
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 15h 20m ago
+- 🎵 **Now Playing:** Hypnotic - nihmune — Run from the Sun
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 15h 21m ago
 
-*Last updated: 12-07-2025 15:54:54*
+*Last updated: 12-07-2025 15:55:55*
 <!-- END_NOW_PLAYING -->

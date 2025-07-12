@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Rebellion - hololive English -Advent- — Rebellion - Single
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 17h 36m ago
+- 🎵 **Now Playing:** One Heart One Life - The Undercover Hippy — Truth & Fiction
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 17h 38m ago
 
-*Last updated: 12-07-2025 18:11:02*
+*Last updated: 12-07-2025 18:13:25*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Forever Friends (feat. Elijah & Melody Snowflake) - Meelz — Star-Crossed Trilogy - EP
+- 🎵 **Now Playing:** Struttin' - Thumpasaurus — Thumpaverse
 - 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 20h 7m ago
 
-*Last updated: 12-07-2025 20:42:13*
+*Last updated: 12-07-2025 20:42:28*
 <!-- END_NOW_PLAYING -->

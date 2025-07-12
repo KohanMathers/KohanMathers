@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Clint Eastwood - Gorillaz — Clint Eastwood - Single
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 20h 27m ago
+- 🎵 **Now Playing:** Must Have Been the Wind - Alec Benjamin — These Two Windows
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 20h 29m ago
 
-*Last updated: 12-07-2025 21:02:23*
+*Last updated: 12-07-2025 21:03:55*
 <!-- END_NOW_PLAYING -->

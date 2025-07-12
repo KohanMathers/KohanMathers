@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Starving (feat. Zedd) - Hailee Steinfeld & Grey — Starving (feat. Zedd) - Single
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 20h 32m ago
+- 🎵 **Now Playing:** Devil Doesn’t Bargain - Alec Benjamin — (Un)Commentary
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 20h 35m ago
 
-*Last updated: 12-07-2025 21:07:25*
+*Last updated: 12-07-2025 21:09:55*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Burden to Bear - MathematicPony — Burden to Bear - Single
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 20h 17m ago
+- 🎵 **Now Playing:** Crush Culture - Conan Gray — Sunset Season - EP
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 20h 19m ago
 
-*Last updated: 12-07-2025 20:52:18*
+*Last updated: 12-07-2025 20:54:31*
 <!-- END_NOW_PLAYING -->

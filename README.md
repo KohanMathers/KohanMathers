@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Big Smoke Autumn Blues - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 17h 31m ago
+- 🎵 **Now Playing:** Rebellion - hololive English -Advent- — Rebellion - Single
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 17h 34m ago
 
-*Last updated: 12-07-2025 18:05:59*
+*Last updated: 12-07-2025 18:09:40*
 <!-- END_NOW_PLAYING -->

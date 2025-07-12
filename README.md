@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Out For Love - Andrew Underberg, Sam Haft & Daphne Rubin-Vega — Hazbin Hote...
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 20h 37m ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 20h 39m ago
 
-*Last updated: 12-07-2025 21:12:40*
+*Last updated: 12-07-2025 21:13:48*
 <!-- END_NOW_PLAYING -->

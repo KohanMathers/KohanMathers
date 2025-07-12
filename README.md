@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Superhero (Junior Eurovision 2019 / Poland) - Viki Gabor — Superhero (Junior Eurovision 2019 / Poland) - S...
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 14h 55m ago
+- 🎵 **Now Playing:** Ghost - Reinaeiry — Ghost - Single
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 14h 58m ago
 
-*Last updated: 12-07-2025 15:30:36*
+*Last updated: 12-07-2025 15:33:31*
 <!-- END_NOW_PLAYING -->

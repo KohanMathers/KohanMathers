@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** West End Story (feat. Akala & Dan Bowskill) - Dub Pistols — Worshipping the Dollar
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 15h 46m ago
+- 🎵 **Now Playing:** Poetry of the Deed - Frank Turner — Poetry of the Deed
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 15h 50m ago
 
-*Last updated: 12-07-2025 16:21:15*
+*Last updated: 12-07-2025 16:24:55*
 <!-- END_NOW_PLAYING -->

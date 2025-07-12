@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Ghost - Reinaeiry — Ghost - Single
+- 🎵 **Now Playing:** Josephine - Frank Turner — Positive Songs for Negative People (Deluxe)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 13-07-2025 00:36:24*
+*Last updated: 13-07-2025 00:39:56*
 <!-- END_NOW_PLAYING -->

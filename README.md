@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Why We Fight (1) - The Undercover Hippy — Why We Fight E.P. - EP
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 16h 20m ago
+- 🎵 **Now Playing:** Kings & Queens - Ava Max — Heaven & Hell
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 16h 22m ago
 
-*Last updated: 12-07-2025 16:55:24*
+*Last updated: 12-07-2025 16:57:06*
 <!-- END_NOW_PLAYING -->

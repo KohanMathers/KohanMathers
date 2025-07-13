@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Angel Eyes - Christine Baranski, Julie Walters & Amanda Seyfried — Mamma ...
+- 🎵 **Now Playing:** Keep Your Friends Close - Jorge Rivera-Herrans, Various Artists — EPIC: The Ocean Saga...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 13-07-2025 01:21:26*
+*Last updated: 13-07-2025 01:25:34*
 <!-- END_NOW_PLAYING -->

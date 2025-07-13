@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Whatever It Takes - Andrew Underberg, Sam Haft, Daphne Rubin-Vega, Stephanie Bea...
+- 🎵 **Now Playing:** There She Is - Frank Turner — Songbook
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 13-07-2025 01:29:45*
+*Last updated: 13-07-2025 01:32:39*
 <!-- END_NOW_PLAYING -->

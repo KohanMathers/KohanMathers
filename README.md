@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fiança - Dutty Moonshine Big Band — City of Sin
+- 🎵 **Now Playing:** Angel Eyes - Christine Baranski, Julie Walters & Amanda Seyfried — Mamma ...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 13-07-2025 00:53:41*
+*Last updated: 13-07-2025 01:21:26*
 <!-- END_NOW_PLAYING -->

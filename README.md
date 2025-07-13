@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Superhero (Junior Eurovision 2019 / Poland) - Viki Gabor — Superhero (Junior Eurovision 2019 / Poland) - S...
+- 🎵 **Now Playing:** All You Wanna Do (feat. Aimie Atkinson) - SIX — Six: The Musical (Studio Cast Recording)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 13-07-2025 01:36:29*
+*Last updated: 13-07-2025 01:39:25*
 <!-- END_NOW_PLAYING -->

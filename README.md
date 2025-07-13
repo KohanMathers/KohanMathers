@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** There She Is - Frank Turner — Songbook
+- 🎵 **Now Playing:** Superhero (Junior Eurovision 2019 / Poland) - Viki Gabor — Superhero (Junior Eurovision 2019 / Poland) - S...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 13-07-2025 01:32:39*
+*Last updated: 13-07-2025 01:36:29*
 <!-- END_NOW_PLAYING -->

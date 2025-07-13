@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Keep Your Friends Close - Jorge Rivera-Herrans, Various Artists — EPIC: The Ocean Saga...
+- 🎵 **Now Playing:** Whatever It Takes - Andrew Underberg, Sam Haft, Daphne Rubin-Vega, Stephanie Bea...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 13-07-2025 01:25:34*
+*Last updated: 13-07-2025 01:29:45*
 <!-- END_NOW_PLAYING -->

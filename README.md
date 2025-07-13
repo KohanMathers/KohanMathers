@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** All You Wanna Do (feat. Aimie Atkinson) - SIX — Six: The Musical (Studio Cast Recording)
+- 🎵 **Now Playing:** Glorious You (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 13-07-2025 01:39:25*
+*Last updated: 13-07-2025 01:46:15*
 <!-- END_NOW_PLAYING -->

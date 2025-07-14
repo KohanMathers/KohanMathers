@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Eye of the Day - Frank Turner — No Man's Land
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 2 minutes ago
+- 🎵 **Now Playing:** Why's this dealer? - Niko B — Why's this dealer? - Single
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 5 minutes ago
 
-*Last updated: 14-07-2025 23:53:03*
+*Last updated: 14-07-2025 23:56:03*
 <!-- END_NOW_PLAYING -->

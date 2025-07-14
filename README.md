@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Puppeteer - Jorge Rivera-Herrans, Armando Julián, Talya Sindel & Cast of...
-- 💻 **Last seen coding** in *None*, editing `rules` (Project: WhatCanIDo) - 2h 20m ago
+- 🎵 **Now Playing:** Chelsea Dagger - The Fratellis — Costello Music
+- 💻 **Last seen coding** in *None*, editing `rules` (Project: WhatCanIDo) - 2h 25m ago
 
-*Last updated: 14-07-2025 23:33:38*
+*Last updated: 14-07-2025 23:37:44*
 <!-- END_NOW_PLAYING -->

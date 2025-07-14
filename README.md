@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Out of Breath - Frank Turner — Positive Songs for Negative People (Deluxe)
 - 💻 **Last seen coding** in *None*, editing `rules` (Project: WhatCanIDo) - 2 hours ago
 
-*Last updated: 14-07-2025 23:12:43*
+*Last updated: 14-07-2025 23:12:49*
 <!-- END_NOW_PLAYING -->

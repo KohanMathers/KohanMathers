@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Why's this dealer? - Niko B — Why's this dealer? - Single
+- 🎵 **Now Playing:** The Way I Tend To Be - Frank Turner — Tape Deck Heart (Deluxe Edition)
 - 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 7 minutes ago
 
-*Last updated: 14-07-2025 23:58:05*
+*Last updated: 14-07-2025 23:58:13*
 <!-- END_NOW_PLAYING -->

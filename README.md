@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Seasons (feat. Harley Bird) - Rival & CADMIUM — Seasons (feat. Harley Bird) - Single
-- 💻 **Coding Status:** Not coding
+- 🎵 **Now Playing:** Peggy Sang the Blues - Frank Turner — England Keep My Bones
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 1 minutes ago
 
-*Last updated: 15-07-2025 00:05:58*
+*Last updated: 15-07-2025 00:10:07*
 <!-- END_NOW_PLAYING -->

@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Coding Status:** Not coding
+- 💻 **Currently coding** in *Python*, editing `sensorData.py` (Project: MarioHack) - 1 minutes ago
 
-*Last updated: 13-07-2025 02:00:51*
+*Last updated: 14-07-2025 02:57:52*
 <!-- END_NOW_PLAYING -->

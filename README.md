@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *None*, editing `MANIFEST.in` (Project: WhatCanIDo) - 1 minutes ago
+- 💻 **Currently coding** in *Debian Control file*, editing `control` (Project: WhatCanIDo) - 1 minutes ago
 
-*Last updated: 14-07-2025 21:06:42*
+*Last updated: 14-07-2025 21:11:45*
 <!-- END_NOW_PLAYING -->

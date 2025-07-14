@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Only Exception - Paramore — Sounds of the 00s
-- 💻 **Last seen coding** in *None*, editing `rules` (Project: WhatCanIDo) - 2h 5m ago
+- 🎵 **Now Playing:** Would You Fall in Love with Me Again - Jorge Rivera-Herrans & Anna Lea — EPIC: The Ithaca Saga (Off...
+- 💻 **Last seen coding** in *None*, editing `rules` (Project: WhatCanIDo) - 2h 6m ago
 
-*Last updated: 14-07-2025 23:17:45*
+*Last updated: 14-07-2025 23:19:27*
 <!-- END_NOW_PLAYING -->

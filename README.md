@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Chelsea Dagger - The Fratellis — Costello Music
-- 💻 **Last seen coding** in *None*, editing `rules` (Project: WhatCanIDo) - 2h 25m ago
+- 🎵 **Now Playing:** Clint Eastwood - Gorillaz — Clint Eastwood - Single
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - Just now
 
-*Last updated: 14-07-2025 23:37:55*
+*Last updated: 14-07-2025 23:41:22*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** We'll Be Fine - Jorge Rivera-Herrans, Teagan Earley & Miguel Veloso — EPIC: ...
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 5 minutes ago
+- 🎵 **Now Playing:** Eye of the Day - Frank Turner — No Man's Land
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - Just now
 
-*Last updated: 14-07-2025 23:48:44*
+*Last updated: 14-07-2025 23:50:48*
 <!-- END_NOW_PLAYING -->

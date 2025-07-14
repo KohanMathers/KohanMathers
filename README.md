@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *None*, editing `rules` (Project: WhatCanIDo) - 14 minutes ago
+- 💻 **Last seen coding** in *None*, editing `rules` (Project: WhatCanIDo) - 19 minutes ago
 
-*Last updated: 14-07-2025 21:26:52*
+*Last updated: 14-07-2025 21:31:54*
 <!-- END_NOW_PLAYING -->

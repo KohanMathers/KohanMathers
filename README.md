@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Don't Lose Ur Head (feat. Christina Modestou) - SIX — Six: The Musical (Studio Cast Recording)
+- 🎵 **Now Playing:** Seasons (feat. Harley Bird) - Rival & CADMIUM — Seasons (feat. Harley Bird) - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 15-07-2025 00:03:08*
+*Last updated: 15-07-2025 00:05:58*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Buddies - Frank Turner & Jon Snodgrass — Buddies
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 5 minutes ago
+- 🎵 **Now Playing:** This December - Ricky Montgomery — Montgomery Ricky
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 8 minutes ago
 
-*Last updated: 15-07-2025 00:13:44*
+*Last updated: 15-07-2025 00:17:07*
 <!-- END_NOW_PLAYING -->

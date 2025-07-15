@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Summer's Guest - nihmune — Hard to Think
+- 🎵 **Now Playing:** Kill Em Dead - Faintest Idea — The Road to Sedition
 - 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 11h 48m ago
 
-*Last updated: 15-07-2025 11:57:16*
+*Last updated: 15-07-2025 11:57:19*
 <!-- END_NOW_PLAYING -->

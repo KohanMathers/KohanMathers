@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Legendary - Jorge Rivera-Herrans, Miguel Veloso, Ayron Alexander & Cast ...
+- 🎵 **Now Playing:** Go Yet Baby - nihmune — Hard to Think
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 16-07-2025 00:39:38*
+*Last updated: 16-07-2025 00:43:21*
 <!-- END_NOW_PLAYING -->

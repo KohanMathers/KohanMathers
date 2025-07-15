@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Polaroid Picture - Frank Turner — Tape Deck Heart (Deluxe Edition)
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 12h 50m ago
+- 🎵 **Now Playing:** 21st Century Survival Blues - Frank Turner — Be More Kind
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 12h 53m ago
 
-*Last updated: 15-07-2025 12:59:17*
+*Last updated: 15-07-2025 13:02:27*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Teen Idle - Marina and The Diamonds — Electra Heart (Deluxe Video Version)
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 11h 55m ago
+- 🎵 **Now Playing:** When the Sun Goes Down - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 11h 56m ago
 
-*Last updated: 15-07-2025 12:03:47*
+*Last updated: 15-07-2025 12:04:44*
 <!-- END_NOW_PLAYING -->

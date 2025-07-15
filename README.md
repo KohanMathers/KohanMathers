@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Summer's Guest - nihmune — Hard to Think
+- 🎵 **Now Playing:** Whatever It Takes - Andrew Underberg, Sam Haft, Daphne Rubin-Vega, Stephanie Bea...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 16-07-2025 00:46:00*
+*Last updated: 16-07-2025 00:47:31*
 <!-- END_NOW_PLAYING -->

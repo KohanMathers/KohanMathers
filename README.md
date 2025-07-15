@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Vital Signs - Frank Turner — Sleep Is for the Week
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 18h 48m ago
+- 🎵 **Now Playing:** Mate Like That - The Undercover Hippy — Truth & Fiction
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 18h 49m ago
 
-*Last updated: 15-07-2025 18:57:20*
+*Last updated: 15-07-2025 18:58:11*
 <!-- END_NOW_PLAYING -->

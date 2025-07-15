@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Don't Know Yet - nihmune — Winter Blooms
+- 🎵 **Now Playing:** Devil Doesn’t Bargain - Alec Benjamin — (Un)Commentary
 - 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 12h 10m ago
 
-*Last updated: 15-07-2025 12:18:55*
+*Last updated: 15-07-2025 12:19:25*
 <!-- END_NOW_PLAYING -->

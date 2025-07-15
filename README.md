@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** How You Get The Girl (Taylor's Version) - Taylor Swift — 1989 (Taylor's Version)
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 18h 23m ago
+- 🎵 **Now Playing:** Fictional - Khloe Rose — Fictional - Single
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 18h 25m ago
 
-*Last updated: 15-07-2025 18:32:09*
+*Last updated: 15-07-2025 18:34:25*
 <!-- END_NOW_PLAYING -->

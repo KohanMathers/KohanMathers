@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Go Yet Baby - nihmune — Hard to Think
+- 🎵 **Now Playing:** Summer's Guest - nihmune — Hard to Think
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 16-07-2025 00:43:21*
+*Last updated: 16-07-2025 00:46:00*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Fell In Love With a Talking Head - Seb Lowe — I Fell In Love With a Talking Head - EP
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 12 hours ago
+- 🎵 **Now Playing:** Out of Breath - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 12h 2m ago
 
-*Last updated: 15-07-2025 12:08:50*
+*Last updated: 15-07-2025 12:11:05*
 <!-- END_NOW_PLAYING -->

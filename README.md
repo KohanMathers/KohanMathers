@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Haunted (Taylor's Version) - Taylor Swift — Speak Now (Taylor's Version)
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 1h 4m ago
+- 🎵 **Now Playing:** There Are Other Ways - Jorge Rivera-Herrans, Talya Sindel & Cast of EPIC: The Music...
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 1h 6m ago
 
-*Last updated: 15-07-2025 01:13:40*
+*Last updated: 15-07-2025 01:14:46*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Whatever It Takes - Andrew Underberg, Sam Haft, Daphne Rubin-Vega, Stephanie Bea...
+- 🎵 **Now Playing:** Bang Bang (feat. Kitten & The Hip) - Dub Pistols — Worshipping the Dollar
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 16-07-2025 00:47:31*
+*Last updated: 16-07-2025 00:47:36*
 <!-- END_NOW_PLAYING -->

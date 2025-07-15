@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Opening Act of Spring - Frank Turner — Positive Songs for Negative People
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 12h 55m ago
+- 🎵 **Now Playing:** Song for Josh - Frank Turner — Positive Songs for Negative People
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 12h 56m ago
 
-*Last updated: 15-07-2025 13:04:19*
+*Last updated: 15-07-2025 13:05:32*
 <!-- END_NOW_PLAYING -->

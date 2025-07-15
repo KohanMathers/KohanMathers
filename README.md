@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Six - SIX — Six: The Musical (Studio Cast Recording)
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 12h 15m ago
+- 🎵 **Now Playing:** Mittens (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 12h 20m ago
 
-*Last updated: 15-07-2025 12:23:57*
+*Last updated: 15-07-2025 12:28:58*
 <!-- END_NOW_PLAYING -->

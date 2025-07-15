@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Last Living Souls - Gorillaz — Hip Hop at Fifty: Argentina Vol.2
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 12h 25m ago
+- 🎵 **Now Playing:** The Man, The Myth - Seb Lowe — Half-decent
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 12h 27m ago
 
-*Last updated: 15-07-2025 12:34:04*
+*Last updated: 15-07-2025 12:36:32*
 <!-- END_NOW_PLAYING -->

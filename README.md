@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Devil Doesn’t Bargain - Alec Benjamin — (Un)Commentary
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 12h 10m ago
+- 🎵 **Now Playing:** Six - SIX — Six: The Musical (Studio Cast Recording)
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 12h 13m ago
 
-*Last updated: 15-07-2025 12:19:25*
+*Last updated: 15-07-2025 12:22:09*
 <!-- END_NOW_PLAYING -->

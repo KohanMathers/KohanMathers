@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Tomorrow (feat. Jason Lancaster) - Set It Off — Duality
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 2h 20m ago
+- 🎵 **Now Playing:** Madness - Subculture Sage — Subculture Sage EP
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 2h 24m ago
 
-*Last updated: 15-07-2025 02:29:22*
+*Last updated: 15-07-2025 02:33:19*
 <!-- END_NOW_PLAYING -->

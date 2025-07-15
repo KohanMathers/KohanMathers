@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Naughty - Elijah — Naughty - Single
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 54 minutes ago
+- 🎵 **Now Playing:** I Bet You Look Good on the Dancefloor - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 59 minutes ago
 
-*Last updated: 15-07-2025 01:03:36*
+*Last updated: 15-07-2025 01:07:46*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** There Are Other Ways - Jorge Rivera-Herrans, Talya Sindel & Cast of EPIC: The Music...
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 1h 6m ago
+- 🎵 **Now Playing:** Rebellion - hololive English -Advent- — Rebellion - Single
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 1h 9m ago
 
-*Last updated: 15-07-2025 01:14:46*
+*Last updated: 15-07-2025 01:18:11*
 <!-- END_NOW_PLAYING -->

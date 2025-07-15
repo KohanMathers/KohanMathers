@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** 21st Century Survival Blues - Frank Turner — Be More Kind
+- 🎵 **Now Playing:** The Opening Act of Spring - Frank Turner — Positive Songs for Negative People
 - 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 12h 53m ago
 
-*Last updated: 15-07-2025 13:02:27*
+*Last updated: 15-07-2025 13:02:32*
 <!-- END_NOW_PLAYING -->

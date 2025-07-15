@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** When the Sun Goes Down - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 11h 56m ago
+- 🎵 **Now Playing:** I Fell In Love With a Talking Head - Seb Lowe — I Fell In Love With a Talking Head - EP
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 11h 59m ago
 
-*Last updated: 15-07-2025 12:04:44*
+*Last updated: 15-07-2025 12:08:04*
 <!-- END_NOW_PLAYING -->

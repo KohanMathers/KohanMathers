@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** she's all i wanna be - Tate McRae — she's all i wanna be - Single
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 12h 5m ago
+- 🎵 **Now Playing:** Don't Know Yet - nihmune — Winter Blooms
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 12h 7m ago
 
-*Last updated: 15-07-2025 12:13:52*
+*Last updated: 15-07-2025 12:16:34*
 <!-- END_NOW_PLAYING -->

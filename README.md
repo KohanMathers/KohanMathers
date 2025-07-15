@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Business, Please - Seb Lowe — The Other Half - EP
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 18h 38m ago
+- 🎵 **Now Playing:** Convergence of Sin - Sinder & Sleeping Forest — Convergence of Sin - Single
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 18h 39m ago
 
-*Last updated: 15-07-2025 18:47:16*
+*Last updated: 15-07-2025 18:48:21*
 <!-- END_NOW_PLAYING -->

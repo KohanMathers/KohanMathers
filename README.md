@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alyssa Greene - Isabelle McCalla — The Prom: A New Musical (Original Broadwa...
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 17h 53m ago
+- 🎵 **Now Playing:** Hey Boy - The Undercover Hippy — Hey Boy - Single
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 17h 54m ago
 
-*Last updated: 15-07-2025 18:01:54*
+*Last updated: 15-07-2025 18:02:57*
 <!-- END_NOW_PLAYING -->

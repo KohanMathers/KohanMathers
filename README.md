@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Rebellion - hololive English -Advent- — Rebellion - Single
+- 🎵 **Now Playing:** Little Wolf - Jorge Rivera-Herrans, Various Artists — EPIC: The Wisdom Sag...
 - 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Wrench) - 1h 25m ago
 
-*Last updated: 15-07-2025 01:33:50*
+*Last updated: 15-07-2025 01:33:56*
 <!-- END_NOW_PLAYING -->

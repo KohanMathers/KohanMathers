@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *HTML*, editing `teatownnews.html` (Project: Wrench) - 2 minutes ago
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: Wrench) - Just now
 
-*Last updated: 16-07-2025 21:25:20*
+*Last updated: 16-07-2025 21:30:23*
 <!-- END_NOW_PLAYING -->

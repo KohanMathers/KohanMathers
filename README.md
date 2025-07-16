@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Python*, editing `import discord.py` (Project: Wrench) - 57 minutes ago
+- 💻 **Coding Status:** Not coding
 
-*Last updated: 16-07-2025 23:57:34*
+*Last updated: 17-07-2025 00:02:36*
 <!-- END_NOW_PLAYING -->

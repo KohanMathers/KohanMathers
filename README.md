@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Bang Bang (feat. Kitten & The Hip) - Dub Pistols — Worshipping the Dollar
-- 💻 **Coding Status:** Not coding
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: Wrench) - 5 minutes ago
 
-*Last updated: 16-07-2025 00:47:36*
+*Last updated: 16-07-2025 14:41:56*
 <!-- END_NOW_PLAYING -->

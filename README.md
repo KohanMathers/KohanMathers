@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Bang Bang (feat. Kitten & The Hip) - Dub Pistols — Worshipping the Dollar
-- 💻 **Currently coding** in *Python*, editing `import discord.py` (Project: Wrench) - 11 minutes ago
+- 💻 **Last seen coding** in *Python*, editing `import discord.py` (Project: Wrench) - 16 minutes ago
 
-*Last updated: 16-07-2025 15:42:26*
+*Last updated: 16-07-2025 15:47:28*
 <!-- END_NOW_PLAYING -->

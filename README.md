@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Bang Bang (feat. Kitten & The Hip) - Dub Pistols — Worshipping the Dollar
-- 💻 **Currently coding** in *HTML*, editing `teatown.html` (Project: Wrench) - 14 minutes ago
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: Wrench) - 1 minutes ago
 
-*Last updated: 16-07-2025 15:02:08*
+*Last updated: 16-07-2025 15:07:11*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** GOSSIP (feat. Tom Morello) - Måneskin — RUSH!
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 2h 11m ago
+- 🎵 **Now Playing:** Sexy Drug (feat. Sinder) - nihmune — Spill the Beans
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 2h 13m ago
 
-*Last updated: 17-07-2025 18:46:31*
+*Last updated: 17-07-2025 18:48:20*
 <!-- END_NOW_PLAYING -->

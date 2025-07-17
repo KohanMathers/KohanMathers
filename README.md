@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Ghostin' You - Caitlin Myers — Ghostin' You - Single
-- 💻 **Currently coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 15 minutes ago
+- 🎵 **Now Playing:** Rebellion - hololive English -Advent- — Rebellion - Single
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 16 minutes ago
 
-*Last updated: 17-07-2025 16:50:32*
+*Last updated: 17-07-2025 16:51:12*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** There Are Other Ways - Jorge Rivera-Herrans, Talya Sindel & Cast of EPIC: The Music...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-07-2025 00:02:36*
+*Last updated: 17-07-2025 03:31:08*
 <!-- END_NOW_PLAYING -->

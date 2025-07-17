@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Worthy (Bmblb - Pt. II) [feat. Ariyel] - Casey Lee Williams — Rwby, Vol. 9 (Original Soundtrack from ...
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 6h 53m ago
+- 🎵 **Now Playing:** Moonshine Hype (feat. HypeMan Sage) - Dutty Moonshine — Rum Runners
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 6h 57m ago
 
-*Last updated: 17-07-2025 23:28:43*
+*Last updated: 17-07-2025 23:32:17*
 <!-- END_NOW_PLAYING -->

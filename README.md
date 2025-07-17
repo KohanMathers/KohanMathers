@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Favorite Liar - The Wrecks — We Are the Wrecks - Single
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 16m ago
+- 🎵 **Now Playing:** Lost in a Glaze - Hype Man Sage & Mista Trick — You
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 20m ago
 
-*Last updated: 17-07-2025 17:51:37*
+*Last updated: 17-07-2025 17:55:43*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Rebellion - hololive English -Advent- — Rebellion - Single
+- 🎵 **Now Playing:** Anime Makes Me Cum - Lucy Pyre — Anime Makes Me Cum - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-07-2025 03:47:17*
+*Last updated: 17-07-2025 03:51:02*
 <!-- END_NOW_PLAYING -->

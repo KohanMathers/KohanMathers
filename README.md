@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Respectless - Andrew Underberg, Sam Haft, Daphne Rubin-Vega, Lilli Cooper ...
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 5h 48m ago
+- 🎵 **Now Playing:** MY NAME - Sinder, Trickywi & Vienna — MY NAME - Single
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 5h 49m ago
 
-*Last updated: 17-07-2025 22:23:16*
+*Last updated: 17-07-2025 22:24:50*
 <!-- END_NOW_PLAYING -->

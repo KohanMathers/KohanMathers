@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Don't Know Yet - nihmune — Winter Blooms
+- 🎵 **Now Playing:** How You Get The Girl (Taylor's Version) - Taylor Swift — 1989 (Taylor's Version)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 00:29:31*
+*Last updated: 18-07-2025 00:32:13*
 <!-- END_NOW_PLAYING -->

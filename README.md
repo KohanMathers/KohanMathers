@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** She Wolf - Shakira — She Wolf (Expanded Edition)
-- 💻 **Currently coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - Just now
+- 🎵 **Now Playing:** Dangerous - Jorge Rivera-Herrans, TROY & Diana Rivera-Herrans — EPIC: Th...
+- 💻 **Currently coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 3 minutes ago
 
-*Last updated: 17-07-2025 16:30:24*
+*Last updated: 17-07-2025 16:38:18*
 <!-- END_NOW_PLAYING -->

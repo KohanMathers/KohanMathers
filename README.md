@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Anime Makes Me Cum - Lucy Pyre — Anime Makes Me Cum - Single
+- 🎵 **Now Playing:** She Wolf - Shakira — She Wolf (Expanded Edition)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-07-2025 03:51:02*
+*Last updated: 17-07-2025 03:54:47*
 <!-- END_NOW_PLAYING -->

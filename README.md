@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Breaking Dimensions - hololive English — Breaking Dimensions - Single
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 27m ago
+- 🎵 **Now Playing:** I Bet You Look Good on the Dancefloor - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 30m ago
 
-*Last updated: 17-07-2025 18:02:06*
+*Last updated: 17-07-2025 18:05:31*
 <!-- END_NOW_PLAYING -->

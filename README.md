@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Didn’t Know - Andrew Underberg, Various Artists — Hazbin Hotel (Original S...
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 2h 16m ago
+- 🎵 **Now Playing:** Business, Please - Seb Lowe — The Other Half - EP
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 2h 17m ago
 
-*Last updated: 17-07-2025 18:51:36*
+*Last updated: 17-07-2025 18:52:10*
 <!-- END_NOW_PLAYING -->

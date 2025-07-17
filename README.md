@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Keep Your Friends Close - Jorge Rivera-Herrans, Various Artists — EPIC: The Ocean Saga...
+- 🎵 **Now Playing:** Puppeteer - Jorge Rivera-Herrans, Armando Julián, Talya Sindel & Cast of...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-07-2025 03:31:42*
+*Last updated: 17-07-2025 03:32:26*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Dangerous - Jorge Rivera-Herrans, TROY & Diana Rivera-Herrans — EPIC: Th...
+- 🎵 **Now Playing:** Breaking Dimensions - hololive English — Breaking Dimensions - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-07-2025 03:36:57*
+*Last updated: 17-07-2025 03:40:26*
 <!-- END_NOW_PLAYING -->

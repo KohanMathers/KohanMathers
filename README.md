@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** One Heart One Life - The Undercover Hippy — Truth & Fiction
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 2h 46m ago
+- 🎵 **Now Playing:** Last Living Souls - Gorillaz — Hip Hop at Fifty: Argentina Vol.2
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 2h 49m ago
 
-*Last updated: 17-07-2025 19:21:48*
+*Last updated: 17-07-2025 19:24:25*
 <!-- END_NOW_PLAYING -->

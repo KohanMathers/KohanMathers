@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** When the Blossom Falls (feat. Gus Harvey) - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 26m ago
+- 🎵 **Now Playing:** Breaking Dimensions - hololive English — Breaking Dimensions - Single
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 27m ago
 
-*Last updated: 17-07-2025 18:01:07*
+*Last updated: 17-07-2025 18:02:06*
 <!-- END_NOW_PLAYING -->

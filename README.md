@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Last Chance To Dance - The Undercover Hippy — Monkey Suit
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 37m ago
+- 🎵 **Now Playing:** Kids - MGMT — Oracular Spectacular
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 41m ago
 
-*Last updated: 17-07-2025 18:12:12*
+*Last updated: 17-07-2025 18:16:12*
 <!-- END_NOW_PLAYING -->

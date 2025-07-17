@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Way I Tend To Be - Frank Turner — Tape Deck Heart (Deluxe Edition)
+- 🎵 **Now Playing:** Spaced Out - nihmune — We're Alright
 - 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 6h 43m ago
 
-*Last updated: 17-07-2025 23:18:38*
+*Last updated: 17-07-2025 23:18:48*
 <!-- END_NOW_PLAYING -->

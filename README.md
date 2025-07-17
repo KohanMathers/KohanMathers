@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Song for Josh - Frank Turner — Positive Songs for Negative People
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 2h 56m ago
+- 🎵 **Now Playing:** You Are Ladybug (From "Ladybug and Cat Noir: The Movie") (feat. Mela Lee) [Rock Version] - Cristina Vee — Obnoxious Theater Kid
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 3 hours ago
 
-*Last updated: 17-07-2025 19:31:52*
+*Last updated: 17-07-2025 19:35:05*
 <!-- END_NOW_PLAYING -->

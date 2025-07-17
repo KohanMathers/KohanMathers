@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Heartbreak Hotel - nihmune — Hard to Think
+- 🎵 **Now Playing:** Long Live the Queen - Frank Turner — Love Ire & Song
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 00:36:23*
+*Last updated: 18-07-2025 00:39:07*
 <!-- END_NOW_PLAYING -->

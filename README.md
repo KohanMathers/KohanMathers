@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Full Disclosure (feat. Zach Callison) - Steven Universe — Steven Universe, Vol. 1 (Original Soundtrack)
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 2h 41m ago
+- 🎵 **Now Playing:** Demons (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 2h 45m ago
 
-*Last updated: 17-07-2025 19:16:45*
+*Last updated: 17-07-2025 19:20:31*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Puppeteer - Jorge Rivera-Herrans, Armando Julián, Talya Sindel & Cast of...
+- 🎵 **Now Playing:** Puppeteer - Jorge Rivera-Herrans, Various Artists — EPIC: The Circe Saga...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-07-2025 03:32:26*
+*Last updated: 17-07-2025 03:35:16*
 <!-- END_NOW_PLAYING -->

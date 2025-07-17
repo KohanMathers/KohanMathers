@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alone - Nico Collins — Alone - Single
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 2h 52m ago
+- 🎵 **Now Playing:** Song for Josh - Frank Turner — Positive Songs for Negative People
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 2h 56m ago
 
-*Last updated: 17-07-2025 19:27:41*
+*Last updated: 17-07-2025 19:31:35*
 <!-- END_NOW_PLAYING -->

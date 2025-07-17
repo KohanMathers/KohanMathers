@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alone, Pt. II - Alan Walker & Ava Max — Alone, Pt. II - Single
+- 🎵 **Now Playing:** Buddies - Frank Turner & Jon Snodgrass — Buddies
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 00:48:58*
+*Last updated: 18-07-2025 00:51:58*
 <!-- END_NOW_PLAYING -->

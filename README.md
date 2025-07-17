@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Are Ladybug (From "Ladybug and Cat Noir: The Movie") (feat. Mela Lee) [Rock Version] - Cristina Vee — Obnoxious Theater Kid
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 3h 1m ago
+- 🎵 **Now Playing:** Gold - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 3h 2m ago
 
-*Last updated: 17-07-2025 19:36:55*
+*Last updated: 17-07-2025 19:37:50*
 <!-- END_NOW_PLAYING -->

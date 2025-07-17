@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Moonshine Hype (feat. HypeMan Sage) - Dutty Moonshine — Rum Runners
+- 🎵 **Now Playing:** I Still Believe - Frank Turner — England Keep My Bones
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 00:03:59*
+*Last updated: 18-07-2025 00:25:40*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Vacation Bible School - Ayesha Erotica — Horny.4U
+- 🎵 **Now Playing:** Rebellion - hololive English -Advent- — Rebellion - Single
 - 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 3h 22m ago
 
-*Last updated: 17-07-2025 19:57:05*
+*Last updated: 17-07-2025 19:57:10*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Money Game, Pt. 2 - Ren — Demos (Do Not Share), Vol. 1
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 10m ago
+- 🎵 **Now Playing:** From the Ritz to the Rubble - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 13m ago
 
-*Last updated: 17-07-2025 17:45:59*
+*Last updated: 17-07-2025 17:48:27*
 <!-- END_NOW_PLAYING -->

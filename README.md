@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Spaced Out - nihmune — We're Alright
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 6h 43m ago
+- 🎵 **Now Playing:** Smoke and Mirrors - Sinder — Smoke and Mirrors - Single
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 6h 47m ago
 
-*Last updated: 17-07-2025 23:18:48*
+*Last updated: 17-07-2025 23:22:08*
 <!-- END_NOW_PLAYING -->

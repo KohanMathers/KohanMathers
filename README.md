@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** We'll Be Fine - Jorge Rivera-Herrans, Teagan Earley & Miguel Veloso — EPIC: ...
+- 🎵 **Now Playing:** Keep Your Friends Close - Jorge Rivera-Herrans, Various Artists — EPIC: The Ocean Saga...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-07-2025 03:31:33*
+*Last updated: 17-07-2025 03:31:42*
 <!-- END_NOW_PLAYING -->

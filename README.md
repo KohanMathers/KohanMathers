@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Truth & Fiction - The Undercover Hippy — Truth & Fiction
+- 🎵 **Now Playing:** GOSSIP (feat. Tom Morello) - Måneskin — RUSH!
 - 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 2h 10m ago
 
-*Last updated: 17-07-2025 18:45:25*
+*Last updated: 17-07-2025 18:45:31*
 <!-- END_NOW_PLAYING -->

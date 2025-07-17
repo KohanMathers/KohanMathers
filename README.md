@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Anymore - JEON SOMI — XOXO
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 5m ago
+- 🎵 **Now Playing:** iPhone - Seb Lowe — Half-decent
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 6m ago
 
-*Last updated: 17-07-2025 17:40:56*
+*Last updated: 17-07-2025 17:41:11*
 <!-- END_NOW_PLAYING -->

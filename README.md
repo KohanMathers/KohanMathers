@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Crush Culture - Conan Gray — Sunset Season - EP
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 2h 6m ago
+- 🎵 **Now Playing:** This December - Ricky Montgomery — Montgomery Ricky
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 2h 10m ago
 
-*Last updated: 17-07-2025 18:41:29*
+*Last updated: 17-07-2025 18:45:22*
 <!-- END_NOW_PLAYING -->

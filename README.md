@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Make Me Feel - EASHA — You Make Me Feel - Single
+- 🎵 **Now Playing:** Mate Like That - The Undercover Hippy — Truth & Fiction
 - 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 6h 50m ago
 
-*Last updated: 17-07-2025 23:25:22*
+*Last updated: 17-07-2025 23:25:28*
 <!-- END_NOW_PLAYING -->

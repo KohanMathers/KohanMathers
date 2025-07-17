@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Demons (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 🎵 **Now Playing:** One Heart One Life - The Undercover Hippy — Truth & Fiction
 - 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 2h 45m ago
 
-*Last updated: 17-07-2025 19:20:31*
+*Last updated: 17-07-2025 19:20:35*
 <!-- END_NOW_PLAYING -->

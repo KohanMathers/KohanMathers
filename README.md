@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Summer's Guest - nihmune — Hard to Think
+- 🎵 **Now Playing:** Respectless - Andrew Underberg, Sam Haft, Daphne Rubin-Vega, Lilli Cooper ...
 - 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 5h 48m ago
 
-*Last updated: 17-07-2025 22:23:13*
+*Last updated: 17-07-2025 22:23:16*
 <!-- END_NOW_PLAYING -->

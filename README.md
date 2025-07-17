@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** One Take (Double Damage) [feat. Hypeman Sage] - Ade — One Take (Double Damage) [feat. Hypeman Sage] - Single
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1 hour ago
+- 🎵 **Now Playing:** Anymore - JEON SOMI — XOXO
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 2m ago
 
-*Last updated: 17-07-2025 17:35:54*
+*Last updated: 17-07-2025 17:37:52*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not Sorry for Loving You - Jorge Rivera-Herrans, Barbara Wangui & Cast of EPIC: The Mus...
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 5h 12m ago
+- 🎵 **Now Playing:** Make Believe (feat. Sydney Osmon & Tomotasauce) - Jakeneutron — Neutron Nexus
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 5h 13m ago
 
-*Last updated: 17-07-2025 21:47:57*
+*Last updated: 17-07-2025 21:48:31*
 <!-- END_NOW_PLAYING -->

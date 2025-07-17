@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Puppeteer - Jorge Rivera-Herrans, Armando Julián, Talya Sindel & Cast of...
+- 🎵 **Now Playing:** We'll Be Fine - Jorge Rivera-Herrans, Teagan Earley & Miguel Veloso — EPIC: ...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-07-2025 03:31:17*
+*Last updated: 17-07-2025 03:31:33*
 <!-- END_NOW_PLAYING -->

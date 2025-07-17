@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Bet You Look Good on the Dancefloor - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 31m ago
+- 🎵 **Now Playing:** Struttin' - Thumpasaurus — Thumpaverse
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 33m ago
 
-*Last updated: 17-07-2025 18:06:09*
+*Last updated: 17-07-2025 18:08:22*
 <!-- END_NOW_PLAYING -->

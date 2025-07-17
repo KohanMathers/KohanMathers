@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Struttin' - Thumpasaurus — Thumpaverse
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 36m ago
+- 🎵 **Now Playing:** Last Chance To Dance - The Undercover Hippy — Monkey Suit
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 37m ago
 
-*Last updated: 17-07-2025 18:11:11*
+*Last updated: 17-07-2025 18:12:12*
 <!-- END_NOW_PLAYING -->

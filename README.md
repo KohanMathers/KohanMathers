@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Overly Dead - Subculture Sage — Subculture Sage EP
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 5h 14m ago
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 5h 17m ago
 
-*Last updated: 17-07-2025 21:49:34*
+*Last updated: 17-07-2025 21:52:59*
 <!-- END_NOW_PLAYING -->

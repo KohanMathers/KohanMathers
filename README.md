@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Rebellion - hololive English -Advent- — Rebellion - Single
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 4h 52m ago
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 4h 57m ago
 
-*Last updated: 17-07-2025 21:27:47*
+*Last updated: 17-07-2025 21:32:49*
 <!-- END_NOW_PLAYING -->

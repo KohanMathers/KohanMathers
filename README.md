@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** 1 4 3 - Elijah — 1 4 3 - Single
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 2h 26m ago
+- 🎵 **Now Playing:** Alyssa Greene - Isabelle McCalla — The Prom: A New Musical (Original Broadwa...
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 2h 28m ago
 
-*Last updated: 17-07-2025 19:01:38*
+*Last updated: 17-07-2025 19:03:55*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Glorious You - Frank Turner — Positive Songs for Negative People
+- 🎵 **Now Playing:** Wolf in Sheep's Clothing (feat. William Beckett) - Set It Off — Duality
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 00:42:36*
+*Last updated: 18-07-2025 00:45:47*
 <!-- END_NOW_PLAYING -->

@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Ghost - Reinaeiry — Ghost - Single
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 3h 13m ago
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 3h 17m ago
 
-*Last updated: 17-07-2025 19:48:45*
+*Last updated: 17-07-2025 19:52:02*
 <!-- END_NOW_PLAYING -->

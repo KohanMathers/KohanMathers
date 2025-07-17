@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Ghostin' You - Caitlin Myers — Ghostin' You - Single
+- 🎵 **Now Playing:** Rebellion - hololive English -Advent- — Rebellion - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-07-2025 03:43:52*
+*Last updated: 17-07-2025 03:47:17*
 <!-- END_NOW_PLAYING -->

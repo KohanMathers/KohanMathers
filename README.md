@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Buddies - Frank Turner & Jon Snodgrass — Buddies
+- 🎵 **Now Playing:** Nevermore (feat. Casey Lee Williams & Adrienne Cowan) - Jeff Williams — Songs Part Six
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 00:51:58*
+*Last updated: 18-07-2025 00:55:23*
 <!-- END_NOW_PLAYING -->

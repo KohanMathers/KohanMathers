@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Why We Fight (1) - The Undercover Hippy — Why We Fight E.P. - EP
+- 🎵 **Now Playing:** Pancakes for Dinner - Lizzy McAlpine — Give Me A Minute
 - 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 5h 38m ago
 
-*Last updated: 17-07-2025 22:13:09*
+*Last updated: 17-07-2025 22:13:11*
 <!-- END_NOW_PLAYING -->

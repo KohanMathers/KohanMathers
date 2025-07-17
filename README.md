@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Breaking Dimensions - hololive English — Breaking Dimensions - Single
+- 🎵 **Now Playing:** Ghostin' You - Caitlin Myers — Ghostin' You - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-07-2025 03:40:26*
+*Last updated: 17-07-2025 03:43:52*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Business, Please - Seb Lowe — The Other Half - EP
+- 🎵 **Now Playing:** Smokey Blues - Dutty Moonshine Big Band — Most Wanted
 - 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 2h 17m ago
 
-*Last updated: 17-07-2025 18:52:10*
+*Last updated: 17-07-2025 18:52:15*
 <!-- END_NOW_PLAYING -->

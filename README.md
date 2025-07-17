@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Anymore - JEON SOMI — XOXO
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 2m ago
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 5m ago
 
-*Last updated: 17-07-2025 17:37:52*
+*Last updated: 17-07-2025 17:40:56*
 <!-- END_NOW_PLAYING -->

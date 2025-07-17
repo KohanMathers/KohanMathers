@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Kids - MGMT — Oracular Spectacular
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 43m ago
 
-*Last updated: 17-07-2025 18:18:24*
+*Last updated: 17-07-2025 18:18:59*
 <!-- END_NOW_PLAYING -->

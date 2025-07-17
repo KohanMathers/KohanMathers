@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Money Game, Pt. 2 - Ren — Demos (Do Not Share), Vol. 1
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 9m ago
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 10m ago
 
-*Last updated: 17-07-2025 17:44:47*
+*Last updated: 17-07-2025 17:45:59*
 <!-- END_NOW_PLAYING -->

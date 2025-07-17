@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Henrietta - The Fratellis — Costello Music
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 5h 18m ago
+- 🎵 **Now Playing:** Letters - Frank Turner — Letters - Single
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 5h 22m ago
 
-*Last updated: 17-07-2025 21:53:41*
+*Last updated: 17-07-2025 21:57:15*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Gold - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 3h 2m ago
+- 🎵 **Now Playing:** Angel Eyes - Christine Baranski, Julie Walters & Amanda Seyfried — Mamma ...
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 3h 6m ago
 
-*Last updated: 17-07-2025 19:37:50*
+*Last updated: 17-07-2025 19:41:17*
 <!-- END_NOW_PLAYING -->

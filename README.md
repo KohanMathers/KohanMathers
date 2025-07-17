@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Make Believe (feat. Sydney Osmon & Tomotasauce) - Jakeneutron — Neutron Nexus
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 5h 13m ago
+- 🎵 **Now Playing:** Get It Right - Frank Turner — Be More Kind
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 5h 14m ago
 
-*Last updated: 17-07-2025 21:48:31*
+*Last updated: 17-07-2025 21:49:30*
 <!-- END_NOW_PLAYING -->

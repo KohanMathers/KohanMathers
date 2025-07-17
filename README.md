@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** MY NAME - Sinder, Trickywi & Vienna — MY NAME - Single
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 5h 58m ago
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 6h 3m ago
 
-*Last updated: 17-07-2025 22:33:18*
+*Last updated: 17-07-2025 22:38:20*
 <!-- END_NOW_PLAYING -->

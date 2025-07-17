@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Get It Right - Frank Turner — Be More Kind
+- 🎵 **Now Playing:** Overly Dead - Subculture Sage — Subculture Sage EP
 - 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 5h 14m ago
 
-*Last updated: 17-07-2025 21:49:30*
+*Last updated: 17-07-2025 21:49:34*
 <!-- END_NOW_PLAYING -->

@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** She Wolf - Shakira — She Wolf (Expanded Edition)
-- 💻 **Coding Status:** Not coding
+- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: ChunkyBorderEjector) - Just now
 
-*Last updated: 17-07-2025 03:54:47*
+*Last updated: 17-07-2025 14:59:37*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Dangerous - Jorge Rivera-Herrans, TROY & Diana Rivera-Herrans — EPIC: Th...
-- 💻 **Currently coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 5 minutes ago
+- 🎵 **Now Playing:** Breaking Dimensions - hololive English — Breaking Dimensions - Single
+- 💻 **Currently coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 9 minutes ago
 
-*Last updated: 17-07-2025 16:40:27*
+*Last updated: 17-07-2025 16:44:26*
 <!-- END_NOW_PLAYING -->

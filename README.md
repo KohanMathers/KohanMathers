@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Who's Thinking (feat. Tertia May) - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** Make America Great Again - Frank Turner — Be More Kind
 - 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 5h 28m ago
 
-*Last updated: 17-07-2025 22:03:04*
+*Last updated: 17-07-2025 22:03:45*
 <!-- END_NOW_PLAYING -->

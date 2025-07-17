@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Puppeteer - Jorge Rivera-Herrans, Various Artists — EPIC: The Circe Saga...
+- 🎵 **Now Playing:** Dangerous - Jorge Rivera-Herrans, TROY & Diana Rivera-Herrans — EPIC: Th...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-07-2025 03:35:16*
+*Last updated: 17-07-2025 03:36:57*
 <!-- END_NOW_PLAYING -->

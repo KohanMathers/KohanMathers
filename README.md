@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** From the Ritz to the Rubble - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
+- 🎵 **Now Playing:** Favorite Liar - The Wrecks — We Are the Wrecks - Single
 - 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 16m ago
 
-*Last updated: 17-07-2025 17:51:01*
+*Last updated: 17-07-2025 17:51:37*
 <!-- END_NOW_PLAYING -->

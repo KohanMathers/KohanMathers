@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Lost in a Glaze - Hype Man Sage & Mista Trick — You
-- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 21m ago
+- 🎵 **Now Playing:** When the Blossom Falls (feat. Gus Harvey) - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Last seen coding** in *YAML*, editing `purpur.yml` (Project: ChunkyBorderEjector) - 1h 23m ago
 
-*Last updated: 17-07-2025 17:56:04*
+*Last updated: 17-07-2025 17:58:47*
 <!-- END_NOW_PLAYING -->

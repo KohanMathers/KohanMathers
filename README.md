@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Long Live the Queen - Frank Turner — Love Ire & Song
+- 🎵 **Now Playing:** Glorious You - Frank Turner — Positive Songs for Negative People
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 00:39:07*
+*Last updated: 18-07-2025 00:42:36*
 <!-- END_NOW_PLAYING -->

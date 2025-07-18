@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Make America Great Again - Frank Turner — Be More Kind
+- 🎵 **Now Playing:** Going Nowhere - Frank Turner — Be More Kind
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 00:30:01*
+*Last updated: 19-07-2025 00:33:30*
 <!-- END_NOW_PLAYING -->

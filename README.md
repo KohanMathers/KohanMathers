@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Nevermore (feat. Casey Lee Williams & Adrienne Cowan) - Jeff Williams — Songs Part Six
+- 🎵 **Now Playing:** Brain Rot - nihmune — Hard to Think
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 00:55:23*
+*Last updated: 18-07-2025 01:00:12*
 <!-- END_NOW_PLAYING -->

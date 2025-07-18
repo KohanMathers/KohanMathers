@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** bmblb (feat. Casey Lee Williams) - Jeff Williams — Songs Part Four (feat. Casey Lee Williams)
+- 🎵 **Now Playing:** everything sucks - vaultboy — everything sucks - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 23:00:00*
+*Last updated: 18-07-2025 23:00:02*
 <!-- END_NOW_PLAYING -->

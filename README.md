@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Rat Shit - Seb Lowe — The Other Half - EP
+- 🎵 **Now Playing:** Worthy (Bmblb - Pt. II) [feat. Ariyel] - Casey Lee Williams — Rwby, Vol. 9 (Original Soundtrack from ...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 16:01:16*
+*Last updated: 18-07-2025 16:04:26*
 <!-- END_NOW_PLAYING -->

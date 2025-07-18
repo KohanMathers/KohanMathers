@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Worthy (Bmblb - Pt. II) [feat. Ariyel] - Casey Lee Williams — Rwby, Vol. 9 (Original Soundtrack from ...
+- 🎵 **Now Playing:** Brave Face - Frank Turner — Be More Kind
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 00:16:47*
+*Last updated: 19-07-2025 00:20:46*
 <!-- END_NOW_PLAYING -->

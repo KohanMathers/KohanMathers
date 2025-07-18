@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Graveyard of the Outcast Dead - Frank Turner — No Man's Land
+- 🎵 **Now Playing:** Letters - Frank Turner — Letters - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 16:56:51*
+*Last updated: 18-07-2025 22:58:37*
 <!-- END_NOW_PLAYING -->

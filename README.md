@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Brave Face - Frank Turner — Be More Kind
+- 🎵 **Now Playing:** Mr. Brightside - The Killers — Hot Fuss
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 00:20:46*
+*Last updated: 19-07-2025 00:24:26*
 <!-- END_NOW_PLAYING -->

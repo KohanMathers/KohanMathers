@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Ride the Sun (feat. Dorj) - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** Done For - Jorge Rivera-Herrans & Talya Sindel — EPIC: The Circe Saga (...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 00:07:51*
+*Last updated: 19-07-2025 00:07:56*
 <!-- END_NOW_PLAYING -->

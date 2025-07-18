@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** This December - Ricky Montgomery — Montgomery Ricky
+- 🎵 **Now Playing:** Rat Shit - Seb Lowe — The Other Half - EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 16:01:11*
+*Last updated: 18-07-2025 16:01:16*
 <!-- END_NOW_PLAYING -->

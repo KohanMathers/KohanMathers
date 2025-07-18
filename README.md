@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Going Nowhere - Frank Turner — Be More Kind
+- 🎵 **Now Playing:** Red Like Roses, Pt. 2 (feat. Casey Lee Williams & Sandy Casey) - Jeff Williams — Songs Part One (feat. Casey Lee Williams)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 00:33:30*
+*Last updated: 19-07-2025 00:37:31*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Vtuber Loser - nihmune — Are You Okay?
+- 🎵 **Now Playing:** Make America Great Again - Frank Turner — Be More Kind
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 00:28:07*
+*Last updated: 19-07-2025 00:30:01*
 <!-- END_NOW_PLAYING -->

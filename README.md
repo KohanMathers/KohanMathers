@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** bmblb (feat. Casey Lee Williams) - Jeff Williams — Songs Part Four (feat. Casey Lee Williams)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 22:59:11*
+*Last updated: 18-07-2025 23:00:00*
 <!-- END_NOW_PLAYING -->

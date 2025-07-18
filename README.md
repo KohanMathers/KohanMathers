@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Brain Rot - nihmune — Hard to Think
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 15:24:30*
+*Last updated: 18-07-2025 15:56:15*
 <!-- END_NOW_PLAYING -->

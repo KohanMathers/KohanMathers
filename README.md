@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Peggy Sang the Blues - Frank Turner — England Keep My Bones
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 15:56:15*
+*Last updated: 18-07-2025 15:57:16*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Get It Right - Frank Turner — Be More Kind
+- 🎵 **Now Playing:** Whatever It Takes - Andrew Underberg, Sam Haft, Daphne Rubin-Vega, Stephanie Bea...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 00:10:21*
+*Last updated: 19-07-2025 00:13:46*
 <!-- END_NOW_PLAYING -->

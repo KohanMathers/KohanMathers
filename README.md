@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Letters - Frank Turner — Letters - Single
+- 🎵 **Now Playing:** Breaking Dimensions - hololive English — Breaking Dimensions - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 22:58:37*
+*Last updated: 18-07-2025 22:58:47*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Done For - Jorge Rivera-Herrans & Talya Sindel — EPIC: The Circe Saga (...
+- 🎵 **Now Playing:** Get It Right - Frank Turner — Be More Kind
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 00:07:56*
+*Last updated: 19-07-2025 00:10:21*
 <!-- END_NOW_PLAYING -->

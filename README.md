@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Mr. Brightside - The Killers — Hot Fuss
+- 🎵 **Now Playing:** Vtuber Loser - nihmune — Are You Okay?
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 00:24:26*
+*Last updated: 19-07-2025 00:28:07*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Try This at Home - Frank Turner — Poetry of the Deed
+- 🎵 **Now Playing:** The Way I Tend To Be - Frank Turner — Tape Deck Heart (Deluxe Edition)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 23:37:30*
+*Last updated: 19-07-2025 00:07:42*
 <!-- END_NOW_PLAYING -->

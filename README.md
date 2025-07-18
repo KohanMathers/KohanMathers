@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** All You Wanna Do (feat. Aimie Atkinson) - SIX — Six: The Musical (Studio Cast Recording)
+- 🎵 **Now Playing:** The Graveyard of the Outcast Dead - Frank Turner — No Man's Land
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 16:11:51*
+*Last updated: 18-07-2025 16:18:40*
 <!-- END_NOW_PLAYING -->

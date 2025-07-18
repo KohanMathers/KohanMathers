@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Red Like Roses, Pt. 2 (feat. Casey Lee Williams & Sandy Casey) - Jeff Williams — Songs Part One (feat. Casey Lee Williams)
+- 🎵 **Now Playing:** These Days - The Undercover Hippy — These Days - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 00:37:31*
+*Last updated: 19-07-2025 00:41:37*
 <!-- END_NOW_PLAYING -->

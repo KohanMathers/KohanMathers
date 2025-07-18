@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Whatever It Takes - Andrew Underberg, Sam Haft, Daphne Rubin-Vega, Stephanie Bea...
+- 🎵 **Now Playing:** All You Wanna Do (feat. Aimie Atkinson) - SIX — Six: The Musical (Studio Cast Recording)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 16:08:52*
+*Last updated: 18-07-2025 16:11:51*
 <!-- END_NOW_PLAYING -->

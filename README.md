@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Peggy Sang the Blues - Frank Turner — England Keep My Bones
+- 🎵 **Now Playing:** Don't Know Yet - nihmune — Winter Blooms
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 15:57:16*
+*Last updated: 18-07-2025 16:00:56*
 <!-- END_NOW_PLAYING -->

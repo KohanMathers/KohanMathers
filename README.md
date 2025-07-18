@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Worthy (Bmblb - Pt. II) [feat. Ariyel] - Casey Lee Williams — Rwby, Vol. 9 (Original Soundtrack from ...
+- 🎵 **Now Playing:** Red Like Roses, Pt. 2 (feat. Casey Lee Williams & Sandy Casey) - Jeff Williams — Songs Part One (feat. Casey Lee Williams)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 16:04:26*
+*Last updated: 18-07-2025 16:04:45*
 <!-- END_NOW_PLAYING -->

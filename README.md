@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Breaking Dimensions - hololive English — Breaking Dimensions - Single
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 22:58:47*
+*Last updated: 18-07-2025 22:59:11*
 <!-- END_NOW_PLAYING -->

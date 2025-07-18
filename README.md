@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Don't Know Yet - nihmune — Winter Blooms
+- 🎵 **Now Playing:** This December - Ricky Montgomery — Montgomery Ricky
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 16:00:56*
+*Last updated: 18-07-2025 16:01:11*
 <!-- END_NOW_PLAYING -->

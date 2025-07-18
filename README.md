@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Just This Once - MathematicPony — Just This Once - Single
+- 🎵 **Now Playing:** Try This at Home - Frank Turner — Poetry of the Deed
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-07-2025 23:01:57*
+*Last updated: 18-07-2025 23:05:16*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Only Exception - Paramore — Sounds of the 00s
+- 🎵 **Now Playing:** 1933 - Frank Turner — Be More Kind
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 03:23:45*
+*Last updated: 19-07-2025 03:28:16*
 <!-- END_NOW_PLAYING -->

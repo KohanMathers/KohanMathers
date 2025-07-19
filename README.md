@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Young Disciple - Missing Andy — Guerrilla Invasion Pt. 1
+- 🎵 **Now Playing:** Alone, Pt. II - Alan Walker & Ava Max — Alone, Pt. II - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 17:02:29*
+*Last updated: 19-07-2025 17:05:49*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Still Believe - Frank Turner — England Keep My Bones
+- 🎵 **Now Playing:** Hi Ren - Ren — Hi Ren - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 09:00:10*
+*Last updated: 19-07-2025 09:03:55*
 <!-- END_NOW_PLAYING -->

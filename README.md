@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Legendary - Jorge Rivera-Herrans, Miguel Veloso, Ayron Alexander & Cast ...
+- 🎵 **Now Playing:** Devil Doesn’t Bargain - Alec Benjamin — (Un)Commentary
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 16:32:15*
+*Last updated: 19-07-2025 16:35:25*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Bang Bang (feat. Kitten & The Hip) - Dub Pistols — Worshipping the Dollar
+- 🎵 **Now Playing:** Wouldn't You Like - Jorge Rivera-Herrans, TROY & Cast of EPIC: The Musical — EPI...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 03:54:21*
+*Last updated: 19-07-2025 03:57:54*
 <!-- END_NOW_PLAYING -->

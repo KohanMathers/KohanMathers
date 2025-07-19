@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Mayday - Burn The Ballroom — Burn the Ballroom
+- 🎵 **Now Playing:** Mate Like That - The Undercover Hippy — Truth & Fiction
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 03:48:39*
+*Last updated: 19-07-2025 03:51:35*
 <!-- END_NOW_PLAYING -->

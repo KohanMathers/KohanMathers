@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Last Chance To Dance - The Undercover Hippy — Monkey Suit
+- 🎵 **Now Playing:** Kids - MGMT — Oracular Spectacular
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 05:23:09*
+*Last updated: 19-07-2025 05:27:11*
 <!-- END_NOW_PLAYING -->

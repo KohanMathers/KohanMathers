@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Josephine - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 🎵 **Now Playing:** Henrietta - The Fratellis — Costello Music
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 04:59:11*
+*Last updated: 19-07-2025 05:02:30*
 <!-- END_NOW_PLAYING -->

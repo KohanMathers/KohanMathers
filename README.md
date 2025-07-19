@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Hi Ren - Ren — Hi Ren - Single
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 09:03:55*
+*Last updated: 19-07-2025 09:07:35*
 <!-- END_NOW_PLAYING -->

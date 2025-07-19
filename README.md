@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Smokey Blues - Dutty Moonshine Big Band — Most Wanted
+- 🎵 **Now Playing:** Mittens - Frank Turner — Positive Songs for Negative People
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 16:40:59*
+*Last updated: 19-07-2025 16:46:45*
 <!-- END_NOW_PLAYING -->

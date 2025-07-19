@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Silent Key (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 🎵 **Now Playing:** You Are Ladybug (From "Ladybug and Cat Noir: The Movie") (feat. Mela Lee) [Rock Version] - Cristina Vee — Obnoxious Theater Kid
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 03:34:50*
+*Last updated: 19-07-2025 03:39:15*
 <!-- END_NOW_PLAYING -->

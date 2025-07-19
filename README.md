@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Angel Islington - Frank Turner — Positive Songs for Negative People
+- 🎵 **Now Playing:** One Sided Love - Planttvibes — A Summer in My Dreams - EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 16:15:34*
+*Last updated: 19-07-2025 16:18:00*
 <!-- END_NOW_PLAYING -->

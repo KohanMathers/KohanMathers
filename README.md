@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Dangerous - Jorge Rivera-Herrans, TROY & Diana Rivera-Herrans — EPIC: Th...
+- 🎵 **Now Playing:** The Only Exception - Paramore — Sounds of the 00s
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 03:20:20*
+*Last updated: 19-07-2025 03:23:45*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** As We Do Our Thing - The Allergies — As We Do Our Thing
+- 🎵 **Now Playing:** Last Chance To Dance - The Undercover Hippy — Monkey Suit
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 05:19:05*
+*Last updated: 19-07-2025 05:23:09*
 <!-- END_NOW_PLAYING -->

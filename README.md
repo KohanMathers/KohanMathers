@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Rollercoasters (feat. Cropper) [Bonus Track] - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** Kill him (he's a Socialist) - Seb Lowe — Half-decent
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 05:39:35*
+*Last updated: 19-07-2025 05:48:59*
 <!-- END_NOW_PLAYING -->

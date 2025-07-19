@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Intro - Gorillaz — Demon Days
+- 🎵 **Now Playing:** All You Wanna Do (feat. Aimie Atkinson) - SIX — Six: The Musical (Studio Cast Recording)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 04:20:35*
+*Last updated: 19-07-2025 04:21:40*
 <!-- END_NOW_PLAYING -->

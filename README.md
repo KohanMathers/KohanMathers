@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Pitch Black - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** Jump in the Pool - Subculture Sage — Big Smoke Autumn Blues
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 01:00:41*
+*Last updated: 19-07-2025 01:03:26*
 <!-- END_NOW_PLAYING -->

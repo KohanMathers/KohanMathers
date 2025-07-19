@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Royalty - Conor Maynard — Royalty - Single
+- 🎵 **Now Playing:** All That Matters (feat. Casey Lee Williams) - Jeff Williams — Songs Part Five (feat. Casey Lee Williams)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 08:44:55*
+*Last updated: 19-07-2025 08:48:24*
 <!-- END_NOW_PLAYING -->

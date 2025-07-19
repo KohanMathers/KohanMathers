@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Kids - MGMT — Oracular Spectacular
+- 🎵 **Now Playing:** 18 - Anarbor — Burnout (Deluxe Version)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 05:27:11*
+*Last updated: 19-07-2025 05:32:10*
 <!-- END_NOW_PLAYING -->

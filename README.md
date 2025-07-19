@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Time To Feast - Ironmouse, shirobeats & HalaCG — Time To Feast - Single
+- 🎵 **Now Playing:** Every Trick in the Book - The Allergies — Say the Word
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 16:09:34*
+*Last updated: 19-07-2025 16:12:24*
 <!-- END_NOW_PLAYING -->

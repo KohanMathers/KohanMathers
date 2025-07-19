@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** GOSSIP (feat. Tom Morello) - Måneskin — RUSH!
+- 🎵 **Now Playing:** To That Land - Subculture Sage — Big Smoke Autumn Blues
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 16:00:05*
+*Last updated: 19-07-2025 16:02:54*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Favorite Liar - The Wrecks — We Are the Wrecks - Single
+- 🎵 **Now Playing:** We Are the People - Empire Of The Sun — Walking On a Dream (Special Edition)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 17:08:49*
+*Last updated: 19-07-2025 17:12:50*
 <!-- END_NOW_PLAYING -->

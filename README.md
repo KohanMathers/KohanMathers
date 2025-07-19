@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Mittens - Frank Turner — Positive Songs for Negative People
+- 🎵 **Now Playing:** Stories and Tales - Subculture Sage — Subculture Sage EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 16:46:45*
+*Last updated: 19-07-2025 16:51:14*
 <!-- END_NOW_PLAYING -->

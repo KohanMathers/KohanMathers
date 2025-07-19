@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Jump in the Pool - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** The Graveyard of the Outcast Dead - Frank Turner — No Man's Land
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 01:03:26*
+*Last updated: 19-07-2025 01:08:16*
 <!-- END_NOW_PLAYING -->

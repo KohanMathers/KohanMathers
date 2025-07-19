@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Challenge - Jorge Rivera-Herrans, Anna Lea & Cast of EPIC: The Musical —...
+- 🎵 **Now Playing:** Christmas. [I’d Rather Die] - Seb Lowe — Christmas. [I’d Rather Die] - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 16:25:56*
+*Last updated: 19-07-2025 16:29:19*
 <!-- END_NOW_PLAYING -->

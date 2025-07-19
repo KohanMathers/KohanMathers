@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Angel Eyes - Christine Baranski, Julie Walters & Amanda Seyfried — Mamma ...
+- 🎵 **Now Playing:** Outrunning Karma - Alec Benjamin — Good Enough: Sad Pop Songs
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 21:21:35*
+*Last updated: 19-07-2025 21:25:45*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** she's all i wanna be - Tate McRae — she's all i wanna be - Single
+- 🎵 **Now Playing:** The Opening Act of Spring - Frank Turner — Positive Songs for Negative People
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 08:38:30*
+*Last updated: 19-07-2025 08:41:55*
 <!-- END_NOW_PLAYING -->

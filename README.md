@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fuck Subculture Sage (Skit) - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: ChunkyBorderEjector) - 22 minutes ago
+- 🎵 **Now Playing:** Gold - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: ChunkyBorderEjector) - 23 minutes ago
 
-*Last updated: 19-07-2025 21:57:33*
+*Last updated: 19-07-2025 21:57:58*
 <!-- END_NOW_PLAYING -->

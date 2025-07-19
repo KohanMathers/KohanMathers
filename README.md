@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Pitch Black - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: ChunkyBorderEjector) - 46 minutes ago
+- 🎵 **Now Playing:** Nuff Ish on My Mind - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: ChunkyBorderEjector) - 48 minutes ago
 
-*Last updated: 19-07-2025 22:20:53*
+*Last updated: 19-07-2025 22:23:43*
 <!-- END_NOW_PLAYING -->

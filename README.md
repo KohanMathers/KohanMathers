@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Hi Ren - Ren — Hi Ren - Single
+- 🎵 **Now Playing:** Rat Shit - Seb Lowe — The Other Half - EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 09:56:24*
+*Last updated: 19-07-2025 15:45:29*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Devil Doesn’t Bargain - Alec Benjamin — (Un)Commentary
+- 🎵 **Now Playing:** In Love with an Anime Girl - nihmune — Are You Okay?
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 16:35:25*
+*Last updated: 19-07-2025 16:38:09*
 <!-- END_NOW_PLAYING -->

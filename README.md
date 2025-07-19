@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** 1933 - Frank Turner — Be More Kind
+- 🎵 **Now Playing:** Bang Bang - Dutty Moonshine Big Band — Most Wanted
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 03:28:16*
+*Last updated: 19-07-2025 03:31:20*
 <!-- END_NOW_PLAYING -->

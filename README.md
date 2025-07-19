@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** How You Get The Girl (Taylor's Version) - Taylor Swift — 1989 (Taylor's Version)
+- 🎵 **Now Playing:** Love You Like the Movies - Anthem Lights — Escape
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 16:54:29*
+*Last updated: 19-07-2025 16:58:39*
 <!-- END_NOW_PLAYING -->

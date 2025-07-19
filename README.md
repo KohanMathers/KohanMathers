@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Are You Okay - nihmune — Are You Okay?
+- 🎵 **Now Playing:** Intro - Gorillaz — Demon Days
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 04:17:25*
+*Last updated: 19-07-2025 04:20:35*
 <!-- END_NOW_PLAYING -->

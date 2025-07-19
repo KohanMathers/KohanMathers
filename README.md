@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Love You Like the Movies - Anthem Lights — Escape
+- 🎵 **Now Playing:** Young Disciple - Missing Andy — Guerrilla Invasion Pt. 1
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 16:58:39*
+*Last updated: 19-07-2025 17:02:29*
 <!-- END_NOW_PLAYING -->

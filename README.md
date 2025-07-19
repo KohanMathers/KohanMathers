@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Big Smoke Autumn Blues - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: ChunkyBorderEjector) - 15 minutes ago
+- 🎵 **Now Playing:** When the Blossom Falls (feat. Gus Harvey) - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: ChunkyBorderEjector) - 19 minutes ago
 
-*Last updated: 19-07-2025 21:50:18*
+*Last updated: 19-07-2025 21:54:13*
 <!-- END_NOW_PLAYING -->

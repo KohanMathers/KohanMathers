@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Wolf in Sheep's Clothing (feat. William Beckett) - Set It Off — Duality
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 17:24:59*
+*Last updated: 19-07-2025 17:25:04*
 <!-- END_NOW_PLAYING -->

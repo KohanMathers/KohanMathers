@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Warrior of the Mind - Jorge Rivera-Herrans, Teagan Earley & Cast of EPIC: The Musi...
+- 🎵 **Now Playing:** If I Killed Someone for You - Alec Benjamin — Temporale Estivo
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 05:12:29*
+*Last updated: 19-07-2025 05:16:00*
 <!-- END_NOW_PLAYING -->

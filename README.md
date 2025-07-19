@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Henrietta - The Fratellis — Costello Music
+- 🎵 **Now Playing:** Freaking Me Out - Ava Max — Freaking Me Out - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 05:02:30*
+*Last updated: 19-07-2025 05:06:05*
 <!-- END_NOW_PLAYING -->

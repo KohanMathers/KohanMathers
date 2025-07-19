@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Man, The Myth - Seb Lowe — Half-decent
+- 🎵 **Now Playing:** Legendary - Jorge Rivera-Herrans, Miguel Veloso, Ayron Alexander & Cast ...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 16:31:00*
+*Last updated: 19-07-2025 16:32:15*
 <!-- END_NOW_PLAYING -->

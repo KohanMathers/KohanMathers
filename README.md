@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** She Wolf - Shakira — She Wolf (Expanded Edition)
+- 🎵 **Now Playing:** To You, From Me - Naethan Apollo — Hello World
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 06:18:21*
+*Last updated: 19-07-2025 06:21:30*
 <!-- END_NOW_PLAYING -->

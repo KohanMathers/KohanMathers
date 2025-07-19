@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** 21st Century Survival Blues - Frank Turner — Be More Kind
+- 🎵 **Now Playing:** Must Have Been the Wind - Alec Benjamin — These Two Windows
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 08:53:15*
+*Last updated: 19-07-2025 08:57:10*
 <!-- END_NOW_PLAYING -->

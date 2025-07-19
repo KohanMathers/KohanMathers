@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** How Lovely - Reinaeiry — How Lovely - Single
+- 🎵 **Now Playing:** Who's Thinking (feat. Tertia May) - Subculture Sage — Big Smoke Autumn Blues
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 04:38:59*
+*Last updated: 19-07-2025 04:41:59*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Miss RGB - Bao The Whale, nihmune & Shylily — Miss RGB - Single
+- 🎵 **Now Playing:** GOSSIP (feat. Tom Morello) - Måneskin — RUSH!
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 15:56:04*
+*Last updated: 19-07-2025 16:00:05*
 <!-- END_NOW_PLAYING -->

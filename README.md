@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Lost in a Glaze - Hype Man Sage & Mista Trick — You
+- 🎵 **Now Playing:** I Burn (feat. Casey Lee Williams & Lamar Hall) - Jeff Williams — Songs Part One (feat. Casey Lee Williams)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 16:19:40*
+*Last updated: 19-07-2025 16:22:45*
 <!-- END_NOW_PLAYING -->

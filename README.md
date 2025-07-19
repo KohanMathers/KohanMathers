@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Running from the Thoughts - Dub Pistols featuring Terry Hall — Speakers and Tweeters
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 01:38:31*
+*Last updated: 19-07-2025 01:38:35*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Are Ladybug (From "Ladybug and Cat Noir: The Movie") (feat. Mela Lee) [Rock Version] - Cristina Vee — Obnoxious Theater Kid
+- 🎵 **Now Playing:** Blood, Sweat & Tears - Ava Max — Blood, Sweat & Tears - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 03:39:15*
+*Last updated: 19-07-2025 03:42:01*
 <!-- END_NOW_PLAYING -->

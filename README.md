@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Graveyard of the Outcast Dead - Frank Turner — No Man's Land
+- 🎵 **Now Playing:** Loser, Baby - Andrew Underberg, Sam Haft, Keith David & Blake Roman — Hazb...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 01:08:16*
+*Last updated: 19-07-2025 01:11:55*
 <!-- END_NOW_PLAYING -->

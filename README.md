@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Bang Bang - Dutty Moonshine Big Band — Most Wanted
+- 🎵 **Now Playing:** Silent Key (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 03:31:20*
+*Last updated: 19-07-2025 03:34:50*
 <!-- END_NOW_PLAYING -->

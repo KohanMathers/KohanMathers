@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Running from the Thoughts - Dub Pistols featuring Terry Hall — Speakers and Tweeters
+- 🎵 **Now Playing:** Alone - Nico Collins — Alone - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 01:38:35*
+*Last updated: 19-07-2025 03:20:14*
 <!-- END_NOW_PLAYING -->

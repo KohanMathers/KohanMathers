@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Loser, Baby - Andrew Underberg, Sam Haft, Keith David & Blake Roman — Hazb...
+- 🎵 **Now Playing:** My Way - Ava Max — My Way - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 01:11:55*
+*Last updated: 19-07-2025 01:14:52*
 <!-- END_NOW_PLAYING -->

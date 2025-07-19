@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** From the Ritz to the Rubble - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
+- 🎵 **Now Playing:** Warrior of the Mind - Jorge Rivera-Herrans, Teagan Earley & Cast of EPIC: The Musi...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 05:09:15*
+*Last updated: 19-07-2025 05:12:29*
 <!-- END_NOW_PLAYING -->

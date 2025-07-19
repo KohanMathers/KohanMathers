@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Otomakaskit (Skit) - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: ChunkyBorderEjector) - 13 minutes ago
+- 🎵 **Now Playing:** Jump in the Pool - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: ChunkyBorderEjector) - 14 minutes ago
 
-*Last updated: 19-07-2025 21:48:03*
+*Last updated: 19-07-2025 21:49:32*
 <!-- END_NOW_PLAYING -->

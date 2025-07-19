@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Who's Thinking (feat. Tertia May) - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: ChunkyBorderEjector) - 31 minutes ago
+- 🎵 **Now Playing:** Mr. Crack - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: ChunkyBorderEjector) - 34 minutes ago
 
-*Last updated: 19-07-2025 22:06:03*
+*Last updated: 19-07-2025 22:09:19*
 <!-- END_NOW_PLAYING -->

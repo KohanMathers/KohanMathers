@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Breaking Dimensions - hololive English — Breaking Dimensions - Single
+- 🎵 **Now Playing:** Superhero (Junior Eurovision 2019 / Poland) - Viki Gabor — Superhero (Junior Eurovision 2019 / Poland) - S...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 04:32:39*
+*Last updated: 19-07-2025 04:36:05*
 <!-- END_NOW_PLAYING -->

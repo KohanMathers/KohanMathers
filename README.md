@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Glorious You - Frank Turner — Positive Songs for Negative People
+- 🎵 **Now Playing:** Josephine - Frank Turner — Positive Songs for Negative People (Deluxe)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 04:55:57*
+*Last updated: 19-07-2025 04:59:11*
 <!-- END_NOW_PLAYING -->

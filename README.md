@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Drop Dead Gorgeous - VOILÀ — Drop Dead Gorgeous - Single
+- 🎵 **Now Playing:** she's all i wanna be - Tate McRae — she's all i wanna be - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 08:35:45*
+*Last updated: 19-07-2025 08:38:30*
 <!-- END_NOW_PLAYING -->

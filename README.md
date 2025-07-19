@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Opening Act of Spring - Frank Turner — Positive Songs for Negative People
+- 🎵 **Now Playing:** Royalty - Conor Maynard — Royalty - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 08:41:55*
+*Last updated: 19-07-2025 08:44:55*
 <!-- END_NOW_PLAYING -->

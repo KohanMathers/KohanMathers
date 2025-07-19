@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** My Way - Ava Max — My Way - Single
+- 🎵 **Now Playing:** I Fell In Love With a Talking Head - Seb Lowe — I Fell In Love With a Talking Head - EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 01:14:52*
+*Last updated: 19-07-2025 01:17:11*
 <!-- END_NOW_PLAYING -->

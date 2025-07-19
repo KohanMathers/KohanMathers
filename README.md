@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** We'll Be Fine - Jorge Rivera-Herrans, Teagan Earley & Miguel Veloso — EPIC: ...
+- 🎵 **Now Playing:** Dreamer - The Undercover Hippy — Poor Little England
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 04:49:26*
+*Last updated: 19-07-2025 04:51:35*
 <!-- END_NOW_PLAYING -->

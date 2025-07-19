@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** We Are the People - Empire Of The Sun — Walking On a Dream (Special Edition)
+- 🎵 **Now Playing:** Would You Fall in Love with Me Again - Jorge Rivera-Herrans & Anna Lea — EPIC: The Ithaca Saga (Off...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 17:12:50*
+*Last updated: 19-07-2025 17:17:19*
 <!-- END_NOW_PLAYING -->

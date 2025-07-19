@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** All That Matters (feat. Casey Lee Williams) - Jeff Williams — Songs Part Five (feat. Casey Lee Williams)
+- 🎵 **Now Playing:** 21st Century Survival Blues - Frank Turner — Be More Kind
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 08:48:24*
+*Last updated: 19-07-2025 08:53:15*
 <!-- END_NOW_PLAYING -->

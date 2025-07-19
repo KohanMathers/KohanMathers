@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Truth & Fiction - The Undercover Hippy — Truth & Fiction
-- 💻 **Coding Status:** Not coding
+- 🎵 **Now Playing:** Not Sorry for Loving You - Jorge Rivera-Herrans, Barbara Wangui & Cast of EPIC: The Mus...
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: ChunkyBorderEjector) - 1 minutes ago
 
-*Last updated: 19-07-2025 21:28:53*
+*Last updated: 19-07-2025 21:33:19*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** 18 - Anarbor — Burnout (Deluxe Version)
+- 🎵 **Now Playing:** Love in Paradise - Jorge Rivera-Herrans, Barbara Wangui, Teagan Earley, Kira St...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 05:32:10*
+*Last updated: 19-07-2025 05:34:55*
 <!-- END_NOW_PLAYING -->

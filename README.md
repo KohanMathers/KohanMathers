@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** When the Blossom Falls (feat. Gus Harvey) - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: ChunkyBorderEjector) - 20 minutes ago
+- 🎵 **Now Playing:** Fuck Subculture Sage (Skit) - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: ChunkyBorderEjector) - 22 minutes ago
 
-*Last updated: 19-07-2025 21:55:20*
+*Last updated: 19-07-2025 21:57:33*
 <!-- END_NOW_PLAYING -->

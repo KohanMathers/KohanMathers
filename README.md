@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Who's Thinking (feat. Tertia May) - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** When the Sun Goes Down - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 04:41:59*
+*Last updated: 19-07-2025 04:45:35*
 <!-- END_NOW_PLAYING -->

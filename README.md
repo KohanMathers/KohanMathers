@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** To You, From Me - Naethan Apollo — Hello World
+- 🎵 **Now Playing:** Drop Dead Gorgeous - VOILÀ — Drop Dead Gorgeous - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 06:21:30*
+*Last updated: 19-07-2025 08:35:45*
 <!-- END_NOW_PLAYING -->

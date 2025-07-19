@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** iPhone - Seb Lowe — Half-decent
+- 🎵 **Now Playing:** There She Is - Frank Turner — Songbook
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 15:48:39*
+*Last updated: 19-07-2025 15:52:15*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Dreamer - The Undercover Hippy — Poor Little England
+- 🎵 **Now Playing:** Glorious You - Frank Turner — Positive Songs for Negative People
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 04:51:35*
+*Last updated: 19-07-2025 04:55:57*
 <!-- END_NOW_PLAYING -->

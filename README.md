@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Zazou (feat. HypeMan Sage) - Smokey Joe & The Kid — Nasty Tricks
+- 🎵 **Now Playing:** Starving (feat. Zedd) - Hailee Steinfeld & Grey — Starving (feat. Zedd) - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 01:20:12*
+*Last updated: 19-07-2025 01:25:06*
 <!-- END_NOW_PLAYING -->

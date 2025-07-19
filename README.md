@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Mate Like That - The Undercover Hippy — Truth & Fiction
+- 🎵 **Now Playing:** Bang Bang (feat. Kitten & The Hip) - Dub Pistols — Worshipping the Dollar
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 03:51:35*
+*Last updated: 19-07-2025 03:54:21*
 <!-- END_NOW_PLAYING -->

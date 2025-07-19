@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** There She Is - Frank Turner — Songbook
+- 🎵 **Now Playing:** Miss RGB - Bao The Whale, nihmune & Shylily — Miss RGB - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 15:52:15*
+*Last updated: 19-07-2025 15:56:04*
 <!-- END_NOW_PLAYING -->

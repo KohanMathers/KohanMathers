@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Superimpose - ELIO — Superimpose - Single
+- 🎵 **Now Playing:** Are You Okay - nihmune — Are You Okay?
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 04:14:15*
+*Last updated: 19-07-2025 04:17:25*
 <!-- END_NOW_PLAYING -->

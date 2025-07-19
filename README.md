@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Would You Fall in Love with Me Again - Jorge Rivera-Herrans & Anna Lea — EPIC: The Ithaca Saga (Off...
+- 🎵 **Now Playing:** Wolf in Sheep's Clothing (feat. William Beckett) - Set It Off — Duality
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 17:17:19*
+*Last updated: 19-07-2025 17:23:05*
 <!-- END_NOW_PLAYING -->

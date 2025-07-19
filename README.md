@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Wolf in Sheep's Clothing (feat. William Beckett) - Set It Off — Duality
+- 🎵 **Now Playing:** Rebellion - hololive English -Advent- — Rebellion - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 21:15:06*
+*Last updated: 19-07-2025 21:17:44*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Starving (feat. Zedd) - Hailee Steinfeld & Grey — Starving (feat. Zedd) - Single
+- 🎵 **Now Playing:** Forever Friends (feat. Elijah & Melody Snowflake) - Meelz — Star-Crossed Trilogy - EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 01:25:06*
+*Last updated: 19-07-2025 01:28:12*
 <!-- END_NOW_PLAYING -->

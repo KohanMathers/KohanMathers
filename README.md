@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Christmas. [I’d Rather Die] - Seb Lowe — Christmas. [I’d Rather Die] - Single
+- 🎵 **Now Playing:** The Man, The Myth - Seb Lowe — Half-decent
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 16:29:19*
+*Last updated: 19-07-2025 16:31:00*
 <!-- END_NOW_PLAYING -->

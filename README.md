@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Blood, Sweat & Tears - Ava Max — Blood, Sweat & Tears - Single
+- 🎵 **Now Playing:** Little Changes - Frank Turner — Be More Kind
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 03:42:01*
+*Last updated: 19-07-2025 03:45:10*
 <!-- END_NOW_PLAYING -->

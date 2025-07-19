@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Lifeboat - Frank Turner — Be More Kind
+- 🎵 **Now Playing:** Breaking Dimensions - hololive English — Breaking Dimensions - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 04:28:30*
+*Last updated: 19-07-2025 04:32:39*
 <!-- END_NOW_PLAYING -->

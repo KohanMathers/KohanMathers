@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alone - Nico Collins — Alone - Single
+- 🎵 **Now Playing:** Dangerous - Jorge Rivera-Herrans, TROY & Diana Rivera-Herrans — EPIC: Th...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 03:20:14*
+*Last updated: 19-07-2025 03:20:20*
 <!-- END_NOW_PLAYING -->

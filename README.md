@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** One Sided Love - Planttvibes — A Summer in My Dreams - EP
+- 🎵 **Now Playing:** Lost in a Glaze - Hype Man Sage & Mista Trick — You
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 16:18:00*
+*Last updated: 19-07-2025 16:19:40*
 <!-- END_NOW_PLAYING -->

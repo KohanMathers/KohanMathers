@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Little Changes - Frank Turner — Be More Kind
+- 🎵 **Now Playing:** Mayday - Burn The Ballroom — Burn the Ballroom
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 03:45:10*
+*Last updated: 19-07-2025 03:48:39*
 <!-- END_NOW_PLAYING -->

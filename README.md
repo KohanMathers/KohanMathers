@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** In Love with an Anime Girl - nihmune — Are You Okay?
+- 🎵 **Now Playing:** Smokey Blues - Dutty Moonshine Big Band — Most Wanted
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 16:38:09*
+*Last updated: 19-07-2025 16:40:59*
 <!-- END_NOW_PLAYING -->

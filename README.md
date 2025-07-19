@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Outrunning Karma - Alec Benjamin — Good Enough: Sad Pop Songs
+- 🎵 **Now Playing:** Truth & Fiction - The Undercover Hippy — Truth & Fiction
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 21:25:45*
+*Last updated: 19-07-2025 21:28:53*
 <!-- END_NOW_PLAYING -->

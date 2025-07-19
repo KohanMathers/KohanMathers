@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** If I Killed Someone for You - Alec Benjamin — Temporale Estivo
+- 🎵 **Now Playing:** As We Do Our Thing - The Allergies — As We Do Our Thing
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 05:16:00*
+*Last updated: 19-07-2025 05:19:05*
 <!-- END_NOW_PLAYING -->

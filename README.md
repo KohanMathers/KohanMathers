@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Slipping Through My Fingers - Meryl Streep & Amanda Seyfried — Mamma Mia! (The Movie Sound...
+- 🎵 **Now Playing:** Superimpose - ELIO — Superimpose - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 04:10:27*
+*Last updated: 19-07-2025 04:14:15*
 <!-- END_NOW_PLAYING -->

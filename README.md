@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Winter Rain - Sinder, Sleeping Forest & ThunderScott — Winter Rain - Single
+- 🎵 **Now Playing:** Time To Feast - Ironmouse, shirobeats & HalaCG — Time To Feast - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 16:05:29*
+*Last updated: 19-07-2025 16:09:34*
 <!-- END_NOW_PLAYING -->

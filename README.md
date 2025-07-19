@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Must Have Been the Wind - Alec Benjamin — These Two Windows
+- 🎵 **Now Playing:** I Still Believe - Frank Turner — England Keep My Bones
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 08:57:10*
+*Last updated: 19-07-2025 09:00:10*
 <!-- END_NOW_PLAYING -->

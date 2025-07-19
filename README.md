@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Forever Friends (feat. Elijah & Melody Snowflake) - Meelz — Star-Crossed Trilogy - EP
+- 🎵 **Now Playing:** Running from the Thoughts - Dub Pistols featuring Terry Hall — Speakers and Tweeters
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 01:28:12*
+*Last updated: 19-07-2025 01:33:45*
 <!-- END_NOW_PLAYING -->

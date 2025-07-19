@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** To That Land - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** Winter Rain - Sinder, Sleeping Forest & ThunderScott — Winter Rain - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 16:02:54*
+*Last updated: 19-07-2025 16:05:29*
 <!-- END_NOW_PLAYING -->

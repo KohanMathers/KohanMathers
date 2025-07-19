@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Kill him (he's a Socialist) - Seb Lowe — Half-decent
+- 🎵 **Now Playing:** Crush Culture - Conan Gray — Sunset Season - EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 05:48:59*
+*Last updated: 19-07-2025 05:50:35*
 <!-- END_NOW_PLAYING -->

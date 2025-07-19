@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Fell In Love With a Talking Head - Seb Lowe — I Fell In Love With a Talking Head - EP
+- 🎵 **Now Playing:** Zazou (feat. HypeMan Sage) - Smokey Joe & The Kid — Nasty Tricks
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 01:17:11*
+*Last updated: 19-07-2025 01:20:12*
 <!-- END_NOW_PLAYING -->

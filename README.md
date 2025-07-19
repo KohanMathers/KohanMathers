@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Freaking Me Out - Ava Max — Freaking Me Out - Single
+- 🎵 **Now Playing:** From the Ritz to the Rubble - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 05:06:05*
+*Last updated: 19-07-2025 05:09:15*
 <!-- END_NOW_PLAYING -->

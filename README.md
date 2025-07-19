@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Crush Culture - Conan Gray — Sunset Season - EP
+- 🎵 **Now Playing:** She Wolf - Shakira — She Wolf (Expanded Edition)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 05:50:35*
+*Last updated: 19-07-2025 06:18:21*
 <!-- END_NOW_PLAYING -->

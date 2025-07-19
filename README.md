@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Burn (feat. Casey Lee Williams & Lamar Hall) - Jeff Williams — Songs Part One (feat. Casey Lee Williams)
+- 🎵 **Now Playing:** The Challenge - Jorge Rivera-Herrans, Anna Lea & Cast of EPIC: The Musical —...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-07-2025 16:22:45*
+*Last updated: 19-07-2025 16:25:56*
 <!-- END_NOW_PLAYING -->

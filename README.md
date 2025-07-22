@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Favorite Liar - The Wrecks — We Are the Wrecks - Single
-- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 34 minutes ago
+- 🎵 **Now Playing:** So Am I - Ava Max — Heaven & Hell
+- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 37 minutes ago
 
-*Last updated: 22-07-2025 22:49:31*
+*Last updated: 22-07-2025 22:52:16*
 <!-- END_NOW_PLAYING -->

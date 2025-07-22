@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Slipping Through My Fingers - Meryl Streep & Amanda Seyfried — Mamma Mia! (The Movie Sound...
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - Just now
+- 🎵 **Now Playing:** Poetry of the Deed - Frank Turner — Poetry of the Deed
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 1 minutes ago
 
-*Last updated: 22-07-2025 23:08:53*
+*Last updated: 22-07-2025 23:12:45*
 <!-- END_NOW_PLAYING -->

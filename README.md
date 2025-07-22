@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Still Believe - Frank Turner — England Keep My Bones
-- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 33 minutes ago
+- 🎵 **Now Playing:** Favorite Liar - The Wrecks — We Are the Wrecks - Single
+- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 34 minutes ago
 
-*Last updated: 22-07-2025 22:48:44*
+*Last updated: 22-07-2025 22:49:31*
 <!-- END_NOW_PLAYING -->

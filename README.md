@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Mate Like That - The Undercover Hippy — Truth & Fiction
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 13 minutes ago
+- 🎵 **Now Playing:** The Ballad of Me and My Friends - Frank Turner — Campfire Punkrock
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 14 minutes ago
 
-*Last updated: 22-07-2025 22:28:35*
+*Last updated: 22-07-2025 22:29:06*
 <!-- END_NOW_PLAYING -->

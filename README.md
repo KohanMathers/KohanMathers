@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Spaced Out - nihmune — We're Alright
-- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 18 minutes ago
+- 🎵 **Now Playing:** Lost in a Glaze - Hype Man Sage & Mista Trick — You
+- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 20 minutes ago
 
-*Last updated: 22-07-2025 22:33:37*
+*Last updated: 22-07-2025 22:34:57*
 <!-- END_NOW_PLAYING -->

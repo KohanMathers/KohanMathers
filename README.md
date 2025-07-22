@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Ballad of Me and My Friends - Frank Turner — Campfire Punkrock
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 14 minutes ago
+- 🎵 **Now Playing:** Spaced Out - nihmune — We're Alright
+- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 16 minutes ago
 
-*Last updated: 22-07-2025 22:29:06*
+*Last updated: 22-07-2025 22:31:40*
 <!-- END_NOW_PLAYING -->

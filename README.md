@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Slipping Through My Fingers - Meryl Streep & Amanda Seyfried — Mamma Mia! (The Movie Sound...
-- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 49 minutes ago
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - Just now
 
-*Last updated: 22-07-2025 23:03:51*
+*Last updated: 22-07-2025 23:08:53*
 <!-- END_NOW_PLAYING -->

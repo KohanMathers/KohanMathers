@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Lost in a Glaze - Hype Man Sage & Mista Trick — You
-- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 20 minutes ago
+- 🎵 **Now Playing:** Wouldn't You Like - Jorge Rivera-Herrans, TROY & Cast of EPIC: The Musical — EPI...
+- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 23 minutes ago
 
-*Last updated: 22-07-2025 22:34:57*
+*Last updated: 22-07-2025 22:38:01*
 <!-- END_NOW_PLAYING -->

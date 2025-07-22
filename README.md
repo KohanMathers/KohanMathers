@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Poetry of the Deed - Frank Turner — Poetry of the Deed
-- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 45 minutes ago
+- 💻 **Coding Status:** Not coding
 
-*Last updated: 22-07-2025 23:59:14*
+*Last updated: 23-07-2025 00:04:16*
 <!-- END_NOW_PLAYING -->

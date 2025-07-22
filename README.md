@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Wouldn't You Like - Jorge Rivera-Herrans, TROY & Cast of EPIC: The Musical — EPI...
-- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 28 minutes ago
+- 🎵 **Now Playing:** I Still Believe - Frank Turner — England Keep My Bones
+- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 30 minutes ago
 
-*Last updated: 22-07-2025 22:43:42*
+*Last updated: 22-07-2025 22:45:46*
 <!-- END_NOW_PLAYING -->

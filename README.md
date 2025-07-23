@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Song for Josh - Frank Turner — Positive Songs for Negative People
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Currently coding** in *Rust*, editing `client.rs` (Project: ProjectNeon) - 3 minutes ago
 
-*Last updated: 23-07-2025 03:26:32*
+*Last updated: 23-07-2025 03:27:00*
 <!-- END_NOW_PLAYING -->

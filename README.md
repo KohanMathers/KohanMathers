@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Peggy Sang the Blues - Frank Turner — England Keep My Bones
-- 💻 **Currently coding** in *Rust*, editing `playground.rs` (Project: ProjectNeon) - 3 minutes ago
+- 🎵 **Now Playing:** All That Matters (feat. Casey Lee Williams) - Jeff Williams — Songs Part Five (feat. Casey Lee Williams)
+- 💻 **Currently coding** in *Rust*, editing `playground.rs` (Project: ProjectNeon) - 7 minutes ago
 
-*Last updated: 23-07-2025 02:31:23*
+*Last updated: 23-07-2025 02:34:58*
 <!-- END_NOW_PLAYING -->

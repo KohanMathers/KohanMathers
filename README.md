@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Here's a Story - Seb Lowe — Here's a Story - Single
+- 🎵 **Now Playing:** Be More Kind - Frank Turner — Be More Kind
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 23-07-2025 01:59:04*
+*Last updated: 23-07-2025 02:00:14*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Opening Act of Spring (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
-- 💻 **Currently coding** in *Rust*, editing `playground.rs` (Project: ProjectNeon) - 1 minutes ago
+- 🎵 **Now Playing:** Moonshine Hype (feat. HypeMan Sage) - Dutty Moonshine — Rum Runners
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 2 minutes ago
 
-*Last updated: 23-07-2025 03:12:34*
+*Last updated: 23-07-2025 03:15:54*
 <!-- END_NOW_PLAYING -->

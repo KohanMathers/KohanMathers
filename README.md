@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Long Live the Queen - Frank Turner — Love Ire & Song
-- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: ProjectNeon) - Just now
+- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: ProjectNeon) - 1 minutes ago
 
-*Last updated: 23-07-2025 02:20:15*
+*Last updated: 23-07-2025 02:21:07*
 <!-- END_NOW_PLAYING -->

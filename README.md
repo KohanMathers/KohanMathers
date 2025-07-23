@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Rollercoasters (feat. Cropper) [Bonus Track] - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Currently coding** in *Rust*, editing `playground.rs` (Project: ProjectNeon) - 13 minutes ago
+- 💻 **Last seen coding** in *Rust*, editing `playground.rs` (Project: ProjectNeon) - 18 minutes ago
 
-*Last updated: 23-07-2025 02:41:15*
+*Last updated: 23-07-2025 02:46:17*
 <!-- END_NOW_PLAYING -->

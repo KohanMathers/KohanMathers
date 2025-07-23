@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** All That Matters (feat. Casey Lee Williams) - Jeff Williams — Songs Part Five (feat. Casey Lee Williams)
-- 💻 **Currently coding** in *Rust*, editing `playground.rs` (Project: ProjectNeon) - 8 minutes ago
+- 🎵 **Now Playing:** Rollercoasters (feat. Cropper) [Bonus Track] - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Currently coding** in *Rust*, editing `playground.rs` (Project: ProjectNeon) - 12 minutes ago
 
-*Last updated: 23-07-2025 02:36:13*
+*Last updated: 23-07-2025 02:39:43*
 <!-- END_NOW_PLAYING -->

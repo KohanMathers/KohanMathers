@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Anime Makes Me Cum - Lucy Pyre — Anime Makes Me Cum - Single
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 2 minutes ago
+- 🎵 **Now Playing:** Long Live the Queen - Frank Turner — Love Ire & Song
+- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: ProjectNeon) - Just now
 
-*Last updated: 23-07-2025 02:16:28*
+*Last updated: 23-07-2025 02:20:15*
 <!-- END_NOW_PLAYING -->

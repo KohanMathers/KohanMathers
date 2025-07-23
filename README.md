@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Chelsea Dagger - The Fratellis — Costello Music
-- 💻 **Currently coding** in *Git*, editing `COMMIT_EDITMSG` (Project: ProjectNeon) - Just now
+- 🎵 **Now Playing:** Anime Makes Me Cum - Lucy Pyre — Anime Makes Me Cum - Single
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 2 minutes ago
 
-*Last updated: 23-07-2025 02:12:53*
+*Last updated: 23-07-2025 02:16:28*
 <!-- END_NOW_PLAYING -->

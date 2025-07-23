@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Nevermore (feat. Casey Lee Williams & Adrienne Cowan) - Jeff Williams — Songs Part Six
+- 🎵 **Now Playing:** Try This at Home - Frank Turner — Poetry of the Deed
 - 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 2 minutes ago
 
-*Last updated: 23-07-2025 02:56:28*
+*Last updated: 23-07-2025 03:01:18*
 <!-- END_NOW_PLAYING -->

@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Zazou (feat. HypeMan Sage) - Smokey Joe & The Kid — Nasty Tricks
-- 💻 **Currently coding** in *TOML*, editing `Cargo.toml` (Project: ProjectNeon) - 2 minutes ago
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 1 minutes ago
 
-*Last updated: 23-07-2025 02:07:59*
+*Last updated: 23-07-2025 02:11:04*
 <!-- END_NOW_PLAYING -->

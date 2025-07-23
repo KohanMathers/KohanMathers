@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Zazou (feat. HypeMan Sage) - Smokey Joe & The Kid — Nasty Tricks
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 1 minutes ago
+- 🎵 **Now Playing:** Chelsea Dagger - The Fratellis — Costello Music
+- 💻 **Currently coding** in *Git*, editing `COMMIT_EDITMSG` (Project: ProjectNeon) - Just now
 
-*Last updated: 23-07-2025 02:11:04*
+*Last updated: 23-07-2025 02:12:53*
 <!-- END_NOW_PLAYING -->

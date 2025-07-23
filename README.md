@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Try This at Home - Frank Turner — Poetry of the Deed
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - Just now
+- 🎵 **Now Playing:** Superhero (Junior Eurovision 2019 / Poland) - Viki Gabor — Superhero (Junior Eurovision 2019 / Poland) - S...
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 1 minutes ago
 
-*Last updated: 23-07-2025 03:01:23*
+*Last updated: 23-07-2025 03:03:13*
 <!-- END_NOW_PLAYING -->

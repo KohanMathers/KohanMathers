@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Teen Idle - Marina and The Diamonds — Electra Heart (Deluxe Video Version)
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - Just now
+- 🎵 **Now Playing:** There Are Other Ways - Jorge Rivera-Herrans, Talya Sindel & Cast of EPIC: The Music...
+- 💻 **Currently coding** in *Rust*, editing `playground.rs` (Project: ProjectNeon) - Just now
 
-*Last updated: 23-07-2025 02:26:09*
+*Last updated: 23-07-2025 02:27:53*
 <!-- END_NOW_PLAYING -->

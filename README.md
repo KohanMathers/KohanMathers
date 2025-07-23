@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Superhero (Junior Eurovision 2019 / Poland) - Viki Gabor — Superhero (Junior Eurovision 2019 / Poland) - S...
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 1 minutes ago
+- 🎵 **Now Playing:** Ride the Sun (feat. Dorj) - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Currently coding** in *Rust*, editing `playground.rs` (Project: ProjectNeon) - Just now
 
-*Last updated: 23-07-2025 03:03:13*
+*Last updated: 23-07-2025 03:06:08*
 <!-- END_NOW_PLAYING -->

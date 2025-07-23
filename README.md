@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Be More Kind - Frank Turner — Be More Kind
+- 🎵 **Now Playing:** Kings & Queens - Ava Max — Heaven & Hell
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 23-07-2025 02:00:14*
+*Last updated: 23-07-2025 02:00:59*
 <!-- END_NOW_PLAYING -->

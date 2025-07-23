@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Nuff Ish on My Mind - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - Just now
+- 💻 **Currently coding** in *TOML*, editing `Cargo.toml` (Project: ProjectNeon) - Just now
 
-*Last updated: 23-07-2025 02:03:42*
+*Last updated: 23-07-2025 02:06:02*
 <!-- END_NOW_PLAYING -->

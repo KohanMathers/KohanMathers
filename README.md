@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Rollercoasters (feat. Cropper) [Bonus Track] - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** Nevermore (feat. Casey Lee Williams & Adrienne Cowan) - Jeff Williams — Songs Part Six
 - 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: ProjectNeon) - 2 minutes ago
 
-*Last updated: 23-07-2025 02:56:21*
+*Last updated: 23-07-2025 02:56:28*
 <!-- END_NOW_PLAYING -->

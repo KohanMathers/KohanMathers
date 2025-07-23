@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Losing Days - Frank Turner — Tape Deck Heart (Deluxe Edition)
-- 💻 **Currently coding** in *Rust*, editing `client.rs` (Project: ProjectNeon) - 2 minutes ago
+- 🎵 **Now Playing:** Song for Josh - Frank Turner — Positive Songs for Negative People
+- 💻 **Currently coding** in *Rust*, editing `client.rs` (Project: ProjectNeon) - Just now
 
-*Last updated: 23-07-2025 03:21:30*
+*Last updated: 23-07-2025 03:24:00*
 <!-- END_NOW_PLAYING -->

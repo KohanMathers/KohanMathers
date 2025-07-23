@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Poetry of the Deed - Frank Turner — Poetry of the Deed
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 23-07-2025 00:04:16*
+*Last updated: 23-07-2025 01:05:27*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Dirty Harry - Gorillaz — Old School Indie
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - Just now
 
-*Last updated: 24-07-2025 01:41:07*
+*Last updated: 24-07-2025 01:41:31*
 <!-- END_NOW_PLAYING -->

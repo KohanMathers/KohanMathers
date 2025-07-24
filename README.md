@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Despair - leo. — Despair - Single
-- 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 2 minutes ago
+- 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 5 minutes ago
 
-*Last updated: 24-07-2025 03:59:29*
+*Last updated: 24-07-2025 04:02:05*
 <!-- END_NOW_PLAYING -->

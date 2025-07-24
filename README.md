@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Peggy Sang the Blues - Frank Turner — England Keep My Bones
-- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: ProjectNeon) - Just now
+- 🎵 **Now Playing:** God Games - Jorge Rivera-Herrans, Various Artists — EPIC: The Wisdom Sag...
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: ProjectNeon) - 1 minutes ago
 
-*Last updated: 24-07-2025 23:58:31*
+*Last updated: 24-07-2025 23:59:26*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Fiança - Dutty Moonshine Big Band — City of Sin
 - 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 3 minutes ago
 
-*Last updated: 24-07-2025 03:45:43*
+*Last updated: 24-07-2025 03:45:50*
 <!-- END_NOW_PLAYING -->

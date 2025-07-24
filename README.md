@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Little Talks - Of Monsters and Men — My Head Is an Animal
-- 💻 **Currently coding** in *Java*, editing `LayManager.java` (Project: TakeASeat) - 1 minutes ago
+- 💻 **Currently coding** in *Java*, editing `LayManager.java` (Project: TakeASeat) - 3 minutes ago
 
-*Last updated: 24-07-2025 03:02:59*
+*Last updated: 24-07-2025 03:06:46*
 <!-- END_NOW_PLAYING -->

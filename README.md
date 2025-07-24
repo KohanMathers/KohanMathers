@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Get It Right - Frank Turner — Be More Kind
-- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - Just now
+- 🎵 **Now Playing:** Winter Rain - Sinder, Sleeping Forest & ThunderScott — Winter Rain - Single
+- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1 minutes ago
 
-*Last updated: 24-07-2025 04:37:22*
+*Last updated: 24-07-2025 04:38:00*
 <!-- END_NOW_PLAYING -->

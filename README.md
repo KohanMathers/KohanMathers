@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Despair - leo. — Despair - Single
+- 🎵 **Now Playing:** How Lovely - Reinaeiry — How Lovely - Single
 - 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 5 minutes ago
 
-*Last updated: 24-07-2025 04:02:05*
+*Last updated: 24-07-2025 04:02:25*
 <!-- END_NOW_PLAYING -->

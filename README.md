@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Devil Doesn’t Bargain - Alec Benjamin — (Un)Commentary
-- 💻 **Currently coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 14 minutes ago
+- 🎵 **Now Playing:** You Didn’t Know - Andrew Underberg, Various Artists — Hazbin Hotel (Original S...
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 17 minutes ago
 
-*Last updated: 25-07-2025 00:23:15*
+*Last updated: 25-07-2025 00:26:00*
 <!-- END_NOW_PLAYING -->

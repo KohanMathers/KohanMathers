@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Vegas Woes - nihmune — Carry me Home
-- 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 2 minutes ago
+- 🎵 **Now Playing:** 18 - Anarbor — Burnout (Deluxe Version)
+- 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 1 minutes ago
 
-*Last updated: 24-07-2025 03:52:02*
+*Last updated: 24-07-2025 03:53:35*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Reasons Not to Be an Idiot - Frank Turner — Love Ire & Song
+- 🎵 **Now Playing:** Just Friends (feat. Elijah & Melody Snowflake) - Meelz — Just Friends (feat. Elijah & Melody Snowflake) - Single
 - 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 9 minutes ago
 
-*Last updated: 24-07-2025 04:46:40*
+*Last updated: 24-07-2025 04:46:44*
 <!-- END_NOW_PLAYING -->

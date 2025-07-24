@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Rebellion - hololive English -Advent- — Rebellion - Single
-- 💻 **Currently coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1 minutes ago
+- 🎵 **Now Playing:** Fictional - Khloe Rose — Fictional - Single
+- 💻 **Currently coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - Just now
 
-*Last updated: 25-07-2025 00:04:45*
+*Last updated: 25-07-2025 00:08:35*
 <!-- END_NOW_PLAYING -->

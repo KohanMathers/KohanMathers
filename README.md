@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fight or Flight - Conan Gray — Kid Krow
-- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1h 27m ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1h 28m ago
 
-*Last updated: 24-07-2025 06:04:24*
+*Last updated: 24-07-2025 06:05:51*
 <!-- END_NOW_PLAYING -->

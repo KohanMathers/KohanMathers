@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Money Game, Pt. 2 - Ren — Demos (Do Not Share), Vol. 1
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 38 minutes ago
+- 🎵 **Now Playing:** Who's Thinking (feat. Tertia May) - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 41 minutes ago
 
-*Last updated: 25-07-2025 00:46:39*
+*Last updated: 25-07-2025 00:49:30*
 <!-- END_NOW_PLAYING -->

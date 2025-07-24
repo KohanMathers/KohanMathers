@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Smokey Blues - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 5 minutes ago
+- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 2 minutes ago
 
-*Last updated: 24-07-2025 01:16:34*
+*Last updated: 24-07-2025 01:20:58*
 <!-- END_NOW_PLAYING -->

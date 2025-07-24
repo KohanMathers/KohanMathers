@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** everything sucks - vaultboy — everything sucks - Single
-- 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - Just now
+- 🎵 **Now Playing:** Just Friends - JORDY — Just Friends - Single
+- 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 1 minutes ago
 
-*Last updated: 24-07-2025 04:12:10*
+*Last updated: 24-07-2025 04:13:20*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Give Me Your Attention - The Waiting — Pretty Little Liar - EP
-- 💻 **Currently coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 3 minutes ago
+- 🎵 **Now Playing:** Worthy (Bmblb - Pt. II) [feat. Ariyel] - Casey Lee Williams — Rwby, Vol. 9 (Original Soundtrack from ...
+- 💻 **Currently coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 7 minutes ago
 
-*Last updated: 25-07-2025 00:12:20*
+*Last updated: 25-07-2025 00:15:35*
 <!-- END_NOW_PLAYING -->

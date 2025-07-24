@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** We Are the People - Empire Of The Sun — Walking On a Dream (Special Edition)
-- 💻 **Currently coding** in *Java*, editing `LayManager.java` (Project: TakeASeat) - 2 minutes ago
+- 🎵 **Now Playing:** Eye of the Day - Frank Turner — No Man's Land
+- 💻 **Currently coding** in *Java*, editing `LayManager.java` (Project: TakeASeat) - Just now
 
-*Last updated: 24-07-2025 03:11:48*
+*Last updated: 24-07-2025 03:14:59*
 <!-- END_NOW_PLAYING -->

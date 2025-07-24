@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** If Ever I Stray - Frank Turner — England Keep My Bones
-- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: TakeASeat) - 1 minutes ago
+- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1 minutes ago
 
-*Last updated: 24-07-2025 01:48:49*
+*Last updated: 24-07-2025 01:51:12*
 <!-- END_NOW_PLAYING -->

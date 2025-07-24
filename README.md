@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Get It Right - Frank Turner — Be More Kind
-- 💻 **Currently coding** in *Java*, editing `PoseManager.java` (Project: TakeASeat) - Just now
+- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - Just now
 
-*Last updated: 24-07-2025 04:34:35*
+*Last updated: 24-07-2025 04:37:22*
 <!-- END_NOW_PLAYING -->

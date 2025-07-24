@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** God Games - Jorge Rivera-Herrans, Various Artists — EPIC: The Wisdom Sag...
-- 💻 **Currently coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - Just now
+- 🎵 **Now Playing:** Rebellion - hololive English -Advent- — Rebellion - Single
+- 💻 **Currently coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1 minutes ago
 
-*Last updated: 25-07-2025 00:01:22*
+*Last updated: 25-07-2025 00:04:45*
 <!-- END_NOW_PLAYING -->

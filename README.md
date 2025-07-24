@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Happened - Jo Ellen Pellman, Ariana DeBose, Nathaniel J. Potvin, Nico G...
+- 🎵 **Now Playing:** Smokey Blues - Dutty Moonshine Big Band — Most Wanted
 - 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 5 minutes ago
 
-*Last updated: 24-07-2025 01:15:56*
+*Last updated: 24-07-2025 01:16:34*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Treasure (feat. Casey Lee Williams) - Jeff Williams — Rwby, Vol. 8 (Original Soundtrack from the R...
+- 🎵 **Now Playing:** Silent Key (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
 - 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 2 minutes ago
 
-*Last updated: 24-07-2025 02:16:23*
+*Last updated: 24-07-2025 02:16:44*
 <!-- END_NOW_PLAYING -->

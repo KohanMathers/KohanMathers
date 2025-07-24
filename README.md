@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Burn (feat. Casey Lee Williams & Lamar Hall) - Jeff Williams — Songs Part One (feat. Casey Lee Williams)
-- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 2 minutes ago
+- 🎵 **Now Playing:** The Challenge - Jorge Rivera-Herrans, Anna Lea & Cast of EPIC: The Musical —...
+- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 4 minutes ago
 
-*Last updated: 24-07-2025 01:56:14*
+*Last updated: 24-07-2025 01:57:55*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Are Ladybug (From "Ladybug and Cat Noir: The Movie") (feat. Mela Lee) [Rock Version] - Cristina Vee — Obnoxious Theater Kid
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 48 minutes ago
+- 🎵 **Now Playing:** Hi Ren - Ren — Hi Ren - Single
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 50 minutes ago
 
-*Last updated: 25-07-2025 00:56:43*
+*Last updated: 25-07-2025 00:59:15*
 <!-- END_NOW_PLAYING -->

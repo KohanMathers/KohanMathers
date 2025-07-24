@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Little Talks - Of Monsters and Men — My Head Is an Animal
-- 💻 **Currently coding** in *Java*, editing `LayManager.java` (Project: TakeASeat) - 3 minutes ago
+- 🎵 **Now Playing:** If I Killed Someone for You - Alec Benjamin — Temporale Estivo
+- 💻 **Currently coding** in *Java*, editing `LayManager.java` (Project: TakeASeat) - 4 minutes ago
 
-*Last updated: 24-07-2025 03:06:46*
+*Last updated: 24-07-2025 03:07:24*
 <!-- END_NOW_PLAYING -->

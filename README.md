@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not Sorry for Loving You - Jorge Rivera-Herrans, Barbara Wangui & Cast of EPIC: The Mus...
-- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1h 1m ago
+- 🎵 **Now Playing:** Sour Worms - nihmune — Run from the Sun
+- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1h 4m ago
 
-*Last updated: 24-07-2025 05:38:49*
+*Last updated: 24-07-2025 05:41:54*
 <!-- END_NOW_PLAYING -->

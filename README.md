@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 7h 34m ago
+- 🎵 **Now Playing:** Royalty - Conor Maynard — Royalty - Single
+- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 7h 38m ago
 
-*Last updated: 24-07-2025 23:41:12*
+*Last updated: 24-07-2025 23:45:10*
 <!-- END_NOW_PLAYING -->

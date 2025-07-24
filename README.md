@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Treasure (feat. Casey Lee Williams) - Jeff Williams — Rwby, Vol. 8 (Original Soundtrack from the R...
-- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 5 minutes ago
+- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 2 minutes ago
 
-*Last updated: 24-07-2025 02:11:36*
+*Last updated: 24-07-2025 02:16:23*
 <!-- END_NOW_PLAYING -->

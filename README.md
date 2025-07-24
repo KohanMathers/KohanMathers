@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** God Games - Jorge Rivera-Herrans, Various Artists — EPIC: The Wisdom Sag...
-- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: ProjectNeon) - 1 minutes ago
+- 💻 **Currently coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - Just now
 
-*Last updated: 24-07-2025 23:59:26*
+*Last updated: 25-07-2025 00:01:22*
 <!-- END_NOW_PLAYING -->

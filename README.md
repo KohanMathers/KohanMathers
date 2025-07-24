@@ -49,5 +49,5 @@ a game studio where being generic was never an option.
 - 🎵 **Now Playing:** Dirty Harry - Gorillaz — Old School Indie
 - 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 3 minutes ago
 
-*Last updated: 24-07-2025 01:35:49*
+*Last updated: 24-07-2025 01:36:05*
 <!-- END_NOW_PLAYING -->

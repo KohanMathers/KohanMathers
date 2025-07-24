@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** If I Killed Someone for You - Alec Benjamin — Temporale Estivo
-- 💻 **Currently coding** in *Java*, editing `LayManager.java` (Project: TakeASeat) - 4 minutes ago
+- 🎵 **Now Playing:** We Are the People - Empire Of The Sun — Walking On a Dream (Special Edition)
+- 💻 **Currently coding** in *Java*, editing `LayManager.java` (Project: TakeASeat) - Just now
 
-*Last updated: 24-07-2025 03:07:24*
+*Last updated: 24-07-2025 03:10:35*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Must Have Been the Wind - Alec Benjamin — These Two Windows
-- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 2 minutes ago
+- 🎵 **Now Playing:** I Burn (feat. Casey Lee Williams & Lamar Hall) - Jeff Williams — Songs Part One (feat. Casey Lee Williams)
+- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1 minutes ago
 
-*Last updated: 24-07-2025 01:51:45*
+*Last updated: 24-07-2025 01:54:41*
 <!-- END_NOW_PLAYING -->

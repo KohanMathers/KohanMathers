@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Political Prisoners - The Undercover Hippy — Why We Fight E.P. - EP
-- 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 2 minutes ago
+- 💻 **Currently coding** in *Java*, editing `LayManager.java` (Project: TakeASeat) - Just now
 
-*Last updated: 24-07-2025 02:59:25*
+*Last updated: 24-07-2025 03:01:43*
 <!-- END_NOW_PLAYING -->

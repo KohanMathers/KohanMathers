@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fictional - Khloe Rose — Fictional - Single
+- 🎵 **Now Playing:** Give Me Your Attention - The Waiting — Pretty Little Liar - EP
 - 💻 **Currently coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 3 minutes ago
 
-*Last updated: 25-07-2025 00:11:24*
+*Last updated: 25-07-2025 00:12:20*
 <!-- END_NOW_PLAYING -->

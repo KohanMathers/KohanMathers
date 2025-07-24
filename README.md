@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** I Bet You Look Good on the Dancefloor - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
-- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 3 minutes ago
+- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 4 minutes ago
 
-*Last updated: 24-07-2025 01:25:59*
+*Last updated: 24-07-2025 01:26:01*
 <!-- END_NOW_PLAYING -->

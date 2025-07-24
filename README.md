@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** We Are the People - Empire Of The Sun — Walking On a Dream (Special Edition)
-- 💻 **Currently coding** in *Java*, editing `LayManager.java` (Project: TakeASeat) - Just now
+- 💻 **Currently coding** in *Java*, editing `LayManager.java` (Project: TakeASeat) - 2 minutes ago
 
-*Last updated: 24-07-2025 03:10:35*
+*Last updated: 24-07-2025 03:11:48*
 <!-- END_NOW_PLAYING -->

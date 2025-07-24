@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Just Friends - JORDY — Just Friends - Single
-- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - Just now
+- 🎵 **Now Playing:** When the Sun Goes Down - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
+- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 2 minutes ago
 
-*Last updated: 24-07-2025 02:06:18*
+*Last updated: 24-07-2025 02:08:15*
 <!-- END_NOW_PLAYING -->

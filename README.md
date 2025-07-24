@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 6h 33m ago
+- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 6h 38m ago
 
-*Last updated: 24-07-2025 11:10:24*
+*Last updated: 24-07-2025 11:15:27*
 <!-- END_NOW_PLAYING -->

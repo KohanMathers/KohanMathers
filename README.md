@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Political Prisoners - The Undercover Hippy — Why We Fight E.P. - EP
-- 💻 **Currently coding** in *Java*, editing `LayManager.java` (Project: TakeASeat) - Just now
+- 🎵 **Now Playing:** Little Talks - Of Monsters and Men — My Head Is an Animal
+- 💻 **Currently coding** in *Java*, editing `LayManager.java` (Project: TakeASeat) - 1 minutes ago
 
-*Last updated: 24-07-2025 03:01:43*
+*Last updated: 24-07-2025 03:02:59*
 <!-- END_NOW_PLAYING -->

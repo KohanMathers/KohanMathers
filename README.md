@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Convergence of Sin - Sinder & Sleeping Forest — Convergence of Sin - Single
-- 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 10 minutes ago
+- 🎵 **Now Playing:** everything sucks - vaultboy — everything sucks - Single
+- 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 12 minutes ago
 
-*Last updated: 24-07-2025 04:07:07*
+*Last updated: 24-07-2025 04:09:06*
 <!-- END_NOW_PLAYING -->

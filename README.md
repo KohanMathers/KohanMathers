@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Eye of the Day - Frank Turner — No Man's Land
-- 💻 **Currently coding** in *Java*, editing `LayManager.java` (Project: TakeASeat) - Just now
+- 🎵 **Now Playing:** Anime Makes Me Cum - Lucy Pyre — Anime Makes Me Cum - Single
+- 💻 **Currently coding** in *Java*, editing `LayManager.java` (Project: TakeASeat) - 3 minutes ago
 
-*Last updated: 24-07-2025 03:14:59*
+*Last updated: 24-07-2025 03:20:14*
 <!-- END_NOW_PLAYING -->

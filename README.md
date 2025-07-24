@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Didn’t Know - Andrew Underberg, Various Artists — Hazbin Hotel (Original S...
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 18 minutes ago
+- 🎵 **Now Playing:** She Wolf - Shakira — She Wolf (Expanded Edition)
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 20 minutes ago
 
-*Last updated: 25-07-2025 00:26:31*
+*Last updated: 25-07-2025 00:29:09*
 <!-- END_NOW_PLAYING -->

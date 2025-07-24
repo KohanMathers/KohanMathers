@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Dangerous - Jorge Rivera-Herrans, TROY & Diana Rivera-Herrans — EPIC: Th...
-- 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 2 minutes ago
+- 🎵 **Now Playing:** Heartbun - nihmune — Run from the Sun
+- 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 3 minutes ago
 
-*Last updated: 24-07-2025 01:46:10*
+*Last updated: 24-07-2025 01:46:24*
 <!-- END_NOW_PLAYING -->

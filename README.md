@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Why We Fight (1) - The Undercover Hippy — Why We Fight E.P. - EP
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 23 minutes ago
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 28 minutes ago
 
-*Last updated: 25-07-2025 00:32:15*
+*Last updated: 25-07-2025 00:36:35*
 <!-- END_NOW_PLAYING -->

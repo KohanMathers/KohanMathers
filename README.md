@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** When the Sun Goes Down - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
+- 🎵 **Now Playing:** Treasure (feat. Casey Lee Williams) - Jeff Williams — Rwby, Vol. 8 (Original Soundtrack from the R...
 - 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 5 minutes ago
 
-*Last updated: 24-07-2025 02:11:20*
+*Last updated: 24-07-2025 02:11:36*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** To You, From Me - Naethan Apollo — Hello World
-- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 16 minutes ago
+- 🎵 **Now Playing:** Worthy (Bmblb - Pt. II) [feat. Ariyel] - Casey Lee Williams — Rwby, Vol. 9 (Original Soundtrack from ...
+- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 20 minutes ago
 
-*Last updated: 24-07-2025 04:53:39*
+*Last updated: 24-07-2025 04:57:00*
 <!-- END_NOW_PLAYING -->

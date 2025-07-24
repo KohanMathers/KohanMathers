@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Hey Boy - The Undercover Hippy — Hey Boy - Single
-- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1 minutes ago
+- 🎵 **Now Playing:** 1 4 3 - Elijah — 1 4 3 - Single
+- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 3 minutes ago
 
-*Last updated: 24-07-2025 01:31:03*
+*Last updated: 24-07-2025 01:32:29*
 <!-- END_NOW_PLAYING -->

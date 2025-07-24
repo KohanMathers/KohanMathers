@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Love Forty Down (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
-- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 41 minutes ago
+- 🎵 **Now Playing:** Heartbreak Hotel - nihmune — Hard to Think
+- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 44 minutes ago
 
-*Last updated: 24-07-2025 05:18:29*
+*Last updated: 24-07-2025 05:20:59*
 <!-- END_NOW_PLAYING -->

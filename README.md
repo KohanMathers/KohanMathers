@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** 18 - Anarbor — Burnout (Deluxe Version)
+- 🎵 **Now Playing:** Anymore - JEON SOMI — XOXO
 - 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 1 minutes ago
 
-*Last updated: 24-07-2025 03:53:35*
+*Last updated: 24-07-2025 03:56:11*
 <!-- END_NOW_PLAYING -->

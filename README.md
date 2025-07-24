@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alyssa Greene - Isabelle McCalla — The Prom: A New Musical (Original Broadwa...
-- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 36 minutes ago
+- 🎵 **Now Playing:** Drop Dead Gorgeous - VOILÀ — Drop Dead Gorgeous - Single
+- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 38 minutes ago
 
-*Last updated: 24-07-2025 05:13:09*
+*Last updated: 24-07-2025 05:15:39*
 <!-- END_NOW_PLAYING -->

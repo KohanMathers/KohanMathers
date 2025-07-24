@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Worthy (Bmblb - Pt. II) [feat. Ariyel] - Casey Lee Williams — Rwby, Vol. 9 (Original Soundtrack from ...
-- 💻 **Currently coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 8 minutes ago
+- 🎵 **Now Playing:** Uh Oh - Junior Doctor — Clumsy Words and Bad Pickup Lines
+- 💻 **Currently coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 11 minutes ago
 
-*Last updated: 25-07-2025 00:16:27*
+*Last updated: 25-07-2025 00:19:40*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Just Friends (feat. Elijah & Melody Snowflake) - Meelz — Just Friends (feat. Elijah & Melody Snowflake) - Single
+- 🎵 **Now Playing:** Winter Rain - Sinder, Sleeping Forest & ThunderScott — Winter Rain - Single
 - 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 9 minutes ago
 
-*Last updated: 24-07-2025 04:46:44*
+*Last updated: 24-07-2025 04:46:48*
 <!-- END_NOW_PLAYING -->

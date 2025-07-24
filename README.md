@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Ghostin' You - Caitlin Myers — Ghostin' You - Single
-- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1h 21m ago
+- 🎵 **Now Playing:** Kids with Guns - Gorillaz — Cleaning My Car 2025
+- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1h 23m ago
 
-*Last updated: 24-07-2025 05:57:58*
+*Last updated: 24-07-2025 06:00:39*
 <!-- END_NOW_PLAYING -->

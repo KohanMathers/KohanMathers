@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Just Friends (feat. Elijah & Melody Snowflake) - Meelz — Just Friends (feat. Elijah & Melody Snowflake) - Single
-- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 5 minutes ago
+- 🎵 **Now Playing:** Reasons Not to Be an Idiot - Frank Turner — Love Ire & Song
+- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 9 minutes ago
 
-*Last updated: 24-07-2025 04:42:24*
+*Last updated: 24-07-2025 04:46:40*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** More Than Friends (feat. Elijah & Melody Snowflake) - Meelz — More Than Friends (feat. Elijah & Melody Snowflake) ...
-- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1 minutes ago
+- 🎵 **Now Playing:** Just Friends - JORDY — Just Friends - Single
+- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 2 minutes ago
 
-*Last updated: 24-07-2025 02:01:16*
+*Last updated: 24-07-2025 02:05:04*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Royalty - Conor Maynard — Royalty - Single
-- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 7h 39m ago
+- 🎵 **Now Playing:** Wolf in Sheep's Clothing (feat. William Beckett) - Set It Off — Duality
+- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 7h 42m ago
 
-*Last updated: 24-07-2025 23:46:15*
+*Last updated: 24-07-2025 23:48:40*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** How You Get The Girl (Taylor's Version) - Taylor Swift — 1989 (Taylor's Version)
+- 🎵 **Now Playing:** Full Disclosure (feat. Zach Callison) - Steven Universe — Steven Universe, Vol. 1 (Original Soundtrack)
 - 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 1 minutes ago
 
-*Last updated: 24-07-2025 04:17:12*
+*Last updated: 24-07-2025 04:20:40*
 <!-- END_NOW_PLAYING -->

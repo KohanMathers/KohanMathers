@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** If Ever I Stray - Frank Turner — England Keep My Bones
-- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1 minutes ago
+- 🎵 **Now Playing:** Must Have Been the Wind - Alec Benjamin — These Two Windows
+- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 2 minutes ago
 
-*Last updated: 24-07-2025 01:51:12*
+*Last updated: 24-07-2025 01:51:45*
 <!-- END_NOW_PLAYING -->

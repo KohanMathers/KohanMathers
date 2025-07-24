@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Broken Dove - Burn The Ballroom — Burn the Ballroom
+- 🎵 **Now Playing:** Sister Rosetta - Frank Turner — No Man's Land
 - 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1 minutes ago
 
-*Last updated: 24-07-2025 01:42:51*
+*Last updated: 24-07-2025 01:42:55*
 <!-- END_NOW_PLAYING -->

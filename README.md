@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** She Wolf - Shakira — She Wolf (Expanded Edition)
+- 🎵 **Now Playing:** Why We Fight (1) - The Undercover Hippy — Why We Fight E.P. - EP
 - 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 23 minutes ago
 
-*Last updated: 25-07-2025 00:31:33*
+*Last updated: 25-07-2025 00:32:15*
 <!-- END_NOW_PLAYING -->

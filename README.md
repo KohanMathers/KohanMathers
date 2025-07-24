@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Mate Like That - The Undercover Hippy — Truth & Fiction
-- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 51 minutes ago
+- 🎵 **Now Playing:** My Way - Ava Max — My Way - Single
+- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 53 minutes ago
 
-*Last updated: 24-07-2025 05:28:04*
+*Last updated: 24-07-2025 05:30:54*
 <!-- END_NOW_PLAYING -->

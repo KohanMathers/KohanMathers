@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Letters - Frank Turner — Letters - Single
-- 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 1 minutes ago
+- 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 2 minutes ago
 
-*Last updated: 24-07-2025 04:31:21*
+*Last updated: 24-07-2025 04:32:19*
 <!-- END_NOW_PLAYING -->

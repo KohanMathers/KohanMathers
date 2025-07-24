@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Just Friends - JORDY — Just Friends - Single
+- 🎵 **Now Playing:** How You Get The Girl (Taylor's Version) - Taylor Swift — 1989 (Taylor's Version)
 - 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 1 minutes ago
 
-*Last updated: 24-07-2025 04:13:20*
+*Last updated: 24-07-2025 04:16:34*
 <!-- END_NOW_PLAYING -->

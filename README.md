@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Winter Rain - Sinder, Sleeping Forest & ThunderScott — Winter Rain - Single
 - 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1 minutes ago
 
-*Last updated: 24-07-2025 04:38:49*
+*Last updated: 24-07-2025 04:38:54*
 <!-- END_NOW_PLAYING -->

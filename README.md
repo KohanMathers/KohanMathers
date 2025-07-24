@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Gold - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Currently coding** in *Java*, editing `LayManager.java` (Project: TakeASeat) - 2 minutes ago
+- 🎵 **Now Playing:** Smokey Blues - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Currently coding** in *Java*, editing `LayManager.java` (Project: TakeASeat) - 4 minutes ago
 
-*Last updated: 24-07-2025 03:31:54*
+*Last updated: 24-07-2025 03:33:33*
 <!-- END_NOW_PLAYING -->

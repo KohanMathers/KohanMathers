@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Pizza in the Cosmos - nihmune — Super Swag yet Super Sad - Single
-- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - Just now
+- 🎵 **Now Playing:** I Bet You Look Good on the Dancefloor - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
+- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 3 minutes ago
 
-*Last updated: 24-07-2025 01:22:19*
+*Last updated: 24-07-2025 01:25:59*
 <!-- END_NOW_PLAYING -->

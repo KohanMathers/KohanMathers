@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Anime Makes Me Cum - Lucy Pyre — Anime Makes Me Cum - Single
-- 💻 **Currently coding** in *Java*, editing `LayManager.java` (Project: TakeASeat) - 1 minutes ago
+- 🎵 **Now Playing:** Gold - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Currently coding** in *Java*, editing `LayManager.java` (Project: TakeASeat) - 3 minutes ago
 
-*Last updated: 24-07-2025 03:21:51*
+*Last updated: 24-07-2025 03:24:00*
 <!-- END_NOW_PLAYING -->

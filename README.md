@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** 1=1=1 - Subculture Sage — Subculture Sage EP
-- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 46 minutes ago
+- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 50 minutes ago
 
-*Last updated: 24-07-2025 05:23:43*
+*Last updated: 24-07-2025 05:27:45*
 <!-- END_NOW_PLAYING -->

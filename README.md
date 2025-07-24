@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** On Accident - Nico Collins — On Accident - Single
-- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 25 minutes ago
+- 🎵 **Now Playing:** Would You Fall in Love with Me Again - Jorge Rivera-Herrans & Anna Lea — EPIC: The Ithaca Saga (Off...
+- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 27 minutes ago
 
-*Last updated: 24-07-2025 05:02:33*
+*Last updated: 24-07-2025 05:04:23*
 <!-- END_NOW_PLAYING -->

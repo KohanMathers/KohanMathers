@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Kids with Guns - Gorillaz — Cleaning My Car 2025
-- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1h 23m ago
+- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1h 26m ago
 
-*Last updated: 24-07-2025 06:00:39*
+*Last updated: 24-07-2025 06:03:01*
 <!-- END_NOW_PLAYING -->

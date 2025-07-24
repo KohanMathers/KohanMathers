@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Just Friends - JORDY — Just Friends - Single
-- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 2 minutes ago
+- 💻 **Currently coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - Just now
 
-*Last updated: 24-07-2025 02:05:04*
+*Last updated: 24-07-2025 02:06:18*
 <!-- END_NOW_PLAYING -->

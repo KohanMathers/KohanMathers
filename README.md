@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Lay All Your Love On Me - Dominic Cooper & Amanda Seyfried — Mamma Mia! The Movie Soun...
-- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1h 15m ago
+- 🎵 **Now Playing:** These Days - The Undercover Hippy — These Days - Single
+- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1h 16m ago
 
-*Last updated: 24-07-2025 05:52:56*
+*Last updated: 24-07-2025 05:53:29*
 <!-- END_NOW_PLAYING -->

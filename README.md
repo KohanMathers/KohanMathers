@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Pitch Black - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 56 minutes ago
+- 🎵 **Now Playing:** In Love with an Anime Girl - nihmune — Are You Okay?
+- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 59 minutes ago
 
-*Last updated: 24-07-2025 05:33:14*
+*Last updated: 24-07-2025 05:35:59*
 <!-- END_NOW_PLAYING -->

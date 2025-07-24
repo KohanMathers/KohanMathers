@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Ballad of Me and My Friends - Frank Turner — Campfire Punkrock
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 33 minutes ago
+- 🎵 **Now Playing:** Drop Dead Gorgeous - VOILÀ — Drop Dead Gorgeous - Single
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 34 minutes ago
 
-*Last updated: 25-07-2025 00:41:37*
+*Last updated: 25-07-2025 00:43:09*
 <!-- END_NOW_PLAYING -->

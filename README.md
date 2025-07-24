@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Every Trick in the Book - The Allergies — Say the Word
-- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 7h 50m ago
+- 🎵 **Now Playing:** Peggy Sang the Blues - Frank Turner — England Keep My Bones
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: ProjectNeon) - Just now
 
-*Last updated: 24-07-2025 23:56:19*
+*Last updated: 24-07-2025 23:58:31*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Heartbun - nihmune — Run from the Sun
-- 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 3 minutes ago
+- 🎵 **Now Playing:** If Ever I Stray - Frank Turner — England Keep My Bones
+- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: TakeASeat) - 1 minutes ago
 
-*Last updated: 24-07-2025 01:46:24*
+*Last updated: 24-07-2025 01:48:49*
 <!-- END_NOW_PLAYING -->

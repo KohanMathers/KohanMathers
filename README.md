@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Who's Thinking (feat. Tertia May) - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 43 minutes ago
+- 🎵 **Now Playing:** HEAR ME OUT - AmaLee — HEAR ME OUT - Single
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 44 minutes ago
 
-*Last updated: 25-07-2025 00:51:41*
+*Last updated: 25-07-2025 00:52:50*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** In Love with an Anime Girl - nihmune — Are You Okay?
-- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1 hour ago
+- 🎵 **Now Playing:** Not Sorry for Loving You - Jorge Rivera-Herrans, Barbara Wangui & Cast of EPIC: The Mus...
+- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1h 1m ago
 
-*Last updated: 24-07-2025 05:37:50*
+*Last updated: 24-07-2025 05:38:49*
 <!-- END_NOW_PLAYING -->

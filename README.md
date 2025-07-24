@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Sour Worms - nihmune — Run from the Sun
-- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1h 5m ago
+- 🎵 **Now Playing:** Mittens (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 💻 **Last seen coding** in *Java*, editing `SitManager.java` (Project: TakeASeat) - 1h 7m ago
 
-*Last updated: 24-07-2025 05:42:52*
+*Last updated: 24-07-2025 05:44:44*
 <!-- END_NOW_PLAYING -->

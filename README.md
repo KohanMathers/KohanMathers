@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Letters - Frank Turner — Letters - Single
-- 💻 **Currently coding** in *Java*, editing `SitListener.java` (Project: TakeASeat) - 2 minutes ago
+- 🎵 **Now Playing:** Get It Right - Frank Turner — Be More Kind
+- 💻 **Currently coding** in *Java*, editing `PoseManager.java` (Project: TakeASeat) - Just now
 
-*Last updated: 24-07-2025 04:32:19*
+*Last updated: 24-07-2025 04:34:35*
 <!-- END_NOW_PLAYING -->

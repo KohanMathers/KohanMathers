@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Price of Perfection (feat. Lilianne Coeverden) - Katherine Lynn-Rose — Price of Perfection (feat. Lilianne Co...
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 43m ago
+- 🎵 **Now Playing:** Kill Em Dead - Faintest Idea — The Road to Sedition
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 46m ago
 
-*Last updated: 25-07-2025 01:52:06*
+*Last updated: 25-07-2025 01:55:19*
 <!-- END_NOW_PLAYING -->

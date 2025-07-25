@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Angel Islington - Frank Turner — Positive Songs for Negative People
-- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 13h 11m ago
+- 🎵 **Now Playing:** The Opening Act of Spring (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 13h 14m ago
 
-*Last updated: 25-07-2025 16:19:42*
+*Last updated: 25-07-2025 16:22:07*
 <!-- END_NOW_PLAYING -->

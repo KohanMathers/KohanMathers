@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** everything sucks - vaultboy — everything sucks - Single
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 2h 18m ago
+- 🎵 **Now Playing:** Crush Culture - Conan Gray — Sunset Season - EP
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 2h 20m ago
 
-*Last updated: 25-07-2025 02:27:22*
+*Last updated: 25-07-2025 02:29:15*
 <!-- END_NOW_PLAYING -->

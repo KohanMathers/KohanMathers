@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Still Believe - Frank Turner — England Keep My Bones
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 13m ago
+- 🎵 **Now Playing:** One Heart One Life - The Undercover Hippy — Truth & Fiction
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 15m ago
 
-*Last updated: 25-07-2025 01:21:54*
+*Last updated: 25-07-2025 01:23:40*
 <!-- END_NOW_PLAYING -->

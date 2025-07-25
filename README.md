@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Despair - leo. — Despair - Single
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 2h 3m ago
+- 🎵 **Now Playing:** In Love with an Anime Girl - nihmune — Are You Okay?
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 2h 5m ago
 
-*Last updated: 25-07-2025 02:12:14*
+*Last updated: 25-07-2025 02:13:45*
 <!-- END_NOW_PLAYING -->

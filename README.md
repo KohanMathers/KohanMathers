@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** We'll Be Fine - Jorge Rivera-Herrans, Teagan Earley & Miguel Veloso — EPIC: ...
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 28m ago
+- 🎵 **Now Playing:** You Happened - Jo Ellen Pellman, Ariana DeBose, Nathaniel J. Potvin, Nico G...
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 30m ago
 
-*Last updated: 25-07-2025 01:37:00*
+*Last updated: 25-07-2025 01:38:27*
 <!-- END_NOW_PLAYING -->

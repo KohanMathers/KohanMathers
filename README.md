@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Brave Face - Frank Turner — Be More Kind
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 2h 59m ago
+- 🎵 **Now Playing:** Alyssa Greene - Isabelle McCalla — The Prom: A New Musical (Original Broadwa...
+- 💻 **Currently coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 1 minutes ago
 
-*Last updated: 25-07-2025 03:07:38*
+*Last updated: 25-07-2025 03:08:59*
 <!-- END_NOW_PLAYING -->

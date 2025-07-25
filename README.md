@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Don't Worry - Frank Turner — Be More Kind
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 59m ago
+- 🎵 **Now Playing:** Despair - leo. — Despair - Single
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 2h 2m ago
 
-*Last updated: 25-07-2025 02:07:35*
+*Last updated: 25-07-2025 02:10:49*
 <!-- END_NOW_PLAYING -->

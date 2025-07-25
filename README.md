@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Lost in a Glaze - Hype Man Sage & Mista Trick — You
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 2h 49m ago
+- 🎵 **Now Playing:** Red Like Roses, Pt. 2 (feat. Casey Lee Williams & Sandy Casey) - Jeff Williams — Songs Part One (feat. Casey Lee Williams)
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 2h 52m ago
 
-*Last updated: 25-07-2025 02:58:11*
+*Last updated: 25-07-2025 03:01:19*
 <!-- END_NOW_PLAYING -->

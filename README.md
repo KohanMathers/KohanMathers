@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Keep Your Friends Close - Jorge Rivera-Herrans, Various Artists — EPIC: The Ocean Saga...
-- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 12h 40m ago
+- 🎵 **Now Playing:** bmblb (feat. Casey Lee Williams) - Jeff Williams — Songs Part Four (feat. Casey Lee Williams)
+- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 12h 45m ago
 
-*Last updated: 25-07-2025 15:48:10*
+*Last updated: 25-07-2025 15:52:58*
 <!-- END_NOW_PLAYING -->

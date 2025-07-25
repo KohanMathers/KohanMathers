@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** In Love with an Anime Girl - nihmune — Are You Okay?
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 2h 5m ago
+- 🎵 **Now Playing:** The Way I Tend To Be - Frank Turner — Tape Deck Heart (Deluxe Edition)
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 2h 8m ago
 
-*Last updated: 25-07-2025 02:13:45*
+*Last updated: 25-07-2025 02:16:35*
 <!-- END_NOW_PLAYING -->

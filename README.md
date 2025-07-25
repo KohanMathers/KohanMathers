@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Superimpose - ELIO — Superimpose - Single
+- 🎵 **Now Playing:** The Challenge - Jorge Rivera-Herrans, Anna Lea & Cast of EPIC: The Musical —...
 - 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 33m ago
 
-*Last updated: 25-07-2025 01:41:46*
+*Last updated: 25-07-2025 01:41:55*
 <!-- END_NOW_PLAYING -->

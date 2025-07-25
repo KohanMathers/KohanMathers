@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** We'll Be Fine - Jorge Rivera-Herrans, Teagan Earley & Miguel Veloso — EPIC: ...
-- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 12h 55m ago
+- 🎵 **Now Playing:** To You, From Me - Naethan Apollo — Hello World
+- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 12h 57m ago
 
-*Last updated: 25-07-2025 16:03:18*
+*Last updated: 25-07-2025 16:05:22*
 <!-- END_NOW_PLAYING -->

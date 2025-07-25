@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Outrunning Karma - Alec Benjamin — Good Enough: Sad Pop Songs
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 8m ago
+- 🎵 **Now Playing:** I Still Believe - Frank Turner — England Keep My Bones
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 11m ago
 
-*Last updated: 25-07-2025 01:16:52*
+*Last updated: 25-07-2025 01:19:55*
 <!-- END_NOW_PLAYING -->

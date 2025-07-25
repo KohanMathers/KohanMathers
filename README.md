@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** God Games - Jorge Rivera-Herrans, Various Artists — EPIC: The Wisdom Sag...
+- 🎵 **Now Playing:** Despair - leo. — Despair - Single
 - 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 33m ago
 
-*Last updated: 25-07-2025 01:41:32*
+*Last updated: 25-07-2025 01:41:35*
 <!-- END_NOW_PLAYING -->

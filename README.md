@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Love Forty Down - Frank Turner — Positive Songs for Negative People
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 3m ago
+- 🎵 **Now Playing:** Vegas Woes - nihmune — Carry me Home
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 6m ago
 
-*Last updated: 25-07-2025 01:11:59*
+*Last updated: 25-07-2025 01:14:25*
 <!-- END_NOW_PLAYING -->

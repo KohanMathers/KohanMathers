@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Out of Breath (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 🎵 **Now Playing:** Loser, Baby - Andrew Underberg, Sam Haft, Keith David & Blake Roman — Hazb...
 - 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 12h 45m ago
 
-*Last updated: 25-07-2025 15:53:04*
+*Last updated: 25-07-2025 15:53:07*
 <!-- END_NOW_PLAYING -->

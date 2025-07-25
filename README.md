@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Out For Love - Andrew Underberg, Sam Haft & Daphne Rubin-Vega — Hazbin Hote...
+- 🎵 **Now Playing:** We'll Be Fine - Jorge Rivera-Herrans, Teagan Earley & Miguel Veloso — EPIC: ...
 - 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 12h 55m ago
 
-*Last updated: 25-07-2025 16:03:16*
+*Last updated: 25-07-2025 16:03:18*
 <!-- END_NOW_PLAYING -->

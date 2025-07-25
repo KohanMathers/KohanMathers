@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 12h 35m ago
+- 🎵 **Now Playing:** Keep Your Friends Close - Jorge Rivera-Herrans, Various Artists — EPIC: The Ocean Saga...
+- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 12h 39m ago
 
-*Last updated: 25-07-2025 15:43:07*
+*Last updated: 25-07-2025 15:47:43*
 <!-- END_NOW_PLAYING -->

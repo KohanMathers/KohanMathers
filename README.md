@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Gold - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** Business, Please - Seb Lowe — The Other Half - EP
 - 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 13h 30m ago
 
-*Last updated: 25-07-2025 16:38:32*
+*Last updated: 25-07-2025 16:38:34*
 <!-- END_NOW_PLAYING -->

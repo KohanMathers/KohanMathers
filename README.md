@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Crush Culture - Conan Gray — Sunset Season - EP
+- 🎵 **Now Playing:** Freaking Me Out - Ava Max — Freaking Me Out - Single
 - 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 2h 24m ago
 
-*Last updated: 25-07-2025 02:32:24*
+*Last updated: 25-07-2025 02:32:40*
 <!-- END_NOW_PLAYING -->

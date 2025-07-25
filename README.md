@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** More Than Friends (feat. Elijah & Melody Snowflake) - Meelz — More Than Friends (feat. Elijah & Melody Snowflake) ...
-- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 13h 50m ago
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: ProjectNeon) - 1 minutes ago
 
-*Last updated: 25-07-2025 16:58:41*
+*Last updated: 25-07-2025 17:03:43*
 <!-- END_NOW_PLAYING -->

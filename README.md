@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** To You, From Me - Naethan Apollo — Hello World
+- 🎵 **Now Playing:** Seasons (feat. Harley Bird) - Rival & CADMIUM — Seasons (feat. Harley Bird) - Single
 - 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 13 hours ago
 
-*Last updated: 25-07-2025 16:08:18*
+*Last updated: 25-07-2025 16:08:42*
 <!-- END_NOW_PLAYING -->

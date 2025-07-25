@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: ProjectNeon) - 6h 54m ago
+- 💻 **Coding Status:** Not coding
 
-*Last updated: 25-07-2025 23:56:43*
+*Last updated: 26-07-2025 00:01:45*
 <!-- END_NOW_PLAYING -->

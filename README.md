@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Kids with Guns - Gorillaz — Cleaning My Car 2025
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 40m ago
+- 🎵 **Now Playing:** Price of Perfection (feat. Lilianne Coeverden) - Katherine Lynn-Rose — Price of Perfection (feat. Lilianne Co...
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 43m ago
 
-*Last updated: 25-07-2025 01:48:41*
+*Last updated: 25-07-2025 01:51:50*
 <!-- END_NOW_PLAYING -->

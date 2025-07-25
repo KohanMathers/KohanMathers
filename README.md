@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** How You Get The Girl (Taylor's Version) - Taylor Swift — 1989 (Taylor's Version)
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 2h 34m ago
+- 🎵 **Now Playing:** Truth & Fiction - The Undercover Hippy — Truth & Fiction
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 2h 38m ago
 
-*Last updated: 25-07-2025 02:42:46*
+*Last updated: 25-07-2025 02:46:53*
 <!-- END_NOW_PLAYING -->

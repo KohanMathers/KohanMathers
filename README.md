@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** bmblb (feat. Casey Lee Williams) - Jeff Williams — Songs Part Four (feat. Casey Lee Williams)
+- 🎵 **Now Playing:** Out of Breath (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
 - 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 12h 45m ago
 
-*Last updated: 25-07-2025 15:52:58*
+*Last updated: 25-07-2025 15:53:04*
 <!-- END_NOW_PLAYING -->

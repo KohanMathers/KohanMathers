@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Peggy Sang the Blues - Frank Turner — England Keep My Bones
-- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 13h 10m ago
+- 🎵 **Now Playing:** The Angel Islington - Frank Turner — Positive Songs for Negative People
+- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 13h 11m ago
 
-*Last updated: 25-07-2025 16:18:23*
+*Last updated: 25-07-2025 16:19:42*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Kids with Guns - Gorillaz — Cleaning My Car 2025
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 39m ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 40m ago
 
-*Last updated: 25-07-2025 01:48:10*
+*Last updated: 25-07-2025 01:48:33*
 <!-- END_NOW_PLAYING -->

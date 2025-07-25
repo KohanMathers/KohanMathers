@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Full Disclosure (feat. Zach Callison) - Steven Universe — Steven Universe, Vol. 1 (Original Soundtrack)
-- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 12h 52m ago
+- 🎵 **Now Playing:** Out For Love - Andrew Underberg, Sam Haft & Daphne Rubin-Vega — Hazbin Hote...
+- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 12h 54m ago
 
-*Last updated: 25-07-2025 16:00:07*
+*Last updated: 25-07-2025 16:01:48*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Graveyard of the Outcast Dead - Frank Turner — No Man's Land
-- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 13h 40m ago
+- 🎵 **Now Playing:** More Than Friends (feat. Elijah & Melody Snowflake) - Meelz — More Than Friends (feat. Elijah & Melody Snowflake) ...
+- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 13h 44m ago
 
-*Last updated: 25-07-2025 16:48:36*
+*Last updated: 25-07-2025 16:52:12*
 <!-- END_NOW_PLAYING -->

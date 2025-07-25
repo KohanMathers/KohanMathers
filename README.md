@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Spaced Out - nihmune — We're Alright
-- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 13h 5m ago
+- 🎵 **Now Playing:** Peggy Sang the Blues - Frank Turner — England Keep My Bones
+- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 13h 8m ago
 
-*Last updated: 25-07-2025 16:13:21*
+*Last updated: 25-07-2025 16:16:07*
 <!-- END_NOW_PLAYING -->

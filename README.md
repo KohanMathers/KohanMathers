@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Demons - Frank Turner — Positive Songs for Negative People
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 2h 16m ago
+- 🎵 **Now Playing:** Christmas. [I’d Rather Die] - Seb Lowe — Christmas. [I’d Rather Die] - Single
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 2h 17m ago
 
-*Last updated: 25-07-2025 02:25:05*
+*Last updated: 25-07-2025 02:25:35*
 <!-- END_NOW_PLAYING -->

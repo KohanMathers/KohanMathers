@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Anymore - JEON SOMI — XOXO
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 53m ago
+- 🎵 **Now Playing:** Mayday - Burn The Ballroom — Burn the Ballroom
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 56m ago
 
-*Last updated: 25-07-2025 02:02:10*
+*Last updated: 25-07-2025 02:04:39*
 <!-- END_NOW_PLAYING -->

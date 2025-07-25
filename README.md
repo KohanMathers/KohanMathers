@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** If Ever I Stray - Frank Turner — England Keep My Bones
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 50m ago
+- 🎵 **Now Playing:** Anymore - JEON SOMI — XOXO
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 52m ago
 
-*Last updated: 25-07-2025 01:58:24*
+*Last updated: 25-07-2025 02:01:20*
 <!-- END_NOW_PLAYING -->

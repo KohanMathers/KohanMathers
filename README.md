@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Nuff Ish on My Mind - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** Mate Like That - The Undercover Hippy — Truth & Fiction
 - 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 1h 34m ago
 
-*Last updated: 25-07-2025 01:42:35*
+*Last updated: 25-07-2025 01:42:44*
 <!-- END_NOW_PLAYING -->

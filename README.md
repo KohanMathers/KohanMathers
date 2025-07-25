@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Would You Fall in Love with Me Again - Jorge Rivera-Herrans & Anna Lea — EPIC: The Ithaca Saga (Off...
-- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 13h 20m ago
+- 🎵 **Now Playing:** Corner - Allie Moss — Late Bloomer
+- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 13h 23m ago
 
-*Last updated: 25-07-2025 16:28:27*
+*Last updated: 25-07-2025 16:31:18*
 <!-- END_NOW_PLAYING -->

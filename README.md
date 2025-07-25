@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Freaking Me Out - Ava Max — Freaking Me Out - Single
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 2h 24m ago
+- 🎵 **Now Playing:** The Lifeboat - Frank Turner — Be More Kind
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 2h 27m ago
 
-*Last updated: 25-07-2025 02:32:40*
+*Last updated: 25-07-2025 02:35:50*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Love in Paradise - Jorge Rivera-Herrans, Barbara Wangui, Teagan Earley, Kira St...
-- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 13h 36m ago
+- 🎵 **Now Playing:** The Graveyard of the Outcast Dead - Frank Turner — No Man's Land
+- 💻 **Last seen coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 13h 40m ago
 
-*Last updated: 25-07-2025 16:44:29*
+*Last updated: 25-07-2025 16:48:32*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Glorious You - Frank Turner — Positive Songs for Negative People
-- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 2h 44m ago
+- 🎵 **Now Playing:** Naughty - Elijah — Naughty - Single
+- 💻 **Last seen coding** in *Python*, editing `FamilyPlotter.py` (Project: ProjectNeon) - 2h 46m ago
 
-*Last updated: 25-07-2025 02:52:32*
+*Last updated: 25-07-2025 02:54:35*
 <!-- END_NOW_PLAYING -->

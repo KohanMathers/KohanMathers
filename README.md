@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alyssa Greene - Isabelle McCalla — The Prom: A New Musical (Original Broadwa...
-- 💻 **Currently coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 1 minutes ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Currently coding** in *Rust*, editing `server.rs` (Project: ProjectNeon) - 3 minutes ago
 
-*Last updated: 25-07-2025 03:08:59*
+*Last updated: 25-07-2025 03:11:26*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Pizza in the Cosmos - nihmune — Super Swag yet Super Sad - Single
-- 💻 **Currently coding** in *Python*, editing `commands.py` (Project: TwitchAnnouncer) - 1 minutes ago
+- 🎵 **Now Playing:** Polaroid Picture - Frank Turner — Tape Deck Heart (Deluxe Edition)
+- 💻 **Currently coding** in *Python*, editing `commands.py` (Project: TwitchAnnouncer) - Just now
 
-*Last updated: 26-07-2025 20:10:11*
+*Last updated: 26-07-2025 20:13:52*
 <!-- END_NOW_PLAYING -->

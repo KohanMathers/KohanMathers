@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Nuff Ish on My Mind - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Currently coding** in *Python*, editing `commands.py` (Project: TwitchAnnouncer) - 12 minutes ago
+- 💻 **Last seen coding** in *Python*, editing `commands.py` (Project: TwitchAnnouncer) - 17 minutes ago
 
-*Last updated: 26-07-2025 19:23:50*
+*Last updated: 26-07-2025 19:28:52*
 <!-- END_NOW_PLAYING -->

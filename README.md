@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Full Disclosure (feat. Zach Callison) - Steven Universe — Steven Universe, Vol. 1 (Original Soundtrack)
-- 💻 **Currently coding** in *Python*, editing `commands.py` (Project: TwitchAnnouncer) - 2 minutes ago
+- 🎵 **Now Playing:** Overly Dead - Subculture Sage — Subculture Sage EP
+- 💻 **Currently coding** in *Python*, editing `commands.py` (Project: TwitchAnnouncer) - 1 minutes ago
 
-*Last updated: 26-07-2025 20:19:57*
+*Last updated: 26-07-2025 20:21:36*
 <!-- END_NOW_PLAYING -->

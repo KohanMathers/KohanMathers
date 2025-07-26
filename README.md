@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Teen Idle - Marina and The Diamonds — Electra Heart (Deluxe Video Version)
-- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 2 minutes ago
+- 🎵 **Now Playing:** Outrunning Karma - Alec Benjamin — Good Enough: Sad Pop Songs
+- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - Just now
 
-*Last updated: 26-07-2025 22:05:00*
+*Last updated: 26-07-2025 22:09:02*
 <!-- END_NOW_PLAYING -->

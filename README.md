@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Young Disciple - Missing Andy — Guerrilla Invasion Pt. 1
-- 💻 **Currently coding** in *Python*, editing `commands.py` (Project: TwitchAnnouncer) - Just now
+- 🎵 **Now Playing:** I Want It That Way - Backstreet Boys — Millennium
+- 💻 **Currently coding** in *Python*, editing `commands.py` (Project: TwitchAnnouncer) - 1 minutes ago
 
-*Last updated: 26-07-2025 20:28:31*
+*Last updated: 26-07-2025 20:32:22*
 <!-- END_NOW_PLAYING -->

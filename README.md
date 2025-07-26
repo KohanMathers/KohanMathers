@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Jump in the Pool - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - Just now
+- 🎵 **Now Playing:** Get Better - Frank Turner — Positive Songs for Negative People
+- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 3 minutes ago
 
-*Last updated: 26-07-2025 21:09:35*
+*Last updated: 26-07-2025 21:11:51*
 <!-- END_NOW_PLAYING -->

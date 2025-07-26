@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** I Burn (feat. Casey Lee Williams & Lamar Hall) - Jeff Williams — Songs Part One (feat. Casey Lee Williams)
-- 💻 **Currently coding** in *Python*, editing `commands.py` (Project: TwitchAnnouncer) - 1 minutes ago
+- 💻 **Currently coding** in *JSON*, editing `token.json` (Project: TwitchAnnouncer) - Just now
 
-*Last updated: 26-07-2025 17:33:01*
+*Last updated: 26-07-2025 17:43:02*
 <!-- END_NOW_PLAYING -->

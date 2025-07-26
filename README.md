@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Old Flames - Frank Turner — Ten for Ten
-- 💻 **Last seen coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 31 minutes ago
+- 🎵 **Now Playing:** Whatever It Takes - Andrew Underberg, Sam Haft, Daphne Rubin-Vega, Stephanie Bea...
+- 💻 **Last seen coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 34 minutes ago
 
-*Last updated: 26-07-2025 23:30:56*
+*Last updated: 26-07-2025 23:34:31*
 <!-- END_NOW_PLAYING -->

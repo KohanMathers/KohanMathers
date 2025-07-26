@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Burn (feat. Casey Lee Williams & Lamar Hall) - Jeff Williams — Songs Part One (feat. Casey Lee Williams)
-- 💻 **Currently coding** in *Rust*, editing `client.rs` (Project: ProjectNeon) - 4 minutes ago
+- 🎵 **Now Playing:** I Burn (feat. Casey Lee Williams & Lamar Hall) - Jeff Williams — Songs Part One (feat. Casey Lee Williams) Je...
+- 💻 **Currently coding** in *Python*, editing `commands.py` (Project: TwitchAnnouncer) - 1 minutes ago
 
-*Last updated: 26-07-2025 17:30:47*
+*Last updated: 26-07-2025 17:32:57*
 <!-- END_NOW_PLAYING -->

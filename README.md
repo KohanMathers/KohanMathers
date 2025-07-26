@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Angel Islington - Frank Turner — Positive Songs for Negative People
+- 🎵 **Now Playing:** Kids with Guns - Gorillaz — Cleaning My Car 2025
 - 💻 **Currently coding** in *Python*, editing `commands.py` (Project: TwitchAnnouncer) - 1 minutes ago
 
-*Last updated: 26-07-2025 21:14:39*
+*Last updated: 26-07-2025 21:17:07*
 <!-- END_NOW_PLAYING -->

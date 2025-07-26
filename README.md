@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Whatever It Takes - Andrew Underberg, Sam Haft, Daphne Rubin-Vega, Stephanie Bea...
-- 💻 **Last seen coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 35 minutes ago
+- 🎵 **Now Playing:** Alone - Nico Collins — Alone - Single
+- 💻 **Currently coding** in *JSON*, editing `token.json` (Project: TwitchAnnouncer) - 1 minutes ago
 
-*Last updated: 26-07-2025 23:35:44*
+*Last updated: 26-07-2025 23:37:31*
 <!-- END_NOW_PLAYING -->

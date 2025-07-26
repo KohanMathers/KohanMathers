@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Just This Once - MathematicPony — Just This Once - Single
-- 💻 **Currently coding** in *JSON*, editing `token.json` (Project: TwitchAnnouncer) - 1 minutes ago
+- 🎵 **Now Playing:** Sailor's Boots - Frank Turner — The Second Three Years
+- 💻 **Currently coding** in *JSON*, editing `token.json` (Project: TwitchAnnouncer) - 4 minutes ago
 
-*Last updated: 26-07-2025 23:41:26*
+*Last updated: 26-07-2025 23:44:42*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Fell In Love With a Talking Head - Seb Lowe — I Fell In Love With a Talking Head - EP
+- 🎵 **Now Playing:** I Burn (feat. Casey Lee Williams & Lamar Hall) - Jeff Williams — Songs Part One (feat. Casey Lee Williams)
 - 💻 **Currently coding** in *Rust*, editing `client.rs` (Project: ProjectNeon) - 4 minutes ago
 
-*Last updated: 26-07-2025 17:30:43*
+*Last updated: 26-07-2025 17:30:47*
 <!-- END_NOW_PLAYING -->

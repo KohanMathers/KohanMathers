@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Burn (feat. Casey Lee Williams & Lamar Hall) - Jeff Williams — Songs Part One (feat. Casey Lee Williams)
-- 💻 **Currently coding** in *JSON*, editing `token.json` (Project: TwitchAnnouncer) - 2 minutes ago
+- 🎵 **Now Playing:** Stories and Tales - Subculture Sage — Subculture Sage EP
+- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - Just now
 
-*Last updated: 26-07-2025 17:48:05*
+*Last updated: 26-07-2025 17:49:03*
 <!-- END_NOW_PLAYING -->

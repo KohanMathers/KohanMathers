@@ -49,5 +49,5 @@ a game studio where being generic was never an option.
 - 🎵 **Now Playing:** There She Stood - Seb Lowe — There She Stood - Single
 - 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 1 minutes ago
 
-*Last updated: 26-07-2025 21:34:42*
+*Last updated: 26-07-2025 21:34:48*
 <!-- END_NOW_PLAYING -->

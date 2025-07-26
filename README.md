@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Jump in the Pool - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Currently coding** in *Python*, editing `temp.py` (Project: TwitchAnnouncer) - 1 minutes ago
+- 💻 **Currently coding** in *Python*, editing `commands.py` (Project: TwitchAnnouncer) - 2 minutes ago
 
-*Last updated: 26-07-2025 20:59:30*
+*Last updated: 26-07-2025 21:04:32*
 <!-- END_NOW_PLAYING -->

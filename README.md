@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Are You Okay - nihmune — Are You Okay?
-- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 4 minutes ago
+- 🎵 **Now Playing:** Clint Eastwood - Gorillaz — Clint Eastwood - Single
+- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 7 minutes ago
 
-*Last updated: 26-07-2025 21:55:36*
+*Last updated: 26-07-2025 21:58:46*
 <!-- END_NOW_PLAYING -->

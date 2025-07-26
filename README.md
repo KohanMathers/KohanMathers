@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Silent Key (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
-- 💻 **Last seen coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 25 minutes ago
+- 🎵 **Now Playing:** Berry Dreams (feat. Bao the Whale) - nihmune — Are You Okay?
+- 💻 **Last seen coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 27 minutes ago
 
-*Last updated: 26-07-2025 23:25:39*
+*Last updated: 26-07-2025 23:27:42*
 <!-- END_NOW_PLAYING -->

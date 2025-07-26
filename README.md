@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Ain't Your Mama - Jennifer Lopez — Ain't Your Mama - Single
-- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 1 minutes ago
+- 🎵 **Now Playing:** Moonshine Hype (feat. HypeMan Sage) - Dutty Moonshine — Rum Runners
+- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 4 minutes ago
 
-*Last updated: 26-07-2025 21:44:52*
+*Last updated: 26-07-2025 21:47:31*
 <!-- END_NOW_PLAYING -->

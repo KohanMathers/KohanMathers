@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Here's a Story - Seb Lowe — Here's a Story - Single
-- 💻 **Currently coding** in *Python*, editing `commands.py` (Project: TwitchAnnouncer) - Just now
+- 🎵 **Now Playing:** Recovery - Frank Turner — Tape Deck Heart (Deluxe Edition)
+- 💻 **Currently coding** in *Python*, editing `commands.py` (Project: TwitchAnnouncer) - 1 minutes ago
 
-*Last updated: 26-07-2025 20:39:31*
+*Last updated: 26-07-2025 20:43:06*
 <!-- END_NOW_PLAYING -->

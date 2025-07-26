@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Lay All Your Love On Me - Dominic Cooper & Amanda Seyfried — Mamma Mia! The Movie Soun...
-- 💻 **Currently coding** in *Python*, editing `commands.py` (Project: TwitchAnnouncer) - Just now
+- 🎵 **Now Playing:** Pizza in the Cosmos - nihmune — Super Swag yet Super Sad - Single
+- 💻 **Currently coding** in *Python*, editing `commands.py` (Project: TwitchAnnouncer) - 1 minutes ago
 
-*Last updated: 26-07-2025 20:09:10*
+*Last updated: 26-07-2025 20:10:11*
 <!-- END_NOW_PLAYING -->

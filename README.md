@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Gfunk Skit - Subculture Sage — Subculture Sage EP
-- 💻 **Currently coding** in *Python*, editing `temp.py` (Project: TwitchAnnouncer) - 2 minutes ago
+- 🎵 **Now Playing:** Sewer Anthem - Subculture Sage — Subculture Sage EP
+- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - Just now
 
-*Last updated: 26-07-2025 18:01:47*
+*Last updated: 26-07-2025 18:03:00*
 <!-- END_NOW_PLAYING -->

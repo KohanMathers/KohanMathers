@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Kids with Guns - Gorillaz — Cleaning My Car 2025
-- 💻 **Currently coding** in *Python*, editing `temp.py` (Project: TwitchAnnouncer) - 2 minutes ago
+- 🎵 **Now Playing:** Mr. Brightside - The Killers — Hot Fuss
+- 💻 **Currently coding** in *Python*, editing `temp.py` (Project: TwitchAnnouncer) - 3 minutes ago
 
-*Last updated: 26-07-2025 21:19:41*
+*Last updated: 26-07-2025 21:20:51*
 <!-- END_NOW_PLAYING -->

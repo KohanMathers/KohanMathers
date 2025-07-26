@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Only Exception - Paramore — Sounds of the 00s
-- 💻 **Last seen coding** in *Rust*, editing `client.rs` (Project: ProjectNeon) - 1h 3m ago
+- 🎵 **Now Playing:** Long Live the Queen - Frank Turner — Love Ire & Song
+- 💻 **Last seen coding** in *Rust*, editing `client.rs` (Project: ProjectNeon) - 1h 7m ago
 
-*Last updated: 26-07-2025 17:07:48*
+*Last updated: 26-07-2025 17:11:22*
 <!-- END_NOW_PLAYING -->

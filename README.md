@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Man, The Myth - Seb Lowe — Half-decent
-- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 3 minutes ago
+- 🎵 **Now Playing:** Ain't Your Mama - Jennifer Lopez — Ain't Your Mama - Single
+- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - Just now
 
-*Last updated: 26-07-2025 21:42:41*
+*Last updated: 26-07-2025 21:43:56*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Glorious You (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
-- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 6 minutes ago
+- 🎵 **Now Playing:** Every Trick in the Book - The Allergies — Say the Word
+- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - Just now
 
-*Last updated: 26-07-2025 21:29:45*
+*Last updated: 26-07-2025 21:31:32*
 <!-- END_NOW_PLAYING -->

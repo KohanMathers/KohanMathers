@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Losing My Mind - The Chesspieces — Losing My Mind - Single
-- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 3 minutes ago
+- 🎵 **Now Playing:** Are You Okay - nihmune — Are You Okay?
+- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 4 minutes ago
 
-*Last updated: 26-07-2025 21:54:55*
+*Last updated: 26-07-2025 21:55:36*
 <!-- END_NOW_PLAYING -->

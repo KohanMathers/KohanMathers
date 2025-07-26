@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Time To Feast - Ironmouse, shirobeats & HalaCG — Time To Feast - Single
-- 💻 **Currently coding** in *JSON*, editing `token.json` (Project: TwitchAnnouncer) - 15 minutes ago
+- 💻 **Coding Status:** Not coding
 
-*Last updated: 26-07-2025 23:55:53*
+*Last updated: 27-07-2025 00:00:55*
 <!-- END_NOW_PLAYING -->

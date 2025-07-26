@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Every Trick in the Book - The Allergies — Say the Word
-- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - Just now
+- 🎵 **Now Playing:** There She Stood - Seb Lowe — There She Stood - Single
+- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 1 minutes ago
 
-*Last updated: 26-07-2025 21:31:32*
+*Last updated: 26-07-2025 21:34:42*
 <!-- END_NOW_PLAYING -->

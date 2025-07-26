@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** There She Stood - Seb Lowe — There She Stood - Single
-- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 1 minutes ago
+- 🎵 **Now Playing:** Nevermore (feat. Casey Lee Williams & Adrienne Cowan) - Jeff Williams — Songs Part Six
+- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 4 minutes ago
 
-*Last updated: 26-07-2025 21:34:48*
+*Last updated: 26-07-2025 21:37:52*
 <!-- END_NOW_PLAYING -->

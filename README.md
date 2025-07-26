@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Clint Eastwood - Gorillaz — Clint Eastwood - Single
-- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 8 minutes ago
+- 🎵 **Now Playing:** Teen Idle - Marina and The Diamonds — Electra Heart (Deluxe Video Version)
+- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 2 minutes ago
 
-*Last updated: 26-07-2025 21:59:58*
+*Last updated: 26-07-2025 22:04:46*
 <!-- END_NOW_PLAYING -->

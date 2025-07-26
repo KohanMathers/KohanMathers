@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Moonshine Hype (feat. HypeMan Sage) - Dutty Moonshine — Rum Runners
-- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 4 minutes ago
+- 🎵 **Now Playing:** Losing My Mind - The Chesspieces — Losing My Mind - Single
+- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - Just now
 
-*Last updated: 26-07-2025 21:47:31*
+*Last updated: 26-07-2025 21:52:05*
 <!-- END_NOW_PLAYING -->

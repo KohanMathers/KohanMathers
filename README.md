@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Mr. Brightside - The Killers — Hot Fuss
-- 💻 **Currently coding** in *Python*, editing `temp.py` (Project: TwitchAnnouncer) - 3 minutes ago
+- 🎵 **Now Playing:** So Am I - Ava Max — Heaven & Hell
+- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 1 minutes ago
 
-*Last updated: 26-07-2025 21:20:51*
+*Last updated: 26-07-2025 21:24:37*
 <!-- END_NOW_PLAYING -->

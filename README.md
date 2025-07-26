@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Long Live the Queen - Frank Turner — Love Ire & Song
-- 💻 **Last seen coding** in *Rust*, editing `client.rs` (Project: ProjectNeon) - 1h 7m ago
+- 💻 **Last seen coding** in *Rust*, editing `client.rs` (Project: ProjectNeon) - 1h 8m ago
 
-*Last updated: 26-07-2025 17:11:22*
+*Last updated: 26-07-2025 17:12:50*
 <!-- END_NOW_PLAYING -->

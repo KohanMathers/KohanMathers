@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Happened - Jo Ellen Pellman, Ariana DeBose, Nathaniel J. Potvin, Nico G...
-- 💻 **Currently coding** in *Python*, editing `temp.py` (Project: TwitchAnnouncer) - 6 minutes ago
+- 🎵 **Now Playing:** Jump in the Pool - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Currently coding** in *Python*, editing `temp.py` (Project: TwitchAnnouncer) - Just now
 
-*Last updated: 26-07-2025 20:55:17*
+*Last updated: 26-07-2025 20:58:26*
 <!-- END_NOW_PLAYING -->

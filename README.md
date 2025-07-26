@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** To That Land - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** Pitch Black - Subculture Sage — Big Smoke Autumn Blues
 - 💻 **Last seen coding** in *Python*, editing `commands.py` (Project: TwitchAnnouncer) - 51 minutes ago
 
-*Last updated: 26-07-2025 20:02:41*
+*Last updated: 26-07-2025 20:02:50*
 <!-- END_NOW_PLAYING -->

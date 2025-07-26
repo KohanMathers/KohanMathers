@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** 1=1=1 - Subculture Sage — Subculture Sage EP
-- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 10 minutes ago
+- 🎵 **Now Playing:** Convergence of Sin - Sinder & Sleeping Forest — Convergence of Sin - Single
+- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 15 minutes ago
 
-*Last updated: 26-07-2025 23:10:50*
+*Last updated: 26-07-2025 23:15:11*
 <!-- END_NOW_PLAYING -->

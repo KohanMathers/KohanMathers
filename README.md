@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Nevermore (feat. Casey Lee Williams & Adrienne Cowan) - Jeff Williams — Songs Part Six
-- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - Just now
+- 🎵 **Now Playing:** The Man, The Myth - Seb Lowe — Half-decent
+- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 3 minutes ago
 
-*Last updated: 26-07-2025 21:39:50*
+*Last updated: 26-07-2025 21:42:41*
 <!-- END_NOW_PLAYING -->

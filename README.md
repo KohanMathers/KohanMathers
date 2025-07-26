@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Sailor's Boots - Frank Turner — The Second Three Years
-- 💻 **Currently coding** in *JSON*, editing `token.json` (Project: TwitchAnnouncer) - 5 minutes ago
+- 🎵 **Now Playing:** Rat Shit - Seb Lowe — The Other Half - EP
+- 💻 **Currently coding** in *JSON*, editing `token.json` (Project: TwitchAnnouncer) - 6 minutes ago
 
-*Last updated: 26-07-2025 23:45:51*
+*Last updated: 26-07-2025 23:46:42*
 <!-- END_NOW_PLAYING -->

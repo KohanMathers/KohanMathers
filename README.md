@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Berry Dreams (feat. Bao the Whale) - nihmune — Are You Okay?
-- 💻 **Last seen coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 30 minutes ago
+- 🎵 **Now Playing:** Old Flames - Frank Turner — Ten for Ten
+- 💻 **Last seen coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 31 minutes ago
 
-*Last updated: 26-07-2025 23:30:42*
+*Last updated: 26-07-2025 23:30:56*
 <!-- END_NOW_PLAYING -->

@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Recovery - Frank Turner — Tape Deck Heart (Deluxe Edition)
-- 💻 **Currently coding** in *Python*, editing `commands.py` (Project: TwitchAnnouncer) - 2 minutes ago
+- 💻 **Currently coding** in *Python*, editing `temp.py` (Project: TwitchAnnouncer) - Just now
 
-*Last updated: 26-07-2025 20:44:23*
+*Last updated: 26-07-2025 20:49:26*
 <!-- END_NOW_PLAYING -->

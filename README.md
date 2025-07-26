@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Little Talks - Of Monsters and Men — My Head Is an Animal
-- 💻 **Last seen coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 18 minutes ago
+- 💻 **Last seen coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 20 minutes ago
 
-*Last updated: 26-07-2025 23:18:46*
+*Last updated: 26-07-2025 23:20:37*
 <!-- END_NOW_PLAYING -->

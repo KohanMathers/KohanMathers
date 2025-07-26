@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *JSON*, editing `token.json` (Project: TwitchAnnouncer) - Just now
+- 💻 **Currently coding** in *Python*, editing `commands.py` (Project: TwitchAnnouncer) - 2 minutes ago
 
-*Last updated: 26-07-2025 18:13:16*
+*Last updated: 26-07-2025 18:18:19*
 <!-- END_NOW_PLAYING -->

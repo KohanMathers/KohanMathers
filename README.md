@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Rat Shit - Seb Lowe — The Other Half - EP
-- 💻 **Currently coding** in *JSON*, editing `token.json` (Project: TwitchAnnouncer) - 6 minutes ago
+- 🎵 **Now Playing:** Time To Feast - Ironmouse, shirobeats & HalaCG — Time To Feast - Single
+- 💻 **Currently coding** in *JSON*, editing `token.json` (Project: TwitchAnnouncer) - 9 minutes ago
 
-*Last updated: 26-07-2025 23:46:42*
+*Last updated: 26-07-2025 23:49:52*
 <!-- END_NOW_PLAYING -->

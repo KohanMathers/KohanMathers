@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Last Living Souls - Gorillaz — Hip Hop at Fifty: Argentina Vol.2
-- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 5 minutes ago
+- 🎵 **Now Playing:** Love in Paradise - Jorge Rivera-Herrans, Barbara Wangui, Teagan Earley, Kira St...
+- 💻 **Currently coding** in *Python*, editing `bot.py` (Project: TwitchAnnouncer) - 6 minutes ago
 
-*Last updated: 26-07-2025 23:05:29*
+*Last updated: 26-07-2025 23:06:44*
 <!-- END_NOW_PLAYING -->

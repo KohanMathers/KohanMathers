@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Hypnotic - nihmune — Run from the Sun
+- 🎵 **Now Playing:** Bang Bang - Dutty Moonshine Big Band — Most Wanted
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 27-07-2025 03:14:41*
+*Last updated: 27-07-2025 03:14:56*
 <!-- END_NOW_PLAYING -->

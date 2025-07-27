@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Rebellion - hololive English -Advent- — Rebellion - Single
+- 🎵 **Now Playing:** Favorite Liar - The Wrecks — We Are the Wrecks - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 27-07-2025 18:13:54*
+*Last updated: 27-07-2025 18:17:41*
 <!-- END_NOW_PLAYING -->

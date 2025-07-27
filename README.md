@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Miss RGB - Bao The Whale, nihmune & Shylily — Miss RGB - Single
+- 🎵 **Now Playing:** Would You Fall in Love with Me Again - Jorge Rivera-Herrans & Anna Lea — EPIC: The Ithaca Saga (Off...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 27-07-2025 03:18:27*
+*Last updated: 27-07-2025 03:22:26*
 <!-- END_NOW_PLAYING -->

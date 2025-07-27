@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Give Me Your Attention - The Waiting — Pretty Little Liar - EP
+- 🎵 **Now Playing:** Why We Fight (1) - The Undercover Hippy — Why We Fight E.P. - EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 27-07-2025 16:55:22*
+*Last updated: 27-07-2025 16:58:36*
 <!-- END_NOW_PLAYING -->

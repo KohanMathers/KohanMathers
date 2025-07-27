@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Love You Like the Movies - Anthem Lights — Escape
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 27-07-2025 03:28:11*
+*Last updated: 27-07-2025 04:25:05*
 <!-- END_NOW_PLAYING -->

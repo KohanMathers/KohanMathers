@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Favorite Liar - The Wrecks — We Are the Wrecks - Single
+- 🎵 **Now Playing:** Hey Boy - The Undercover Hippy — Hey Boy - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 27-07-2025 18:17:41*
+*Last updated: 27-07-2025 18:21:45*
 <!-- END_NOW_PLAYING -->

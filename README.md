@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Bang Bang - Dutty Moonshine Big Band — Most Wanted
+- 🎵 **Now Playing:** Miss RGB - Bao The Whale, nihmune & Shylily — Miss RGB - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 27-07-2025 03:14:56*
+*Last updated: 27-07-2025 03:18:27*
 <!-- END_NOW_PLAYING -->

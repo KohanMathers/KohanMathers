@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Business, Please - Seb Lowe — The Other Half - EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 27-07-2025 04:25:05*
+*Last updated: 27-07-2025 16:54:11*
 <!-- END_NOW_PLAYING -->

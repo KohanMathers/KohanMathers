@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Why We Fight (1) - The Undercover Hippy — Why We Fight E.P. - EP
+- 🎵 **Now Playing:** 18 - Anarbor — Burnout (Deluxe Version)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 27-07-2025 16:58:36*
+*Last updated: 27-07-2025 18:06:40*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** One Take (Double Damage) [feat. Hypeman Sage] - Ade — One Take (Double Damage) [feat. Hypeman Sage] - Single
+- 🎵 **Now Playing:** Hypnotic - nihmune — Run from the Sun
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 27-07-2025 03:10:22*
+*Last updated: 27-07-2025 03:14:41*
 <!-- END_NOW_PLAYING -->

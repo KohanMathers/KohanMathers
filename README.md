@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Would You Fall in Love with Me Again - Jorge Rivera-Herrans & Anna Lea — EPIC: The Ithaca Saga (Off...
+- 🎵 **Now Playing:** Love You Like the Movies - Anthem Lights — Escape
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 27-07-2025 03:22:26*
+*Last updated: 27-07-2025 03:28:11*
 <!-- END_NOW_PLAYING -->

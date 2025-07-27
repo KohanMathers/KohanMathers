@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** 18 - Anarbor — Burnout (Deluxe Version)
+- 🎵 **Now Playing:** Rebellion - hololive English -Advent- — Rebellion - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 27-07-2025 18:06:40*
+*Last updated: 27-07-2025 18:13:54*
 <!-- END_NOW_PLAYING -->

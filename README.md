@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Time To Feast - Ironmouse, shirobeats & HalaCG — Time To Feast - Single
+- 🎵 **Now Playing:** One Take (Double Damage) [feat. Hypeman Sage] - Ade — One Take (Double Damage) [feat. Hypeman Sage] - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 27-07-2025 00:00:55*
+*Last updated: 27-07-2025 03:10:22*
 <!-- END_NOW_PLAYING -->

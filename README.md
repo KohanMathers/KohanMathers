@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Business, Please - Seb Lowe — The Other Half - EP
+- 🎵 **Now Playing:** Give Me Your Attention - The Waiting — Pretty Little Liar - EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 27-07-2025 16:54:11*
+*Last updated: 27-07-2025 16:55:22*
 <!-- END_NOW_PLAYING -->

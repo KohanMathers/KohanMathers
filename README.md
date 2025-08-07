@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Way I Tend To Be - Frank Turner — Tape Deck Heart (Deluxe Edition)
-- 💻 **Last seen coding** in *Java*, editing `DynamicCapPlugin.java` (Project: DynamicCap) - 14h 39m ago
+- 🎵 **Now Playing:** A Wave Across A Bay - Frank Turner — FTHC (Deluxe)
+- 💻 **Last seen coding** in *Java*, editing `DynamicCapPlugin.java` (Project: DynamicCap) - 14h 43m ago
 
-*Last updated: 07-08-2025 14:55:47*
+*Last updated: 07-08-2025 14:59:24*
 <!-- END_NOW_PLAYING -->

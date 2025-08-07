@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Poetry of the Deed - Frank Turner — Poetry of the Deed
+- 🎵 **Now Playing:** You Didn’t Know - Andrew Underberg, Various Artists — Hazbin Hotel (Original S...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 08-08-2025 00:31:22*
+*Last updated: 08-08-2025 00:34:49*
 <!-- END_NOW_PLAYING -->

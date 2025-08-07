@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Where We Sat (Skit) - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** Long Live the Queen - Frank Turner — Love Ire & Song
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 08-08-2025 00:26:08*
+*Last updated: 08-08-2025 00:27:53*
 <!-- END_NOW_PLAYING -->

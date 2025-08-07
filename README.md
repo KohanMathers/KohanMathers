@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Non Serviam - Frank Turner — FTHC (Deluxe)
+- 🎵 **Now Playing:** Recovery - Frank Turner — Tape Deck Heart (Deluxe Edition)
 - 💻 **Last seen coding** in *Java*, editing `DynamicCapPlugin.java` (Project: DynamicCap) - 14h 58m ago
 
-*Last updated: 07-08-2025 15:14:18*
+*Last updated: 07-08-2025 15:14:28*
 <!-- END_NOW_PLAYING -->

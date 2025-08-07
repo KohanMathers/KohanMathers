@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Forever Friends (feat. Elijah & Melody Snowflake) - Meelz — Star-Crossed Trilogy - EP
+- 🎵 **Now Playing:** Out of Breath (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 08-08-2025 00:50:43*
+*Last updated: 08-08-2025 00:50:54*
 <!-- END_NOW_PLAYING -->

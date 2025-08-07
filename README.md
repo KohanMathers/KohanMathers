@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 8h 30m ago
+- 💻 **Coding Status:** Not coding
 
-*Last updated: 07-08-2025 23:59:43*
+*Last updated: 08-08-2025 00:04:45*
 <!-- END_NOW_PLAYING -->

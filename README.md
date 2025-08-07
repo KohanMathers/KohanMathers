@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Sewer Anthem - Subculture Sage — Subculture Sage EP
+- 🎵 **Now Playing:** Call Me Maybe - Carly Rae Jepsen — Call Me Maybe - EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 08-08-2025 00:16:02*
+*Last updated: 08-08-2025 00:19:58*
 <!-- END_NOW_PLAYING -->

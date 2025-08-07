@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Call Me Maybe - Carly Rae Jepsen — Call Me Maybe - EP
+- 🎵 **Now Playing:** Get Better (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 08-08-2025 00:19:58*
+*Last updated: 08-08-2025 00:23:19*
 <!-- END_NOW_PLAYING -->

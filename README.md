@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Recovery - Frank Turner — Tape Deck Heart (Deluxe Edition)
-- 💻 **Currently coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - Just now
+- 💻 **Currently coding** in *JSON*, editing `human.json` (Project: TeacupOrigins) - 3 minutes ago
 
-*Last updated: 07-08-2025 15:20:58*
+*Last updated: 07-08-2025 15:26:00*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Somebody to Love - Frank Turner — I Still Believe - Single
-- 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 5h 39m ago
+- 🎵 **Now Playing:** The Ballad of Me and My Friends - Frank Turner — Campfire Punkrock
+- 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 5h 43m ago
 
-*Last updated: 07-08-2025 21:08:30*
+*Last updated: 07-08-2025 21:12:38*
 <!-- END_NOW_PLAYING -->

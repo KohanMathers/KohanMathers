@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Recovery - Frank Turner — Tape Deck Heart (Deluxe Edition)
-- 💻 **Last seen coding** in *Java*, editing `DynamicCapPlugin.java` (Project: DynamicCap) - 14h 58m ago
+- 💻 **Currently coding** in *Java*, editing `BouncyAbility.java` (Project: TeacupOrigins) - 1 minutes ago
 
-*Last updated: 07-08-2025 15:14:28*
+*Last updated: 07-08-2025 15:15:56*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Didn’t Know - Andrew Underberg, Various Artists — Hazbin Hotel (Original S...
+- 🎵 **Now Playing:** When the Sun Goes Down - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 08-08-2025 00:34:49*
+*Last updated: 08-08-2025 00:34:53*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Road - Frank Turner — Poetry of the Deed
-- 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 5h 34m ago
+- 🎵 **Now Playing:** You Are My Sunshine - Frank Turner — Jonah Matranga / Frank Turner - EP
+- 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 5h 35m ago
 
-*Last updated: 07-08-2025 21:03:25*
+*Last updated: 07-08-2025 21:04:07*
 <!-- END_NOW_PLAYING -->

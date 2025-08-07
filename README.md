@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** If Ever I Stray - Frank Turner — England Keep My Bones
-- 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 5h 46m ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 5h 49m ago
 
-*Last updated: 07-08-2025 21:15:13*
+*Last updated: 07-08-2025 21:18:06*
 <!-- END_NOW_PLAYING -->

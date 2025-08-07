@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Demons - Frank Turner — Positive Songs for Negative People
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 08-08-2025 00:04:45*
+*Last updated: 08-08-2025 00:12:00*
 <!-- END_NOW_PLAYING -->

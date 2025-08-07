@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Letters - Frank Turner — Letters - Single
 - 💻 **Last seen coding** in *Java*, editing `DynamicCapPlugin.java` (Project: DynamicCap) - 14h 36m ago
 
-*Last updated: 07-08-2025 14:52:21*
+*Last updated: 07-08-2025 14:52:29*
 <!-- END_NOW_PLAYING -->

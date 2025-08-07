@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Little Wolf - Jorge Rivera-Herrans, Various Artists — EPIC: The Wisdom Sag...
+- 🎵 **Now Playing:** Why We Fight (1) - The Undercover Hippy — Why We Fight E.P. - EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 08-08-2025 00:56:38*
+*Last updated: 08-08-2025 00:59:53*
 <!-- END_NOW_PLAYING -->

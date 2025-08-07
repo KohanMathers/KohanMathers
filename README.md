@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Polaroid Picture - Frank Turner — Tape Deck Heart (Deluxe Edition)
-- 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 5h 14m ago
+- 🎵 **Now Playing:** Reasons Not to Be an Idiot - Frank Turner — Love Ire & Song
+- 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 5h 15m ago
 
-*Last updated: 07-08-2025 20:43:15*
+*Last updated: 07-08-2025 20:43:59*
 <!-- END_NOW_PLAYING -->

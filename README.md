@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Losing Days - Frank Turner — Tape Deck Heart (Deluxe Edition)
-- 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 5h 24m ago
+- 🎵 **Now Playing:** Buddies - Frank Turner & Jon Snodgrass — Buddies
+- 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 5h 27m ago
 
-*Last updated: 07-08-2025 20:53:21*
+*Last updated: 07-08-2025 20:56:44*
 <!-- END_NOW_PLAYING -->

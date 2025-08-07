@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** everything sucks - vaultboy — everything sucks - Single
+- 🎵 **Now Playing:** Forever Friends (feat. Elijah & Melody Snowflake) - Meelz — Star-Crossed Trilogy - EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 08-08-2025 00:48:43*
+*Last updated: 08-08-2025 00:50:43*
 <!-- END_NOW_PLAYING -->

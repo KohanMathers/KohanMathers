@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Out of Breath (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 🎵 **Now Playing:** Lay All Your Love On Me - Dominic Cooper & Amanda Seyfried — Mamma Mia! The Movie Soun...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 08-08-2025 00:50:54*
+*Last updated: 08-08-2025 00:50:58*
 <!-- END_NOW_PLAYING -->

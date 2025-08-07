@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Sailor's Boots - Frank Turner — England Keep My Bones
-- 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 4h 59m ago
+- 🎵 **Now Playing:** Poetry of the Deed - Frank Turner — Poetry of the Deed
+- 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 5 hours ago
 
-*Last updated: 07-08-2025 20:28:09*
+*Last updated: 07-08-2025 20:29:43*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Still Believe - Frank Turner — England Keep My Bones
+- 🎵 **Now Playing:** Rivers - Frank Turner — England Keep My Bones
 - 💻 **Last seen coding** in *Java*, editing `DynamicCapPlugin.java` (Project: DynamicCap) - 14h 29m ago
 
-*Last updated: 07-08-2025 14:45:47*
+*Last updated: 07-08-2025 14:46:12*
 <!-- END_NOW_PLAYING -->

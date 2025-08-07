@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** everything sucks - vaultboy — everything sucks - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 08-08-2025 00:44:53*
+*Last updated: 08-08-2025 00:48:43*
 <!-- END_NOW_PLAYING -->

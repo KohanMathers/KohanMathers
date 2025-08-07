@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Make Me Feel - EASHA — You Make Me Feel - Single
+- 🎵 **Now Playing:** Fluorescent Adolescent - Arctic Monkeys — Favourite Worst Nightmare
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 08-08-2025 00:38:12*
+*Last updated: 08-08-2025 00:41:22*
 <!-- END_NOW_PLAYING -->

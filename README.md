@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Peggy Sang the Blues - Frank Turner — England Keep My Bones
-- 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 5h 20m ago
+- 🎵 **Now Playing:** Losing Days - Frank Turner — Tape Deck Heart (Deluxe Edition)
+- 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 5h 24m ago
 
-*Last updated: 07-08-2025 20:49:37*
+*Last updated: 07-08-2025 20:53:07*
 <!-- END_NOW_PLAYING -->

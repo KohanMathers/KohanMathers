@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** When the Sun Goes Down - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
+- 🎵 **Now Playing:** You Make Me Feel - EASHA — You Make Me Feel - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 08-08-2025 00:34:53*
+*Last updated: 08-08-2025 00:38:12*
 <!-- END_NOW_PLAYING -->

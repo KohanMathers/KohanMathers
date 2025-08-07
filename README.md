@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** A Wave Across A Bay - Frank Turner — FTHC (Deluxe)
-- 💻 **Last seen coding** in *Java*, editing `DynamicCapPlugin.java` (Project: DynamicCap) - 14h 44m ago
+- 🎵 **Now Playing:** The Graveyard of the Outcast Dead - Frank Turner — No Man's Land
+- 💻 **Last seen coding** in *Java*, editing `DynamicCapPlugin.java` (Project: DynamicCap) - 14h 46m ago
 
-*Last updated: 07-08-2025 15:00:49*
+*Last updated: 07-08-2025 15:03:08*
 <!-- END_NOW_PLAYING -->

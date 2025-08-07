@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Buddies - Frank Turner & Jon Snodgrass — Buddies
-- 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 5h 29m ago
+- 🎵 **Now Playing:** The Road - Frank Turner — Poetry of the Deed
+- 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 5h 31m ago
 
-*Last updated: 07-08-2025 20:58:23*
+*Last updated: 07-08-2025 21:00:11*
 <!-- END_NOW_PLAYING -->

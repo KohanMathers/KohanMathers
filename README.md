@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Ballad of Me and My Friends - Frank Turner — Campfire Punkrock
-- 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 5h 44m ago
+- 🎵 **Now Playing:** If Ever I Stray - Frank Turner — England Keep My Bones
+- 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 5h 46m ago
 
-*Last updated: 07-08-2025 21:13:30*
+*Last updated: 07-08-2025 21:15:13*
 <!-- END_NOW_PLAYING -->

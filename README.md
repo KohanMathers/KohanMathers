@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Are My Sunshine - Frank Turner — Jonah Matranga / Frank Turner - EP
+- 🎵 **Now Playing:** Somebody to Love - Frank Turner — I Still Believe - Single
 - 💻 **Last seen coding** in *Java*, editing `NightVisionToggleAbility.java` (Project: TeacupOrigins) - 5h 39m ago
 
-*Last updated: 07-08-2025 21:08:27*
+*Last updated: 07-08-2025 21:08:30*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Outrunning Karma - Alec Benjamin — Good Enough: Sad Pop Songs
+- 🎵 **Now Playing:** Fictional - Khloe Rose — Fictional - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 08-08-2025 01:12:38*
+*Last updated: 08-08-2025 01:15:47*
 <!-- END_NOW_PLAYING -->

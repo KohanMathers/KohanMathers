@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: TeacupOrigins) - 12 minutes ago
+- 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: TeacupOrigins) - 17 minutes ago
 
-*Last updated: 08-08-2025 15:06:52*
+*Last updated: 08-08-2025 15:11:55*
 <!-- END_NOW_PLAYING -->

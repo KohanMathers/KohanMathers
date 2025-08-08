@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Torn - Ava Max — Heaven & Hell
+- 🎵 **Now Playing:** Outrunning Karma - Alec Benjamin — Good Enough: Sad Pop Songs
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 08-08-2025 01:09:18*
+*Last updated: 08-08-2025 01:12:38*
 <!-- END_NOW_PLAYING -->

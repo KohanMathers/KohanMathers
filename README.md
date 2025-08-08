@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Why We Fight (1) - The Undercover Hippy — Why We Fight E.P. - EP
+- 🎵 **Now Playing:** As We Do Our Thing - The Allergies — As We Do Our Thing
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 08-08-2025 00:59:53*
+*Last updated: 08-08-2025 01:05:12*
 <!-- END_NOW_PLAYING -->

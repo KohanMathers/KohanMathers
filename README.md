@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Give Me Your Attention - The Waiting — Pretty Little Liar - EP
+- 🎵 **Now Playing:** Pancakes for Dinner - Lizzy McAlpine — Give Me A Minute
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 08-08-2025 01:19:28*
+*Last updated: 08-08-2025 01:22:47*
 <!-- END_NOW_PLAYING -->

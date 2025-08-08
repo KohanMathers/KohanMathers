@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fictional - Khloe Rose — Fictional - Single
+- 🎵 **Now Playing:** Give Me Your Attention - The Waiting — Pretty Little Liar - EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 08-08-2025 01:15:47*
+*Last updated: 08-08-2025 01:19:28*
 <!-- END_NOW_PLAYING -->

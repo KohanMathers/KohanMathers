@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Favorite Liar - The Wrecks — We Are the Wrecks - Single
-- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: ClockTower) - Just now
+- 🎵 **Now Playing:** Clint Eastwood - Gorillaz — Clint Eastwood - Single
+- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: ClockTower) - 3 minutes ago
 
-*Last updated: 09-08-2025 18:53:20*
+*Last updated: 09-08-2025 18:56:42*
 <!-- END_NOW_PLAYING -->

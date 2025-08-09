@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Road - Frank Turner — Poetry of the Deed
+- 🎵 **Now Playing:** Get Better (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 09-08-2025 18:30:53*
+*Last updated: 09-08-2025 18:34:52*
 <!-- END_NOW_PLAYING -->

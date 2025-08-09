@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Get Better (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 🎵 **Now Playing:** Salt - Ava Max — Heaven & Hell
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 09-08-2025 18:34:52*
+*Last updated: 09-08-2025 18:37:42*
 <!-- END_NOW_PLAYING -->

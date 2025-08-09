@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Superhero (Junior Eurovision 2019 / Poland) - Viki Gabor — Superhero (Junior Eurovision 2019 / Poland) - S...
-- 💻 **Coding Status:** Not coding
+- 🎵 **Now Playing:** Full Disclosure (feat. Zach Callison) - Steven Universe — Steven Universe, Vol. 1 (Original Soundtrack)
+- 💻 **Currently coding** in *Java*, editing `ClockTowerPlugin.java` (Project: ClockTower) - Just now
 
-*Last updated: 09-08-2025 18:48:02*
+*Last updated: 09-08-2025 18:51:02*
 <!-- END_NOW_PLAYING -->

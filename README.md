@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Glorious You - Frank Turner — Positive Songs for Negative People
+- 🎵 **Now Playing:** Hell Is Forever - Andrew Underberg, Sam Haft, Alex Brightman & Erika Henningse...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 09-08-2025 18:15:01*
+*Last updated: 09-08-2025 18:18:13*
 <!-- END_NOW_PLAYING -->

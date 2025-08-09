@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Zazou (feat. HypeMan Sage) - Smokey Joe & The Kid — Nasty Tricks
+- 🎵 **Now Playing:** iPhone - Seb Lowe — Half-decent
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 09-08-2025 18:22:23*
+*Last updated: 09-08-2025 18:27:17*
 <!-- END_NOW_PLAYING -->

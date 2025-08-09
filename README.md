@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Keep Your Friends Close - Jorge Rivera-Herrans, Various Artists — EPIC: The Ocean Saga...
-- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: ClockTower) - 10 minutes ago
+- 🎵 **Now Playing:** Josephine (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: ClockTower) - 12 minutes ago
 
-*Last updated: 09-08-2025 19:08:26*
+*Last updated: 09-08-2025 19:10:21*
 <!-- END_NOW_PLAYING -->

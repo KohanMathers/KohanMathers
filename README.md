@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Clint Eastwood - Gorillaz — Clint Eastwood - Single
-- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: ClockTower) - 3 minutes ago
+- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: ClockTower) - Just now
 
-*Last updated: 09-08-2025 18:56:42*
+*Last updated: 09-08-2025 18:58:22*
 <!-- END_NOW_PLAYING -->

@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Favorite Liar - The Wrecks — We Are the Wrecks - Single
-- 💻 **Currently coding** in *Java*, editing `ClockTowerPlugin.java` (Project: ClockTower) - 1 minutes ago
+- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: ClockTower) - Just now
 
-*Last updated: 09-08-2025 18:52:37*
+*Last updated: 09-08-2025 18:53:20*
 <!-- END_NOW_PLAYING -->

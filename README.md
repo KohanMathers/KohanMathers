@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** iPhone - Seb Lowe — Half-decent
+- 🎵 **Now Playing:** The Road - Frank Turner — Poetry of the Deed
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 09-08-2025 18:27:17*
+*Last updated: 09-08-2025 18:30:53*
 <!-- END_NOW_PLAYING -->

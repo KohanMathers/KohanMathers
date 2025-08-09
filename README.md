@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Little Changes - Frank Turner — Be More Kind
+- 🎵 **Now Playing:** Last Living Souls - Gorillaz — Hip Hop at Fifty: Argentina Vol.2
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 09-08-2025 17:36:47*
+*Last updated: 09-08-2025 18:11:37*
 <!-- END_NOW_PLAYING -->

@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** 1933 - Frank Turner — Be More Kind
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 09-08-2025 00:00:52*
+*Last updated: 09-08-2025 17:33:44*
 <!-- END_NOW_PLAYING -->

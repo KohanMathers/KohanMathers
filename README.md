@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Bang Bang - Dutty Moonshine Big Band — Most Wanted
+- 🎵 **Now Playing:** Sewer Anthem - Subculture Sage — Subculture Sage EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 09-08-2025 18:40:42*
+*Last updated: 09-08-2025 18:44:12*
 <!-- END_NOW_PLAYING -->

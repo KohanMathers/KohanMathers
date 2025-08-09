@@ -47,7 +47,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Be More Kind - Frank Turner — Be More Kind
-- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: ClockTower) - 36 minutes ago
+- 💻 **Currently coding** in *Java*, editing `ClockTowerPlugin.java` (Project: ClockTower) - 1 minutes ago
 
-*Last updated: 09-08-2025 19:33:36*
+*Last updated: 09-08-2025 19:38:38*
 <!-- END_NOW_PLAYING -->

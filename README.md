@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Old Flames - Frank Turner — Ten for Ten
-- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: ClockTower) - 5 minutes ago
+- 🎵 **Now Playing:** Keep Your Friends Close - Jorge Rivera-Herrans, Various Artists — EPIC: The Ocean Saga...
+- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: ClockTower) - 8 minutes ago
 
-*Last updated: 09-08-2025 19:03:24*
+*Last updated: 09-08-2025 19:06:16*
 <!-- END_NOW_PLAYING -->

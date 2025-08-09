@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Where We Sat (Skit) - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** Zazou (feat. HypeMan Sage) - Smokey Joe & The Kid — Nasty Tricks
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 09-08-2025 18:20:32*
+*Last updated: 09-08-2025 18:22:23*
 <!-- END_NOW_PLAYING -->

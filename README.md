@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Full Disclosure (feat. Zach Callison) - Steven Universe — Steven Universe, Vol. 1 (Original Soundtrack)
-- 💻 **Currently coding** in *Java*, editing `ClockTowerPlugin.java` (Project: ClockTower) - Just now
+- 🎵 **Now Playing:** Favorite Liar - The Wrecks — We Are the Wrecks - Single
+- 💻 **Currently coding** in *Java*, editing `ClockTowerPlugin.java` (Project: ClockTower) - 1 minutes ago
 
-*Last updated: 09-08-2025 18:51:02*
+*Last updated: 09-08-2025 18:52:37*
 <!-- END_NOW_PLAYING -->

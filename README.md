@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Josephine (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
-- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: ClockTower) - 15 minutes ago
+- 🎵 **Now Playing:** Be More Kind - Frank Turner — Be More Kind
+- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: ClockTower) - 16 minutes ago
 
-*Last updated: 09-08-2025 19:13:28*
+*Last updated: 09-08-2025 19:13:51*
 <!-- END_NOW_PLAYING -->

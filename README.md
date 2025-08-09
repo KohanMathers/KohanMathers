@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Last Living Souls - Gorillaz — Hip Hop at Fifty: Argentina Vol.2
+- 🎵 **Now Playing:** Glorious You - Frank Turner — Positive Songs for Negative People
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 09-08-2025 18:11:37*
+*Last updated: 09-08-2025 18:15:01*
 <!-- END_NOW_PLAYING -->

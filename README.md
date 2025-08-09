@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Hell Is Forever - Andrew Underberg, Sam Haft, Alex Brightman & Erika Henningse...
+- 🎵 **Now Playing:** Where We Sat (Skit) - Subculture Sage — Big Smoke Autumn Blues
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 09-08-2025 18:18:13*
+*Last updated: 09-08-2025 18:20:32*
 <!-- END_NOW_PLAYING -->

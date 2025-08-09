@@ -46,8 +46,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Salt - Ava Max — Heaven & Hell
+- 🎵 **Now Playing:** Bang Bang - Dutty Moonshine Big Band — Most Wanted
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 09-08-2025 18:37:42*
+*Last updated: 09-08-2025 18:40:42*
 <!-- END_NOW_PLAYING -->

@@ -29,7 +29,6 @@ a game studio where being generic was never an option.
 
 **Languages**: Java , Kotlin, Rust, Python, PaperBag (yes I count it)  
 **Tools**: SSH, Notepad++, Git, Linux, Terminal  
-**Philosophy**: Minimalism > Bloat. Custom protocols. Data hoarding. Build from scratch.
 
 ```txt
 > socials

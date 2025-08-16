@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Only Exception - Paramore — Sounds of the 00s
+- 🎵 **Now Playing:** Give Me Your Attention - The Waiting — Pretty Little Liar - EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-08-2025 00:04:57*
+*Last updated: 17-08-2025 00:09:26*
 <!-- END_NOW_PLAYING -->

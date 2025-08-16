@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Running from the Thoughts - Dub Pistols featuring Terry Hall — Speakers and Tweeters
+- 🎵 **Now Playing:** The Only Exception - Paramore — Sounds of the 00s
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-08-2025 00:00:50*
+*Last updated: 17-08-2025 00:04:57*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Be More Kind - Frank Turner — Be More Kind
-- 💻 **Last seen coding** in *Java*, editing `ClockTowerPlugin.java` (Project: ClockTower) - 2h 12m ago
+- 🎵 **Now Playing:** Formula 1 Theme - Brian Tyler — Formula 1 Theme - Single
+- 💻 **Last seen coding** in *HTML*, editing `qti.html` (Project: Teacup) - 8h 41m ago
 
-*Last updated: 09-08-2025 21:49:37*
+*Last updated: 16-08-2025 23:59:07*
 <!-- END_NOW_PLAYING -->

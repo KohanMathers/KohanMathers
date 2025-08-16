@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Formula 1 Theme - Brian Tyler — Formula 1 Theme - Single
-- 💻 **Last seen coding** in *HTML*, editing `qti.html` (Project: Teacup) - 8h 41m ago
+- 🎵 **Now Playing:** Running from the Thoughts - Dub Pistols featuring Terry Hall — Speakers and Tweeters
+- 💻 **Coding Status:** Not coding
 
-*Last updated: 16-08-2025 23:59:07*
+*Last updated: 17-08-2025 00:00:50*
 <!-- END_NOW_PLAYING -->

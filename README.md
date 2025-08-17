@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Nevermore (feat. Casey Lee Williams & Adrienne Cowan) - Jeff Williams — Songs Part Six
-- 💻 **Currently coding** in *TypeScript*, editing `parser.ts` (Project: Brew) - 1 minutes ago
+- 🎵 **Now Playing:** Upper Class - Seb Lowe — The Other Half - EP
+- 💻 **Currently coding** in *TypeScript*, editing `parser.ts` (Project: Brew) - Just now
 
-*Last updated: 18-08-2025 00:52:39*
+*Last updated: 18-08-2025 00:54:06*
 <!-- END_NOW_PLAYING -->

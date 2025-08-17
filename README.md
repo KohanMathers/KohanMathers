@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Superhero (Junior Eurovision 2019 / Poland) - Viki Gabor — Superhero (Junior Eurovision 2019 / Poland) - S...
+- 🎵 **Now Playing:** I Still Believe - Frank Turner — England Keep My Bones
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-08-2025 03:08:49*
+*Last updated: 17-08-2025 03:10:04*
 <!-- END_NOW_PLAYING -->

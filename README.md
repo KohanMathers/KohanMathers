@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Don't Worry - Frank Turner — Be More Kind
+- 🎵 **Now Playing:** Red Like Roses, Pt. 2 (feat. Casey Lee Williams & Sandy Casey) - Jeff Williams — Songs Part One (feat. Casey Lee Williams)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-08-2025 03:26:43*
+*Last updated: 17-08-2025 03:27:04*
 <!-- END_NOW_PLAYING -->

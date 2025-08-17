@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Respectless - Andrew Underberg, Sam Haft, Daphne Rubin-Vega, Lilli Cooper ...
-- 💻 **Currently coding** in *TypeScript*, editing `main.ts` (Project: Brew) - 1 minutes ago
+- 🎵 **Now Playing:** Freaking Me Out - Ava Max — Freaking Me Out - Single
+- 💻 **Currently coding** in *TypeScript*, editing `main.ts` (Project: Brew) - 3 minutes ago
 
-*Last updated: 18-08-2025 00:44:26*
+*Last updated: 18-08-2025 00:46:02*
 <!-- END_NOW_PLAYING -->

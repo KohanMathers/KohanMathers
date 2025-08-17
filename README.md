@@ -27,7 +27,7 @@ a game studio where being generic was never an option.
 > tech
 ```
 
-**Languages**: Java , Kotlin, Rust, Python, PaperBag (yes I count it)  
+**Languages**: Java , Kotlin, Rust, Python, Brew (yes I count it)  
 **Tools**: SSH, Notepad++, Git, Linux, Terminal  
 
 ```txt

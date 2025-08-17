@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Miss RGB - Bao The Whale, nihmune & Shylily — Miss RGB - Single
+- 🎵 **Now Playing:** Little Changes - Frank Turner — Be More Kind
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-08-2025 03:11:34*
+*Last updated: 17-08-2025 03:11:40*
 <!-- END_NOW_PLAYING -->

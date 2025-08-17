@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Mate Like That - The Undercover Hippy — Truth & Fiction
+- 🎵 **Now Playing:** Love Forty Down - Frank Turner — Positive Songs for Negative People
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-08-2025 03:01:24*
+*Last updated: 17-08-2025 03:04:17*
 <!-- END_NOW_PLAYING -->

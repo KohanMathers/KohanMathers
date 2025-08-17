@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alone, Pt. II - Alan Walker & Ava Max — Alone, Pt. II - Single
+- 🎵 **Now Playing:** Superhero (Junior Eurovision 2019 / Poland) - Viki Gabor — Superhero (Junior Eurovision 2019 / Poland) - S...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-08-2025 03:06:44*
+*Last updated: 17-08-2025 03:08:49*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** On Accident - Nico Collins — On Accident - Single
+- 🎵 **Now Playing:** Miss RGB - Bao The Whale, nihmune & Shylily — Miss RGB - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-08-2025 03:10:28*
+*Last updated: 17-08-2025 03:11:34*
 <!-- END_NOW_PLAYING -->

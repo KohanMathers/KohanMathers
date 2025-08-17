@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Don't Lose Ur Head (feat. Christina Modestou) - SIX — Six: The Musical (Studio Cast Recording)
-- 💻 **Currently coding** in *TypeScript*, editing `compiler.ts` (Project: PaperBag) - 2 minutes ago
+- 🎵 **Now Playing:** Haunted (Taylor's Version) - Taylor Swift — Speak Now (Taylor's Version)
+- 💻 **Currently coding** in *TypeScript*, editing `main.ts` (Project: Brew) - 2 minutes ago
 
-*Last updated: 18-08-2025 00:32:45*
+*Last updated: 18-08-2025 00:36:52*
 <!-- END_NOW_PLAYING -->

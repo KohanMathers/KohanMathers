@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Upper Class - Seb Lowe — The Other Half - EP
-- 💻 **Currently coding** in *TypeScript*, editing `parser.ts` (Project: Brew) - Just now
+- 🎵 **Now Playing:** There Are Other Ways - Jorge Rivera-Herrans, Talya Sindel & Cast of EPIC: The Music...
+- 💻 **Currently coding** in *TypeScript*, editing `expressions.ts` (Project: Brew) - Just now
 
-*Last updated: 18-08-2025 00:54:06*
+*Last updated: 18-08-2025 00:56:41*
 <!-- END_NOW_PLAYING -->

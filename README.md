@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Sister Rosetta - Frank Turner — No Man's Land
+- 🎵 **Now Playing:** On Accident - Nico Collins — On Accident - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-08-2025 03:10:23*
+*Last updated: 17-08-2025 03:10:28*
 <!-- END_NOW_PLAYING -->

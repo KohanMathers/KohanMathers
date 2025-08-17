@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Recovery - Frank Turner — Tape Deck Heart (Deluxe Edition)
-- 💻 **Currently coding** in *TypeScript*, editing `main.ts` (Project: Brew) - Just now
+- 🎵 **Now Playing:** Respectless - Andrew Underberg, Sam Haft, Daphne Rubin-Vega, Lilli Cooper ...
+- 💻 **Currently coding** in *TypeScript*, editing `main.ts` (Project: Brew) - 1 minutes ago
 
-*Last updated: 18-08-2025 00:42:36*
+*Last updated: 18-08-2025 00:44:26*
 <!-- END_NOW_PLAYING -->

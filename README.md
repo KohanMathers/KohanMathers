@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Uh Oh - Junior Doctor — Clumsy Words and Bad Pickup Lines
+- 🎵 **Now Playing:** We Are the People - Empire Of The Sun — Walking On a Dream (Special Edition)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-08-2025 03:15:08*
+*Last updated: 17-08-2025 03:18:52*
 <!-- END_NOW_PLAYING -->

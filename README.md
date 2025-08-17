@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Jump in the Pool - Subculture Sage — Big Smoke Autumn Blues
 - 💻 **Currently coding** in *TypeScript*, editing `main.ts` (Project: PaperBag) - 6 minutes ago
 
-*Last updated: 18-08-2025 00:22:27*
+*Last updated: 18-08-2025 00:22:48*
 <!-- END_NOW_PLAYING -->

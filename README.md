@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Haunted (Taylor's Version) - Taylor Swift — Speak Now (Taylor's Version)
-- 💻 **Currently coding** in *TypeScript*, editing `main.ts` (Project: Brew) - 3 minutes ago
+- 🎵 **Now Playing:** Recovery - Frank Turner — Tape Deck Heart (Deluxe Edition)
+- 💻 **Currently coding** in *Java*, editing `Test.java` (Project: Brew) - 1 minutes ago
 
-*Last updated: 18-08-2025 00:37:34*
+*Last updated: 18-08-2025 00:40:57*
 <!-- END_NOW_PLAYING -->

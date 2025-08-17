@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Clint Eastwood - Gorillaz — Clint Eastwood - Single
+- 🎵 **Now Playing:** Don't Lose Ur Head (feat. Christina Modestou) - SIX — Six: The Musical (Studio Cast Recording)
 - 💻 **Currently coding** in *TypeScript*, editing `compiler.ts` (Project: PaperBag) - 2 minutes ago
 
-*Last updated: 18-08-2025 00:32:32*
+*Last updated: 18-08-2025 00:32:45*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Give Me Your Attention - The Waiting — Pretty Little Liar - EP
+- 🎵 **Now Playing:** Wheelspin - mustbejohn — Wheelspin - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-08-2025 00:12:33*
+*Last updated: 17-08-2025 02:02:02*
 <!-- END_NOW_PLAYING -->

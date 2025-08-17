@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Wheelspin - mustbejohn — Wheelspin - Single
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-08-2025 02:02:02*
+*Last updated: 17-08-2025 02:48:49*
 <!-- END_NOW_PLAYING -->

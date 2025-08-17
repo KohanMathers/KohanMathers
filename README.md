@@ -20,7 +20,7 @@ a game studio where being generic was never an option.
 
 - 🔧 **[Wrench](https://github.com/kohanmathers)** – Custom Minecraft server engine built from scratch with Minestom.
 - 🏷️ **[PlaceholderNametags](https://www.spigotmc.org/resources/placeholdernametags.125083/)** – Use PlaceholderAPI placeholders in nametags.
-- 💻 **[PaperBag](https://github.com/KohanMathers/PaperBag/)** – A simplified Java-esque language made for Wrench and Bukkit plugins.
+- 💻 **[Brew](https://github.com/KohanMathers/PaperBag/)** – A simplified Java-esque language made for Wrench and Bukkit plugins.
 - 🤖 **[Discord Bots](https://discord.gg/FZuVXszuuM)** – TwitchAnnouncer, MemberMessenger, and more.
 
 ```txt

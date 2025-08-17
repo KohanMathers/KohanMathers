@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Opening Act of Spring (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 🎵 **Now Playing:** Mate Like That - The Undercover Hippy — Truth & Fiction
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-08-2025 03:01:20*
+*Last updated: 17-08-2025 03:01:24*
 <!-- END_NOW_PLAYING -->

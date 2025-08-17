@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Recovery - Frank Turner — Tape Deck Heart (Deluxe Edition)
-- 💻 **Currently coding** in *Java*, editing `Test.java` (Project: Brew) - 1 minutes ago
+- 💻 **Currently coding** in *TypeScript*, editing `main.ts` (Project: Brew) - Just now
 
-*Last updated: 18-08-2025 00:40:57*
+*Last updated: 18-08-2025 00:42:36*
 <!-- END_NOW_PLAYING -->

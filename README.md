@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Sister Rosetta - Frank Turner — No Man's Land
-- 💻 **Currently coding** in *TypeScript*, editing `main.ts` (Project: PaperBag) - 7 minutes ago
+- 🎵 **Now Playing:** Clint Eastwood - Gorillaz — Clint Eastwood - Single
+- 💻 **Currently coding** in *TypeScript*, editing `environment.ts` (Project: PaperBag) - 3 minutes ago
 
-*Last updated: 18-08-2025 00:22:57*
+*Last updated: 18-08-2025 00:26:51*
 <!-- END_NOW_PLAYING -->

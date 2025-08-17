@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Struttin' - Thumpasaurus — Thumpaverse
+- 🎵 **Now Playing:** Don't Worry - Frank Turner — Be More Kind
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 17-08-2025 03:22:54*
+*Last updated: 17-08-2025 03:26:43*
 <!-- END_NOW_PLAYING -->

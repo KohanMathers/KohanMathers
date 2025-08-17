@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Freaking Me Out - Ava Max — Freaking Me Out - Single
-- 💻 **Currently coding** in *TypeScript*, editing `main.ts` (Project: Brew) - 3 minutes ago
+- 🎵 **Now Playing:** Nevermore (feat. Casey Lee Williams & Adrienne Cowan) - Jeff Williams — Songs Part Six
+- 💻 **Currently coding** in *TypeScript*, editing `ast.ts` (Project: Brew) - Just now
 
-*Last updated: 18-08-2025 00:46:02*
+*Last updated: 18-08-2025 00:49:12*
 <!-- END_NOW_PLAYING -->

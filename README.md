@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Vacation Bible School - Ayesha Erotica — Horny.4U
-- 💻 **Currently coding** in *TypeScript*, editing `functions.ts` (Project: Brew) - Just now
+- 💻 **Currently coding** in *TypeScript*, editing `environment.ts` (Project: Brew) - Just now
 
-*Last updated: 18-08-2025 01:20:00*
+*Last updated: 18-08-2025 01:22:52*
 <!-- END_NOW_PLAYING -->

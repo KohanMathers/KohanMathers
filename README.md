@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Challenge - Jorge Rivera-Herrans, Anna Lea & Cast of EPIC: The Musical —...
+- 🎵 **Now Playing:** Price of Perfection (feat. Lilianne Coeverden) - Katherine Lynn-Rose — Price of Perfection (feat. Lilianne Co...
 - 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - Just now
 
-*Last updated: 18-08-2025 03:13:45*
+*Last updated: 18-08-2025 03:14:23*
 <!-- END_NOW_PLAYING -->

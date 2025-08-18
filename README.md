@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Naughty - Elijah — Naughty - Single
-- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: Brew) - 1 minutes ago
+- 💻 **Currently coding** in *TypeScript*, editing `templates.ts` (Project: Brew) - Just now
 
-*Last updated: 18-08-2025 01:26:41*
+*Last updated: 18-08-2025 01:27:54*
 <!-- END_NOW_PLAYING -->

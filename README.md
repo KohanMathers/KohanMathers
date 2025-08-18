@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Money Game, Pt. 2 - Ren — Demos (Do Not Share), Vol. 1
+- 🎵 **Now Playing:** Rollercoasters (feat. Cropper) [Bonus Track] - Subculture Sage — Big Smoke Autumn Blues
 - 💻 **Currently coding** in *None*, editing `test.brew` (Project: Brew) - 2 minutes ago
 
-*Last updated: 18-08-2025 02:03:11*
+*Last updated: 18-08-2025 02:03:16*
 <!-- END_NOW_PLAYING -->

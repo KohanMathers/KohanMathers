@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** From the Ritz to the Rubble - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
-- 💻 **Currently coding** in *TypeScript*, editing `expressions.ts` (Project: Brew) - Just now
+- 🎵 **Now Playing:** Otomakaskit (Skit) - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Currently coding** in *TypeScript*, editing `interpreter.ts` (Project: Brew) - 1 minutes ago
 
-*Last updated: 18-08-2025 01:02:43*
+*Last updated: 18-08-2025 01:03:26*
 <!-- END_NOW_PLAYING -->

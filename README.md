@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Price of Perfection (feat. Lilianne Coeverden) - Katherine Lynn-Rose — Price of Perfection (feat. Lilianne Co...
-- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - Just now
+- 🎵 **Now Playing:** This December - Ricky Montgomery — Montgomery Ricky
+- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - 2 minutes ago
 
-*Last updated: 18-08-2025 03:14:23*
+*Last updated: 18-08-2025 03:17:48*
 <!-- END_NOW_PLAYING -->

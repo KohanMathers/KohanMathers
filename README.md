@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Rollercoasters (feat. Cropper) [Bonus Track] - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Currently coding** in *None*, editing `LICENSE` (Project: Brew) - Just now
+- 🎵 **Now Playing:** Whatever It Takes - Andrew Underberg, Sam Haft, Daphne Rubin-Vega, Stephanie Bea...
+- 💻 **Currently coding** in *None*, editing `new.brew` (Project: Brew) - 2 minutes ago
 
-*Last updated: 18-08-2025 02:08:13*
+*Last updated: 18-08-2025 02:12:42*
 <!-- END_NOW_PLAYING -->

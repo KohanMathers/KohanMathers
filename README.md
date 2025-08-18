@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Tommy & Loretta (feat. OdjBox) - Dutty Moonshine Big Band — City of Sin
-- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - Just now
+- 🎵 **Now Playing:** After the War - Reinaeiry — After the War - Single
+- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - 2 minutes ago
 
-*Last updated: 18-08-2025 03:28:53*
+*Last updated: 18-08-2025 03:33:23*
 <!-- END_NOW_PLAYING -->

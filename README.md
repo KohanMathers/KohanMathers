@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Out For Love - Andrew Underberg, Sam Haft & Daphne Rubin-Vega — Hazbin Hote...
-- 💻 **Currently coding** in *TypeScript*, editing `compiler.ts` (Project: Brew) - Just now
+- 🎵 **Now Playing:** Slipping Through My Fingers - Meryl Streep & Amanda Seyfried — Mamma Mia! (The Movie Sound...
+- 💻 **Currently coding** in *TypeScript*, editing `compiler.ts` (Project: Brew) - 2 minutes ago
 
-*Last updated: 18-08-2025 01:40:39*
+*Last updated: 18-08-2025 01:42:08*
 <!-- END_NOW_PLAYING -->

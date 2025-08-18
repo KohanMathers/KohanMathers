@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Devil Doesn’t Bargain - Alec Benjamin — (Un)Commentary
-- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - 2 minutes ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - 5 minutes ago
 
-*Last updated: 18-08-2025 04:19:10*
+*Last updated: 18-08-2025 04:21:31*
 <!-- END_NOW_PLAYING -->

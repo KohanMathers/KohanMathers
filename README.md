@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Vital Signs - Frank Turner — Sleep Is for the Week
-- 💻 **Currently coding** in *Java*, editing `Program.java` (Project: Brew) - 3 minutes ago
+- 🎵 **Now Playing:** Out For Love - Andrew Underberg, Sam Haft & Daphne Rubin-Vega — Hazbin Hote...
+- 💻 **Currently coding** in *TypeScript*, editing `compiler.ts` (Project: Brew) - Just now
 
-*Last updated: 18-08-2025 01:38:00*
+*Last updated: 18-08-2025 01:40:39*
 <!-- END_NOW_PLAYING -->

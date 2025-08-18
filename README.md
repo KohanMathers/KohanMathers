@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** After the War - Reinaeiry — After the War - Single
-- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - Just now
+- 🎵 **Now Playing:** Puppeteer - Jorge Rivera-Herrans, Armando Julián, Talya Sindel & Cast of...
+- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - 1 minutes ago
 
-*Last updated: 18-08-2025 03:38:57*
+*Last updated: 18-08-2025 03:39:37*
 <!-- END_NOW_PLAYING -->

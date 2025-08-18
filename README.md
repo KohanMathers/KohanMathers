@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Silent Key (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
-- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - Just now
+- 🎵 **Now Playing:** Love Forty Down (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - 1 minutes ago
 
-*Last updated: 18-08-2025 03:03:07*
+*Last updated: 18-08-2025 03:03:15*
 <!-- END_NOW_PLAYING -->

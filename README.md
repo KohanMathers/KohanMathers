@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Whatever It Takes - Andrew Underberg, Sam Haft, Daphne Rubin-Vega, Stephanie Bea...
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: Brew) - 35 minutes ago
+- 🎵 **Now Playing:** Out of Breath - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: Brew) - 38 minutes ago
 
-*Last updated: 18-08-2025 02:48:32*
+*Last updated: 18-08-2025 02:51:52*
 <!-- END_NOW_PLAYING -->

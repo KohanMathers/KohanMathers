@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fictional - Khloe Rose — Fictional - Single
+- 🎵 **Now Playing:** Keep Your Friends Close - Jorge Rivera-Herrans, Various Artists — EPIC: The Ocean Saga...
 - 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: RockThatBody) - Just now
 
-*Last updated: 18-08-2025 03:05:22*
+*Last updated: 18-08-2025 03:05:27*
 <!-- END_NOW_PLAYING -->

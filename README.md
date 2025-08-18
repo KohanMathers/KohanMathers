@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Slipping Through My Fingers - Meryl Streep & Amanda Seyfried — Mamma Mia! (The Movie Sound...
-- 💻 **Currently coding** in *TypeScript*, editing `compiler.ts` (Project: Brew) - 3 minutes ago
+- 🎵 **Now Playing:** Crush Culture - Conan Gray — Sunset Season - EP
+- 💻 **Currently coding** in *TypeScript*, editing `compiler.ts` (Project: Brew) - 6 minutes ago
 
-*Last updated: 18-08-2025 01:43:02*
+*Last updated: 18-08-2025 01:45:56*
 <!-- END_NOW_PLAYING -->

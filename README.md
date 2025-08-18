@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Otomakaskit (Skit) - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Currently coding** in *TypeScript*, editing `interpreter.ts` (Project: Brew) - 1 minutes ago
+- 🎵 **Now Playing:** Eye of the Day - Frank Turner — No Man's Land
+- 💻 **Currently coding** in *TypeScript*, editing `interpreter.ts` (Project: Brew) - 3 minutes ago
 
-*Last updated: 18-08-2025 01:03:26*
+*Last updated: 18-08-2025 01:05:11*
 <!-- END_NOW_PLAYING -->

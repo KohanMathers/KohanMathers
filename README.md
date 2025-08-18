@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Money Game, Pt. 2 - Ren — Demos (Do Not Share), Vol. 1
-- 💻 **Currently coding** in *TypeScript*, editing `interpreter.ts` (Project: Brew) - Just now
+- 💻 **Currently coding** in *None*, editing `test.brew` (Project: Brew) - 2 minutes ago
 
-*Last updated: 18-08-2025 01:59:37*
+*Last updated: 18-08-2025 02:03:11*
 <!-- END_NOW_PLAYING -->

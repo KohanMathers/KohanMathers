@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Get It Right - Frank Turner — Be More Kind
+- 🎵 **Now Playing:** Don't Worry - Frank Turner — Be More Kind
 - 💻 **Currently coding** in *Java*, editing `Program.java` (Project: Brew) - 1 minutes ago
 
-*Last updated: 18-08-2025 01:32:58*
+*Last updated: 18-08-2025 01:33:41*
 <!-- END_NOW_PLAYING -->

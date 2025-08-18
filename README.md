@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Letters - Frank Turner — Letters - Single
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: Brew) - 38 minutes ago
+- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - 1 minutes ago
 
-*Last updated: 18-08-2025 02:51:57*
+*Last updated: 18-08-2025 02:53:35*
 <!-- END_NOW_PLAYING -->

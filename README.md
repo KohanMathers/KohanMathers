@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Lose My Head - Freya Skye — Lose My Head - Single
-- 💻 **Currently coding** in *TypeScript*, editing `values.ts` (Project: Brew) - 1 minutes ago
+- 🎵 **Now Playing:** Money Game, Pt. 2 - Ren — Demos (Do Not Share), Vol. 1
+- 💻 **Currently coding** in *TypeScript*, editing `interpreter.ts` (Project: Brew) - Just now
 
-*Last updated: 18-08-2025 01:58:09*
+*Last updated: 18-08-2025 01:59:37*
 <!-- END_NOW_PLAYING -->

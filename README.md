@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Eye of the Day - Frank Turner — No Man's Land
-- 💻 **Currently coding** in *TypeScript*, editing `compiler.ts` (Project: Brew) - 2 minutes ago
+- 🎵 **Now Playing:** Smokey Blues - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Currently coding** in *TypeScript*, editing `environment.ts` (Project: Brew) - 2 minutes ago
 
-*Last updated: 18-08-2025 01:07:45*
+*Last updated: 18-08-2025 01:10:27*
 <!-- END_NOW_PLAYING -->

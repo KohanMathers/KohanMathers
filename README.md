@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Smokey Blues - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Currently coding** in *None*, editing `test.brew` (Project: Brew) - 5 minutes ago
+- 🎵 **Now Playing:** Vacation Bible School - Ayesha Erotica — Horny.4U
+- 💻 **Currently coding** in *TypeScript*, editing `functions.ts` (Project: Brew) - Just now
 
-*Last updated: 18-08-2025 01:17:50*
+*Last updated: 18-08-2025 01:20:00*
 <!-- END_NOW_PLAYING -->

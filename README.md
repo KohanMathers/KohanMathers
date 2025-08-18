@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Hey Boy - The Undercover Hippy — Hey Boy - Single
-- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - Just now
+- 🎵 **Now Playing:** Devil Doesn’t Bargain - Alec Benjamin — (Un)Commentary
+- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - 2 minutes ago
 
-*Last updated: 18-08-2025 03:49:27*
+*Last updated: 18-08-2025 03:53:03*
 <!-- END_NOW_PLAYING -->

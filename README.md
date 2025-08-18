@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** GOSSIP (feat. Tom Morello) - Måneskin — RUSH!
-- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - 1 minutes ago
+- 🎵 **Now Playing:** Fight or Flight - Conan Gray — Kid Krow
+- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - Just now
 
-*Last updated: 18-08-2025 03:44:00*
+*Last updated: 18-08-2025 03:46:27*
 <!-- END_NOW_PLAYING -->

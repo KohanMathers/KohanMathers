@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Naughty - Elijah — Naughty - Single
-- 💻 **Currently coding** in *TypeScript*, editing `templates.ts` (Project: Brew) - Just now
+- 🎵 **Now Playing:** Get It Right - Frank Turner — Be More Kind
+- 💻 **Currently coding** in *TypeScript*, editing `templates.ts` (Project: Brew) - 2 minutes ago
 
-*Last updated: 18-08-2025 01:27:54*
+*Last updated: 18-08-2025 01:30:17*
 <!-- END_NOW_PLAYING -->

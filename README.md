@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Hi Ren - Ren — Hi Ren - Single
-- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - 2 minutes ago
+- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: RockThatBody) - Just now
 
-*Last updated: 18-08-2025 02:55:12*
+*Last updated: 18-08-2025 02:58:38*
 <!-- END_NOW_PLAYING -->

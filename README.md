@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Keep Your Friends Close - Jorge Rivera-Herrans, Various Artists — EPIC: The Ocean Saga...
-- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: RockThatBody) - 4 minutes ago
+- 🎵 **Now Playing:** The Challenge - Jorge Rivera-Herrans, Anna Lea & Cast of EPIC: The Musical —...
+- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - Just now
 
-*Last updated: 18-08-2025 03:08:43*
+*Last updated: 18-08-2025 03:11:03*
 <!-- END_NOW_PLAYING -->

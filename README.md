@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Eye of the Day - Frank Turner — No Man's Land
-- 💻 **Currently coding** in *TypeScript*, editing `interpreter.ts` (Project: Brew) - 3 minutes ago
+- 💻 **Currently coding** in *TypeScript*, editing `compiler.ts` (Project: Brew) - 2 minutes ago
 
-*Last updated: 18-08-2025 01:05:11*
+*Last updated: 18-08-2025 01:07:45*
 <!-- END_NOW_PLAYING -->

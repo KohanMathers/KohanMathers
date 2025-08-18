@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Lean On (feat. MØ & DJ Snake) - Major Lazer — Major Lazer Essentials
-- 💻 **Currently coding** in *TypeScript*, editing `ast.ts` (Project: Brew) - Just now
+- 🎵 **Now Playing:** Full Disclosure (feat. Zach Callison) - Steven Universe — Steven Universe, Vol. 1 (Original Soundtrack)
+- 💻 **Currently coding** in *TypeScript*, editing `parser.ts` (Project: Brew) - 1 minutes ago
 
-*Last updated: 18-08-2025 01:49:21*
+*Last updated: 18-08-2025 01:52:17*
 <!-- END_NOW_PLAYING -->

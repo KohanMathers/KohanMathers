@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** This December - Ricky Montgomery — Montgomery Ricky
-- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - 3 minutes ago
+- 🎵 **Now Playing:** Pitch Black - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - 1 minutes ago
 
-*Last updated: 18-08-2025 03:18:48*
+*Last updated: 18-08-2025 03:20:52*
 <!-- END_NOW_PLAYING -->

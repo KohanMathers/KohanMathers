@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fight or Flight - Conan Gray — Kid Krow
+- 🎵 **Now Playing:** Hey Boy - The Undercover Hippy — Hey Boy - Single
 - 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - Just now
 
-*Last updated: 18-08-2025 03:49:02*
+*Last updated: 18-08-2025 03:49:27*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Out of Breath - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 🎵 **Now Playing:** Letters - Frank Turner — Letters - Single
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: Brew) - 38 minutes ago
 
-*Last updated: 18-08-2025 02:51:52*
+*Last updated: 18-08-2025 02:51:57*
 <!-- END_NOW_PLAYING -->

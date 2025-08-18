@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** There Are Other Ways - Jorge Rivera-Herrans, Talya Sindel & Cast of EPIC: The Music...
-- 💻 **Currently coding** in *TypeScript*, editing `expressions.ts` (Project: Brew) - 1 minutes ago
+- 🎵 **Now Playing:** From the Ritz to the Rubble - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
+- 💻 **Currently coding** in *TypeScript*, editing `expressions.ts` (Project: Brew) - Just now
 
-*Last updated: 18-08-2025 00:57:41*
+*Last updated: 18-08-2025 01:00:12*
 <!-- END_NOW_PLAYING -->

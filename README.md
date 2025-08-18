@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Crush Culture - Conan Gray — Sunset Season - EP
-- 💻 **Currently coding** in *Java*, editing `Program.java` (Project: Brew) - 1 minutes ago
+- 🎵 **Now Playing:** Lean On (feat. MØ & DJ Snake) - Major Lazer — Major Lazer Essentials
+- 💻 **Currently coding** in *TypeScript*, editing `ast.ts` (Project: Brew) - Just now
 
-*Last updated: 18-08-2025 01:48:04*
+*Last updated: 18-08-2025 01:49:21*
 <!-- END_NOW_PLAYING -->

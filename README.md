@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Whatever It Takes - Andrew Underberg, Sam Haft, Daphne Rubin-Vega, Stephanie Bea...
-- 💻 **Currently coding** in *None*, editing `new.brew` (Project: Brew) - 2 minutes ago
+- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: Brew) - Just now
 
-*Last updated: 18-08-2025 02:12:42*
+*Last updated: 18-08-2025 02:13:16*
 <!-- END_NOW_PLAYING -->

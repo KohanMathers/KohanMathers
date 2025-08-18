@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Smokey Blues - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Currently coding** in *TypeScript*, editing `environment.ts` (Project: Brew) - 2 minutes ago
+- 💻 **Currently coding** in *None*, editing `test.brew` (Project: Brew) - Just now
 
-*Last updated: 18-08-2025 01:10:27*
+*Last updated: 18-08-2025 01:12:48*
 <!-- END_NOW_PLAYING -->

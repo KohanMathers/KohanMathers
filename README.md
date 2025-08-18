@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Letters - Frank Turner — Letters - Single
-- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - 1 minutes ago
+- 🎵 **Now Playing:** Hi Ren - Ren — Hi Ren - Single
+- 💻 **Currently coding** in *Java*, editing `RockThatBody.java` (Project: RockThatBody) - 2 minutes ago
 
-*Last updated: 18-08-2025 02:53:35*
+*Last updated: 18-08-2025 02:55:12*
 <!-- END_NOW_PLAYING -->

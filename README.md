@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Reaching - Thumpasaurus — Thumpaverse
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - Just now
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 2 minutes ago
 
-*Last updated: 30-08-2025 15:44:52*
+*Last updated: 30-08-2025 15:49:26*
 <!-- END_NOW_PLAYING -->

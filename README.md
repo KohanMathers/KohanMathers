@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Talkin' Bout - Thumpasaurus — Thumpaverse
-- 💻 **Currently coding** in *Assembly*, editing `test_kernel.asm` (Project: CanaryOS) - 3 minutes ago
+- 🎵 **Now Playing:** I'm Pissed - Thumpasaurus — Thumpaverse
+- 💻 **Currently coding** in *Assembly*, editing `test_kernel.asm` (Project: CanaryOS) - 1 minutes ago
 
-*Last updated: 30-08-2025 15:24:15*
+*Last updated: 30-08-2025 15:26:42*
 <!-- END_NOW_PLAYING -->

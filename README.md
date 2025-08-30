@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 2 minutes ago
+- 💻 **Currently coding** in *JSON*, editing `keybidnings.json` (Project: TCCEngine) - 4 minutes ago
 
-*Last updated: 30-08-2025 18:25:31*
+*Last updated: 30-08-2025 18:30:33*
 <!-- END_NOW_PLAYING -->

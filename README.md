@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** High School - Thumpasaurus — Thumpaverse
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 1 minutes ago
+- 🎵 **Now Playing:** It Doesn't Matter - Thumpasaurus — Thumpaverse
+- 💻 **Currently coding** in *Assembly*, editing `boot.s` (Project: CanaryOS) - Just now
 
-*Last updated: 30-08-2025 15:34:20*
+*Last updated: 30-08-2025 15:35:37*
 <!-- END_NOW_PLAYING -->

@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Space Barn - Thumpasaurus — Thumpaverse
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 1 minutes ago
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - Just now
 
-*Last updated: 30-08-2025 15:51:06*
+*Last updated: 30-08-2025 15:54:28*
 <!-- END_NOW_PLAYING -->

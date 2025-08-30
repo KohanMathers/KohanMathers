@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Coding Status:** Not coding
+- 💻 **Currently coding** in *Assembly*, editing `boot.asm` (Project: CanaryOS) - 3 minutes ago
 
-*Last updated: 29-08-2025 14:11:52*
+*Last updated: 30-08-2025 01:28:19*
 <!-- END_NOW_PLAYING -->

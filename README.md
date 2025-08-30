@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *TOML*, editing `velocity.toml` (Project: TCCEngine) - 12 minutes ago
+- 💻 **Last seen coding** in *TOML*, editing `velocity.toml` (Project: TCCEngine) - 17 minutes ago
 
-*Last updated: 30-08-2025 19:20:53*
+*Last updated: 30-08-2025 19:25:56*
 <!-- END_NOW_PLAYING -->

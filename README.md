@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Assembly*, editing `stage2.asm` (Project: CanaryOS) - 2 minutes ago
+- 🎵 **Now Playing:** Emotional Pain - Thumpasaurus — Thumpaverse
+- 💻 **Currently coding** in *Assembly*, editing `stage2.asm` (Project: CanaryOS) - 3 minutes ago
 
-*Last updated: 30-08-2025 15:14:12*
+*Last updated: 30-08-2025 15:20:23*
 <!-- END_NOW_PLAYING -->

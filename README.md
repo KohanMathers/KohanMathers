@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** I'm Pissed - Thumpasaurus — Thumpaverse
-- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 1h 52m ago
+- 💻 **Currently coding** in *YAML*, editing `paper-global.yml` (Project: None) - Just now
 
-*Last updated: 31-08-2025 16:45:46*
+*Last updated: 31-08-2025 16:50:48*
 <!-- END_NOW_PLAYING -->

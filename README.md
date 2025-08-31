@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** I'm Pissed - Thumpasaurus — Thumpaverse
-- 💻 **Currently coding** in *YAML*, editing `paper-global.yml` (Project: None) - 5 minutes ago
+- 💻 **Currently coding** in *TOML*, editing `velocity.toml` (Project: None) - 4 minutes ago
 
-*Last updated: 31-08-2025 16:55:50*
+*Last updated: 31-08-2025 17:00:52*
 <!-- END_NOW_PLAYING -->

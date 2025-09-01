@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I'm Pissed - Thumpasaurus — Thumpaverse
-- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TCCEngine) - Just now
+- 🎵 **Now Playing:** Struttin' - Thumpasaurus — Thumpaverse
+- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TCCEngine) - 1 minutes ago
 
-*Last updated: 01-09-2025 03:59:48*
+*Last updated: 01-09-2025 04:03:01*
 <!-- END_NOW_PLAYING -->

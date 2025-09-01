@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `ChatListener.java` (Project: src) - 2 minutes ago
+- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: Hungergames) - Just now
 
-*Last updated: 01-09-2025 16:40:29*
+*Last updated: 01-09-2025 16:45:31*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Space Barn - Thumpasaurus — Thumpaverse
-- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TCCEngine) - 14 minutes ago
+- 🎵 **Now Playing:** End of the Night - Thumpasaurus — Thumpaverse
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: TCCEngine) - 17 minutes ago
 
-*Last updated: 01-09-2025 04:25:13*
+*Last updated: 01-09-2025 04:28:56*
 <!-- END_NOW_PLAYING -->

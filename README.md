@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: Hungergames) - 6 minutes ago
+- 💻 **Currently coding** in *Java*, editing `Hungergames.java` (Project: Hungergames) - 1 minutes ago
 
-*Last updated: 01-09-2025 17:10:42*
+*Last updated: 01-09-2025 17:15:45*
 <!-- END_NOW_PLAYING -->

@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: brew-engine-plugin) - 2 hours ago
+- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: brew-engine-plugin) - 2h 5m ago
 
-*Last updated: 02-09-2025 20:18:20*
+*Last updated: 02-09-2025 20:23:22*
 <!-- END_NOW_PLAYING -->

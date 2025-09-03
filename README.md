@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `DreamPlugin.java` (Project: dream-plugin) - 2 minutes ago
+- 💻 **Currently coding** in *Java*, editing `BedListener.java` (Project: dream-plugin) - 2 minutes ago
 
-*Last updated: 03-09-2025 21:57:14*
+*Last updated: 03-09-2025 22:02:17*
 <!-- END_NOW_PLAYING -->

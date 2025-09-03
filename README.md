@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Java*, editing `DreamPlugin.java` (Project: dream-plugin) - 25 minutes ago
+- 🎵 **Now Playing:** One Of Those Days - Danikimy & Calum. W — One Of Those Days - Single
+- 💻 **Last seen coding** in *Java*, editing `DreamPlugin.java` (Project: dream-plugin) - 28 minutes ago
 
-*Last updated: 03-09-2025 21:01:45*
+*Last updated: 03-09-2025 21:04:55*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I'm Too Funky - Thumpasaurus — The Book Of Thump — Thumpasaurus
-- 💻 **Last seen coding** in *TOML*, editing `velocity.toml` (Project: None) - 2h 1m ago
+- 🎵 **Now Playing:** Arf Dog - Thumpasaurus — Thumpaverse — Thumpasaurus
+- 💻 **Last seen coding** in *TOML*, editing `velocity.toml` (Project: None) - 2h 4m ago
 
-*Last updated: 04-09-2025 05:25:29*
+*Last updated: 04-09-2025 05:29:19*
 <!-- END_NOW_PLAYING -->

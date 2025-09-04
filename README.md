@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I'm Cute - Thumpasaurus — Hard — Thumpasaurus
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: statsApi) - 2 minutes ago
+- 🎵 **Now Playing:** You Are so Pretty - Thumpasaurus — The Book Of Thump — Thumpasaurus
+- 💻 **Currently coding** in *HTML*, editing `teacupstats.html` (Project: statsApi) - Just now
 
-*Last updated: 04-09-2025 14:29:16*
+*Last updated: 04-09-2025 14:31:31*
 <!-- END_NOW_PLAYING -->

@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Why Do I? - Thumpasaurus — Hard — Thumpasaurus
-- 💻 **Currently coding** in *HTML*, editing `teacupstats.html` (Project: None) - 15 minutes ago
+- 💻 **Last seen coding** in *HTML*, editing `teacupstats.html` (Project: None) - 17 minutes ago
 
-*Last updated: 04-09-2025 13:26:59*
+*Last updated: 04-09-2025 13:28:32*
 <!-- END_NOW_PLAYING -->

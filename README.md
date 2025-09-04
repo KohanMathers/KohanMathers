@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Broken Dove - Burn The Ballroom — Burn the Ballroom
-- 💻 **Last seen coding** in *TOML*, editing `velocity.toml` (Project: None) - 35 minutes ago
+- 🎵 **Now Playing:** Heaven - Burn The Ballroom — Burn the Ballroom
+- 💻 **Last seen coding** in *TOML*, editing `velocity.toml` (Project: None) - 38 minutes ago
 
-*Last updated: 04-09-2025 04:00:07*
+*Last updated: 04-09-2025 04:03:18*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Heart Like a Box of Matches - Burn The Ballroom — Burn the Ballroom
-- 💻 **Last seen coding** in *TOML*, editing `velocity.toml` (Project: None) - 1h 29m ago
+- 🎵 **Now Playing:** Psychopath - Burn The Ballroom — Burn the Ballroom
+- 💻 **Last seen coding** in *TOML*, editing `velocity.toml` (Project: None) - 1h 31m ago
 
-*Last updated: 04-09-2025 04:54:25*
+*Last updated: 04-09-2025 04:55:53*
 <!-- END_NOW_PLAYING -->

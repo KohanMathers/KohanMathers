@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** And That's Just the Appetizer... - Thumpasaurus — And That's Just the Appetizer... - Single — T...
-- 💻 **Currently coding** in *None*, editing `Untitled-2` (Project: None) - 1 minutes ago
+- 🎵 **Now Playing:** You're My Best Friend - Thumpasaurus — Hard — Thumpasaurus
+- 💻 **Currently coding** in *Java*, editing `ExamplePlugin.java` (Project: statsApi) - Just now
 
-*Last updated: 04-09-2025 14:10:36*
+*Last updated: 04-09-2025 14:13:47*
 <!-- END_NOW_PLAYING -->

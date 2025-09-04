@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Arf Dog - Thumpasaurus — Thumpaverse — Thumpasaurus
+- 🎵 **Now Playing:** Evil - Thumpasaurus — The Book Of Thump — Thumpasaurus
 - 💻 **Last seen coding** in *TOML*, editing `velocity.toml` (Project: None) - 2h 5m ago
 
-*Last updated: 04-09-2025 05:29:42*
+*Last updated: 04-09-2025 05:30:06*
 <!-- END_NOW_PLAYING -->

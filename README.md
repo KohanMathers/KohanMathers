@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *TOML*, editing `velocity.toml` (Project: None) - 24 minutes ago
+- 🎵 **Now Playing:** Angels in the Wind - Burn The Ballroom — Burn the Ballroom
+- 💻 **Last seen coding** in *TOML*, editing `velocity.toml` (Project: None) - 28 minutes ago
 
-*Last updated: 04-09-2025 03:48:55*
+*Last updated: 04-09-2025 03:52:39*
 <!-- END_NOW_PLAYING -->

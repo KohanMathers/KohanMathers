@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Space Barn - Thumpasaurus — Thumpaverse — Thumpasaurus
-- 💻 **Last seen coding** in *TOML*, editing `velocity.toml` (Project: None) - 2h 15m ago
+- 🎵 **Now Playing:** Alien - Thumpasaurus — The Book Of Thump — Thumpasaurus
+- 💻 **Last seen coding** in *TOML*, editing `velocity.toml` (Project: None) - 2h 18m ago
 
-*Last updated: 04-09-2025 05:39:48*
+*Last updated: 04-09-2025 05:43:23*
 <!-- END_NOW_PLAYING -->

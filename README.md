@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Existential Dread - Thumpasaurus — Existential Dread - Single — Thumpasaurus
+- 🎵 **Now Playing:** Have You Ever Been so Lucky - Thumpasaurus — Thumpaverse — Thumpasaurus
 - 💻 **Last seen coding** in *HTML*, editing `teacupstats.html` (Project: None) - 21 minutes ago
 
-*Last updated: 04-09-2025 14:03:49*
+*Last updated: 04-09-2025 14:04:01*
 <!-- END_NOW_PLAYING -->

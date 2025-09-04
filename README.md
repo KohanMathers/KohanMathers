@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** I Wanna Go Outside - Thumpasaurus — Hard — Thumpasaurus
-- 💻 **Currently coding** in *HTML*, editing `teacupstats.html` (Project: statsApi) - 12 minutes ago
+- 💻 **Currently coding** in *HTML*, editing `teacupstats.html` (Project: statsApi) - 14 minutes ago
 
-*Last updated: 04-09-2025 14:57:27*
+*Last updated: 04-09-2025 14:59:22*
 <!-- END_NOW_PLAYING -->

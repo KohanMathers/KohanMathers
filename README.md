@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** World is in Your Mind - Thumpasaurus — The Book Of Thump — Thumpasaurus
+- 🎵 **Now Playing:** I'm Pissed - Thumpasaurus — Thumpaverse — Thumpasaurus
 - 💻 **Currently coding** in *HTML*, editing `teacupstats.html` (Project: None) - 12 minutes ago
 
-*Last updated: 04-09-2025 13:23:30*
+*Last updated: 04-09-2025 13:23:41*
 <!-- END_NOW_PLAYING -->

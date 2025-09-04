@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** What Do I Do - Thumpasaurus — Thumpaverse — Thumpasaurus
-- 💻 **Last seen coding** in *TOML*, editing `velocity.toml` (Project: None) - 2h 40m ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Last seen coding** in *TOML*, editing `velocity.toml` (Project: None) - 2h 41m ago
 
-*Last updated: 04-09-2025 06:04:59*
+*Last updated: 04-09-2025 06:06:20*
 <!-- END_NOW_PLAYING -->

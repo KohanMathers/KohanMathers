@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Will Get You Right - Burn The Ballroom — Burn the Ballroom
-- 💻 **Last seen coding** in *TOML*, editing `velocity.toml` (Project: None) - 1h 4m ago
+- 🎵 **Now Playing:** Do I Look Like I Go to Your Youth Group - Burn The Ballroom — Burn the Ballroom
+- 💻 **Last seen coding** in *TOML*, editing `velocity.toml` (Project: None) - 1h 7m ago
 
-*Last updated: 04-09-2025 04:29:14*
+*Last updated: 04-09-2025 04:32:15*
 <!-- END_NOW_PLAYING -->

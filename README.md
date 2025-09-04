@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** These Are the Days - Thumpasaurus — The Book Of Thump — Thumpasaurus
-- 💻 **Currently coding** in *HTML*, editing `teacupstats.html` (Project: statsApi) - 15 minutes ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Last seen coding** in *HTML*, editing `teacupstats.html` (Project: statsApi) - 18 minutes ago
 
-*Last updated: 04-09-2025 15:00:21*
+*Last updated: 04-09-2025 15:03:48*
 <!-- END_NOW_PLAYING -->

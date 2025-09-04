@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Are so Pretty - Thumpasaurus — The Book Of Thump — Thumpasaurus
-- 💻 **Currently coding** in *HTML*, editing `teacupstats.html` (Project: None) - 1 minutes ago
+- 🎵 **Now Playing:** Lipstick Makeup - Thumpasaurus — Hard — Thumpasaurus
+- 💻 **Currently coding** in *HTML*, editing `teacupstats.html` (Project: None) - 2 minutes ago
 
-*Last updated: 04-09-2025 13:13:25*
+*Last updated: 04-09-2025 13:14:00*
 <!-- END_NOW_PLAYING -->

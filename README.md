@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Talkin' Bout - Thumpasaurus — Thumpaverse — Thumpasaurus
-- 💻 **Currently coding** in *HTML*, editing `teacupstats.html` (Project: statsApi) - 1 minutes ago
+- 🎵 **Now Playing:** Life Can Be Good Sometimes - Thumpasaurus — Hard — Thumpasaurus
+- 💻 **Currently coding** in *HTML*, editing `teacupstats.html` (Project: statsApi) - Just now
 
-*Last updated: 04-09-2025 14:44:13*
+*Last updated: 04-09-2025 14:45:09*
 <!-- END_NOW_PLAYING -->

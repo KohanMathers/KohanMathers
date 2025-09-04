@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *HTML*, editing `teacupstats.html` (Project: None) - 1 minutes ago
+- 🎵 **Now Playing:** Beta Lupi - Thumpasaurus — The Book Of Thump — Thumpasaurus
+- 💻 **Currently coding** in *HTML*, editing `teacupstats.html` (Project: None) - 3 minutes ago
 
-*Last updated: 04-09-2025 13:06:14*
+*Last updated: 04-09-2025 13:07:42*
 <!-- END_NOW_PLAYING -->

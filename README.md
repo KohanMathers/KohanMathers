@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** It Doesn't Matter - Thumpasaurus — Thumpaverse
+- 🎵 **Now Playing:** What Do I Do - Thumpasaurus — Thumpaverse
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 04-09-2025 03:11:24*
+*Last updated: 04-09-2025 03:14:43*
 <!-- END_NOW_PLAYING -->

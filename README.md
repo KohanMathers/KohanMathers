@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Text Me Back - Thumpasaurus — Text Me Back - Single — Thumpasaurus
-- 💻 **Last seen coding** in *HTML*, editing `teacupstats.html` (Project: None) - 22 minutes ago
+- 🎵 **Now Playing:** Existential Dread - Thumpasaurus — Existential Dread - Single — Thumpasaurus
+- 💻 **Last seen coding** in *HTML*, editing `teacupstats.html` (Project: None) - 23 minutes ago
 
-*Last updated: 04-09-2025 13:33:34*
+*Last updated: 04-09-2025 13:35:00*
 <!-- END_NOW_PLAYING -->

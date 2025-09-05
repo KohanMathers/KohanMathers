@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Do I Look Like I Go to Your Youth Group - Burn The Ballroom — Burn the Ballroom
+- 🎵 **Now Playing:** Wait for Me - Burn The Ballroom — Burn the Ballroom
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 06-09-2025 00:21:43*
+*Last updated: 06-09-2025 00:29:03*
 <!-- END_NOW_PLAYING -->

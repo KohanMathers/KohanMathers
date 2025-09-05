@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Whisper - Burn The Ballroom — Melodies for the Outsiders - EP
+- 🎵 **Now Playing:** Angels in the Wind - Burn The Ballroom — Burn the Ballroom
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 06-09-2025 00:30:18*
+*Last updated: 06-09-2025 00:33:03*
 <!-- END_NOW_PLAYING -->

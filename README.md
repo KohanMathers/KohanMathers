@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Heaven - Burn The Ballroom — Burn the Ballroom
+- 🎵 **Now Playing:** I Will Get You Right - Burn The Ballroom — Burn the Ballroom
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 06-09-2025 00:43:47*
+*Last updated: 06-09-2025 00:48:14*
 <!-- END_NOW_PLAYING -->

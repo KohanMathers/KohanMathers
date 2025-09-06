@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Bash*, editing `deploy.sh` (Project: tcc-engine) - 20 minutes ago
+- 💻 **Currently coding** in *Bash*, editing `deploy.sh` (Project: tcc-engine) - 1 minutes ago
 
-*Last updated: 06-09-2025 15:22:44*
+*Last updated: 06-09-2025 15:27:49*
 <!-- END_NOW_PLAYING -->

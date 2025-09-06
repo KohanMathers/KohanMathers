@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `SetRankCommand.java` (Project: TCCEngine) - 13 minutes ago
+- 💻 **Currently coding** in *Python*, editing `deploy.py` (Project: TCCEngine) - 1 minutes ago
 
-*Last updated: 06-09-2025 21:46:36*
+*Last updated: 06-09-2025 21:51:38*
 <!-- END_NOW_PLAYING -->

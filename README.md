@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Heart Like a Box of Matches - Burn The Ballroom — Burn the Ballroom
-- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TCCEngine) - 1 minutes ago
+- 🎵 **Now Playing:** Psychopath - Burn The Ballroom — Burn the Ballroom
+- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TCCEngine) - 3 minutes ago
 
-*Last updated: 06-09-2025 01:05:42*
+*Last updated: 06-09-2025 01:07:42*
 <!-- END_NOW_PLAYING -->

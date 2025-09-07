@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Java*, editing `GameStateManager.java` (Project: TCCEngine) - 1h 40m ago
+- 💻 **Last seen coding** in *Java*, editing `GameStateManager.java` (Project: TCCEngine) - 1h 45m ago
 
-*Last updated: 07-09-2025 20:43:25*
+*Last updated: 07-09-2025 20:48:28*
 <!-- END_NOW_PLAYING -->

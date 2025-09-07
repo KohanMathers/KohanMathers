@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Heaven - Burn The Ballroom — Burn the Ballroom
-- 💻 **Currently coding** in *Java*, editing `GameStateManager.java` (Project: TCCEngine) - 14 minutes ago
+- 🎵 **Now Playing:** I Will Get You Right - Burn The Ballroom — Burn the Ballroom
+- 💻 **Last seen coding** in *Java*, editing `GameStateManager.java` (Project: TCCEngine) - 16 minutes ago
 
-*Last updated: 07-09-2025 16:51:32*
+*Last updated: 07-09-2025 16:53:31*
 <!-- END_NOW_PLAYING -->

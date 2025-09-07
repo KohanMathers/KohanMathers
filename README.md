@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: TCCEngine) - 3 minutes ago
+- 🎵 **Now Playing:** Angels in the Wind - Burn The Ballroom — Burn the Ballroom
+- 💻 **Currently coding** in *Java*, editing `GameStateManager.java` (Project: TCCEngine) - 1 minutes ago
 
-*Last updated: 07-09-2025 16:36:24*
+*Last updated: 07-09-2025 16:38:43*
 <!-- END_NOW_PLAYING -->

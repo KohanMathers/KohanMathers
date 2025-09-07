@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Psychopath - Burn The Ballroom — Burn the Ballroom
-- 💻 **Currently coding** in *Java*, editing `GameStateManager.java` (Project: TCCEngine) - 10 minutes ago
+- 💻 **Currently coding** in *Java*, editing `GameStateManager.java` (Project: TCCEngine) - 12 minutes ago
 
-*Last updated: 07-09-2025 17:49:33*
+*Last updated: 07-09-2025 17:52:04*
 <!-- END_NOW_PLAYING -->

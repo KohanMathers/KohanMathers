@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `ParrotGunHandler.java` (Project: TCCEngine) - 2 minutes ago
+- 💻 **Currently coding** in *Java*, editing `EventManager.java` (Project: TCCEngine) - 3 minutes ago
 
-*Last updated: 07-09-2025 03:18:55*
+*Last updated: 07-09-2025 03:23:57*
 <!-- END_NOW_PLAYING -->

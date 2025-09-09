@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Java*, editing `ParrotGunHandler.java` (Project: TCCEngine) - 36 minutes ago
+- 🎵 **Now Playing:** How You Get The Girl (Taylor's Version) - Taylor Swift — 1989 (Taylor's Version)
+- 💻 **Currently coding** in *Java*, editing `ParrotGunHandler.java` (Project: TCCEngine) - Just now
 
-*Last updated: 09-09-2025 17:41:47*
+*Last updated: 09-09-2025 17:43:10*
 <!-- END_NOW_PLAYING -->

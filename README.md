@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Zazou (feat. HypeMan Sage) - Smokey Joe & The Kid — Nasty Tricks
-- 💻 **Currently coding** in *Java*, editing `GameStateManager.java` (Project: TCCEngine) - 1 minutes ago
+- 🎵 **Now Playing:** Treasure (feat. Casey Lee Williams) - Jeff Williams — Rwby, Vol. 8 (Original Soundtrack from the R...
+- 💻 **Currently coding** in *Java*, editing `StartGameCommand.java` (Project: TCCEngine) - 1 minutes ago
 
-*Last updated: 09-09-2025 18:01:57*
+*Last updated: 09-09-2025 18:06:19*
 <!-- END_NOW_PLAYING -->

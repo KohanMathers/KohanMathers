@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Full Disclosure (feat. Zach Callison) - Steven Universe — Steven Universe, Vol. 1 (Original Soundtrack)
-- 💻 **Currently coding** in *Java*, editing `SetupGameCommand.java` (Project: TCCEngine) - Just now
+- 🎵 **Now Playing:** Why's this dealer? - Niko B — Why's this dealer? - Single
+- 💻 **Currently coding** in *Java*, editing `SetupGameCommand.java` (Project: TCCEngine) - 1 minutes ago
 
-*Last updated: 09-09-2025 17:51:52*
+*Last updated: 09-09-2025 17:52:57*
 <!-- END_NOW_PLAYING -->

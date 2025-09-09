@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Text*, editing `cypria.txt` (Project: trojan-war) - 2 minutes ago
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: tcc-engine) - 4 minutes ago
 
-*Last updated: 09-09-2025 13:14:11*
+*Last updated: 09-09-2025 13:19:13*
 <!-- END_NOW_PLAYING -->

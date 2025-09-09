@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Elephant in the Room - Dutty Moonshine & Scubaroots — Rauchestra - EP
-- 💻 **Currently coding** in *Java*, editing `GameModeManager.java` (Project: TCCEngine) - 2 minutes ago
+- 🎵 **Now Playing:** Full Disclosure (feat. Zach Callison) - Steven Universe — Steven Universe, Vol. 1 (Original Soundtrack)
+- 💻 **Currently coding** in *Java*, editing `GameStateManager.java` (Project: TCCEngine) - 3 minutes ago
 
-*Last updated: 09-09-2025 17:47:17*
+*Last updated: 09-09-2025 17:51:23*
 <!-- END_NOW_PLAYING -->

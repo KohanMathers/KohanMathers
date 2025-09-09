@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Feel Good Inc - Gorillaz — Retro 00's
-- 💻 **Currently coding** in *Java*, editing `SpawnManager.java` (Project: TCCEngine) - 1 minutes ago
+- 🎵 **Now Playing:** Alyssa Greene - Isabelle McCalla — The Prom: A New Musical (Original Broadwa...
+- 💻 **Currently coding** in *Java*, editing `GameStateManager.java` (Project: TCCEngine) - 1 minutes ago
 
-*Last updated: 09-09-2025 17:56:55*
+*Last updated: 09-09-2025 17:58:52*
 <!-- END_NOW_PLAYING -->

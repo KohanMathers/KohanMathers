@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Why's this dealer? - Niko B — Why's this dealer? - Single
+- 🎵 **Now Playing:** Feel Good Inc - Gorillaz — Retro 00's
 - 💻 **Currently coding** in *Java*, editing `SetupGameCommand.java` (Project: TCCEngine) - 1 minutes ago
 
-*Last updated: 09-09-2025 17:52:57*
+*Last updated: 09-09-2025 17:55:08*
 <!-- END_NOW_PLAYING -->

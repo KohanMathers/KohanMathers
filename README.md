@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Text*, editing `cypria.txt` (Project: trojan-war) - 13 minutes ago
+- 💻 **Last seen coding** in *Text*, editing `cypria.txt` (Project: trojan-war) - 18 minutes ago
 
-*Last updated: 09-09-2025 10:07:35*
+*Last updated: 09-09-2025 10:12:40*
 <!-- END_NOW_PLAYING -->

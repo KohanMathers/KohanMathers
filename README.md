@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Big Smoke Autumn Blues - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Last seen coding** in *Java*, editing `SetupGameCommand.java` (Project: TCCEngine) - 2h 28m ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TCCEngine) - 1 minutes ago
 
-*Last updated: 09-09-2025 20:38:13*
+*Last updated: 09-09-2025 20:41:54*
 <!-- END_NOW_PLAYING -->

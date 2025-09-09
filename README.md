@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alyssa Greene - Isabelle McCalla — The Prom: A New Musical (Original Broadwa...
+- 🎵 **Now Playing:** Zazou (feat. HypeMan Sage) - Smokey Joe & The Kid — Nasty Tricks
 - 💻 **Currently coding** in *Java*, editing `GameStateManager.java` (Project: TCCEngine) - 1 minutes ago
 
-*Last updated: 09-09-2025 17:58:52*
+*Last updated: 09-09-2025 18:01:23*
 <!-- END_NOW_PLAYING -->

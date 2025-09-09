@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** How You Get The Girl (Taylor's Version) - Taylor Swift — 1989 (Taylor's Version)
-- 💻 **Currently coding** in *Java*, editing `GameModeManager.java` (Project: TCCEngine) - 1 minutes ago
+- 🎵 **Now Playing:** Elephant in the Room - Dutty Moonshine & Scubaroots — Rauchestra - EP
+- 💻 **Currently coding** in *Java*, editing `GameModeManager.java` (Project: TCCEngine) - 2 minutes ago
 
-*Last updated: 09-09-2025 17:46:49*
+*Last updated: 09-09-2025 17:47:17*
 <!-- END_NOW_PLAYING -->

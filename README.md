@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** How You Get The Girl (Taylor's Version) - Taylor Swift — 1989 (Taylor's Version)
-- 💻 **Currently coding** in *Java*, editing `ParrotGunHandler.java` (Project: TCCEngine) - Just now
+- 💻 **Currently coding** in *Java*, editing `GameModeManager.java` (Project: TCCEngine) - 1 minutes ago
 
-*Last updated: 09-09-2025 17:43:10*
+*Last updated: 09-09-2025 17:46:49*
 <!-- END_NOW_PLAYING -->

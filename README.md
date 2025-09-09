@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Feel Good Inc - Gorillaz — Retro 00's
-- 💻 **Currently coding** in *Java*, editing `SetupGameCommand.java` (Project: TCCEngine) - 1 minutes ago
+- 💻 **Currently coding** in *Java*, editing `SpawnManager.java` (Project: TCCEngine) - 1 minutes ago
 
-*Last updated: 09-09-2025 17:55:08*
+*Last updated: 09-09-2025 17:56:55*
 <!-- END_NOW_PLAYING -->

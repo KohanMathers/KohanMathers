@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Treasure (feat. Casey Lee Williams) - Jeff Williams — Rwby, Vol. 8 (Original Soundtrack from the R...
-- 💻 **Currently coding** in *Java*, editing `StartGameCommand.java` (Project: TCCEngine) - 1 minutes ago
+- 🎵 **Now Playing:** Big Smoke Autumn Blues - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Currently coding** in *Java*, editing `SetupGameCommand.java` (Project: TCCEngine) - 2 minutes ago
 
-*Last updated: 09-09-2025 18:07:00*
+*Last updated: 09-09-2025 18:11:26*
 <!-- END_NOW_PLAYING -->

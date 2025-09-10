@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alexander Hamilton - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: TimoTwo) - 2 minutes ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: TimoTwo) - 3 minutes ago
 
-*Last updated: 10-09-2025 22:53:03*
+*Last updated: 10-09-2025 22:53:39*
 <!-- END_NOW_PLAYING -->

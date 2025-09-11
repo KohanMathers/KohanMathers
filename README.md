@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Burn (feat. Casey Lee Williams & Lamar Hall) - Jeff Williams — Songs Part One (feat. Casey Lee Williams)
-- 💻 **Currently coding** in *Rust*, editing `admin.rs` (Project: TimoTwo) - 1 minutes ago
+- 🎵 **Now Playing:** Six - SIX — Six: The Musical (Studio Cast Recording)
+- 💻 **Currently coding** in *Rust*, editing `moderation.rs` (Project: TimoTwo) - Just now
 
-*Last updated: 12-09-2025 00:31:08*
+*Last updated: 12-09-2025 00:34:48*
 <!-- END_NOW_PLAYING -->

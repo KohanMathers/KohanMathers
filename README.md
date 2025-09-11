@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Break Them (feat. Anna Yvette) - Aero Chord — Break Them (feat. Anna Yvette) - Single
+- 🎵 **Now Playing:** Broken Dove - Burn The Ballroom — Burn the Ballroom
 - 💻 **Currently coding** in *Python*, editing `core.py` (Project: SoAndSo) - 1 minutes ago
 
-*Last updated: 11-09-2025 20:04:23*
+*Last updated: 11-09-2025 20:04:43*
 <!-- END_NOW_PLAYING -->

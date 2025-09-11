@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Haunted (Taylor's Version) - Taylor Swift — Speak Now (Taylor's Version)
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: TimoTwo) - 1 minutes ago
+- 🎵 **Now Playing:** When the Blossom Falls (feat. Gus Harvey) - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: TimoTwo) - Just now
 
-*Last updated: 11-09-2025 20:24:15*
+*Last updated: 11-09-2025 20:28:08*
 <!-- END_NOW_PLAYING -->

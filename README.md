@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Space Barn - Thumpasaurus — Thumpaverse
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: SoAndSo) - 2h 14m ago
+- 💻 **Currently coding** in *Python*, editing `core.py` (Project: SoAndSo) - 1 minutes ago
 
-*Last updated: 11-09-2025 20:02:47*
+*Last updated: 11-09-2025 20:04:06*
 <!-- END_NOW_PLAYING -->

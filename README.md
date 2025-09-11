@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Struttin' - Thumpasaurus — Thumpaverse
-- 💻 **Currently coding** in *Rust*, editing `admin.rs` (Project: TimoTwo) - Just now
+- 🎵 **Now Playing:** Puppeteer - Jorge Rivera-Herrans, Armando Julián, Talya Sindel & Cast of...
+- 💻 **Currently coding** in *Rust*, editing `admin.rs` (Project: TimoTwo) - 2 minutes ago
 
-*Last updated: 12-09-2025 00:50:23*
+*Last updated: 12-09-2025 00:54:19*
 <!-- END_NOW_PLAYING -->

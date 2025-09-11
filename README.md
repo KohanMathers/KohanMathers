@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Vtuber Loser - nihmune — Are You Okay?
-- 💻 **Currently coding** in *Rust*, editing `moderation.rs` (Project: TimoTwo) - 4 minutes ago
+- 🎵 **Now Playing:** When the Blossom Falls (feat. Gus Harvey) - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Currently coding** in *Rust*, editing `db.rs` (Project: TimoTwo) - 1 minutes ago
 
-*Last updated: 12-09-2025 00:38:48*
+*Last updated: 12-09-2025 00:40:42*
 <!-- END_NOW_PLAYING -->

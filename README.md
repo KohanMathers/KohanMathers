@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Here's a Story - Seb Lowe — Here's a Story - Single
-- 💻 **Currently coding** in *Rust*, editing `db.rs` (Project: TimoTwo) - Just now
+- 🎵 **Now Playing:** There Are Other Ways - Jorge Rivera-Herrans, Talya Sindel & Cast of EPIC: The Music...
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: TimoTwo) - 1 minutes ago
 
-*Last updated: 11-09-2025 20:09:43*
+*Last updated: 11-09-2025 20:13:14*
 <!-- END_NOW_PLAYING -->

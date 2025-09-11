@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Wait for Me - Burn The Ballroom — Burn the Ballroom
+- 🎵 **Now Playing:** Livin the Dream - Burn The Ballroom — Burn the Ballroom
 - 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 2 minutes ago
 
-*Last updated: 11-09-2025 13:12:19*
+*Last updated: 11-09-2025 13:14:44*
 <!-- END_NOW_PLAYING -->

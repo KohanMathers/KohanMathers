@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Puppeteer - Jorge Rivera-Herrans, Armando Julián, Talya Sindel & Cast of...
-- 💻 **Currently coding** in *Rust*, editing `admin.rs` (Project: TimoTwo) - 2 minutes ago
+- 🎵 **Now Playing:** Get Better (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 💻 **Currently coding** in *Rust*, editing `admin.rs` (Project: TimoTwo) - Just now
 
-*Last updated: 12-09-2025 00:54:19*
+*Last updated: 12-09-2025 00:58:23*
 <!-- END_NOW_PLAYING -->

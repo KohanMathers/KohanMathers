@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Arf Dog - Thumpasaurus — Thumpaverse
+- 🎵 **Now Playing:** Space Barn - Thumpasaurus — Thumpaverse
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: SoAndSo) - 2h 14m ago
 
-*Last updated: 11-09-2025 20:02:43*
+*Last updated: 11-09-2025 20:02:47*
 <!-- END_NOW_PLAYING -->

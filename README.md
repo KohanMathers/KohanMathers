@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Bang Bang (feat. Kitten & The Hip) - Dub Pistols — Worshipping the Dollar
+- 🎵 **Now Playing:** You Are Ladybug (From "Ladybug and Cat Noir: The Movie") (feat. Mela Lee) [Rock Version] - Cristina Vee — Obnoxious Theater Kid
 - 💻 **Currently coding** in *Rust*, editing `moderation.rs` (Project: TimoTwo) - Just now
 
-*Last updated: 11-09-2025 20:31:19*
+*Last updated: 11-09-2025 20:31:23*
 <!-- END_NOW_PLAYING -->

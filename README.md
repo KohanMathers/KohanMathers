@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Young Disciple - Missing Andy — Guerrilla Invasion Pt. 1
-- 💻 **Currently coding** in *Rust*, editing `admin.rs` (Project: TimoTwo) - 1 minutes ago
+- 🎵 **Now Playing:** Starving (feat. Zedd) - Hailee Steinfeld & Grey — Starving (feat. Zedd) - Single
+- 💻 **Currently coding** in *SQL*, editing `001_initial.sql` (Project: TimoTwo) - Just now
 
-*Last updated: 12-09-2025 00:46:03*
+*Last updated: 12-09-2025 00:47:17*
 <!-- END_NOW_PLAYING -->

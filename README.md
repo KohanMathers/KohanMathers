@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** A Winter's Ball - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 🎵 **Now Playing:** Satisfied - Original Broadway Cast of "Hamilton", Various Artists — Hami...
 - 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 3 minutes ago
 
-*Last updated: 11-09-2025 14:55:53*
+*Last updated: 11-09-2025 14:55:58*
 <!-- END_NOW_PLAYING -->

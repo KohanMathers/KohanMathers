@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You'll Be Back - Jonathan Groff & Original Broadway Cast of "Hamilton" — Hami...
+- 🎵 **Now Playing:** Right Hand Man - Christopher Jackson, Various Artists — Hamilton: An American...
 - 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 2 minutes ago
 
-*Last updated: 11-09-2025 14:51:49*
+*Last updated: 11-09-2025 14:55:22*
 <!-- END_NOW_PLAYING -->

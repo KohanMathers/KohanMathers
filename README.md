@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Overly Dead - Subculture Sage — Subculture Sage EP
-- 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 2 minutes ago
+- 🎵 **Now Playing:** My Goodbye - Jorge Rivera-Herrans & Teagan Earley — EPIC: The Cyclops Sag...
+- 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 1 minutes ago
 
-*Last updated: 11-09-2025 20:19:12*
+*Last updated: 11-09-2025 20:20:43*
 <!-- END_NOW_PLAYING -->

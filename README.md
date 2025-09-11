@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Meet Me Inside - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 1 minutes ago
+- 🎵 **Now Playing:** Guns and Ships - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 2 minutes ago
 
-*Last updated: 11-09-2025 14:57:58*
+*Last updated: 11-09-2025 14:59:13*
 <!-- END_NOW_PLAYING -->

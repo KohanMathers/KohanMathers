@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Reaching - Thumpasaurus — Thumpaverse
-- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: SoAndSo) - 14 minutes ago
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: SoAndSo) - 19 minutes ago
 
-*Last updated: 11-09-2025 18:03:11*
+*Last updated: 11-09-2025 18:08:14*
 <!-- END_NOW_PLAYING -->

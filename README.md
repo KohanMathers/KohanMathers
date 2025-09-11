@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Room Where It Happens - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 🎵 **Now Playing:** Washington On Your Side - Daveed Diggs, Various Artists — Hamilton: An American Musica...
 - 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 4 minutes ago
 
-*Last updated: 11-09-2025 15:04:43*
+*Last updated: 11-09-2025 15:05:07*
 <!-- END_NOW_PLAYING -->

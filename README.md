@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Yorktown (The World Turned Upside Down) - Original Broadway Cast of "Hamilton" — Hamilton: An American...
+- 🎵 **Now Playing:** What Comes Next? - Jonathan Groff — Hamilton: An American Musical (Original Bro...
 - 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 2 minutes ago
 
-*Last updated: 11-09-2025 14:59:18*
+*Last updated: 11-09-2025 14:59:28*
 <!-- END_NOW_PLAYING -->

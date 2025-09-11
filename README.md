@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Have You Ever Been so Lucky - Thumpasaurus — Thumpaverse
-- 💻 **Currently coding** in *Java*, editing `claude.java` (Project: Brew) - 3 minutes ago
+- 🎵 **Now Playing:** Reaching - Thumpasaurus — Thumpaverse
+- 💻 **Currently coding** in *Java*, editing `claude.java` (Project: Brew) - 4 minutes ago
 
-*Last updated: 11-09-2025 15:37:04*
+*Last updated: 11-09-2025 15:37:53*
 <!-- END_NOW_PLAYING -->

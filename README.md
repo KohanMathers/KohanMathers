@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** My Shot - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Currently coding** in *TOML*, editing `Cargo.toml` (Project: TimoTwo) - Just now
+- 🎵 **Now Playing:** The Schuyler Sisters - Phillipa Soo, Various Artists — Hamilton: An American Musica...
+- 💻 **Currently coding** in *TOML*, editing `Cargo.toml` (Project: TimoTwo) - 4 minutes ago
 
-*Last updated: 11-09-2025 14:41:41*
+*Last updated: 11-09-2025 14:45:21*
 <!-- END_NOW_PLAYING -->

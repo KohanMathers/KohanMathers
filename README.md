@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Ten Duel Commandments - Anthony Ramos, Various Artists — Hamilton: An American Music...
-- 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - Just now
+- 🎵 **Now Playing:** Meet Me Inside - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 1 minutes ago
 
-*Last updated: 11-09-2025 14:56:47*
+*Last updated: 11-09-2025 14:57:58*
 <!-- END_NOW_PLAYING -->

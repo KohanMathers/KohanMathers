@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Dangerous - Jorge Rivera-Herrans, TROY & Diana Rivera-Herrans — EPIC: Th...
-- 💻 **Currently coding** in *Rust*, editing `moderation.rs` (Project: TimoTwo) - 1 minutes ago
+- 🎵 **Now Playing:** 18 - Anarbor — Burnout (Deluxe Version)
+- 💻 **Currently coding** in *Rust*, editing `moderation.rs` (Project: TimoTwo) - Just now
 
-*Last updated: 12-09-2025 00:25:55*
+*Last updated: 12-09-2025 00:27:22*
 <!-- END_NOW_PLAYING -->

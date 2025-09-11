@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Are Ladybug (From "Ladybug and Cat Noir: The Movie") (feat. Mela Lee) [Rock Version] - Cristina Vee — Obnoxious Theater Kid
-- 💻 **Currently coding** in *Rust*, editing `moderation.rs` (Project: TimoTwo) - Just now
+- 🎵 **Now Playing:** Hi Ren - Ren — Hi Ren - Single
+- 💻 **Currently coding** in *Rust*, editing `moderation.rs` (Project: TimoTwo) - 1 minutes ago
 
-*Last updated: 11-09-2025 20:31:23*
+*Last updated: 11-09-2025 20:31:29*
 <!-- END_NOW_PLAYING -->

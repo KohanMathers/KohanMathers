@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** When the Blossom Falls (feat. Gus Harvey) - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** Drop Dead Gorgeous - VOILÀ — Drop Dead Gorgeous - Single
 - 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: TimoTwo) - Just now
 
-*Last updated: 11-09-2025 20:28:08*
+*Last updated: 11-09-2025 20:28:29*
 <!-- END_NOW_PLAYING -->

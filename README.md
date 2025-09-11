@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Intro - Gorillaz — Demon Days
+- 🎵 **Now Playing:** I Burn (feat. Casey Lee Williams & Lamar Hall) - Jeff Williams — Songs Part One (feat. Casey Lee Williams)
 - 💻 **Currently coding** in *Rust*, editing `admin.rs` (Project: TimoTwo) - 1 minutes ago
 
-*Last updated: 12-09-2025 00:30:57*
+*Last updated: 12-09-2025 00:31:08*
 <!-- END_NOW_PLAYING -->

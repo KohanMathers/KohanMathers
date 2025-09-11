@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** What Comes Next? - Jonathan Groff — Hamilton: An American Musical (Original Bro...
-- 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 2 minutes ago
+- 🎵 **Now Playing:** Non-Stop - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - Just now
 
-*Last updated: 11-09-2025 14:59:28*
+*Last updated: 11-09-2025 15:01:08*
 <!-- END_NOW_PLAYING -->

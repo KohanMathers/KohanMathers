@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Starving (feat. Zedd) - Hailee Steinfeld & Grey — Starving (feat. Zedd) - Single
-- 💻 **Currently coding** in *SQL*, editing `001_initial.sql` (Project: TimoTwo) - Just now
+- 🎵 **Now Playing:** Struttin' - Thumpasaurus — Thumpaverse
+- 💻 **Currently coding** in *Rust*, editing `admin.rs` (Project: TimoTwo) - Just now
 
-*Last updated: 12-09-2025 00:47:17*
+*Last updated: 12-09-2025 00:50:23*
 <!-- END_NOW_PLAYING -->

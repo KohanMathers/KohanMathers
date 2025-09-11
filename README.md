@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Lay All Your Love On Me - Dominic Cooper & Amanda Seyfried — Mamma Mia! The Movie Soun...
-- 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 3 minutes ago
+- 🎵 **Now Playing:** Here's a Story - Seb Lowe — Here's a Story - Single
+- 💻 **Currently coding** in *Rust*, editing `db.rs` (Project: TimoTwo) - Just now
 
-*Last updated: 11-09-2025 20:09:08*
+*Last updated: 11-09-2025 20:09:43*
 <!-- END_NOW_PLAYING -->

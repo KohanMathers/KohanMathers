@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stay Alive (Reprise) - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 🎵 **Now Playing:** Your Obedient Servant - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
 - 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 2 minutes ago
 
-*Last updated: 11-09-2025 15:08:08*
+*Last updated: 11-09-2025 15:08:12*
 <!-- END_NOW_PLAYING -->

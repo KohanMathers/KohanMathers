@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** My Shot - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: TimoTwo) - Just now
+- 💻 **Currently coding** in *TOML*, editing `Cargo.toml` (Project: TimoTwo) - Just now
 
-*Last updated: 11-09-2025 14:38:51*
+*Last updated: 11-09-2025 14:41:41*
 <!-- END_NOW_PLAYING -->

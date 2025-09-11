@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** It Doesn't Matter - Thumpasaurus — Thumpaverse
-- 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 4 minutes ago
+- 🎵 **Now Playing:** What Do I Do - Thumpasaurus — Thumpaverse
+- 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 8 minutes ago
 
-*Last updated: 11-09-2025 15:28:37*
+*Last updated: 11-09-2025 15:31:58*
 <!-- END_NOW_PLAYING -->

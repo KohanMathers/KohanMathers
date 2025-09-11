@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Satisfied - Original Broadway Cast of "Hamilton", Various Artists — Hami...
+- 🎵 **Now Playing:** Wait For It - Leslie Odom, Jr. & Original Broadway Cast of "Hamilton" — Ha...
 - 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 3 minutes ago
 
-*Last updated: 11-09-2025 14:55:58*
+*Last updated: 11-09-2025 14:56:03*
 <!-- END_NOW_PLAYING -->

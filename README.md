@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** 18 - Anarbor — Burnout (Deluxe Version)
-- 💻 **Currently coding** in *Rust*, editing `moderation.rs` (Project: TimoTwo) - Just now
+- 🎵 **Now Playing:** Intro - Gorillaz — Demon Days
+- 💻 **Currently coding** in *Rust*, editing `admin.rs` (Project: TimoTwo) - Just now
 
-*Last updated: 12-09-2025 00:27:22*
+*Last updated: 12-09-2025 00:30:02*
 <!-- END_NOW_PLAYING -->

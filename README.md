@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Losing Days - Frank Turner — Tape Deck Heart (Deluxe Edition)
+- 🎵 **Now Playing:** Bang Bang (feat. Kitten & The Hip) - Dub Pistols — Worshipping the Dollar
 - 💻 **Currently coding** in *Rust*, editing `moderation.rs` (Project: TimoTwo) - Just now
 
-*Last updated: 11-09-2025 20:31:13*
+*Last updated: 11-09-2025 20:31:19*
 <!-- END_NOW_PLAYING -->

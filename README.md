@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** There Are Other Ways - Jorge Rivera-Herrans, Talya Sindel & Cast of EPIC: The Music...
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: TimoTwo) - 2 minutes ago
+- 🎵 **Now Playing:** Overly Dead - Subculture Sage — Subculture Sage EP
+- 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 2 minutes ago
 
-*Last updated: 11-09-2025 20:14:10*
+*Last updated: 11-09-2025 20:16:38*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Heart Like a Box of Matches - Burn The Ballroom — Burn the Ballroom
-- 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 4 minutes ago
+- 🎵 **Now Playing:** Psychopath - Burn The Ballroom — Burn the Ballroom
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: TimoTwo) - 3 minutes ago
 
-*Last updated: 11-09-2025 13:21:38*
+*Last updated: 11-09-2025 13:24:58*
 <!-- END_NOW_PLAYING -->

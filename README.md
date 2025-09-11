@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I'm Pissed - Thumpasaurus — Thumpaverse
+- 🎵 **Now Playing:** Struttin' - Thumpasaurus — Thumpaverse
 - 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 6 minutes ago
 
-*Last updated: 11-09-2025 15:22:46*
+*Last updated: 11-09-2025 15:22:52*
 <!-- END_NOW_PLAYING -->

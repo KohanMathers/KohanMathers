@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Broken Dove - Burn The Ballroom — Burn the Ballroom
-- 💻 **Currently coding** in *Python*, editing `core.py` (Project: SoAndSo) - 1 minutes ago
+- 🎵 **Now Playing:** Lay All Your Love On Me - Dominic Cooper & Amanda Seyfried — Mamma Mia! The Movie Soun...
+- 💻 **Currently coding** in *Python*, editing `core.py` (Project: SoAndSo) - 2 minutes ago
 
-*Last updated: 11-09-2025 20:04:43*
+*Last updated: 11-09-2025 20:05:04*
 <!-- END_NOW_PLAYING -->

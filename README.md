@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Six - SIX — Six: The Musical (Studio Cast Recording)
-- 💻 **Currently coding** in *Rust*, editing `moderation.rs` (Project: TimoTwo) - 1 minutes ago
+- 🎵 **Now Playing:** Vtuber Loser - nihmune — Are You Okay?
+- 💻 **Currently coding** in *Rust*, editing `moderation.rs` (Project: TimoTwo) - 4 minutes ago
 
-*Last updated: 12-09-2025 00:35:59*
+*Last updated: 12-09-2025 00:38:48*
 <!-- END_NOW_PLAYING -->

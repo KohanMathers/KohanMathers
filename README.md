@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** When the Blossom Falls (feat. Gus Harvey) - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Currently coding** in *Rust*, editing `db.rs` (Project: TimoTwo) - 1 minutes ago
+- 🎵 **Now Playing:** Young Disciple - Missing Andy — Guerrilla Invasion Pt. 1
+- 💻 **Currently coding** in *TOML*, editing `Cargo.toml` (Project: TimoTwo) - 2 minutes ago
 
-*Last updated: 12-09-2025 00:41:01*
+*Last updated: 12-09-2025 00:43:52*
 <!-- END_NOW_PLAYING -->

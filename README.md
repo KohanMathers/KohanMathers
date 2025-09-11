@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Cabinet Battle #1 - Christopher Jackson, Various Artists — Hamilton: An American...
-- 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 1 minutes ago
+- 🎵 **Now Playing:** Say No To This - Jasmine Cephas Jones, Various Artists — Hamilton: An America...
+- 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 4 minutes ago
 
-*Last updated: 11-09-2025 15:01:49*
+*Last updated: 11-09-2025 15:04:38*
 <!-- END_NOW_PLAYING -->

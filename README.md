@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Drop Dead Gorgeous - VOILÀ — Drop Dead Gorgeous - Single
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: TimoTwo) - Just now
+- 🎵 **Now Playing:** Losing Days - Frank Turner — Tape Deck Heart (Deluxe Edition)
+- 💻 **Currently coding** in *Rust*, editing `moderation.rs` (Project: TimoTwo) - Just now
 
-*Last updated: 11-09-2025 20:28:29*
+*Last updated: 11-09-2025 20:31:13*
 <!-- END_NOW_PLAYING -->

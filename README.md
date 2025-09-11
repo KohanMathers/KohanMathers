@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Young Disciple - Missing Andy — Guerrilla Invasion Pt. 1
-- 💻 **Currently coding** in *TOML*, editing `Cargo.toml` (Project: TimoTwo) - 2 minutes ago
+- 💻 **Currently coding** in *Rust*, editing `admin.rs` (Project: TimoTwo) - 1 minutes ago
 
-*Last updated: 12-09-2025 00:43:52*
+*Last updated: 12-09-2025 00:46:03*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Say No To This - Jasmine Cephas Jones, Various Artists — Hamilton: An America...
+- 🎵 **Now Playing:** The Room Where It Happens - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
 - 💻 **Currently coding** in *Rust*, editing `commands.rs` (Project: TimoTwo) - 4 minutes ago
 
-*Last updated: 11-09-2025 15:04:38*
+*Last updated: 11-09-2025 15:04:43*
 <!-- END_NOW_PLAYING -->

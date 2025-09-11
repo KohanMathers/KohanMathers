@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Reaching - Thumpasaurus — Thumpaverse
-- 💻 **Currently coding** in *Python*, editing `setup.py` (Project: SoAndSo) - Just now
+- 💻 **Currently coding** in *None*, editing `LICENSE` (Project: SoAndSo) - 3 minutes ago
 
-*Last updated: 11-09-2025 17:38:00*
+*Last updated: 11-09-2025 17:43:02*
 <!-- END_NOW_PLAYING -->

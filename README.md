@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Space Barn - Thumpasaurus — Thumpaverse
+- 🎵 **Now Playing:** Break Them (feat. Anna Yvette) - Aero Chord — Break Them (feat. Anna Yvette) - Single
 - 💻 **Currently coding** in *Python*, editing `core.py` (Project: SoAndSo) - 1 minutes ago
 
-*Last updated: 11-09-2025 20:04:06*
+*Last updated: 11-09-2025 20:04:23*
 <!-- END_NOW_PLAYING -->

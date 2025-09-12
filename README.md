@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Uh Oh - Junior Doctor — Clumsy Words and Bad Pickup Lines
-- 💻 **Currently coding** in *Text*, editing `staff-general.txt` (Project: TimoTwo) - 3 minutes ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Currently coding** in *Text*, editing `staff-general.txt` (Project: TimoTwo) - 6 minutes ago
 
-*Last updated: 12-09-2025 23:00:53*
+*Last updated: 12-09-2025 23:03:26*
 <!-- END_NOW_PLAYING -->

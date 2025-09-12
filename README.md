@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Keep Your Friends Close - Jorge Rivera-Herrans, Various Artists — EPIC: The Ocean Saga...
+- 🎵 **Now Playing:** Pizza in the Cosmos - nihmune — Super Swag yet Super Sad - Single
 - 💻 **Currently coding** in *Rust*, editing `moderation.rs` (Project: TimoTwo) - 1 minutes ago
 
-*Last updated: 12-09-2025 18:38:40*
+*Last updated: 12-09-2025 18:42:19*
 <!-- END_NOW_PLAYING -->

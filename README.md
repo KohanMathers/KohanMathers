@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Go Yet Baby - nihmune — Hard to Think
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: TimoTwo) - Just now
+- 💻 **Currently coding** in *Rust*, editing `mod.rs` (Project: TimoTwo) - Just now
 
-*Last updated: 12-09-2025 01:36:18*
+*Last updated: 12-09-2025 01:41:20*
 <!-- END_NOW_PLAYING -->

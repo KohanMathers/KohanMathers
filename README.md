@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fight or Flight - Conan Gray — Kid Krow
-- 💻 **Currently coding** in *Rust*, editing `randoms.rs` (Project: TimoTwo) - 6 minutes ago
+- 🎵 **Now Playing:** Hey Boy - The Undercover Hippy — Hey Boy - Single
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: TimoTwo) - 1 minutes ago
 
-*Last updated: 12-09-2025 16:02:36*
+*Last updated: 12-09-2025 16:05:09*
 <!-- END_NOW_PLAYING -->

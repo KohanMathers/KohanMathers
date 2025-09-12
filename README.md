@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Love You Like the Movies - Anthem Lights — Escape
+- 🎵 **Now Playing:** Go Yet Baby - nihmune — Hard to Think
 - 💻 **Currently coding** in *Rust*, editing `admin.rs` (Project: TimoTwo) - 2 minutes ago
 
-*Last updated: 12-09-2025 01:01:12*
+*Last updated: 12-09-2025 01:04:57*
 <!-- END_NOW_PLAYING -->

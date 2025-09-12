@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Safe Space - nihmune — Hard to Think
+- 🎵 **Now Playing:** Broken Dove - Burn The Ballroom — Burn the Ballroom
 - 💻 **Currently coding** in *Rust*, editing `randoms.rs` (Project: TimoTwo) - 2 minutes ago
 
-*Last updated: 12-09-2025 15:58:55*
+*Last updated: 12-09-2025 15:58:59*
 <!-- END_NOW_PLAYING -->

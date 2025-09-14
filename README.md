@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Coming To the Gambia - The Undercover Hippy — Monkey Suit — The Undercover Hippy
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: TimoTwo) - 3 minutes ago
+- 🎵 **Now Playing:** Human Race - The Undercover Hippy — Monkey Suit — The Undercover Hippy
+- 💻 **Currently coding** in *Rust*, editing `basic.rs` (Project: TimoTwo) - Just now
 
-*Last updated: 14-09-2025 03:40:24*
+*Last updated: 14-09-2025 03:43:56*
 <!-- END_NOW_PLAYING -->

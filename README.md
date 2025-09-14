@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: TimoTwo) - 4 minutes ago
+- 💻 **Currently coding** in *Rust*, editing `mod.rs` (Project: TimoTwo) - Just now
 
-*Last updated: 14-09-2025 02:50:04*
+*Last updated: 14-09-2025 02:55:06*
 <!-- END_NOW_PLAYING -->

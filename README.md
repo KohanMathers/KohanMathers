@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *SQL*, editing `001_initial.sql` (Project: TimoTwo) - 1 minutes ago
+- 🎵 **Now Playing:** Coming To the Gambia - The Undercover Hippy — Monkey Suit — The Undercover Hippy
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: TimoTwo) - 2 minutes ago
 
-*Last updated: 14-09-2025 03:35:22*
+*Last updated: 14-09-2025 03:38:58*
 <!-- END_NOW_PLAYING -->

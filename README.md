@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Python*, editing `bookSplitter.py` (Project: None) - 13 minutes ago
+- 💻 **Last seen coding** in *Python*, editing `bookSplitter.py` (Project: None) - 18 minutes ago
 
-*Last updated: 15-09-2025 20:19:52*
+*Last updated: 15-09-2025 20:24:54*
 <!-- END_NOW_PLAYING -->

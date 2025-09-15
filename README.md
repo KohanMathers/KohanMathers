@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: BookPlugin) - 2 minutes ago
+- 💻 **Currently coding** in *YAML*, editing `config.yml` (Project: BookPlugin) - 1 minutes ago
 
-*Last updated: 15-09-2025 20:40:01*
+*Last updated: 15-09-2025 20:45:04*
 <!-- END_NOW_PLAYING -->

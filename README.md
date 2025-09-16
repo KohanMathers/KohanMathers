@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Text*, editing `staff-general.txt` (Project: TimoTwo) - 12 minutes ago
+- 💻 **Last seen coding** in *Text*, editing `staff-general.txt` (Project: TimoTwo) - 17 minutes ago
 
-*Last updated: 16-09-2025 22:23:32*
+*Last updated: 16-09-2025 22:28:34*
 <!-- END_NOW_PLAYING -->

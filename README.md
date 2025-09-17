@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `test.java` (Project: Brew) - Just now
+- 💻 **Currently coding** in *TypeScript*, editing `compiler.ts` (Project: Brew) - 1 minutes ago
 
-*Last updated: 17-09-2025 08:47:41*
+*Last updated: 17-09-2025 08:52:43*
 <!-- END_NOW_PLAYING -->

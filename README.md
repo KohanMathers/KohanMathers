@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Borders - The Undercover Hippy — Monkey Suit
+- 🎵 **Now Playing:** Our Streets - The Undercover Hippy — Monkey Suit
 - 💻 **Last seen coding** in *Java*, editing `Program.java` (Project: Brew) - 1h 7m ago
 
-*Last updated: 17-09-2025 12:22:44*
+*Last updated: 17-09-2025 12:22:48*
 <!-- END_NOW_PLAYING -->

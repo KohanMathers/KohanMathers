@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Smokey Blues - Dutty Moonshine Big Band — Most Wanted
+- 🎵 **Now Playing:** Gold - Subculture Sage — Big Smoke Autumn Blues
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-09-2025 16:38:04*
+*Last updated: 19-09-2025 16:43:48*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** 1=1=1 - Subculture Sage — Subculture Sage EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 18-09-2025 00:01:16*
+*Last updated: 19-09-2025 16:25:17*
 <!-- END_NOW_PLAYING -->

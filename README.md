@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** 1933 - Frank Turner — Be More Kind
+- 🎵 **Now Playing:** Josephine - Frank Turner — Positive Songs for Negative People (Deluxe)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-09-2025 16:47:13*
+*Last updated: 19-09-2025 16:50:18*
 <!-- END_NOW_PLAYING -->

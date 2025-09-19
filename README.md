@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Recovery - Frank Turner — Tape Deck Heart (Deluxe Edition)
+- 🎵 **Now Playing:** Nevermore (feat. Casey Lee Williams & Adrienne Cowan) - Jeff Williams — Songs Part Six
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 19-09-2025 16:29:45*
+*Last updated: 19-09-2025 16:33:09*
 <!-- END_NOW_PLAYING -->

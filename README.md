@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Don't Worry - Frank Turner — Be More Kind
+- 🎵 **Now Playing:** You Make Me Feel - EASHA — You Make Me Feel - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 13:34:01*
+*Last updated: 21-09-2025 13:37:15*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Gold - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** Love in Paradise - Jorge Rivera-Herrans, Barbara Wangui, Teagan Earley, Kira St...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 14:33:15*
+*Last updated: 21-09-2025 15:25:17*
 <!-- END_NOW_PLAYING -->

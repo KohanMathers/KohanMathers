@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** These Days - The Undercover Hippy — These Days - Single
+- 🎵 **Now Playing:** To You, From Me - Naethan Apollo — Hello World
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 15:51:41*
+*Last updated: 21-09-2025 15:55:25*
 <!-- END_NOW_PLAYING -->

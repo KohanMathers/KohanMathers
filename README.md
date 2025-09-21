@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Smoke and Mirrors - Sinder — Smoke and Mirrors - Single
+- 🎵 **Now Playing:** These Days - The Undercover Hippy — These Days - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 15:51:35*
+*Last updated: 21-09-2025 15:51:41*
 <!-- END_NOW_PLAYING -->

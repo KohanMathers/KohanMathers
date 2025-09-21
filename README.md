@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Little Talks - Of Monsters and Men — My Head Is an Animal
+- 🎵 **Now Playing:** Uh Oh - Junior Doctor — Clumsy Words and Bad Pickup Lines
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 15:47:47*
+*Last updated: 21-09-2025 15:47:51*
 <!-- END_NOW_PLAYING -->

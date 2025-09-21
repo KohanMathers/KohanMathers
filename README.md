@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Road - Frank Turner — Poetry of the Deed
+- 🎵 **Now Playing:** 1=1=1 - Subculture Sage — Subculture Sage EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 14:17:00*
+*Last updated: 21-09-2025 14:21:01*
 <!-- END_NOW_PLAYING -->

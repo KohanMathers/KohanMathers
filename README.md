@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Would You Fall in Love with Me Again - Jorge Rivera-Herrans & Anna Lea — EPIC: The Ithaca Saga (Off...
+- 🎵 **Now Playing:** Be More Kind - Frank Turner — Be More Kind
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 15:32:46*
+*Last updated: 21-09-2025 15:38:30*
 <!-- END_NOW_PLAYING -->

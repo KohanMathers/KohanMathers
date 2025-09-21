@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Blood, Sweat & Tears - Ava Max — Blood, Sweat & Tears - Single
+- 🎵 **Now Playing:** Make Believe (feat. Sydney Osmon & Tomotasauce) - Jakeneutron — Neutron Nexus
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 15:42:40*
+*Last updated: 21-09-2025 15:45:56*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** In Love with an Anime Girl - nihmune — Are You Okay?
+- 🎵 **Now Playing:** Smoke and Mirrors - Sinder — Smoke and Mirrors - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 15:51:30*
+*Last updated: 21-09-2025 15:51:35*
 <!-- END_NOW_PLAYING -->

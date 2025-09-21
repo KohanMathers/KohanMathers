@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Berry Dreams (feat. Bao the Whale) - nihmune — Are You Okay?
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 15:58:46*
+*Last updated: 21-09-2025 16:01:16*
 <!-- END_NOW_PLAYING -->

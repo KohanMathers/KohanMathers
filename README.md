@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** West End Story (feat. Akala & Dan Bowskill) - Dub Pistols — Worshipping the Dollar
+- 🎵 **Now Playing:** Digital Hallucination (feat. Lizzie Freeman) - Or3o — Digital Hallucination (feat. Lizzie Freeman) - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 13:26:16*
+*Last updated: 21-09-2025 13:30:01*
 <!-- END_NOW_PLAYING -->

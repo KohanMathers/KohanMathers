@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** To You, From Me - Naethan Apollo — Hello World
+- 🎵 **Now Playing:** Going Nowhere - Frank Turner — Be More Kind
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 14:07:35*
+*Last updated: 21-09-2025 14:07:39*
 <!-- END_NOW_PLAYING -->

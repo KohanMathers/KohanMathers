@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Otomakaskit (Skit) - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** One Heart One Life - The Undercover Hippy — Truth & Fiction
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 15:28:51*
+*Last updated: 21-09-2025 15:28:57*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Don't Lose Ur Head (feat. Christina Modestou) - SIX — Six: The Musical (Studio Cast Recording)
+- 🎵 **Now Playing:** Glorious You (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 14:25:21*
+*Last updated: 21-09-2025 14:29:26*
 <!-- END_NOW_PLAYING -->

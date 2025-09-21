@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Digital Hallucination (feat. Lizzie Freeman) - Or3o — Digital Hallucination (feat. Lizzie Freeman) - Single
+- 🎵 **Now Playing:** Don't Worry - Frank Turner — Be More Kind
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 13:30:01*
+*Last updated: 21-09-2025 13:34:01*
 <!-- END_NOW_PLAYING -->

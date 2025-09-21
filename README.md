@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Feel Good Inc - Gorillaz — Retro 00's
+- 🎵 **Now Playing:** To You, From Me - Naethan Apollo — Hello World
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 13:50:36*
+*Last updated: 21-09-2025 14:07:35*
 <!-- END_NOW_PLAYING -->

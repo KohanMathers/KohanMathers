@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** To You, From Me - Naethan Apollo — Hello World
+- 🎵 **Now Playing:** Berry Dreams (feat. Bao the Whale) - nihmune — Are You Okay?
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 15:55:25*
+*Last updated: 21-09-2025 15:58:46*
 <!-- END_NOW_PLAYING -->

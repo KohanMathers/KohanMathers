@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Tommy & Loretta (feat. OdjBox) - Dutty Moonshine Big Band — City of Sin
+- 🎵 **Now Playing:** Lean On (feat. MØ & DJ Snake) - Major Lazer — Major Lazer Essentials
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 15:25:45*
+*Last updated: 21-09-2025 15:25:51*
 <!-- END_NOW_PLAYING -->

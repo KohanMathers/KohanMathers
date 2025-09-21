@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Outrunning Karma - Alec Benjamin — Good Enough: Sad Pop Songs
+- 🎵 **Now Playing:** West End Story (feat. Akala & Dan Bowskill) - Dub Pistols — Worshipping the Dollar
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 13:23:07*
+*Last updated: 21-09-2025 13:26:16*
 <!-- END_NOW_PLAYING -->

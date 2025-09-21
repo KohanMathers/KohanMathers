@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** 21st Century Survival Blues - Frank Turner — Be More Kind
+- 🎵 **Now Playing:** I Burn (feat. Casey Lee Williams & Lamar Hall) - Jeff Williams — Songs Part One (feat. Casey Lee Williams)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 13:42:57*
+*Last updated: 21-09-2025 13:46:57*
 <!-- END_NOW_PLAYING -->

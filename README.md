@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Make Me Feel - EASHA — You Make Me Feel - Single
+- 🎵 **Now Playing:** Love Forty Down - Frank Turner — Positive Songs for Negative People
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 13:37:15*
+*Last updated: 21-09-2025 13:40:31*
 <!-- END_NOW_PLAYING -->

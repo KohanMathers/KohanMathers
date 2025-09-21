@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** If Ever I Stray - Frank Turner — England Keep My Bones
+- 🎵 **Now Playing:** Otomakaskit (Skit) - Subculture Sage — Big Smoke Autumn Blues
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 15:25:57*
+*Last updated: 21-09-2025 15:28:51*
 <!-- END_NOW_PLAYING -->

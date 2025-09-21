@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** This December - Ricky Montgomery — Montgomery Ricky
+- 🎵 **Now Playing:** The Road - Frank Turner — Poetry of the Deed
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 14:16:56*
+*Last updated: 21-09-2025 14:17:00*
 <!-- END_NOW_PLAYING -->

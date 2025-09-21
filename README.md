@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Lean On (feat. MØ & DJ Snake) - Major Lazer — Major Lazer Essentials
+- 🎵 **Now Playing:** If Ever I Stray - Frank Turner — England Keep My Bones
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 15:25:51*
+*Last updated: 21-09-2025 15:25:57*
 <!-- END_NOW_PLAYING -->

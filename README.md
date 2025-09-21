@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Cry For Me (WA WA WA) [feat. Bubi] - Ironmouse, shirobeats & HalaCG — Cry For Me (WA WA WA) [feat...
+- 🎵 **Now Playing:** Little Talks - Of Monsters and Men — My Head Is an Animal
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 15:47:40*
+*Last updated: 21-09-2025 15:47:47*
 <!-- END_NOW_PLAYING -->

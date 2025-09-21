@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Are My Sunshine - Frank Turner — Jonah Matranga / Frank Turner - EP
+- 🎵 **Now Playing:** This December - Ricky Montgomery — Montgomery Ricky
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 14:14:25*
+*Last updated: 21-09-2025 14:16:56*
 <!-- END_NOW_PLAYING -->

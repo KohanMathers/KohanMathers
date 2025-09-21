@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** 1=1=1 - Subculture Sage — Subculture Sage EP
+- 🎵 **Now Playing:** Don't Lose Ur Head (feat. Christina Modestou) - SIX — Six: The Musical (Studio Cast Recording)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 14:21:01*
+*Last updated: 21-09-2025 14:25:21*
 <!-- END_NOW_PLAYING -->

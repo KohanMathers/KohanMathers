@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Burn (feat. Casey Lee Williams & Lamar Hall) - Jeff Williams — Songs Part One (feat. Casey Lee Williams)
+- 🎵 **Now Playing:** Feel Good Inc - Gorillaz — Retro 00's
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 13:46:57*
+*Last updated: 21-09-2025 13:50:36*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Make Believe (feat. Sydney Osmon & Tomotasauce) - Jakeneutron — Neutron Nexus
+- 🎵 **Now Playing:** Cry For Me (WA WA WA) [feat. Bubi] - Ironmouse, shirobeats & HalaCG — Cry For Me (WA WA WA) [feat...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 15:45:56*
+*Last updated: 21-09-2025 15:47:40*
 <!-- END_NOW_PLAYING -->

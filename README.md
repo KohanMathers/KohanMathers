@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Going Nowhere - Frank Turner — Be More Kind
+- 🎵 **Now Playing:** Pitch Black - Subculture Sage — Big Smoke Autumn Blues
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 14:07:39*
+*Last updated: 21-09-2025 14:11:41*
 <!-- END_NOW_PLAYING -->

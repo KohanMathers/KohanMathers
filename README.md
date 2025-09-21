@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Pitch Black - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** You Are My Sunshine - Frank Turner — Jonah Matranga / Frank Turner - EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 14:11:41*
+*Last updated: 21-09-2025 14:14:25*
 <!-- END_NOW_PLAYING -->

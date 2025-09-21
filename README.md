@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Tommy & Loretta (feat. OdjBox) - Dutty Moonshine Big Band — City of Sin
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 15:25:22*
+*Last updated: 21-09-2025 15:25:45*
 <!-- END_NOW_PLAYING -->

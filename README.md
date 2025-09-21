@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Uh Oh - Junior Doctor — Clumsy Words and Bad Pickup Lines
+- 🎵 **Now Playing:** In Love with an Anime Girl - nihmune — Are You Okay?
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 21-09-2025 15:47:51*
+*Last updated: 21-09-2025 15:51:30*
 <!-- END_NOW_PLAYING -->

@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Bash*, editing `build.sh` (Project: canary-os) - 14 minutes ago
+- 💻 **Last seen coding** in *Bash*, editing `build.sh` (Project: canary-os) - 19 minutes ago
 
-*Last updated: 24-09-2025 00:35:07*
+*Last updated: 24-09-2025 00:40:09*
 <!-- END_NOW_PLAYING -->

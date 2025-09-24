@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Recovery - Frank Turner — Tape Deck Heart (Deluxe Edition)
+- 🎵 **Now Playing:** Little Wolf - Jorge Rivera-Herrans, Various Artists — EPIC: The Wisdom Sag...
 - 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: canary-os) - 7h 17m ago
 
-*Last updated: 24-09-2025 20:01:53*
+*Last updated: 24-09-2025 20:01:58*
 <!-- END_NOW_PLAYING -->

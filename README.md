@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** From the Ritz to the Rubble - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
+- 🎵 **Now Playing:** Young Disciple - Missing Andy — Guerrilla Invasion Pt. 1
 - 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: canary-os) - 7h 25m ago
 
-*Last updated: 24-09-2025 20:09:28*
+*Last updated: 24-09-2025 20:09:33*
 <!-- END_NOW_PLAYING -->

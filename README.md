@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Six - SIX — Six: The Musical (Studio Cast Recording)
+- 🎵 **Now Playing:** Keep Your Friends Close - Jorge Rivera-Herrans, Various Artists — EPIC: The Ocean Saga...
 - 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 1 minutes ago
 
-*Last updated: 24-09-2025 20:54:02*
+*Last updated: 24-09-2025 20:54:52*
 <!-- END_NOW_PLAYING -->

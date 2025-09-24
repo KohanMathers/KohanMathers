@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fever (feat. Crash Party) - Dutty Moonshine Big Band — City of Sin
-- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: canary-os) - 7h 4m ago
+- 🎵 **Now Playing:** Drop Dead Gorgeous - VOILÀ — Drop Dead Gorgeous - Single
+- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: canary-os) - 7h 6m ago
 
-*Last updated: 24-09-2025 19:48:33*
+*Last updated: 24-09-2025 19:50:19*
 <!-- END_NOW_PLAYING -->

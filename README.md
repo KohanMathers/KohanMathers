@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Keep Your Friends Close - Jorge Rivera-Herrans, Various Artists — EPIC: The Ocean Saga...
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 1 minutes ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 5 minutes ago
 
-*Last updated: 24-09-2025 22:09:25*
+*Last updated: 24-09-2025 22:13:54*
 <!-- END_NOW_PLAYING -->

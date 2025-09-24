@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Angel Islington - Frank Turner — Positive Songs for Negative People
+- 🎵 **Now Playing:** Vital Signs - Frank Turner — Sleep Is for the Week
 - 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: canary-os) - 7h 17m ago
 
-*Last updated: 24-09-2025 20:01:34*
+*Last updated: 24-09-2025 20:01:48*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Demons (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
-- 💻 **Currently coding** in *JSON*, editing `i386-canaryos.json` (Project: CanaryOS) - 1 minutes ago
+- 🎵 **Now Playing:** Josephine (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - Just now
 
-*Last updated: 24-09-2025 20:28:52*
+*Last updated: 24-09-2025 20:30:45*
 <!-- END_NOW_PLAYING -->

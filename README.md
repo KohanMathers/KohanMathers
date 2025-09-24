@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Unthinkable Love - Ayiko & Sinder — Unthinkable Love - Single
+- 🎵 **Now Playing:** Convergence of Sin - Sinder & Sleeping Forest — Convergence of Sin - Single
 - 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: canary-os) - 7h 17m ago
 
-*Last updated: 24-09-2025 20:01:23*
+*Last updated: 24-09-2025 20:01:28*
 <!-- END_NOW_PLAYING -->

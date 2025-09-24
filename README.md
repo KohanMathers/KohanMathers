@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Rebellion - hololive English -Advent- — Rebellion - Single
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - Just now
+- 🎵 **Now Playing:** Warrior of the Mind - Jorge Rivera-Herrans, Teagan Earley & Cast of EPIC: The Musi...
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 2 minutes ago
 
-*Last updated: 24-09-2025 20:38:56*
+*Last updated: 24-09-2025 20:40:20*
 <!-- END_NOW_PLAYING -->

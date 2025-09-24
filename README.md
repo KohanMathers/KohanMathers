@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Vital Signs - Frank Turner — Sleep Is for the Week
+- 🎵 **Now Playing:** Recovery - Frank Turner — Tape Deck Heart (Deluxe Edition)
 - 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: canary-os) - 7h 17m ago
 
-*Last updated: 24-09-2025 20:01:48*
+*Last updated: 24-09-2025 20:01:53*
 <!-- END_NOW_PLAYING -->

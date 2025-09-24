@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Heartbun - nihmune — Run from the Sun
-- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: canary-os) - 7h 39m ago
+- 🎵 **Now Playing:** Demons (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 1 minutes ago
 
-*Last updated: 24-09-2025 20:23:52*
+*Last updated: 24-09-2025 20:26:21*
 <!-- END_NOW_PLAYING -->

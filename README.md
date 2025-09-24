@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Josephine (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 🎵 **Now Playing:** Hell Is Forever - Andrew Underberg, Sam Haft, Alex Brightman & Erika Henningse...
 - 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 1 minutes ago
 
-*Last updated: 24-09-2025 20:33:54*
+*Last updated: 24-09-2025 20:34:17*
 <!-- END_NOW_PLAYING -->

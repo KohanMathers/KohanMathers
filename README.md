@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Warrior of the Mind - Jorge Rivera-Herrans, Teagan Earley & Cast of EPIC: The Musi...
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 2 minutes ago
+- 🎵 **Now Playing:** Zazou (feat. HypeMan Sage) - Smokey Joe & The Kid — Nasty Tricks
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - Just now
 
-*Last updated: 24-09-2025 20:40:20*
+*Last updated: 24-09-2025 20:43:53*
 <!-- END_NOW_PLAYING -->

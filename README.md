@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Hell Is Forever - Andrew Underberg, Sam Haft, Alex Brightman & Erika Henningse...
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 1 minutes ago
+- 🎵 **Now Playing:** Rebellion - hololive English -Advent- — Rebellion - Single
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - Just now
 
-*Last updated: 24-09-2025 20:34:17*
+*Last updated: 24-09-2025 20:36:35*
 <!-- END_NOW_PLAYING -->

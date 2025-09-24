@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** How You Get The Girl (Taylor's Version) - Taylor Swift — 1989 (Taylor's Version)
-- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 3 minutes ago
+- 🎵 **Now Playing:** Six - SIX — Six: The Musical (Studio Cast Recording)
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 1 minutes ago
 
-*Last updated: 24-09-2025 20:49:00*
+*Last updated: 24-09-2025 20:50:51*
 <!-- END_NOW_PLAYING -->

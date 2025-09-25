@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Running from the Thoughts - Dub Pistols featuring Terry Hall — Speakers and Tweeters
-- 💻 **Last seen coding** in *Rust*, editing `client.rs` (Project: ProjectNeon) - 8h 39m ago
+- 🎵 **Now Playing:** Running from the Thoughts - Dub Pistols featuring Terry Hall — Speakers and Tweeters Dub...
+- 💻 **Last seen coding** in *Rust*, editing `client.rs` (Project: ProjectNeon) - 8h 40m ago
 
-*Last updated: 25-09-2025 21:05:11*
+*Last updated: 25-09-2025 21:05:44*
 <!-- END_NOW_PLAYING -->

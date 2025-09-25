@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Distillin - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Last seen coding** in *Rust*, editing `client.rs` (Project: ProjectNeon) - 8h 41m ago
+- 🎵 **Now Playing:** Gangsters - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Last seen coding** in *Rust*, editing `client.rs` (Project: ProjectNeon) - 8h 44m ago
 
-*Last updated: 25-09-2025 21:06:31*
+*Last updated: 25-09-2025 21:10:03*
 <!-- END_NOW_PLAYING -->

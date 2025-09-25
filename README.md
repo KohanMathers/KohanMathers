@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Running from the Thoughts - Dub Pistols featuring Terry Hall — Speakers and Tweeters Dub...
+- 🎵 **Now Playing:** Distillin - Dutty Moonshine Big Band — Most Wanted
 - 💻 **Last seen coding** in *Rust*, editing `client.rs` (Project: ProjectNeon) - 8h 40m ago
 
-*Last updated: 25-09-2025 21:05:44*
+*Last updated: 25-09-2025 21:06:16*
 <!-- END_NOW_PLAYING -->

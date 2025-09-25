@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** "New Case File" Skit - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Last seen coding** in *Rust*, editing `client.rs` (Project: ProjectNeon) - 8h 47m ago
+- 🎵 **Now Playing:** Taking Over - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Last seen coding** in *Rust*, editing `client.rs` (Project: ProjectNeon) - 8h 48m ago
 
-*Last updated: 25-09-2025 21:13:12*
+*Last updated: 25-09-2025 21:14:21*
 <!-- END_NOW_PLAYING -->

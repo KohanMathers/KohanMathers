@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** "New Case File" Skit - Dutty Moonshine Big Band — Most Wanted
+- 🎵 **Now Playing:** Taking Over - Dutty Moonshine Big Band — Most Wanted
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 26-09-2025 15:07:31*
+*Last updated: 26-09-2025 15:08:46*
 <!-- END_NOW_PLAYING -->

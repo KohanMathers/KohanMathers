@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Taking Over - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Currently coding** in *Python*, editing `curlyscript.py` (Project: RandomThings) - 2 minutes ago
+- 💻 **Currently coding** in *Python*, editing `curlyscript.py` (Project: RandomThings) - Just now
 
-*Last updated: 26-09-2025 22:30:56*
+*Last updated: 26-09-2025 22:35:58*
 <!-- END_NOW_PLAYING -->

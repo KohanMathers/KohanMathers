@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Taking Over - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Coding Status:** Not coding
+- 💻 **Currently coding** in *Rust*, editing `client.rs` (Project: ProjectNeon) - 1 minutes ago
 
-*Last updated: 26-09-2025 15:08:46*
+*Last updated: 26-09-2025 21:15:27*
 <!-- END_NOW_PLAYING -->

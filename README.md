@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Coding Status:** Not coding
+- 💻 **Currently coding** in *Python*, editing `curlyscript.py` (Project: RandomThings) - 1 minutes ago
 
-*Last updated: 27-09-2025 00:01:34*
+*Last updated: 27-09-2025 23:34:31*
 <!-- END_NOW_PLAYING -->

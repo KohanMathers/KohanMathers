@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Python*, editing `curlyscript.py` (Project: RandomThings) - 17h 18m ago
+- 🎵 **Now Playing:** Smokey Blues - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Last seen coding** in *Python*, editing `curlyscript.py` (Project: RandomThings) - 17h 21m ago
 
-*Last updated: 28-09-2025 18:01:59*
+*Last updated: 28-09-2025 18:05:01*
 <!-- END_NOW_PLAYING -->

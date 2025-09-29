@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *None*, editing `Package` (Project: Brew) - 2 minutes ago
+- 💻 **Currently coding** in *JSON*, editing `package.json` (Project: Brew) - 1 minutes ago
 
-*Last updated: 29-09-2025 10:51:31*
+*Last updated: 29-09-2025 10:56:34*
 <!-- END_NOW_PLAYING -->

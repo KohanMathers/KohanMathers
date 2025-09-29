@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Java*, editing `WrenchLauncher.java` (Project: Wrench) - 2h 9m ago
+- 💻 **Currently coding** in *Java*, editing `WrenchLauncher.java` (Project: Wrench) - 3 minutes ago
 
-*Last updated: 29-09-2025 15:33:29*
+*Last updated: 29-09-2025 15:38:31*
 <!-- END_NOW_PLAYING -->

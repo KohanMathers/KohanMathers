@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Right Hand Man - Christopher Jackson, Various Artists — Hamilton: An American...
-- 💻 **Currently coding** in *JSON*, editing `arachnid.json` (Project: Origins-Reborn-Code) - Just now
+- 🎵 **Now Playing:** A Winter's Ball - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 💻 **Currently coding** in *JSON*, editing `arachnid.json` (Project: Origins-Reborn-Code) - 3 minutes ago
 
-*Last updated: 01-10-2025 17:08:09*
+*Last updated: 01-10-2025 17:10:37*
 <!-- END_NOW_PLAYING -->

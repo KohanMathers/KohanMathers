@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alexander Hamilton - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Origins-Reborn-Code) - 2 minutes ago
+- 🎵 **Now Playing:** Aaron Burr, Sir - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 💻 **Currently coding** in *Git Config*, editing `.gitignore` (Project: Origins-Reborn-Code) - Just now
 
-*Last updated: 01-10-2025 16:43:08*
+*Last updated: 01-10-2025 16:47:07*
 <!-- END_NOW_PLAYING -->

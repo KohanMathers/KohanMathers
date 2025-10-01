@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *JSON*, editing `1.json` (Project: ttn-streaming) - 1 minutes ago
+- 💻 **Currently coding** in *JavaScript*, editing `home.js` (Project: ttn-streaming) - 1 minutes ago
 
-*Last updated: 01-10-2025 12:05:49*
+*Last updated: 01-10-2025 12:10:51*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Aaron Burr, Sir - Lin-Manuel Miranda, Leslie Odom, Jr., Anthony Ramos, Daveed ...
+- 🎵 **Now Playing:** Alexander Hamilton - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
 - 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Origins-Reborn-Code) - 2 minutes ago
 
-*Last updated: 01-10-2025 16:42:57*
+*Last updated: 01-10-2025 16:43:08*
 <!-- END_NOW_PLAYING -->

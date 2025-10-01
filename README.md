@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** A Winter's Ball - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
-- 💻 **Currently coding** in *JSON*, editing `arachnid.json` (Project: Origins-Reborn-Code) - 3 minutes ago
+- 🎵 **Now Playing:** Helpless - Phillipa Soo & Original Broadway Cast of "Hamilton" — Hamilt...
+- 💻 **Currently coding** in *JSON*, editing `arachnid.json` (Project: Origins-Reborn-Code) - 4 minutes ago
 
-*Last updated: 01-10-2025 17:10:37*
+*Last updated: 01-10-2025 17:11:48*
 <!-- END_NOW_PLAYING -->

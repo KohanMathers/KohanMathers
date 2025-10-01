@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Farmer Refuted - Thayne Jasperson, Various Artists — Hamilton: An American Mu...
-- 💻 **Currently coding** in *JSON*, editing `arachnid.json` (Project: Origins-Reborn-Code) - 3 minutes ago
+- 🎵 **Now Playing:** You'll Be Back - Jonathan Groff & Original Broadway Cast of "Hamilton" — Hami...
+- 💻 **Currently coding** in *JSON*, editing `arachnid.json` (Project: Origins-Reborn-Code) - 5 minutes ago
 
-*Last updated: 01-10-2025 16:59:52*
+*Last updated: 01-10-2025 17:01:47*
 <!-- END_NOW_PLAYING -->

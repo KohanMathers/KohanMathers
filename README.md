@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Aaron Burr, Sir - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Currently coding** in *Git Config*, editing `.gitignore` (Project: Origins-Reborn-Code) - 1 minutes ago
+- 🎵 **Now Playing:** My Shot - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 💻 **Currently coding** in *Java*, editing `MVAccessor.java` (Project: Origins-Reborn-Code) - Just now
 
-*Last updated: 01-10-2025 16:47:59*
+*Last updated: 01-10-2025 16:49:43*
 <!-- END_NOW_PLAYING -->

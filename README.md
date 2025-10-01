@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** My Shot - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Currently coding** in *Java*, editing `MVAccessor.java` (Project: Origins-Reborn-Code) - Just now
+- 🎵 **Now Playing:** The Story of Tonight - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 💻 **Currently coding** in *Java*, editing `MVAccessor.java` (Project: Origins-Reborn-Code) - 2 minutes ago
 
-*Last updated: 01-10-2025 16:53:01*
+*Last updated: 01-10-2025 16:55:14*
 <!-- END_NOW_PLAYING -->

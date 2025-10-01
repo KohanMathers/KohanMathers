@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Schuyler Sisters - Phillipa Soo, Various Artists — Hamilton: An American Musica...
-- 💻 **Currently coding** in *JSON*, editing `arachnid.json` (Project: Origins-Reborn-Code) - 1 minutes ago
+- 🎵 **Now Playing:** Farmer Refuted - Thayne Jasperson, Various Artists — Hamilton: An American Mu...
+- 💻 **Currently coding** in *JSON*, editing `arachnid.json` (Project: Origins-Reborn-Code) - 3 minutes ago
 
-*Last updated: 01-10-2025 16:58:04*
+*Last updated: 01-10-2025 16:59:52*
 <!-- END_NOW_PLAYING -->

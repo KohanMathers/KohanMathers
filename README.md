@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Satisfied - Original Broadway Cast of "Hamilton", Various Artists — Hami...
-- 💻 **Currently coding** in *Rust*, editing `basic.rs` (Project: TimoTwo) - 11 minutes ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Currently coding** in *Rust*, editing `basic.rs` (Project: TimoTwo) - 12 minutes ago
 
-*Last updated: 01-10-2025 19:39:20*
+*Last updated: 01-10-2025 19:40:26*
 <!-- END_NOW_PLAYING -->

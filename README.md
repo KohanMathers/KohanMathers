@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Satisfied - Original Broadway Cast of "Hamilton", Various Artists — Hami...
-- 💻 **Last seen coding** in *JSON*, editing `arachnid.json` (Project: Origins-Reborn-Code) - 2h 16m ago
+- 💻 **Currently coding** in *Rust*, editing `basic.rs` (Project: TimoTwo) - 1 minutes ago
 
-*Last updated: 01-10-2025 19:24:12*
+*Last updated: 01-10-2025 19:29:15*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Big Smoke Autumn Blues - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** Love Forty Down (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
 - 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: GSit) - 4 minutes ago
 
-*Last updated: 02-10-2025 14:25:45*
+*Last updated: 02-10-2025 14:26:07*
 <!-- END_NOW_PLAYING -->

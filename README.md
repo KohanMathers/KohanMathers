@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Superhero (Junior Eurovision 2019 / Poland) - Viki Gabor — Superhero (Junior Eurovision 2019 / Poland) - S...
+- 🎵 **Now Playing:** Breaking Dimensions - hololive English — Breaking Dimensions - Single
 - 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Origins-Reborn-Code) - 1 minutes ago
 
-*Last updated: 02-10-2025 14:37:26*
+*Last updated: 02-10-2025 14:37:30*
 <!-- END_NOW_PLAYING -->

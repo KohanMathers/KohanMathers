@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** West End Story (feat. Akala & Dan Bowskill) - Dub Pistols — Worshipping the Dollar
+- 🎵 **Now Playing:** One Take (Double Damage) [feat. Hypeman Sage] - Ade — One Take (Double Damage) [feat. Hypeman Sage] - Single
 - 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: GSit) - 7 minutes ago
 
-*Last updated: 02-10-2025 14:28:55*
+*Last updated: 02-10-2025 14:29:35*
 <!-- END_NOW_PLAYING -->

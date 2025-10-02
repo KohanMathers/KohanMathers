@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fiança - Dutty Moonshine Big Band — City of Sin
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Origins-Reborn-Code) - 5 minutes ago
+- 🎵 **Now Playing:** Reasons Not to Be an Idiot - Frank Turner — Love Ire & Song
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Origins-Reborn-Code) - 7 minutes ago
 
-*Last updated: 02-10-2025 15:14:15*
+*Last updated: 02-10-2025 15:16:16*
 <!-- END_NOW_PLAYING -->

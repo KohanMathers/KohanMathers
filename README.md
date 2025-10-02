@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Lay All Your Love On Me - Dominic Cooper & Amanda Seyfried — Mamma Mia! The Movie Soun...
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Origins-Reborn-Code) - 15 minutes ago
+- 💻 **Currently coding** in *PowerShell*, editing `temp.ps1` (Project: Origins-Reborn-Code) - Just now
 
-*Last updated: 02-10-2025 14:54:06*
+*Last updated: 02-10-2025 14:59:08*
 <!-- END_NOW_PLAYING -->

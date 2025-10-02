@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Love You Like the Movies - Anthem Lights — Escape
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Origins-Reborn-Code) - 2 minutes ago
+- 🎵 **Now Playing:** Political Prisoners - The Undercover Hippy — Why We Fight E.P. - EP
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Origins-Reborn-Code) - 1 minutes ago
 
-*Last updated: 02-10-2025 14:31:51*
+*Last updated: 02-10-2025 14:33:31*
 <!-- END_NOW_PLAYING -->

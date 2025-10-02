@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Eye of the Day - Frank Turner — No Man's Land
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: GSit) - 3 minutes ago
+- 🎵 **Now Playing:** Big Smoke Autumn Blues - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: GSit) - 4 minutes ago
 
-*Last updated: 02-10-2025 14:20:32*
+*Last updated: 02-10-2025 14:25:45*
 <!-- END_NOW_PLAYING -->

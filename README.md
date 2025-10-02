@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Distillin - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: InvView) - 14 minutes ago
+- 💻 **Currently coding** in *Java*, editing `InventoryManager.java` (Project: InvView) - 1 minutes ago
 
-*Last updated: 02-10-2025 19:58:37*
+*Last updated: 02-10-2025 20:01:22*
 <!-- END_NOW_PLAYING -->

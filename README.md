@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Love Forty Down (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: GSit) - 4 minutes ago
+- 🎵 **Now Playing:** I Want It That Way - Backstreet Boys — Millennium
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: GSit) - 7 minutes ago
 
-*Last updated: 02-10-2025 14:26:07*
+*Last updated: 02-10-2025 14:28:41*
 <!-- END_NOW_PLAYING -->

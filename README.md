@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Who's Thinking (feat. Tertia May) - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** Three Minute Hero - The Selecter — Greatest Hits
 - 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: GSit) - Just now
 
-*Last updated: 02-10-2025 14:17:22*
+*Last updated: 02-10-2025 14:17:26*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** There Are Other Ways - Jorge Rivera-Herrans, Talya Sindel & Cast of EPIC: The Music...
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Origins-Reborn-Code) - 4 minutes ago
+- 🎵 **Now Playing:** Angel Eyes - Christine Baranski, Julie Walters & Amanda Seyfried — Mamma ...
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Origins-Reborn-Code) - 5 minutes ago
 
-*Last updated: 02-10-2025 14:43:06*
+*Last updated: 02-10-2025 14:43:43*
 <!-- END_NOW_PLAYING -->

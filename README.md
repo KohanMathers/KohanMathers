@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Breaking Dimensions - hololive English — Breaking Dimensions - Single
+- 🎵 **Now Playing:** Digital Hallucination (feat. Lizzie Freeman) - Or3o — Digital Hallucination (feat. Lizzie Freeman) - Single
 - 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Origins-Reborn-Code) - Just now
 
-*Last updated: 02-10-2025 14:39:00*
+*Last updated: 02-10-2025 14:39:02*
 <!-- END_NOW_PLAYING -->

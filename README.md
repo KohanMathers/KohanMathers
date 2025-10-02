@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** "New Case File" Skit - Dutty Moonshine Big Band — Most Wanted
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Currently coding** in *Java*, editing `InventoryListener.java` (Project: InvView) - 1 minutes ago
 
-*Last updated: 02-10-2025 20:05:40*
+*Last updated: 02-10-2025 20:05:44*
 <!-- END_NOW_PLAYING -->

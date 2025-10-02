@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java Properties*, editing `gradle.properties` (Project: GSit) - 1 minutes ago
+- 💻 **Currently coding** in *None*, editing `output.jar.log` (Project: GSit) - Just now
 
-*Last updated: 02-10-2025 13:58:44*
+*Last updated: 02-10-2025 14:03:46*
 <!-- END_NOW_PLAYING -->

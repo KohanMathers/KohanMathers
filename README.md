@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: InvView) - 12 minutes ago
+- 🎵 **Now Playing:** Distillin - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: InvView) - 14 minutes ago
 
-*Last updated: 02-10-2025 19:56:19*
+*Last updated: 02-10-2025 19:58:37*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fall From Grace - Dutty Moonshine Big Band — City of Sin
+- 🎵 **Now Playing:** Superhero (Junior Eurovision 2019 / Poland) - Viki Gabor — Superhero (Junior Eurovision 2019 / Poland) - S...
 - 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Origins-Reborn-Code) - 1 minutes ago
 
-*Last updated: 02-10-2025 14:37:09*
+*Last updated: 02-10-2025 14:37:26*
 <!-- END_NOW_PLAYING -->

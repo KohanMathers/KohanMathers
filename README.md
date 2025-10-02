@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Want It That Way - Backstreet Boys — Millennium
+- 🎵 **Now Playing:** West End Story (feat. Akala & Dan Bowskill) - Dub Pistols — Worshipping the Dollar
 - 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: GSit) - 7 minutes ago
 
-*Last updated: 02-10-2025 14:28:41*
+*Last updated: 02-10-2025 14:28:51*
 <!-- END_NOW_PLAYING -->

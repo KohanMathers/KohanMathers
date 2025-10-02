@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Lay All Your Love On Me - Dominic Cooper & Amanda Seyfried — Mamma Mia! The Movie Soun...
-- 💻 **Currently coding** in *PowerShell*, editing `temp.ps1` (Project: Origins-Reborn-Code) - 5 minutes ago
+- 🎵 **Now Playing:** Get Better (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
+- 💻 **Currently coding** in *PowerShell*, editing `temp.ps1` (Project: Origins-Reborn-Code) - 8 minutes ago
 
-*Last updated: 02-10-2025 15:04:11*
+*Last updated: 02-10-2025 15:07:32*
 <!-- END_NOW_PLAYING -->

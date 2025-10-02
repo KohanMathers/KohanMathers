@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Moonshine Hype (feat. HypeMan Sage) - Dutty Moonshine — Rum Runners
-- 💻 **Currently coding** in *PowerShell*, editing `temp.ps1` (Project: Origins-Reborn-Code) - 8 minutes ago
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Origins-Reborn-Code) - Just now
 
-*Last updated: 02-10-2025 15:07:36*
+*Last updated: 02-10-2025 15:09:13*
 <!-- END_NOW_PLAYING -->

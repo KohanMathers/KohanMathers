@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Digital Hallucination (feat. Lizzie Freeman) - Or3o — Digital Hallucination (feat. Lizzie Freeman) - Single
+- 🎵 **Now Playing:** Last Chance To Dance - The Undercover Hippy — Monkey Suit
 - 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Origins-Reborn-Code) - Just now
 
-*Last updated: 02-10-2025 14:39:02*
+*Last updated: 02-10-2025 14:39:06*
 <!-- END_NOW_PLAYING -->

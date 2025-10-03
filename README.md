@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Guns and Ships - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
-- 💻 **Last seen coding** in *Rust*, editing `plugin.rs` (Project: ProjectNeon) - 3h 44m ago
+- 🎵 **Now Playing:** History Has Its Eyes On You - Christopher Jackson, Various Artists — Hamilton: An American...
+- 💻 **Last seen coding** in *Rust*, editing `plugin.rs` (Project: ProjectNeon) - 3h 45m ago
 
-*Last updated: 03-10-2025 13:40:06*
+*Last updated: 03-10-2025 13:40:35*
 <!-- END_NOW_PLAYING -->

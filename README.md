@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Farmer Refuted - Thayne Jasperson, Various Artists — Hamilton: An American Mu...
-- 💻 **Last seen coding** in *Rust*, editing `plugin.rs` (Project: ProjectNeon) - 3h 7m ago
+- 🎵 **Now Playing:** You'll Be Back - Jonathan Groff & Original Broadway Cast of "Hamilton" — Hami...
+- 💻 **Last seen coding** in *Rust*, editing `plugin.rs` (Project: ProjectNeon) - 3h 9m ago
 
-*Last updated: 03-10-2025 13:02:50*
+*Last updated: 03-10-2025 13:04:45*
 <!-- END_NOW_PLAYING -->

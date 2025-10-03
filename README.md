@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Know Him - Jonathan Groff — Hamilton: An American Musical (Original Bro...
-- 💻 **Last seen coding** in *Rust*, editing `plugin.rs` (Project: ProjectNeon) - 4h 37m ago
+- 🎵 **Now Playing:** The Adams Administration - Original Broadway Cast of "Hamilton" — Hamilton: An American...
+- 💻 **Last seen coding** in *Rust*, editing `plugin.rs` (Project: ProjectNeon) - 4h 38m ago
 
-*Last updated: 03-10-2025 14:32:19*
+*Last updated: 03-10-2025 14:33:20*
 <!-- END_NOW_PLAYING -->

@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Rust*, editing `packets.rs` (Project: projectneon) - Just now
+- 💻 **Currently coding** in *JSON*, editing `packet-map.json` (Project: projectneon) - Just now
 
-*Last updated: 03-10-2025 01:41:36*
+*Last updated: 03-10-2025 01:43:43*
 <!-- END_NOW_PLAYING -->

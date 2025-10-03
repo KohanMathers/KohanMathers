@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** History Has Its Eyes On You - Christopher Jackson, Various Artists — Hamilton: An American...
+- 🎵 **Now Playing:** Yorktown (The World Turned Upside Down) - Original Broadway Cast of "Hamilton" — Hamilton: An American...
 - 💻 **Last seen coding** in *Rust*, editing `plugin.rs` (Project: ProjectNeon) - 3h 46m ago
 
-*Last updated: 03-10-2025 13:41:57*
+*Last updated: 03-10-2025 13:42:10*
 <!-- END_NOW_PLAYING -->

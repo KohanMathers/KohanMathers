@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** "Public Enemy Number One" Skit - Dutty Moonshine Big Band — Most Wanted
+- 🎵 **Now Playing:** Most Wanted - Dutty Moonshine Big Band — Most Wanted
 - 💻 **Last seen coding** in *HTML*, editing `mm-privacy.html` (Project: Website) - 36 minutes ago
 
-*Last updated: 03-10-2025 18:35:39*
+*Last updated: 03-10-2025 18:36:10*
 <!-- END_NOW_PLAYING -->

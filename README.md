@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Cabinet Battle #2 - Christopher Jackson, Various Artists — Hamilton: An American...
-- 💻 **Last seen coding** in *Rust*, editing `plugin.rs` (Project: ProjectNeon) - 4h 27m ago
+- 🎵 **Now Playing:** Washington On Your Side - Daveed Diggs, Various Artists — Hamilton: An American Musica...
+- 💻 **Last seen coding** in *Rust*, editing `plugin.rs` (Project: ProjectNeon) - 4h 28m ago
 
-*Last updated: 03-10-2025 14:22:17*
+*Last updated: 03-10-2025 14:23:45*
 <!-- END_NOW_PLAYING -->

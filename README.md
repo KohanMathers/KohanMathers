@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Taking Over - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Currently coding** in *HTML*, editing `mm-privacy.html` (Project: Website) - 14 minutes ago
+- 🎵 **Now Playing:** Boogie Woogie - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Currently coding** in *HTML*, editing `mm-privacy.html` (Project: Website) - 15 minutes ago
 
-*Last updated: 03-10-2025 18:13:52*
+*Last updated: 03-10-2025 18:15:04*
 <!-- END_NOW_PLAYING -->

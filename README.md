@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Story of Tonight (Reprise) - Anthony Ramos, Various Artists — Hamilton: An American Music...
-- 💻 **Last seen coding** in *Rust*, editing `plugin.rs` (Project: ProjectNeon) - 3h 29m ago
+- 🎵 **Now Playing:** Wait For It - Leslie Odom, Jr. & Original Broadway Cast of "Hamilton" — Ha...
+- 💻 **Last seen coding** in *Rust*, editing `plugin.rs` (Project: ProjectNeon) - 3h 31m ago
 
-*Last updated: 03-10-2025 13:25:00*
+*Last updated: 03-10-2025 13:26:20*
 <!-- END_NOW_PLAYING -->

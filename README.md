@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** One Last Time - Christopher Jackson, Various Artists — Hamilton: An American...
-- 💻 **Last seen coding** in *Rust*, editing `plugin.rs` (Project: ProjectNeon) - 4h 35m ago
+- 🎵 **Now Playing:** I Know Him - Jonathan Groff — Hamilton: An American Musical (Original Bro...
+- 💻 **Last seen coding** in *Rust*, editing `plugin.rs` (Project: ProjectNeon) - 4h 36m ago
 
-*Last updated: 03-10-2025 14:30:28*
+*Last updated: 03-10-2025 14:31:40*
 <!-- END_NOW_PLAYING -->

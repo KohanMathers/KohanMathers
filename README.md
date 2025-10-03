@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Adams Administration - Original Broadway Cast of "Hamilton" — Hamilton: An American...
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Last seen coding** in *Rust*, editing `plugin.rs` (Project: ProjectNeon) - 4h 38m ago
 
-*Last updated: 03-10-2025 14:33:20*
+*Last updated: 03-10-2025 14:33:53*
 <!-- END_NOW_PLAYING -->

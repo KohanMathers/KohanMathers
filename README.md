@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Schuyler Defeated - Anthony Ramos, Various Artists — Hamilton: An American Music...
-- 💻 **Last seen coding** in *Rust*, editing `plugin.rs` (Project: ProjectNeon) - 4h 25m ago
+- 🎵 **Now Playing:** Cabinet Battle #2 - Christopher Jackson, Various Artists — Hamilton: An American...
+- 💻 **Last seen coding** in *Rust*, editing `plugin.rs` (Project: ProjectNeon) - 4h 26m ago
 
-*Last updated: 03-10-2025 14:20:24*
+*Last updated: 03-10-2025 14:21:20*
 <!-- END_NOW_PLAYING -->

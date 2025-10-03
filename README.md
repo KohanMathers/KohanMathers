@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Shut Up Ya Face - Dutty Moonshine Big Band — Shut Up Ya Face - Single
 - 💻 **Currently coding** in *HTML*, editing `mm-privacy.html` (Project: Website) - 7 minutes ago
 
-*Last updated: 03-10-2025 17:58:46*
+*Last updated: 03-10-2025 17:59:00*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** My Shot - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Currently coding** in *Java*, editing `CopperBackport.java` (Project: copper-backport) - 3 minutes ago
+- 🎵 **Now Playing:** The Story of Tonight - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 💻 **Currently coding** in *Java*, editing `CopperBackport.java` (Project: copper-backport) - 5 minutes ago
 
-*Last updated: 04-10-2025 12:05:39*
+*Last updated: 04-10-2025 12:07:23*
 <!-- END_NOW_PLAYING -->

@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Aaron Burr, Sir - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Currently coding** in *Java*, editing `CopperBackport.java` (Project: copper-backport) - 6 minutes ago
+- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: copper-backport) - Just now
 
-*Last updated: 04-10-2025 11:59:14*
+*Last updated: 04-10-2025 12:00:37*
 <!-- END_NOW_PLAYING -->

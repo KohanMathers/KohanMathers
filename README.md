@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Aaron Burr, Sir - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: copper-backport) - Just now
+- 🎵 **Now Playing:** My Shot - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: copper-backport) - 1 minutes ago
 
-*Last updated: 04-10-2025 12:00:37*
+*Last updated: 04-10-2025 12:01:49*
 <!-- END_NOW_PLAYING -->

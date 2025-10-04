@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Story of Tonight - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 🎵 **Now Playing:** The Schuyler Sisters - Phillipa Soo, Various Artists — Hamilton: An American Musica...
 - 💻 **Currently coding** in *Java*, editing `CopperBackport.java` (Project: copper-backport) - 6 minutes ago
 
-*Last updated: 04-10-2025 12:08:49*
+*Last updated: 04-10-2025 12:08:59*
 <!-- END_NOW_PLAYING -->

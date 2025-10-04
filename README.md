@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `CopperBackport.java` (Project: copper-backport) - 1 minutes ago
+- 🎵 **Now Playing:** Alexander Hamilton - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 💻 **Currently coding** in *Java*, editing `CopperBackport.java` (Project: copper-backport) - 2 minutes ago
 
-*Last updated: 04-10-2025 11:53:43*
+*Last updated: 04-10-2025 11:55:15*
 <!-- END_NOW_PLAYING -->

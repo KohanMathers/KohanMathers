@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Schuyler Sisters - Phillipa Soo, Various Artists — Hamilton: An American Musica...
-- 💻 **Currently coding** in *Java*, editing `CopperBackport.java` (Project: copper-backport) - 8 minutes ago
+- 🎵 **Now Playing:** Farmer Refuted - Thayne Jasperson, Various Artists — Hamilton: An American Mu...
+- 💻 **Currently coding** in *Java*, editing `CopperBackport.java` (Project: copper-backport) - 10 minutes ago
 
-*Last updated: 04-10-2025 12:10:41*
+*Last updated: 04-10-2025 12:12:03*
 <!-- END_NOW_PLAYING -->

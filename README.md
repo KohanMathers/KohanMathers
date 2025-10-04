@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Coding Status:** Not coding
+- 💻 **Currently coding** in *JSON*, editing `packet-map.json` (Project: ProjectNeon) - 2 minutes ago
 
-*Last updated: 04-10-2025 00:01:25*
+*Last updated: 04-10-2025 02:39:57*
 <!-- END_NOW_PLAYING -->

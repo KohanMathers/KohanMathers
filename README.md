@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `CopperBackport.java` (Project: copper-backport) - Just now
+- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: copper-backport) - 1 minutes ago
 
-*Last updated: 04-10-2025 11:30:25*
+*Last updated: 04-10-2025 11:33:35*
 <!-- END_NOW_PLAYING -->

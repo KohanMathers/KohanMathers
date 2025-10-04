@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *None*, editing `frog2.jem` (Project: copper-backport) - 14 minutes ago
+- 💻 **Last seen coding** in *None*, editing `frog2.jem` (Project: copper-backport) - 18 minutes ago
 
-*Last updated: 04-10-2025 13:26:12*
+*Last updated: 04-10-2025 13:29:28*
 <!-- END_NOW_PLAYING -->

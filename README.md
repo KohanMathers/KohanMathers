@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Tainted Love - Soft Cell — The Very Best of Soft Cell
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 05-10-2025 00:00:34*
+*Last updated: 05-10-2025 01:56:40*
 <!-- END_NOW_PLAYING -->

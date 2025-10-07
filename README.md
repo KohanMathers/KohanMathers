@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Rust*, editing `test.rs` (Project: rust-borrow-analyzer) - 5 minutes ago
+- 💻 **Coding Status:** Not coding
 
-*Last updated: 07-10-2025 23:56:56*
+*Last updated: 08-10-2025 00:01:58*
 <!-- END_NOW_PLAYING -->

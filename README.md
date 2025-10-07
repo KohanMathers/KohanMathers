@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *TypeScript*, editing `hoverProvider.ts` (Project: rust-borrow-analyzer) - 8h 8m ago
+- 💻 **Currently coding** in *YAML*, editing `config.yml` (Project: None) - 1 minutes ago
 
-*Last updated: 07-10-2025 22:21:13*
+*Last updated: 07-10-2025 22:26:15*
 <!-- END_NOW_PLAYING -->

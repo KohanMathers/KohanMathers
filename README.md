@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *JavaScript*, editing `cornflakes.js` (Project: cornflakes) - 2 minutes ago
+- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: cornflakes) - 1 minutes ago
 
-*Last updated: 07-10-2025 11:31:19*
+*Last updated: 07-10-2025 11:36:21*
 <!-- END_NOW_PLAYING -->

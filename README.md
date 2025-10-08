@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Me Gusta - Dutty Moonshine Big Band — Villain
+- 🎵 **Now Playing:** Smokey Blues - Dutty Moonshine Big Band — Most Wanted
 - 💻 **Last seen coding** in *None*, editing `LICENSE` (Project: tether) - 9h 7m ago
 
-*Last updated: 08-10-2025 22:20:13*
+*Last updated: 08-10-2025 22:20:23*
 <!-- END_NOW_PLAYING -->

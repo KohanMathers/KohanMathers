@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Coding Status:** Not coding
+- 💻 **Currently coding** in *Java*, editing `OriginCommand.java` (Project: Origins-Reborn-Code) - Just now
 
-*Last updated: 09-10-2025 00:04:31*
+*Last updated: 09-10-2025 00:24:35*
 <!-- END_NOW_PLAYING -->

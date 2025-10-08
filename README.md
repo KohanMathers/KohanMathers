@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Smokey Blues - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Last seen coding** in *None*, editing `LICENSE` (Project: tether) - 9h 7m ago
+- 🎵 **Now Playing:** Big Band Fam (feat. HypeMan Sage) - Dutty Moonshine Big Band — City of Sin
+- 💻 **Last seen coding** in *None*, editing `LICENSE` (Project: tether) - 9h 8m ago
 
-*Last updated: 08-10-2025 22:20:23*
+*Last updated: 08-10-2025 22:20:28*
 <!-- END_NOW_PLAYING -->

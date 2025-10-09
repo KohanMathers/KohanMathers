@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Vamonos - Dutty Moonshine Big Band — Villain
-- 💻 **Last seen coding** in *Python*, editing `temp.py` (Project: tether) - 4h 26m ago
+- 🎵 **Now Playing:** Distillin - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Last seen coding** in *Python*, editing `temp.py` (Project: tether) - 4h 28m ago
 
-*Last updated: 09-10-2025 21:48:55*
+*Last updated: 09-10-2025 21:51:22*
 <!-- END_NOW_PLAYING -->

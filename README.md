@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Everybody's Talking - Dutty Moonshine Big Band — Villain
+- 🎵 **Now Playing:** Fever (feat. Crash Party) - Dutty Moonshine Big Band — City of Sin
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 10-10-2025 00:34:58*
+*Last updated: 10-10-2025 00:37:57*
 <!-- END_NOW_PLAYING -->

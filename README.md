@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: Origins-Reborn-Code) - 12h 48m ago
+- 💻 **Currently coding** in *TOML*, editing `Cargo.toml` (Project: tether) - 2 minutes ago
 
-*Last updated: 09-10-2025 14:25:30*
+*Last updated: 09-10-2025 14:30:32*
 <!-- END_NOW_PLAYING -->

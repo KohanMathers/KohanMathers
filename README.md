@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Distillin (Nodus Remix) - Dutty Moonshine Big Band — Most Wanted Remixed
+- 🎵 **Now Playing:** Come Through (feat. Youthstar and Miscellaneous) - Dutty Moonshine Big Band — Villain
 - 💻 **Last seen coding** in *Python*, editing `temp.py` (Project: tether) - 4h 36m ago
 
-*Last updated: 09-10-2025 21:59:00*
+*Last updated: 09-10-2025 21:59:28*
 <!-- END_NOW_PLAYING -->

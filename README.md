@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Shut Up Ya Face - Dutty Moonshine Big Band — Shut Up Ya Face - Single
+- 🎵 **Now Playing:** Click Clack Boom - Dutty Moonshine Big Band — City of Sin
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 10-10-2025 00:41:02*
+*Last updated: 10-10-2025 00:53:27*
 <!-- END_NOW_PLAYING -->

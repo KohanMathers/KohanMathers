@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *TOML*, editing `Cargo.toml` (Project: tether) - 2 minutes ago
+- 💻 **Currently coding** in *Markdown*, editing `SPEC.md` (Project: tether) - 4 minutes ago
 
-*Last updated: 09-10-2025 14:30:32*
+*Last updated: 09-10-2025 14:35:34*
 <!-- END_NOW_PLAYING -->

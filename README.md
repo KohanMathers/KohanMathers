@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** It's Alright - Dutty Moonshine Big Band — City of Sin
+- 🎵 **Now Playing:** Turned Up To Turn Down (feat. Ade) - Dutty Moonshine Big Band — Villain
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 10-10-2025 00:21:37*
+*Last updated: 10-10-2025 00:31:31*
 <!-- END_NOW_PLAYING -->

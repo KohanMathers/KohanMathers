@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fever (feat. Crash Party) - Dutty Moonshine Big Band — City of Sin
+- 🎵 **Now Playing:** Shut Up Ya Face - Dutty Moonshine Big Band — Shut Up Ya Face - Single
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 10-10-2025 00:37:57*
+*Last updated: 10-10-2025 00:41:02*
 <!-- END_NOW_PLAYING -->

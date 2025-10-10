@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** It's Alright - Dutty Moonshine Big Band — City of Sin
-- 💻 **Currently coding** in *GDScript3*, editing `grid.gd` (Project: ParrotPost) - Just now
+- 🎵 **Now Playing:** Turned Up To Turn Down (feat. Ade) - Dutty Moonshine Big Band — Villain
+- 💻 **Currently coding** in *GDScript3*, editing `grid.gd` (Project: ParrotPost) - 1 minutes ago
 
-*Last updated: 10-10-2025 13:52:05*
+*Last updated: 10-10-2025 13:53:28*
 <!-- END_NOW_PLAYING -->

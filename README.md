@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Click Clack Boom - Dutty Moonshine Big Band — City of Sin
-- 💻 **Last seen coding** in *GDScript3*, editing `grid.gd` (Project: ParrotPost) - 47 minutes ago
+- 🎵 **Now Playing:** Bang Bang - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Last seen coding** in *GDScript3*, editing `grid.gd` (Project: ParrotPost) - 50 minutes ago
 
-*Last updated: 10-10-2025 16:34:02*
+*Last updated: 10-10-2025 16:37:21*
 <!-- END_NOW_PLAYING -->

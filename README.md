@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Come Through (feat. Youthstar and Miscellaneous) - Dutty Moonshine Big Band — Villain
-- 💻 **Last seen coding** in *GDScript3*, editing `grid.gd` (Project: ParrotPost) - 33 minutes ago
+- 🎵 **Now Playing:** It's Alright - Dutty Moonshine Big Band — City of Sin
+- 💻 **Last seen coding** in *GDScript3*, editing `grid.gd` (Project: ParrotPost) - 36 minutes ago
 
-*Last updated: 10-10-2025 13:47:03*
+*Last updated: 10-10-2025 13:49:48*
 <!-- END_NOW_PLAYING -->

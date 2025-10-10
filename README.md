@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *GDScript3*, editing `grid.gd` (Project: ParrotPost) - 1h 2m ago
+- 💻 **Currently coding** in *GDScript3*, editing `grid.gd` (Project: ParrotPost) - 3 minutes ago
 
-*Last updated: 10-10-2025 13:11:47*
+*Last updated: 10-10-2025 13:16:50*
 <!-- END_NOW_PLAYING -->

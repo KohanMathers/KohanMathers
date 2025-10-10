@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Vamonos - Dutty Moonshine Big Band — Villain
-- 💻 **Last seen coding** in *GDScript3*, editing `grid.gd` (Project: ParrotPost) - 23 minutes ago
+- 🎵 **Now Playing:** Distillin - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Last seen coding** in *GDScript3*, editing `grid.gd` (Project: ParrotPost) - 25 minutes ago
 
-*Last updated: 10-10-2025 13:36:58*
+*Last updated: 10-10-2025 13:38:42*
 <!-- END_NOW_PLAYING -->

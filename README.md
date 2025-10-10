@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Shut Up Ya Face - Dutty Moonshine Big Band — Shut Up Ya Face - Single
-- 💻 **Currently coding** in *GDScript3*, editing `grid.gd` (Project: ParrotPost) - 8 minutes ago
+- 🎵 **Now Playing:** Click Clack Boom - Dutty Moonshine Big Band — City of Sin
+- 💻 **Currently coding** in *GDScript3*, editing `grid.gd` (Project: ParrotPost) - 11 minutes ago
 
-*Last updated: 10-10-2025 14:12:31*
+*Last updated: 10-10-2025 14:15:36*
 <!-- END_NOW_PLAYING -->

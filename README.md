@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Outlaws (feat. HypeMan Sage) - Dutty Moonshine Big Band — City of Sin
-- 💻 **Last seen coding** in *GDScript3*, editing `grid.gd` (Project: ParrotPost) - 36 minutes ago
+- 💻 **Currently coding** in *GDScript3*, editing `grid.gd` (Project: ParrotPost) - Just now
 
-*Last updated: 10-10-2025 15:06:36*
+*Last updated: 10-10-2025 15:07:36*
 <!-- END_NOW_PLAYING -->

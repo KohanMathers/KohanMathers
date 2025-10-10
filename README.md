@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Distillin (Nodus Remix) - Dutty Moonshine Big Band — Most Wanted Remixed
-- 💻 **Last seen coding** in *GDScript3*, editing `grid.gd` (Project: ParrotPost) - 29 minutes ago
+- 🎵 **Now Playing:** Come Through (feat. Youthstar and Miscellaneous) - Dutty Moonshine Big Band — Villain
+- 💻 **Last seen coding** in *GDScript3*, editing `grid.gd` (Project: ParrotPost) - 33 minutes ago
 
-*Last updated: 10-10-2025 13:42:38*
+*Last updated: 10-10-2025 13:46:46*
 <!-- END_NOW_PLAYING -->

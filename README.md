@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stick Up - Dutty Moonshine Big Band — Most Wanted
+- 🎵 **Now Playing:** Stick Up (Wittyboy) - Dutty Moonshine Big Band — Most Wanted Remixed
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 10-10-2025 01:16:33*
+*Last updated: 10-10-2025 01:34:47*
 <!-- END_NOW_PLAYING -->

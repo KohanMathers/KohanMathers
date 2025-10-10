@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stick Up - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Currently coding** in *GDScript3*, editing `grid.gd` (Project: ParrotPost) - 12 minutes ago
+- 🎵 **Now Playing:** Stick Up (Wittyboy) - Dutty Moonshine Big Band — Most Wanted Remixed
+- 💻 **Currently coding** in *GDScript3*, editing `grid.gd` (Project: ParrotPost) - 13 minutes ago
 
-*Last updated: 10-10-2025 14:42:26*
+*Last updated: 10-10-2025 14:43:07*
 <!-- END_NOW_PLAYING -->

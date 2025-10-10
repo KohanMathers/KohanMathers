@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Gangsters (Featurecast Remix) - Dutty Moonshine Big Band — Most Wanted Remixed
+- 🎵 **Now Playing:** Smokey Blues - Dutty Moonshine Big Band — Most Wanted
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 10-10-2025 01:03:33*
+*Last updated: 10-10-2025 01:07:36*
 <!-- END_NOW_PLAYING -->

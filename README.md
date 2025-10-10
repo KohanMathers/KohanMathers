@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Bang Bang - Dutty Moonshine Big Band — Most Wanted
+- 🎵 **Now Playing:** Big Band Fam (feat. HypeMan Sage) - Dutty Moonshine Big Band — City of Sin
 - 💻 **Currently coding** in *GDScript3*, editing `grid.gd` (Project: ParrotPost) - 2 minutes ago
 
-*Last updated: 10-10-2025 14:22:17*
+*Last updated: 10-10-2025 14:22:22*
 <!-- END_NOW_PLAYING -->

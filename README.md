@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Rust*, editing `lexer.rs` (Project: tether) - 9 minutes ago
+- 💻 **Currently coding** in *Rust*, editing `lib.rs` (Project: tether) - 3 minutes ago
 
-*Last updated: 11-10-2025 21:36:12*
+*Last updated: 11-10-2025 21:41:14*
 <!-- END_NOW_PLAYING -->

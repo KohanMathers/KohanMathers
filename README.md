@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Come Through (feat. Youthstar and Miscellaneous) - Dutty Moonshine Big Band — Villain
+- 🎵 **Now Playing:** It's Alright - Dutty Moonshine Big Band — City of Sin
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 12-10-2025 17:29:03*
+*Last updated: 12-10-2025 17:32:04*
 <!-- END_NOW_PLAYING -->

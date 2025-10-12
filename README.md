@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Skank Out - Dutty Moonshine Big Band — Villain
-- 💻 **Currently coding** in *Java*, editing `FormatManager.java` (Project: ChatDesign) - 1 minutes ago
+- 💻 **Currently coding** in *Java*, editing `SpamFilter.java` (Project: ChatDesign) - 2 minutes ago
 
-*Last updated: 12-10-2025 18:10:55*
+*Last updated: 12-10-2025 18:14:43*
 <!-- END_NOW_PLAYING -->

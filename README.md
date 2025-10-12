@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `ChatPreProcessEvent.java` (Project: ChatDesign) - 9 minutes ago
+- 💻 **Currently coding** in *Java*, editing `FormatApplyEvent.java` (Project: ChatDesign) - 4 minutes ago
 
-*Last updated: 12-10-2025 21:11:02*
+*Last updated: 12-10-2025 21:16:06*
 <!-- END_NOW_PLAYING -->

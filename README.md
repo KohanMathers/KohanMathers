@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Boing - Dutty Moonshine Big Band — Villain
 - 💻 **Currently coding** in *Java*, editing `ChatDesignPlugin.java` (Project: ChatDesign) - 1 minutes ago
 
-*Last updated: 12-10-2025 20:26:42*
+*Last updated: 12-10-2025 20:26:48*
 <!-- END_NOW_PLAYING -->

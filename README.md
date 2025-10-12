@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** It's Alright - Dutty Moonshine Big Band — City of Sin
-- 💻 **Coding Status:** Not coding
+- 💻 **Currently coding** in *TOML*, editing `velocity.toml` (Project: None) - 1 minutes ago
 
-*Last updated: 12-10-2025 17:32:04*
+*Last updated: 12-10-2025 17:34:27*
 <!-- END_NOW_PLAYING -->

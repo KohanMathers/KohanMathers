@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Shut Up Ya Face - Dutty Moonshine Big Band — Shut Up Ya Face - Single
-- 💻 **Currently coding** in *Java*, editing `EmoteManager.java` (Project: ChatDesign) - Just now
+- 🎵 **Now Playing:** Click Clack Boom - Dutty Moonshine Big Band — City of Sin
+- 💻 **Currently coding** in *Java*, editing `ChatDesignPlugin.java` (Project: ChatDesign) - Just now
 
-*Last updated: 12-10-2025 17:45:09*
+*Last updated: 12-10-2025 17:48:18*
 <!-- END_NOW_PLAYING -->

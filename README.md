@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Stick Up (Wittyboy) - Dutty Moonshine Big Band — Most Wanted Remixed
-- 💻 **Currently coding** in *Java*, editing `ChatDesignCommand.java` (Project: ChatDesign) - 1 minutes ago
+- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: ChatDesign) - 2 minutes ago
 
-*Last updated: 12-10-2025 18:06:23*
+*Last updated: 12-10-2025 18:09:41*
 <!-- END_NOW_PLAYING -->

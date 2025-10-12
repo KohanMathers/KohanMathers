@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Distillin - Dutty Moonshine Big Band — Most Wanted
+- 🎵 **Now Playing:** Distillin (Nodus Remix) - Dutty Moonshine Big Band — Most Wanted Remixed
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 12-10-2025 17:20:59*
+*Last updated: 12-10-2025 17:24:55*
 <!-- END_NOW_PLAYING -->

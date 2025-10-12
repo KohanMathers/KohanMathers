@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** It's Alright - Dutty Moonshine Big Band — City of Sin
-- 💻 **Currently coding** in *TOML*, editing `velocity.toml` (Project: None) - 1 minutes ago
+- 🎵 **Now Playing:** Turned Up To Turn Down (feat. Ade) - Dutty Moonshine Big Band — Villain
+- 💻 **Currently coding** in *TOML*, editing `velocity.toml` (Project: None) - 3 minutes ago
 
-*Last updated: 12-10-2025 17:34:27*
+*Last updated: 12-10-2025 17:35:43*
 <!-- END_NOW_PLAYING -->

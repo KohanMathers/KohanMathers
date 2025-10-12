@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Turned Up To Turn Down (feat. Ade) - Dutty Moonshine Big Band — Villain
-- 💻 **Currently coding** in *TOML*, editing `velocity.toml` (Project: None) - 3 minutes ago
+- 🎵 **Now Playing:** Everybody's Talking - Dutty Moonshine Big Band — Villain
+- 💻 **Currently coding** in *Java*, editing `ExamplePlugin.java` (Project: ChatDesign) - Just now
 
-*Last updated: 12-10-2025 17:35:43*
+*Last updated: 12-10-2025 17:39:08*
 <!-- END_NOW_PLAYING -->

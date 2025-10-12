@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Fever (feat. Crash Party) - Dutty Moonshine Big Band — City of Sin
-- 💻 **Currently coding** in *Java*, editing `ExamplePlugin.java` (Project: ChatDesign) - 3 minutes ago
+- 💻 **Currently coding** in *Java*, editing `ChatDesignAPI.java` (Project: ChatDesign) - 2 minutes ago
 
-*Last updated: 12-10-2025 17:42:04*
+*Last updated: 12-10-2025 17:44:31*
 <!-- END_NOW_PLAYING -->

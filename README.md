@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Big Band Fam (feat. HypeMan Sage) - Dutty Moonshine Big Band — City of Sin
-- 💻 **Currently coding** in *Java*, editing `ConfigManager.java` (Project: ChatDesign) - 1 minutes ago
+- 🎵 **Now Playing:** Gangsters (Featurecast Remix) - Dutty Moonshine Big Band — Most Wanted Remixed
+- 💻 **Currently coding** in *Java*, editing `ChatPreProcessEvent.java` (Project: ChatDesign) - Just now
 
-*Last updated: 12-10-2025 17:54:35*
+*Last updated: 12-10-2025 17:55:29*
 <!-- END_NOW_PLAYING -->

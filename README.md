@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Gangsters (Featurecast Remix) - Dutty Moonshine Big Band — Most Wanted Remixed
-- 💻 **Currently coding** in *Java*, editing `ChatPreProcessEvent.java` (Project: ChatDesign) - Just now
+- 🎵 **Now Playing:** Smokey Blues - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: ChatDesign) - Just now
 
-*Last updated: 12-10-2025 17:55:29*
+*Last updated: 12-10-2025 17:58:39*
 <!-- END_NOW_PLAYING -->

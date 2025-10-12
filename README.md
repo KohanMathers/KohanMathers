@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stick Up (Wittyboy) - Dutty Moonshine Big Band — Most Wanted Remixed
-- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: ChatDesign) - 2 minutes ago
+- 🎵 **Now Playing:** Skank Out - Dutty Moonshine Big Band — Villain
+- 💻 **Currently coding** in *Java*, editing `FormatManager.java` (Project: ChatDesign) - 1 minutes ago
 
-*Last updated: 12-10-2025 18:09:41*
+*Last updated: 12-10-2025 18:10:55*
 <!-- END_NOW_PLAYING -->

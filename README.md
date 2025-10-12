@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Smokey Blues - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: ChatDesign) - 1 minutes ago
+- 🎵 **Now Playing:** Bring the Fire - Dutty Moonshine Big Band — Villain
+- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: ChatDesign) - 4 minutes ago
 
-*Last updated: 12-10-2025 17:59:37*
+*Last updated: 12-10-2025 18:01:56*
 <!-- END_NOW_PLAYING -->

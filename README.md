@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Digital Hallucination (feat. Lizzie Freeman) - Or3o — Digital Hallucination (feat. Lizzie Freeman) - Single
+- 🎵 **Now Playing:** Humility (feat. George Benson) - Gorillaz — The Now Now
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 32m ago
 
-*Last updated: 13-10-2025 20:14:52*
+*Last updated: 13-10-2025 20:14:57*
 <!-- END_NOW_PLAYING -->

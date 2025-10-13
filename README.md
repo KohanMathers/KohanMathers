@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 53m ago
+- 🎵 **Now Playing:** Cbat - Hudson Mohawke — Satin Panthers - EP
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 54m ago
 
-*Last updated: 13-10-2025 20:35:00*
+*Last updated: 13-10-2025 20:36:53*
 <!-- END_NOW_PLAYING -->

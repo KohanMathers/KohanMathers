@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Love That I'm In (feat. Andy Cooper) - The Allergies — Push On
+- 🎵 **Now Playing:** Call Me Maybe - Carly Rae Jepsen — Kiss (Deluxe Version)
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 41m ago
 
-*Last updated: 13-10-2025 20:23:43*
+*Last updated: 13-10-2025 20:23:49*
 <!-- END_NOW_PLAYING -->

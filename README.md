@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Cycle - Derivakat & Netrum — Archive #01: Anger - EP
+- 🎵 **Now Playing:** 1 4 3 - Elijah — 1 4 3 - Single
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 41m ago
 
-*Last updated: 13-10-2025 20:23:03*
+*Last updated: 13-10-2025 20:23:07*
 <!-- END_NOW_PLAYING -->

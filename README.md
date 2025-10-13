@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Lost in a Glaze - Mista Trick & Hype Man Sage — You
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 27m ago
+- 🎵 **Now Playing:** The Louisville Shuffle (RIP) - Sarah and the Safe Word — Red Hot & Holy
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 29m ago
 
-*Last updated: 13-10-2025 20:09:22*
+*Last updated: 13-10-2025 20:11:52*
 <!-- END_NOW_PLAYING -->

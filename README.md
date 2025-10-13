@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Let It Happen - Tame Impala — Currents
+- 🎵 **Now Playing:** Love That I'm In (feat. Andy Cooper) - The Allergies — Push On
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 41m ago
 
-*Last updated: 13-10-2025 20:23:37*
+*Last updated: 13-10-2025 20:23:43*
 <!-- END_NOW_PLAYING -->

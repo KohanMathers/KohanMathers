@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Can Call Me Al - Paul Simon — Graceland (25th Anniversary Deluxe Edition) Pau...
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 2m ago
+- 🎵 **Now Playing:** Under Pressure (feat. David Bowie) - Queen — Hot Space (Deluxe Edition)
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 5m ago
 
-*Last updated: 13-10-2025 19:44:00*
+*Last updated: 13-10-2025 19:47:47*
 <!-- END_NOW_PLAYING -->

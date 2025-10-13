@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Star Trekkin' - The Firm — Star Trekkin' - Single
+- 🎵 **Now Playing:** Let It Happen - Tame Impala — Currents
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 41m ago
 
-*Last updated: 13-10-2025 20:23:33*
+*Last updated: 13-10-2025 20:23:37*
 <!-- END_NOW_PLAYING -->

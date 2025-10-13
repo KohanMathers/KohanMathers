@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Anarchy (feat. Bubi) - Ironmouse, shirobeats & HalaCG — Anarchy (feat. Bubi) - Single
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 40m ago
+- 🎵 **Now Playing:** Blue Minor - CATJAM — Swing & Bass Compilation Album Vol.1 Sampler
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 41m ago
 
-*Last updated: 13-10-2025 20:22:38*
+*Last updated: 13-10-2025 20:23:00*
 <!-- END_NOW_PLAYING -->

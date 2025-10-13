@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Godzilla (feat. Juice WRLD) - Eminem — Music To Be Murdered By - Side B (Deluxe Edition)
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 37m ago
+- 🎵 **Now Playing:** Bomb Tesco - Dizraeli — Engurland (City Shanties)
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 39m ago
 
-*Last updated: 13-10-2025 20:19:16*
+*Last updated: 13-10-2025 20:21:52*
 <!-- END_NOW_PLAYING -->

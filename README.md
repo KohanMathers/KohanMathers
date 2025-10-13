@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Shambala - Mista Trick — You
+- 🎵 **Now Playing:** Lost in a Glaze - Mista Trick & Hype Man Sage — You
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 27m ago
 
-*Last updated: 13-10-2025 20:09:14*
+*Last updated: 13-10-2025 20:09:22*
 <!-- END_NOW_PLAYING -->

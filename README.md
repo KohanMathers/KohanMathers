@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Purple People Eater - Sheb Wooley — The Novelty King
+- 🎵 **Now Playing:** Passing Through (Can't the Future Just Wait) - Kaden MacKay — Passing Through (Can't the Future Just Wait) ...
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 57m ago
 
-*Last updated: 13-10-2025 20:39:25*
+*Last updated: 13-10-2025 20:39:32*
 <!-- END_NOW_PLAYING -->

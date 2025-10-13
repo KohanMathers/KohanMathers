@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** What Makes You Beautiful - One Direction — Up All Night
+- 🎵 **Now Playing:** You Can Call Me Al - Paul Simon — Graceland (25th Anniversary Deluxe Edition)
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 3h 41m ago
 
-*Last updated: 13-10-2025 19:23:12*
+*Last updated: 13-10-2025 19:23:22*
 <!-- END_NOW_PLAYING -->

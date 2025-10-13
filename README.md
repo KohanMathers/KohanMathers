@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Call Me Maybe - Carly Rae Jepsen — Kiss (Deluxe Version)
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 42m ago
+- 🎵 **Now Playing:** Rap God - Eminem — The Marshall Mathers LP2
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 45m ago
 
-*Last updated: 13-10-2025 20:24:18*
+*Last updated: 13-10-2025 20:27:18*
 <!-- END_NOW_PLAYING -->

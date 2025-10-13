@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not Like Us - Kendrick Lamar — Not Like Us - Single
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 54m ago
+- 🎵 **Now Playing:** The Purple People Eater - Sheb Wooley — The Novelty King
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 55m ago
 
-*Last updated: 13-10-2025 20:36:57*
+*Last updated: 13-10-2025 20:37:12*
 <!-- END_NOW_PLAYING -->

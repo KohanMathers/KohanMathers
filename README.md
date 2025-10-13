@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *YAML*, editing `config.yml` (Project: ChatDesign) - 7h 5m ago
+- 💻 **Currently coding** in *Rust*, editing `lib.rs` (Project: tether) - Just now
 
-*Last updated: 13-10-2025 08:00:26*
+*Last updated: 13-10-2025 08:05:28*
 <!-- END_NOW_PLAYING -->

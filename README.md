@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Louisville Shuffle (RIP) - Sarah and the Safe Word — Red Hot & Holy
+- 🎵 **Now Playing:** Scruffy (feat. Charlie D) - Dutty Moonshine — Scruffy EP
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 29m ago
 
-*Last updated: 13-10-2025 20:11:52*
+*Last updated: 13-10-2025 20:11:57*
 <!-- END_NOW_PLAYING -->

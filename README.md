@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Passing Through (Can't the Future Just Wait) - Kaden MacKay — Passing Through (Can't the Future Just Wait) ...
+- 🎵 **Now Playing:** Seasons (feat. Harley Bird) - Rival & CADMIUM — Seasons (feat. Harley Bird) - Single
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 57m ago
 
-*Last updated: 13-10-2025 20:39:32*
+*Last updated: 13-10-2025 20:39:38*
 <!-- END_NOW_PLAYING -->

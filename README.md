@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Dirty Thoughts - nihmune — Dirty Thoughts - Single
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 3h 36m ago
+- 🎵 **Now Playing:** Teenage Dream - Katy Perry — Teenage Dream (Deluxe Edition)
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 3h 37m ago
 
-*Last updated: 13-10-2025 19:18:48*
+*Last updated: 13-10-2025 19:19:17*
 <!-- END_NOW_PLAYING -->

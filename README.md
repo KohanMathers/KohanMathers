@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Humility (feat. George Benson) - Gorillaz — The Now Now
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 32m ago
+- 🎵 **Now Playing:** Childhood - Subculture Sage — Childhood - Single
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 33m ago
 
-*Last updated: 13-10-2025 20:14:57*
+*Last updated: 13-10-2025 20:15:02*
 <!-- END_NOW_PLAYING -->

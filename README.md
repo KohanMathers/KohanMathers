@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Seasons (feat. Harley Bird) - Rival & CADMIUM — Seasons (feat. Harley Bird) - Single
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 6h 38m ago
+- 💻 **Currently coding** in *Java*, editing `LocationAdapter.java` (Project: RideDragons) - 1 minutes ago
 
-*Last updated: 13-10-2025 22:20:11*
+*Last updated: 13-10-2025 22:25:13*
 <!-- END_NOW_PLAYING -->

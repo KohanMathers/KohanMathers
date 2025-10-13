@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Cbat - Hudson Mohawke — Satin Panthers - EP
+- 🎵 **Now Playing:** Not Like Us - Kendrick Lamar — Not Like Us - Single
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 54m ago
 
-*Last updated: 13-10-2025 20:36:53*
+*Last updated: 13-10-2025 20:36:57*
 <!-- END_NOW_PLAYING -->

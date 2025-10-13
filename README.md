@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Look What You Made Me Do - Taylor Swift — reputation (Big Machine Radio Release Special)
+- 🎵 **Now Playing:** Godzilla (feat. Juice WRLD) - Eminem — Music To Be Murdered By - Side B (Deluxe Edition)
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 36m ago
 
-*Last updated: 13-10-2025 20:18:19*
+*Last updated: 13-10-2025 20:18:23*
 <!-- END_NOW_PLAYING -->

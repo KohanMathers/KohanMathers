@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Skitter Skat - Ashley Slater, Mista Trick & Elle & The Pocket Belles — You ...
+- 🎵 **Now Playing:** Do What You Do - Kathika & Mista Trick — You
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 6m ago
 
-*Last updated: 13-10-2025 19:48:35*
+*Last updated: 13-10-2025 19:48:54*
 <!-- END_NOW_PLAYING -->

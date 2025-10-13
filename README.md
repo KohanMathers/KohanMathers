@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Kick Up Your Skirt - Mista Trick & Elle & The Pocket Belles — You
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 22m ago
+- 🎵 **Now Playing:** Playing to Lose - Mista Trick, Elle & The Pocket Belles & Jackson Mathod — You
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 23m ago
 
-*Last updated: 13-10-2025 20:04:09*
+*Last updated: 13-10-2025 20:05:00*
 <!-- END_NOW_PLAYING -->

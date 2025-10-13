@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Seasons (feat. Harley Bird) - Rival & CADMIUM — Seasons (feat. Harley Bird) - Single
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 57m ago
+- 🎵 **Now Playing:** Seasons (feat. Harley Bird) - Rival & CADMIUM — Seasons (feat. Harley Bird) - Single Rival...
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 59m ago
 
-*Last updated: 13-10-2025 20:39:38*
+*Last updated: 13-10-2025 20:41:56*
 <!-- END_NOW_PLAYING -->

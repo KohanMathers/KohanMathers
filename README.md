@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** A Day at the Fair - Skata Tones — A Day at the Fair - EP
+- 🎵 **Now Playing:** Star Trekkin' - The Firm — Star Trekkin' - Single
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 41m ago
 
-*Last updated: 13-10-2025 20:23:27*
+*Last updated: 13-10-2025 20:23:33*
 <!-- END_NOW_PLAYING -->

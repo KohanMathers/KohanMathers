@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fresh Concrete - Bears in Trees — Flower Through Concrete - Single
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 3h 32m ago
+- 🎵 **Now Playing:** Dirty Thoughts - nihmune — Dirty Thoughts - Single
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 3h 35m ago
 
-*Last updated: 13-10-2025 19:14:37*
+*Last updated: 13-10-2025 19:17:08*
 <!-- END_NOW_PLAYING -->

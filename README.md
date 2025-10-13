@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Bomb Tesco - Dizraeli — Engurland (City Shanties)
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 39m ago
+- 🎵 **Now Playing:** Gameboy - Ayiko & Silvervale — Gameboy - Single
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 40m ago
 
-*Last updated: 13-10-2025 20:21:52*
+*Last updated: 13-10-2025 20:22:33*
 <!-- END_NOW_PLAYING -->

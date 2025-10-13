@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Blue Minor - CATJAM — Swing & Bass Compilation Album Vol.1 Sampler
+- 🎵 **Now Playing:** Cycle - Derivakat & Netrum — Archive #01: Anger - EP
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 41m ago
 
-*Last updated: 13-10-2025 20:23:00*
+*Last updated: 13-10-2025 20:23:03*
 <!-- END_NOW_PLAYING -->

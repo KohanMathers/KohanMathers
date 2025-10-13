@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Scruffy (feat. Charlie D) - Dutty Moonshine — Scruffy EP
+- 🎵 **Now Playing:** Digital Hallucination (feat. Lizzie Freeman) - Or3o — Digital Hallucination (feat. Lizzie Freeman) - Single
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 32m ago
 
-*Last updated: 13-10-2025 20:14:14*
+*Last updated: 13-10-2025 20:14:52*
 <!-- END_NOW_PLAYING -->

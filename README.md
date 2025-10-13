@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** She Wolf - Shakira — She Wolf (Expanded Edition)
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 33m ago
+- 🎵 **Now Playing:** It Doesn't Matter - Thumpasaurus — Thumpaverse
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 35m ago
 
-*Last updated: 13-10-2025 20:15:11*
+*Last updated: 13-10-2025 20:17:33*
 <!-- END_NOW_PLAYING -->

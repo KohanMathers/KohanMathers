@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Playing to Lose - Mista Trick, Elle & The Pocket Belles & Jackson Mathod — You
+- 🎵 **Now Playing:** Shambala - Mista Trick — You
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 27m ago
 
-*Last updated: 13-10-2025 20:09:11*
+*Last updated: 13-10-2025 20:09:14*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Under Pressure (feat. David Bowie) - Queen — Hot Space (Deluxe Edition)
+- 🎵 **Now Playing:** Skitter Skat - Ashley Slater, Mista Trick & Elle & The Pocket Belles — You
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 5m ago
 
-*Last updated: 13-10-2025 19:47:47*
+*Last updated: 13-10-2025 19:47:53*
 <!-- END_NOW_PLAYING -->

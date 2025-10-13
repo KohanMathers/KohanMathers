@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Timber - Pitbull & Kesha — Global Warming: Meltdown (Deluxe Version)
+- 🎵 **Now Playing:** A Day at the Fair - Skata Tones — A Day at the Fair - EP
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 41m ago
 
-*Last updated: 13-10-2025 20:23:23*
+*Last updated: 13-10-2025 20:23:27*
 <!-- END_NOW_PLAYING -->

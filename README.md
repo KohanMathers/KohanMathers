@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** 1 4 3 - Elijah — 1 4 3 - Single
+- 🎵 **Now Playing:** Life Is Fun (feat. TheOdd1sOut) - Boyinaband — Life Is Fun (feat. TheOdd1sOut) - Single
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 41m ago
 
-*Last updated: 13-10-2025 20:23:07*
+*Last updated: 13-10-2025 20:23:12*
 <!-- END_NOW_PLAYING -->

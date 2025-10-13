@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 3h 21m ago
+- 🎵 **Now Playing:** Vamonos - Dutty Moonshine Big Band — Villain
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 3h 26m ago
 
-*Last updated: 13-10-2025 19:03:42*
+*Last updated: 13-10-2025 19:08:14*
 <!-- END_NOW_PLAYING -->

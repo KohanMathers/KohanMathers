@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Teenage Dream - Katy Perry — Teenage Dream (Deluxe Edition)
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 3h 37m ago
+- 🎵 **Now Playing:** What Makes You Beautiful - One Direction — Up All Night
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 3h 41m ago
 
-*Last updated: 13-10-2025 19:19:17*
+*Last updated: 13-10-2025 19:23:12*
 <!-- END_NOW_PLAYING -->

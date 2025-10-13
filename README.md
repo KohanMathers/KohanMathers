@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** It Doesn't Matter - Thumpasaurus — Thumpaverse
+- 🎵 **Now Playing:** Festival Season (feat. Bahia) - Gardna — Connections (The BIMM Album 2014)
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 35m ago
 
-*Last updated: 13-10-2025 20:17:33*
+*Last updated: 13-10-2025 20:17:37*
 <!-- END_NOW_PLAYING -->

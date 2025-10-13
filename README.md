@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Little Changes - Frank Turner — Be More Kind
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 3h 31m ago
+- 🎵 **Now Playing:** Fresh Concrete - Bears in Trees — Flower Through Concrete - Single
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 3h 32m ago
 
-*Last updated: 13-10-2025 19:13:46*
+*Last updated: 13-10-2025 19:14:37*
 <!-- END_NOW_PLAYING -->

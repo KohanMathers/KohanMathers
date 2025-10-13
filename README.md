@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Better Than the Boys - Véyah — Queen Energy
+- 🎵 **Now Playing:** MY NAME - Sinder, Trickywi & Vienna — MY NAME - Single
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 36m ago
 
-*Last updated: 13-10-2025 20:18:08*
+*Last updated: 13-10-2025 20:18:13*
 <!-- END_NOW_PLAYING -->

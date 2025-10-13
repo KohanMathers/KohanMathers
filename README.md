@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Vamonos - Dutty Moonshine Big Band — Villain
+- 🎵 **Now Playing:** Jesus in LA - Alec Benjamin — These Two Windows
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 3h 26m ago
 
-*Last updated: 13-10-2025 19:08:14*
+*Last updated: 13-10-2025 19:08:18*
 <!-- END_NOW_PLAYING -->

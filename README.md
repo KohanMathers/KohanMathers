@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Gameboy - Ayiko & Silvervale — Gameboy - Single
+- 🎵 **Now Playing:** Anarchy (feat. Bubi) - Ironmouse, shirobeats & HalaCG — Anarchy (feat. Bubi) - Single
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 40m ago
 
-*Last updated: 13-10-2025 20:22:33*
+*Last updated: 13-10-2025 20:22:38*
 <!-- END_NOW_PLAYING -->

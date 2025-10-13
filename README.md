@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Do What You Do - Kathika & Mista Trick — You
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 7m ago
+- 🎵 **Now Playing:** Drive - Mista Trick & Elle & The Pocket Belles — You
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 10m ago
 
-*Last updated: 13-10-2025 19:49:02*
+*Last updated: 13-10-2025 19:52:59*
 <!-- END_NOW_PLAYING -->

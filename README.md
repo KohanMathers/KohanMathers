@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Childhood - Subculture Sage — Childhood - Single
+- 🎵 **Now Playing:** She Wolf - Shakira — She Wolf (Expanded Edition)
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: tether) - 4h 33m ago
 
-*Last updated: 13-10-2025 20:15:02*
+*Last updated: 13-10-2025 20:15:11*
 <!-- END_NOW_PLAYING -->

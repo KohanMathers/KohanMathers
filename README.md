@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Sucker - Jonas Brothers — Happiness Begins
-- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 1 minutes ago
+- 🎵 **Now Playing:** Who's In Debt To Who - The Undercover Hippy — Truth & Fiction
+- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 3 minutes ago
 
-*Last updated: 15-10-2025 00:56:33*
+*Last updated: 15-10-2025 00:58:45*
 <!-- END_NOW_PLAYING -->

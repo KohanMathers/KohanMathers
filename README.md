@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Cry For Me (WA WA WA) [feat. Bubi] - Ironmouse — Cry For Me (WA WA WA) [feat. Bubi] - Single Iron...
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 51 minutes ago
+- 🎵 **Now Playing:** Last Friday Night (T.G.I.F.) - Katy Perry — Teenage Dream (Deluxe Edition)
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 52 minutes ago
 
-*Last updated: 15-10-2025 00:52:14*
+*Last updated: 15-10-2025 00:52:35*
 <!-- END_NOW_PLAYING -->

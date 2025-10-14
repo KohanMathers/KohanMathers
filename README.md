@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** When the Sun Goes Down - Arctic Monkeys — Whatever People Say I Am, That's What I'm Not
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 34 minutes ago
+- 🎵 **Now Playing:** A & B - Ferocious Dog — The Red Album
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 35 minutes ago
 
-*Last updated: 15-10-2025 00:35:16*
+*Last updated: 15-10-2025 00:35:21*
 <!-- END_NOW_PLAYING -->

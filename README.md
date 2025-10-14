@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** We Play the Music - Ed Solo, Skool of Thought & Darrison — Random Acts of Kindness
+- 🎵 **Now Playing:** Every Trick in the Book - The Allergies — Say the Word
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 39 minutes ago
 
-*Last updated: 15-10-2025 00:39:26*
+*Last updated: 15-10-2025 00:39:40*
 <!-- END_NOW_PLAYING -->

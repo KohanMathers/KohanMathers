@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Three Little Birds - Bob Marley & The Wailers — Exodus (Deluxe Edition)
+- 🎵 **Now Playing:** Moonshine Hype (feat. HypeMan Sage) - Dutty Moonshine — Rum Runners
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 45 minutes ago
 
-*Last updated: 15-10-2025 00:46:06*
+*Last updated: 15-10-2025 00:46:15*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Moonshine Hype (feat. HypeMan Sage) - Dutty Moonshine — Rum Runners
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 45 minutes ago
+- 🎵 **Now Playing:** Digital Hallucination (feat. Lizzie Freeman) - Or3o — Digital Hallucination (feat. Lizzie Freeman) - Single
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 46 minutes ago
 
-*Last updated: 15-10-2025 00:46:15*
+*Last updated: 15-10-2025 00:46:20*
 <!-- END_NOW_PLAYING -->

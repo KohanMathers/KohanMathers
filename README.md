@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Torn - Ava Max — Heaven & Hell
+- 🎵 **Now Playing:** Sucker - Jonas Brothers — Happiness Begins
 - 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - Just now
 
-*Last updated: 15-10-2025 00:55:37*
+*Last updated: 15-10-2025 00:55:47*
 <!-- END_NOW_PLAYING -->

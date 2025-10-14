@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Distillin - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 36 minutes ago
+- 🎵 **Now Playing:** We Play the Music - Ed Solo, Skool of Thought & Darrison — Random Acts of Kindness
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 39 minutes ago
 
-*Last updated: 15-10-2025 00:36:25*
+*Last updated: 15-10-2025 00:39:26*
 <!-- END_NOW_PLAYING -->

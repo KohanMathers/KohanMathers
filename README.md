@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Royalty - Conor Maynard — Royalty - Single
+- 🎵 **Now Playing:** Mr. Sandman - Mista Trick & HypeMan Sage — Mr. Sandman - Single
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 32 minutes ago
 
-*Last updated: 15-10-2025 00:32:53*
+*Last updated: 15-10-2025 00:32:56*
 <!-- END_NOW_PLAYING -->

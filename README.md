@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** A & B - Ferocious Dog — The Red Album
+- 🎵 **Now Playing:** Distillin - Dutty Moonshine Big Band — Most Wanted
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 35 minutes ago
 
-*Last updated: 15-10-2025 00:35:21*
+*Last updated: 15-10-2025 00:35:30*
 <!-- END_NOW_PLAYING -->

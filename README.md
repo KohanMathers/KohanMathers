@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Why's this dealer? - Niko B — Why's this dealer? - Single
+- 🎵 **Now Playing:** Cry For Me (WA WA WA) [feat. Bubi] - Ironmouse — Cry For Me (WA WA WA) [feat. Bubi] - Single
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 51 minutes ago
 
-*Last updated: 15-10-2025 00:51:31*
+*Last updated: 15-10-2025 00:52:10*
 <!-- END_NOW_PLAYING -->

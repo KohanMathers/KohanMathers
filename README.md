@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 31 minutes ago
+- 🎵 **Now Playing:** Royalty - Conor Maynard — Royalty - Single
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 32 minutes ago
 
-*Last updated: 15-10-2025 00:31:23*
+*Last updated: 15-10-2025 00:32:53*
 <!-- END_NOW_PLAYING -->

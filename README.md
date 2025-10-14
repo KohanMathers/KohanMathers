@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Last Friday Night (T.G.I.F.) - Katy Perry — Teenage Dream (Deluxe Edition)
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 52 minutes ago
+- 🎵 **Now Playing:** Torn - Ava Max — Heaven & Hell
+- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - Just now
 
-*Last updated: 15-10-2025 00:52:35*
+*Last updated: 15-10-2025 00:55:37*
 <!-- END_NOW_PLAYING -->

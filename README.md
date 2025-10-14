@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Cry For Me (WA WA WA) [feat. Bubi] - Ironmouse — Cry For Me (WA WA WA) [feat. Bubi] - Single
+- 🎵 **Now Playing:** Cry For Me (WA WA WA) [feat. Bubi] - Ironmouse — Cry For Me (WA WA WA) [feat. Bubi] - Single Iron...
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 51 minutes ago
 
-*Last updated: 15-10-2025 00:52:10*
+*Last updated: 15-10-2025 00:52:14*
 <!-- END_NOW_PLAYING -->

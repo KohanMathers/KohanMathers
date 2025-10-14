@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** SUPERIMPOSE - ELIO — ELIO'S INFERNO
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 43 minutes ago
+- 🎵 **Now Playing:** Three Little Birds - Bob Marley & The Wailers — Exodus (Deluxe Edition)
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 45 minutes ago
 
-*Last updated: 15-10-2025 00:43:26*
+*Last updated: 15-10-2025 00:46:06*
 <!-- END_NOW_PLAYING -->

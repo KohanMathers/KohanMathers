@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Every Trick in the Book - The Allergies — Say the Word
+- 🎵 **Now Playing:** Pristine (feat. Eva Lazarus & Gardna) - The Nextmen & Gentleman's Dub Club — Pound for Pound
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 39 minutes ago
 
-*Last updated: 15-10-2025 00:39:40*
+*Last updated: 15-10-2025 00:39:45*
 <!-- END_NOW_PLAYING -->

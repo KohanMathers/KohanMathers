@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Personality Test - Seb Lowe — Make Me Your National Anthem - EP
+- 🎵 **Now Playing:** Drop Dead Gorgeous - VOILÀ — Happy Never After
 - 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 8 minutes ago
 
-*Last updated: 15-10-2025 01:03:55*
+*Last updated: 15-10-2025 01:04:01*
 <!-- END_NOW_PLAYING -->

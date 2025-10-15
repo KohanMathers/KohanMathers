@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Chelsea Dagger - The Fratellis — Costello Music
+- 🎵 **Now Playing:** Bonkers - Dizzee Rascal & Armand Van Helden — Tongue N' Cheek (Dirtee ...
 - 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 9 minutes ago
 
-*Last updated: 15-10-2025 01:04:06*
+*Last updated: 15-10-2025 01:04:11*
 <!-- END_NOW_PLAYING -->

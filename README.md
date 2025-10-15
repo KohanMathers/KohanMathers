@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Strawberries & Cigarettes - Troye Sivan — It's a Music Match
-- 💻 **Currently coding** in *XML*, editing `pom.xml` (Project: RideDragons) - 9 minutes ago
+- 🎵 **Now Playing:** Little Changes - Frank Turner — Be More Kind
+- 💻 **Currently coding** in *XML*, editing `pom.xml` (Project: RideDragons) - 11 minutes ago
 
-*Last updated: 15-10-2025 20:39:51*
+*Last updated: 15-10-2025 20:42:10*
 <!-- END_NOW_PLAYING -->

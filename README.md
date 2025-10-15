@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Who's In Debt To Who - The Undercover Hippy — Truth & Fiction
-- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 6 minutes ago
+- 🎵 **Now Playing:** Personality Test - Seb Lowe — Make Me Your National Anthem - EP
+- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 8 minutes ago
 
-*Last updated: 15-10-2025 01:01:35*
+*Last updated: 15-10-2025 01:03:55*
 <!-- END_NOW_PLAYING -->

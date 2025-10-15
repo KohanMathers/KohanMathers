@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** We'll Be Fine - Jorge Rivera-Herrans, Teagan Earley & Miguel Veloso — EPIC: ...
-- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 4h 47m ago
+- 🎵 **Now Playing:** Stories and Tales - Subculture Sage — Subculture Sage EP
+- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 4h 49m ago
 
-*Last updated: 15-10-2025 16:09:46*
+*Last updated: 15-10-2025 16:11:51*
 <!-- END_NOW_PLAYING -->

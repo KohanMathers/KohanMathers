@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Ballad of Me and My Friends - Frank Turner — Campfire Punkrock
+- 🎵 **Now Playing:** Just Friends - JORDY — Just Friends - Single
 - 💻 **Currently coding** in *XML*, editing `pom.xml` (Project: RideDragons) - 2 minutes ago
 
-*Last updated: 15-10-2025 21:01:35*
+*Last updated: 15-10-2025 21:04:10*
 <!-- END_NOW_PLAYING -->

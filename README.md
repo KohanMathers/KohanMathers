@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** rosier/punk2 - brakence — punk2
+- 🎵 **Now Playing:** Make Believe (feat. Sydney Osmon & Tomotasauce) - Jakeneutron — Neutron Nexus
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 22 minutes ago
 
-*Last updated: 15-10-2025 01:17:46*
+*Last updated: 15-10-2025 01:17:50*
 <!-- END_NOW_PLAYING -->

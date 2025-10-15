@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Didn’t Know - Andrew Underberg, Various Artists — Hazbin Hotel (Original S...
+- 🎵 **Now Playing:** Alyssa Greene - Isabelle McCalla — The Prom: A New Musical (Original Broadwa...
 - 💻 **Currently coding** in *Java*, editing `EggTeleportListener.java` (Project: RideDragons) - 2 minutes ago
 
-*Last updated: 15-10-2025 20:11:56*
+*Last updated: 15-10-2025 20:11:58*
 <!-- END_NOW_PLAYING -->

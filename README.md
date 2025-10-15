@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** We Built This City - LadBaby — We Built This City - Single
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 21 minutes ago
+- 🎵 **Now Playing:** rosier/punk2 - brakence — punk2
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 22 minutes ago
 
-*Last updated: 15-10-2025 01:16:41*
+*Last updated: 15-10-2025 01:17:46*
 <!-- END_NOW_PLAYING -->

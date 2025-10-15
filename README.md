@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Kids - MGMT — Oracular Spectacular
+- 🎵 **Now Playing:** Hey Boy - The Undercover Hippy — Hey Boy - Single
 - 💻 **Currently coding** in *Java*, editing `EggTeleportListener.java` (Project: RideDragons) - 5 minutes ago
 
-*Last updated: 15-10-2025 20:14:46*
+*Last updated: 15-10-2025 20:14:50*
 <!-- END_NOW_PLAYING -->

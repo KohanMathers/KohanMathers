@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Drop Dead Gorgeous - VOILÀ — Happy Never After
-- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 8 minutes ago
+- 🎵 **Now Playing:** Chelsea Dagger - The Fratellis — Costello Music
+- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 9 minutes ago
 
-*Last updated: 15-10-2025 01:04:01*
+*Last updated: 15-10-2025 01:04:06*
 <!-- END_NOW_PLAYING -->

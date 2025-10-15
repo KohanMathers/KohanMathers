@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Would You Fall in Love with Me Again - Jorge Rivera-Herrans & Anna Lea — EPIC: The Ithaca Saga (Off...
-- 💻 **Last seen coding** in *XML*, editing `pom.xml` (Project: RideDragons) - 19 minutes ago
+- 🎵 **Now Playing:** Stories and Tales - Subculture Sage — Subculture Sage EP
+- 💻 **Currently coding** in *Java*, editing `DragonType.java` (Project: RideDragons) - Just now
 
-*Last updated: 15-10-2025 20:49:56*
+*Last updated: 15-10-2025 20:54:00*
 <!-- END_NOW_PLAYING -->

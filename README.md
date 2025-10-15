@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Starving (feat. Zedd) - Hailee Steinfeld & Grey — Starving (feat. Zedd) - Single
+- 🎵 **Now Playing:** The Opening Act of Spring (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
 - 💻 **Currently coding** in *Java*, editing `DataManager.java` (Project: RideDragons) - 8 minutes ago
 
-*Last updated: 15-10-2025 20:24:44*
+*Last updated: 15-10-2025 20:25:25*
 <!-- END_NOW_PLAYING -->

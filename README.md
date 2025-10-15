@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Wake Me Up - Avicii — True (Bonus Edition)
-- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 12 minutes ago
+- 🎵 **Now Playing:** echo - Alexander Stewart — when you love someone - Single
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 16 minutes ago
 
-*Last updated: 15-10-2025 01:07:25*
+*Last updated: 15-10-2025 01:11:35*
 <!-- END_NOW_PLAYING -->

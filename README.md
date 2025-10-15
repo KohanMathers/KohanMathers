@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stories and Tales - Subculture Sage — Subculture Sage EP
-- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 4h 50m ago
+- 🎵 **Now Playing:** The Angel Islington - Frank Turner — Positive Songs for Negative People
+- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 4h 53m ago
 
-*Last updated: 15-10-2025 16:12:55*
+*Last updated: 15-10-2025 16:15:11*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Be the Bigger Man - Gaz Brookfield — Tell It to the Beer
+- 🎵 **Now Playing:** A Day at the Fair - Skata Tones — A Day at the Fair - EP
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 30 minutes ago
 
-*Last updated: 15-10-2025 01:25:26*
+*Last updated: 15-10-2025 01:25:31*
 <!-- END_NOW_PLAYING -->

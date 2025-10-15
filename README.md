@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Wouldn't You Like - Jorge Rivera-Herrans, TROY & Cast of EPIC: The Musical — EPI...
-- 💻 **Currently coding** in *XML*, editing `pom.xml` (Project: RideDragons) - Just now
+- 🎵 **Now Playing:** The Ballad of Me and My Friends - Frank Turner — Campfire Punkrock
+- 💻 **Currently coding** in *XML*, editing `pom.xml` (Project: RideDragons) - 2 minutes ago
 
-*Last updated: 15-10-2025 21:00:01*
+*Last updated: 15-10-2025 21:01:35*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Out For Love - Andrew Underberg, Sam Haft & Daphne Rubin-Vega — Hazbin Hote...
+- 🎵 **Now Playing:** Don't Lose Ur Head (feat. Christina Modestou) - SIX — Six: The Musical (Studio Cast Recording)
 - 💻 **Currently coding** in *XML*, editing `pom.xml` (Project: RideDragons) - 8 minutes ago
 
-*Last updated: 15-10-2025 21:10:56*
+*Last updated: 15-10-2025 21:11:05*
 <!-- END_NOW_PLAYING -->

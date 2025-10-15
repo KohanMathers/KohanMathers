@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Anime Makes Me Cum - Lucy Pyre — Anime Makes Me Cum - Single
+- 🎵 **Now Playing:** West End Story (feat. Akala & Dan Bowskill) - Dub Pistols — Worshipping the Dollar
 - 💻 **Currently coding** in *Java*, editing `EggTeleportListener.java` (Project: RideDragons) - 2 minutes ago
 
-*Last updated: 15-10-2025 20:12:01*
+*Last updated: 15-10-2025 20:12:06*
 <!-- END_NOW_PLAYING -->

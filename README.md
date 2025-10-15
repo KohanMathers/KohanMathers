@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Make Believe (feat. Sydney Osmon & Tomotasauce) - Jakeneutron — Neutron Nexus
+- 🎵 **Now Playing:** The Hole In Your Heart (feat. Gillion and the Tidestriders) The Hole In Your Heart (feat. Gillion and the Tidestriders) - Condifiction — The Hole In Your Heart (feat. Gillion and the...
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 22 minutes ago
 
-*Last updated: 15-10-2025 01:17:50*
+*Last updated: 15-10-2025 01:17:56*
 <!-- END_NOW_PLAYING -->

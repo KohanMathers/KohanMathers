@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Slipping Through My Fingers - Meryl Streep & Amanda Seyfried — Mamma Mia! (The Movie Sound...
-- 💻 **Currently coding** in *Java*, editing `DataManager.java` (Project: RideDragons) - 3 minutes ago
+- 🎵 **Now Playing:** Starving (feat. Zedd) - Hailee Steinfeld & Grey — Starving (feat. Zedd) - Single
+- 💻 **Currently coding** in *Java*, editing `DataManager.java` (Project: RideDragons) - 5 minutes ago
 
-*Last updated: 15-10-2025 20:19:42*
+*Last updated: 15-10-2025 20:22:25*
 <!-- END_NOW_PLAYING -->

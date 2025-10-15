@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Angel Islington - Frank Turner — Positive Songs for Negative People
-- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 4h 53m ago
+- 🎵 **Now Playing:** Alone - Nico Collins — Alone - Single
+- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 4h 55m ago
 
-*Last updated: 15-10-2025 16:15:11*
+*Last updated: 15-10-2025 16:17:36*
 <!-- END_NOW_PLAYING -->

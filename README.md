@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Hit the Road Jack - Wolfgang Lohr & Maskarade — Hit the Road Jack (Electro Swing...
+- 🎵 **Now Playing:** Be the Bigger Man - Gaz Brookfield — Tell It to the Beer
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 30 minutes ago
 
-*Last updated: 15-10-2025 01:25:21*
+*Last updated: 15-10-2025 01:25:26*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Nuff Ish on My Mind - Subculture Sage — Big Smoke Autumn Blues
+- 🎵 **Now Playing:** she's all i wanna be - Tate McRae — she's all i wanna be - Single
 - 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 4h 26m ago
 
-*Last updated: 15-10-2025 15:48:37*
+*Last updated: 15-10-2025 15:48:43*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Jump in the Pool - Subculture Sage — Big Smoke Autumn Blues
-- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 5h 26m ago
+- 🎵 **Now Playing:** Naughty - Elijah — Naughty - Single
+- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 5h 31m ago
 
-*Last updated: 15-10-2025 16:48:10*
+*Last updated: 15-10-2025 16:53:06*
 <!-- END_NOW_PLAYING -->

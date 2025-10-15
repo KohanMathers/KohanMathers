@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alyssa Greene - Isabelle McCalla — The Prom: A New Musical (Original Broadwa...
+- 🎵 **Now Playing:** Anime Makes Me Cum - Lucy Pyre — Anime Makes Me Cum - Single
 - 💻 **Currently coding** in *Java*, editing `EggTeleportListener.java` (Project: RideDragons) - 2 minutes ago
 
-*Last updated: 15-10-2025 20:11:58*
+*Last updated: 15-10-2025 20:12:01*
 <!-- END_NOW_PLAYING -->

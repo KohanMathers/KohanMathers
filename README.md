@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alone - Nico Collins — Alone - Single
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 29 minutes ago
+- 🎵 **Now Playing:** Petite Fleur - Duke Skellington — Swing & Bass Compilation Album Vol.2 Sampler
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 30 minutes ago
 
-*Last updated: 15-10-2025 01:24:36*
+*Last updated: 15-10-2025 01:25:17*
 <!-- END_NOW_PLAYING -->

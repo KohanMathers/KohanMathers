@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Python*, editing `tetris.py` (Project: None) - 19 minutes ago
+- 💻 **Currently coding** in *Java*, editing `FoliaScheduleManager.java` (Project: Origins-Reborn-Folia-Fork) - Just now
 
-*Last updated: 15-10-2025 11:00:44*
+*Last updated: 15-10-2025 11:05:46*
 <!-- END_NOW_PLAYING -->

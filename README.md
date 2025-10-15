@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Don't Lose Ur Head (feat. Christina Modestou) - SIX — Six: The Musical (Studio Cast Recording)
+- 🎵 **Now Playing:** Chelsea Dagger - The Fratellis — Costello Music
 - 💻 **Currently coding** in *XML*, editing `pom.xml` (Project: RideDragons) - 13 minutes ago
 
-*Last updated: 15-10-2025 21:15:09*
+*Last updated: 15-10-2025 21:15:12*
 <!-- END_NOW_PLAYING -->

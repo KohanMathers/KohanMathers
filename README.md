@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Miss RGB - Bao The Whale, nihmune & Shylily — Miss RGB - Single
-- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 5h 41m ago
+- 🎵 **Now Playing:** Buddies - Frank Turner & Jon Snodgrass — Buddies
+- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 5h 45m ago
 
-*Last updated: 15-10-2025 17:03:50*
+*Last updated: 15-10-2025 17:07:53*
 <!-- END_NOW_PLAYING -->

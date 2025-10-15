@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `EggTeleportListener.java` (Project: RideDragons) - 14 minutes ago
+- 💻 **Last seen coding** in *Java*, editing `EggTeleportListener.java` (Project: RideDragons) - 19 minutes ago
 
-*Last updated: 15-10-2025 21:45:23*
+*Last updated: 15-10-2025 21:50:26*
 <!-- END_NOW_PLAYING -->

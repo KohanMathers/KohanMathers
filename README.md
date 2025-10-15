@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Buddies - Frank Turner & Jon Snodgrass — Buddies
-- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 5h 46m ago
+- 🎵 **Now Playing:** Just Friends - JORDY — Just Friends - Single
+- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 5h 49m ago
 
-*Last updated: 15-10-2025 17:08:20*
+*Last updated: 15-10-2025 17:11:15*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Opening Act of Spring (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
-- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 5h 36m ago
+- 🎵 **Now Playing:** Burden to Bear - MathematicPony — Burden to Bear - Single
+- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 5h 37m ago
 
-*Last updated: 15-10-2025 16:58:15*
+*Last updated: 15-10-2025 16:59:20*
 <!-- END_NOW_PLAYING -->

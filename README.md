@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Slipping Through My Fingers - Meryl Streep & Amanda Seyfried — Mamma Mia! (The Movie Sound...
-- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 4h 26m ago
+- 🎵 **Now Playing:** Despair - leo. — Despair - Single
+- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 4h 30m ago
 
-*Last updated: 15-10-2025 15:48:48*
+*Last updated: 15-10-2025 15:52:36*
 <!-- END_NOW_PLAYING -->

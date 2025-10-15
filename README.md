@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alone - Nico Collins — Alone - Single
-- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 4h 55m ago
+- 🎵 **Now Playing:** Love in Paradise - Jorge Rivera-Herrans, Barbara Wangui, Teagan Earley, Kira St...
+- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 4h 59m ago
 
-*Last updated: 15-10-2025 16:17:57*
+*Last updated: 15-10-2025 16:21:36*
 <!-- END_NOW_PLAYING -->

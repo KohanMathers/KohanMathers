@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Silent Key - Frank Turner — Positive Songs for Negative People
+- 🎵 **Now Playing:** My Goodbye - Jorge Rivera-Herrans & Teagan Earley — EPIC: The Cyclops Sag...
 - 💻 **Currently coding** in *Java*, editing `EggTeleportListener.java` (Project: RideDragons) - 5 minutes ago
 
-*Last updated: 15-10-2025 20:14:40*
+*Last updated: 15-10-2025 20:14:43*
 <!-- END_NOW_PLAYING -->

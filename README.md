@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Starving (feat. Zedd) - Hailee Steinfeld & Grey — Starving (feat. Zedd) - Single
-- 💻 **Currently coding** in *Java*, editing `DataManager.java` (Project: RideDragons) - 5 minutes ago
+- 💻 **Currently coding** in *Java*, editing `DataManager.java` (Project: RideDragons) - 8 minutes ago
 
-*Last updated: 15-10-2025 20:22:25*
+*Last updated: 15-10-2025 20:24:44*
 <!-- END_NOW_PLAYING -->

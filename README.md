@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Hey Boy - The Undercover Hippy — Hey Boy - Single
-- 💻 **Currently coding** in *Java*, editing `EggTeleportListener.java` (Project: RideDragons) - 5 minutes ago
+- 🎵 **Now Playing:** Slipping Through My Fingers - Meryl Streep & Amanda Seyfried — Mamma Mia! (The Movie Sound...
+- 💻 **Currently coding** in *Java*, editing `DataManager.java` (Project: RideDragons) - 2 minutes ago
 
-*Last updated: 15-10-2025 20:14:50*
+*Last updated: 15-10-2025 20:18:34*
 <!-- END_NOW_PLAYING -->

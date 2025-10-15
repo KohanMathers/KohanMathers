@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Dirty Harry - Gorillaz — Old School Indie
-- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 4h 36m ago
+- 🎵 **Now Playing:** I Still Believe - Frank Turner — England Keep My Bones
+- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 4h 40m ago
 
-*Last updated: 15-10-2025 15:58:26*
+*Last updated: 15-10-2025 16:02:20*
 <!-- END_NOW_PLAYING -->

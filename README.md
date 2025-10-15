@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Naughty - Elijah — Naughty - Single
+- 🎵 **Now Playing:** Get Better (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe) F...
 - 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 5h 31m ago
 
-*Last updated: 15-10-2025 16:53:06*
+*Last updated: 15-10-2025 16:53:11*
 <!-- END_NOW_PLAYING -->

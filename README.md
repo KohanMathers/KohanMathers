@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Make Believe (feat. Sydney Osmon & Tomotasauce) - Jakeneutron — Neutron Nexus
-- 💻 **Currently coding** in *JSON*, editing `husk.json` (Project: RideDragons) - 2 minutes ago
+- 🎵 **Now Playing:** I Want It That Way - Backstreet Boys — Millennium
+- 💻 **Currently coding** in *XML*, editing `pom.xml` (Project: RideDragons) - 1 minutes ago
 
-*Last updated: 15-10-2025 20:29:47*
+*Last updated: 15-10-2025 20:31:40*
 <!-- END_NOW_PLAYING -->

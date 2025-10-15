@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Petite Fleur - Duke Skellington — Swing & Bass Compilation Album Vol.2 Sampler
+- 🎵 **Now Playing:** Hit the Road Jack - Wolfgang Lohr & Maskarade — Hit the Road Jack (Electro Swing...
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 30 minutes ago
 
-*Last updated: 15-10-2025 01:25:17*
+*Last updated: 15-10-2025 01:25:21*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** How You Get The Girl (Taylor's Version) - Taylor Swift — 1989 (Taylor's Version)
-- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 6h 1m ago
+- 🎵 **Now Playing:** Poetry of the Deed - Frank Turner — Poetry of the Deed
+- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 6h 4m ago
 
-*Last updated: 15-10-2025 17:23:26*
+*Last updated: 15-10-2025 17:26:49*
 <!-- END_NOW_PLAYING -->

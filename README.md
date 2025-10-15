@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** A Day at the Fair - Skata Tones — A Day at the Fair - EP
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 30 minutes ago
 
-*Last updated: 15-10-2025 01:25:31*
+*Last updated: 15-10-2025 01:25:34*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Love Forty Down - Frank Turner — Positive Songs for Negative People
-- 💻 **Currently coding** in *Java*, editing `DragonType.java` (Project: RideDragons) - 2 minutes ago
+- 🎵 **Now Playing:** Wouldn't You Like - Jorge Rivera-Herrans, TROY & Cast of EPIC: The Musical — EPI...
+- 💻 **Currently coding** in *Java*, editing `RideDragonsCommand.java` (Project: RideDragons) - 1 minutes ago
 
-*Last updated: 15-10-2025 20:56:15*
+*Last updated: 15-10-2025 20:58:41*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Pumped Up Kicks - Foster the People — Torches X (Deluxe Edition)
+- 🎵 **Now Playing:** Wake Me Up - Avicii — True (Bonus Edition)
 - 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 12 minutes ago
 
-*Last updated: 15-10-2025 01:07:21*
+*Last updated: 15-10-2025 01:07:25*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Loser, Baby - Andrew Underberg, Sam Haft, Keith David & Blake Roman — Hazb...
-- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 4h 35m ago
+- 🎵 **Now Playing:** Dirty Harry - Gorillaz — Old School Indie
+- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 4h 36m ago
 
-*Last updated: 15-10-2025 15:57:48*
+*Last updated: 15-10-2025 15:58:26*
 <!-- END_NOW_PLAYING -->

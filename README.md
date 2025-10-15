@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Little Changes - Frank Turner — Be More Kind
-- 💻 **Currently coding** in *XML*, editing `pom.xml` (Project: RideDragons) - 14 minutes ago
+- 🎵 **Now Playing:** Would You Fall in Love with Me Again - Jorge Rivera-Herrans & Anna Lea — EPIC: The Ithaca Saga (Off...
+- 💻 **Currently coding** in *XML*, editing `pom.xml` (Project: RideDragons) - 15 minutes ago
 
-*Last updated: 15-10-2025 20:44:54*
+*Last updated: 15-10-2025 20:45:36*
 <!-- END_NOW_PLAYING -->

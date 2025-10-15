@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** We'll Be Fine - Jorge Rivera-Herrans, Teagan Earley & Miguel Veloso — EPIC: ...
-- 💻 **Currently coding** in *Java*, editing `DragonType.java` (Project: RideDragons) - 1 minutes ago
+- 🎵 **Now Playing:** Love Forty Down - Frank Turner — Positive Songs for Negative People
+- 💻 **Currently coding** in *Java*, editing `DragonType.java` (Project: RideDragons) - 2 minutes ago
 
-*Last updated: 15-10-2025 20:54:59*
+*Last updated: 15-10-2025 20:56:15*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stressed Out - twenty one pilots — Blurryface
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 26 minutes ago
+- 🎵 **Now Playing:** Alone - Nico Collins — Alone - Single
+- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: ParrotPost) - 29 minutes ago
 
-*Last updated: 15-10-2025 01:21:43*
+*Last updated: 15-10-2025 01:24:36*
 <!-- END_NOW_PLAYING -->

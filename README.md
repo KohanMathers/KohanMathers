@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Brave Face - Frank Turner — Be More Kind
-- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 5h 52m ago
+- 🎵 **Now Playing:** Here's a Story - Seb Lowe — Here's a Story - Single
+- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 5h 56m ago
 
-*Last updated: 15-10-2025 17:14:25*
+*Last updated: 15-10-2025 17:18:05*
 <!-- END_NOW_PLAYING -->

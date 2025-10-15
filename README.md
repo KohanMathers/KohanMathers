@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** West End Story (feat. Akala & Dan Bowskill) - Dub Pistols — Worshipping the Dollar
-- 💻 **Currently coding** in *Java*, editing `EggTeleportListener.java` (Project: RideDragons) - 2 minutes ago
+- 🎵 **Now Playing:** Silent Key - Frank Turner — Positive Songs for Negative People
+- 💻 **Currently coding** in *Java*, editing `EggTeleportListener.java` (Project: RideDragons) - 5 minutes ago
 
-*Last updated: 15-10-2025 20:12:06*
+*Last updated: 15-10-2025 20:14:36*
 <!-- END_NOW_PLAYING -->

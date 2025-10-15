@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stories and Tales - Subculture Sage — Subculture Sage EP
+- 🎵 **Now Playing:** We'll Be Fine - Jorge Rivera-Herrans, Teagan Earley & Miguel Veloso — EPIC: ...
 - 💻 **Currently coding** in *Java*, editing `DragonType.java` (Project: RideDragons) - Just now
 
-*Last updated: 15-10-2025 20:54:00*
+*Last updated: 15-10-2025 20:54:06*
 <!-- END_NOW_PLAYING -->

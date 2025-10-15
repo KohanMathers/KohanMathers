@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Just Friends - JORDY — Just Friends - Single
-- 💻 **Currently coding** in *XML*, editing `pom.xml` (Project: RideDragons) - 2 minutes ago
+- 🎵 **Now Playing:** Bang Bang (feat. Kitten & The Hip) - Dub Pistols — Worshipping the Dollar
+- 💻 **Currently coding** in *XML*, editing `pom.xml` (Project: RideDragons) - 5 minutes ago
 
-*Last updated: 15-10-2025 21:05:04*
+*Last updated: 15-10-2025 21:07:22*
 <!-- END_NOW_PLAYING -->

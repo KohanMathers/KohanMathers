@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Polaroid Picture - Frank Turner — Tape Deck Heart (Deluxe Edition)
-- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 4h 45m ago
+- 🎵 **Now Playing:** We'll Be Fine - Jorge Rivera-Herrans, Teagan Earley & Miguel Veloso — EPIC: ...
+- 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 4h 47m ago
 
-*Last updated: 15-10-2025 16:07:53*
+*Last updated: 15-10-2025 16:09:46*
 <!-- END_NOW_PLAYING -->

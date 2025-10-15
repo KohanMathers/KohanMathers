@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** she's all i wanna be - Tate McRae — she's all i wanna be - Single
+- 🎵 **Now Playing:** Slipping Through My Fingers - Meryl Streep & Amanda Seyfried — Mamma Mia! (The Movie Sound...
 - 💻 **Last seen coding** in *None*, editing `gradlew` (Project: Origins-Reborn-Folia-Fork) - 4h 26m ago
 
-*Last updated: 15-10-2025 15:48:43*
+*Last updated: 15-10-2025 15:48:48*
 <!-- END_NOW_PLAYING -->

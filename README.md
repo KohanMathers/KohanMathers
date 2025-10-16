@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Schuyler Sisters - Phillipa Soo, Various Artists — Hamilton: An American Musica...
-- 💻 **Currently coding** in *Java*, editing `GrowthStage.java` (Project: RideDragons) - 3 minutes ago
+- 🎵 **Now Playing:** Guns and Ships - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 💻 **Currently coding** in *Java*, editing `GrowthStage.java` (Project: RideDragons) - 1 minutes ago
 
-*Last updated: 16-10-2025 15:04:54*
+*Last updated: 16-10-2025 15:07:34*
 <!-- END_NOW_PLAYING -->

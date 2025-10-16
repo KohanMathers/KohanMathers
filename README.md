@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alexander Hamilton - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 🎵 **Now Playing:** Aaron Burr, Sir - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
 - 💻 **Currently coding** in *Java*, editing `DragonData.java` (Project: RideDragons) - 4 minutes ago
 
-*Last updated: 16-10-2025 14:58:32*
+*Last updated: 16-10-2025 14:58:35*
 <!-- END_NOW_PLAYING -->

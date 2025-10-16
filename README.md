@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Sour Worms - nihmune — Run from the Sun
+- 🎵 **Now Playing:** Letters - Frank Turner — Letters - Single
 - 💻 **Currently coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - 10 minutes ago
 
-*Last updated: 16-10-2025 15:28:46*
+*Last updated: 16-10-2025 15:28:53*
 <!-- END_NOW_PLAYING -->

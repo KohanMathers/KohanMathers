@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Miss RGB - Bao The Whale, nihmune & Shylily — Miss RGB - Single
+- 🎵 **Now Playing:** Polaroid Picture - Frank Turner — Tape Deck Heart (Deluxe Edition)
 - 💻 **Last seen coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - 17 minutes ago
 
-*Last updated: 16-10-2025 15:35:53*
+*Last updated: 16-10-2025 15:35:59*
 <!-- END_NOW_PLAYING -->

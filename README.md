@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** God Games - Jorge Rivera-Herrans, Various Artists — EPIC: The Wisdom Sag...
-- 💻 **Currently coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - 14 minutes ago
+- 💻 **Last seen coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - 19 minutes ago
 
-*Last updated: 16-10-2025 15:53:54*
+*Last updated: 16-10-2025 15:58:56*
 <!-- END_NOW_PLAYING -->

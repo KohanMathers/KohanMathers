@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `GrowthTicker.java` (Project: RideDragons) - 2 minutes ago
+- 🎵 **Now Playing:** Alexander Hamilton - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 💻 **Currently coding** in *Java*, editing `DragonData.java` (Project: RideDragons) - Just now
 
-*Last updated: 16-10-2025 14:53:30*
+*Last updated: 16-10-2025 14:54:40*
 <!-- END_NOW_PLAYING -->

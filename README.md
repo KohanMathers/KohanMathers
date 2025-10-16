@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Truth & Fiction - The Undercover Hippy — Truth & Fiction
-- 💻 **Currently coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - 2 minutes ago
+- 🎵 **Now Playing:** Mate Like That - The Undercover Hippy — Truth & Fiction
+- 💻 **Currently coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - Just now
 
-*Last updated: 16-10-2025 15:38:48*
+*Last updated: 16-10-2025 15:40:34*
 <!-- END_NOW_PLAYING -->

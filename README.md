@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Sister Rosetta - Frank Turner — No Man's Land
-- 💻 **Currently coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - Just now
+- 🎵 **Now Playing:** Young Disciple - Missing Andy — Guerrilla Invasion Pt. 1
+- 💻 **Currently coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - 3 minutes ago
 
-*Last updated: 16-10-2025 15:18:53*
+*Last updated: 16-10-2025 15:22:38*
 <!-- END_NOW_PLAYING -->

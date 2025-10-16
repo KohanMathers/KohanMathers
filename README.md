@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Mate Like That - The Undercover Hippy — Truth & Fiction
-- 💻 **Currently coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - Just now
+- 🎵 **Now Playing:** You Are Ladybug (From "Ladybug and Cat Noir: The Movie") (feat. Mela Lee) [Rock Version] - Cristina Vee — Obnoxious Theater Kid
+- 💻 **Currently coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - 3 minutes ago
 
-*Last updated: 16-10-2025 15:40:34*
+*Last updated: 16-10-2025 15:43:19*
 <!-- END_NOW_PLAYING -->

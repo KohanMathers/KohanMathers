@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** 1933 - Frank Turner — Be More Kind
-- 💻 **Currently coding** in *Java*, editing `GrowthStage.java` (Project: RideDragons) - 1 minutes ago
+- 💻 **Currently coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - Just now
 
-*Last updated: 16-10-2025 15:12:44*
+*Last updated: 16-10-2025 15:13:37*
 <!-- END_NOW_PLAYING -->

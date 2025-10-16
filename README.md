@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Anime Makes Me Cum - Lucy Pyre — Anime Makes Me Cum - Single
-- 💻 **Currently coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - 15 minutes ago
+- 🎵 **Now Playing:** I Still Believe - Frank Turner — England Keep My Bones
+- 💻 **Last seen coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - 17 minutes ago
 
-*Last updated: 16-10-2025 15:33:46*
+*Last updated: 16-10-2025 15:35:49*
 <!-- END_NOW_PLAYING -->

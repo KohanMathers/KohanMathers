@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Still Believe - Frank Turner — England Keep My Bones
+- 🎵 **Now Playing:** Miss RGB - Bao The Whale, nihmune & Shylily — Miss RGB - Single
 - 💻 **Last seen coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - 17 minutes ago
 
-*Last updated: 16-10-2025 15:35:49*
+*Last updated: 16-10-2025 15:35:53*
 <!-- END_NOW_PLAYING -->

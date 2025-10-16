@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Guns and Ships - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 🎵 **Now Playing:** Buddies - Frank Turner & Jon Snodgrass — Buddies
 - 💻 **Currently coding** in *Java*, editing `GrowthStage.java` (Project: RideDragons) - 1 minutes ago
 
-*Last updated: 16-10-2025 15:07:34*
+*Last updated: 16-10-2025 15:12:38*
 <!-- END_NOW_PLAYING -->

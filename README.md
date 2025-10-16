@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Are Ladybug (From "Ladybug and Cat Noir: The Movie") (feat. Mela Lee) [Rock Version] - Cristina Vee — Obnoxious Theater Kid
-- 💻 **Currently coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - 4 minutes ago
+- 🎵 **Now Playing:** God Games - Jorge Rivera-Herrans, Various Artists — EPIC: The Wisdom Sag...
+- 💻 **Currently coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - 6 minutes ago
 
-*Last updated: 16-10-2025 15:43:50*
+*Last updated: 16-10-2025 15:46:04*
 <!-- END_NOW_PLAYING -->

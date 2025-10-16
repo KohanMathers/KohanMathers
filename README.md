@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Starving (feat. Zedd) - Hailee Steinfeld & Grey — Starving (feat. Zedd) - Single
-- 💻 **Currently coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - 3 minutes ago
+- 🎵 **Now Playing:** Sister Rosetta - Frank Turner — No Man's Land
+- 💻 **Currently coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - Just now
 
-*Last updated: 16-10-2025 15:18:39*
+*Last updated: 16-10-2025 15:18:53*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** My Shot - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Currently coding** in *Java*, editing `GrowthStage.java` (Project: RideDragons) - 2 minutes ago
+- 🎵 **Now Playing:** The Schuyler Sisters - Phillipa Soo, Various Artists — Hamilton: An American Musica...
+- 💻 **Currently coding** in *Java*, editing `GrowthStage.java` (Project: RideDragons) - 3 minutes ago
 
-*Last updated: 16-10-2025 15:03:34*
+*Last updated: 16-10-2025 15:04:54*
 <!-- END_NOW_PLAYING -->

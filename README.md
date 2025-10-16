@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Young Disciple - Missing Andy — Guerrilla Invasion Pt. 1
-- 💻 **Currently coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - 3 minutes ago
+- 💻 **Currently coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - 4 minutes ago
 
-*Last updated: 16-10-2025 15:22:38*
+*Last updated: 16-10-2025 15:23:41*
 <!-- END_NOW_PLAYING -->

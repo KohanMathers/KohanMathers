@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Siesta - Soft Eyez & HypeMan Sage — Siesta - Single
-- 💻 **Currently coding** in *Java*, editing `DragonAbility.java` (Project: RideDragons) - Just now
+- 🎵 **Now Playing:** Lemon Trees - Soft Eyez & HypeMan Sage — Lemon Trees - Single
+- 💻 **Currently coding** in *Java*, editing `DragonAbility.java` (Project: RideDragons) - 2 minutes ago
 
-*Last updated: 17-10-2025 20:06:09*
+*Last updated: 17-10-2025 20:07:53*
 <!-- END_NOW_PLAYING -->

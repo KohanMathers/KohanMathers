@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Story of Tonight - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 🎵 **Now Playing:** The Schuyler Sisters - Phillipa Soo, Various Artists — Hamilton: An American Musica...
 - 💻 **Currently coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 6 minutes ago
 
-*Last updated: 17-10-2025 02:03:25*
+*Last updated: 17-10-2025 02:03:43*
 <!-- END_NOW_PLAYING -->

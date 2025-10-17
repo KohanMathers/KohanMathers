@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Farmer Refuted - Thayne Jasperson, Various Artists — Hamilton: An American Mu...
+- 🎵 **Now Playing:** You'll Be Back - Jonathan Groff & Original Broadway Cast of "Hamilton" — Hami...
 - 💻 **Currently coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 11 minutes ago
 
-*Last updated: 17-10-2025 02:08:27*
+*Last updated: 17-10-2025 02:08:43*
 <!-- END_NOW_PLAYING -->

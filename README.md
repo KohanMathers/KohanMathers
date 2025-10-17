@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Shut Up Ya Face - Dutty Moonshine Big Band — Shut Up Ya Face - Single
-- 💻 **Last seen coding** in *Java*, editing `RideDragons.java` (Project: RideDragons) - 29 minutes ago
+- 🎵 **Now Playing:** Click Clack Boom - Dutty Moonshine Big Band — City of Sin
+- 💻 **Last seen coding** in *Java*, editing `RideDragons.java` (Project: RideDragons) - 32 minutes ago
 
-*Last updated: 17-10-2025 22:38:44*
+*Last updated: 17-10-2025 22:41:49*
 <!-- END_NOW_PLAYING -->

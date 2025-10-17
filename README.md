@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** One Take (Double Damage) [feat. Hypeman Sage] - Ade — One Take (Double Damage) [feat. Hypeman Sage] - Single
-- 💻 **Last seen coding** in *Java*, editing `DragonAbility.java` (Project: RideDragons) - 2h 2m ago
+- 🎵 **Now Playing:** You Don't Want None (with ENiGMA Dubz) [feat. Hypeman Sage] - Drapez — My Way Out (with ENiGMA Dubz)
+- 💻 **Currently coding** in *Java*, editing `RideDragons.java` (Project: RideDragons) - Just now
 
-*Last updated: 17-10-2025 22:07:49*
+*Last updated: 17-10-2025 22:10:03*
 <!-- END_NOW_PLAYING -->

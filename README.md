@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Sing Song - Ade & HypeMan Sage — The Motion Is Forward (feat. Hypeman Sa...
+- 🎵 **Now Playing:** One Take (Double Damage) [feat. Hypeman Sage] - Ade — One Take (Double Damage) [feat. Hypeman Sage] - Single
 - 💻 **Last seen coding** in *Java*, editing `DragonAbility.java` (Project: RideDragons) - 2h 2m ago
 
-*Last updated: 17-10-2025 22:07:45*
+*Last updated: 17-10-2025 22:07:49*
 <!-- END_NOW_PLAYING -->

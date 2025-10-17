@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alexander Hamilton - Leslie Odom, Jr., Anthony Ramos, Daveed Diggs, Okieriete Ona...
+- 🎵 **Now Playing:** Aaron Burr, Sir - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
 - 💻 **Currently coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 4 minutes ago
 
-*Last updated: 17-10-2025 01:53:21*
+*Last updated: 17-10-2025 01:53:59*
 <!-- END_NOW_PLAYING -->

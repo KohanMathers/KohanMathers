@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Meet Me Inside - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Currently coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - 1 minutes ago
+- 🎵 **Now Playing:** That Would Be Enough - Phillipa Soo & Lin-Manuel Miranda — Hamilton: An American Mu...
+- 💻 **Currently coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - 2 minutes ago
 
-*Last updated: 17-10-2025 02:15:38*
+*Last updated: 17-10-2025 02:16:58*
 <!-- END_NOW_PLAYING -->

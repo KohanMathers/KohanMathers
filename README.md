@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Mr. Sandman - Mista Trick & HypeMan Sage — Mr. Sandman - Single
-- 💻 **Currently coding** in *Java*, editing `DragonAbilityListener.java` (Project: RideDragons) - 1 minutes ago
+- 💻 **Currently coding** in *Java*, editing `DragonAbility.java` (Project: RideDragons) - Just now
 
-*Last updated: 17-10-2025 19:49:57*
+*Last updated: 17-10-2025 19:51:03*
 <!-- END_NOW_PLAYING -->

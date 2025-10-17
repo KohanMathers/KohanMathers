@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Plastic - Dutty Moonshine Big Band — Plastic - Single
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Last seen coding** in *Java*, editing `RideDragons.java` (Project: RideDragons) - 35 minutes ago
 
-*Last updated: 17-10-2025 22:44:33*
+*Last updated: 17-10-2025 22:45:11*
 <!-- END_NOW_PLAYING -->

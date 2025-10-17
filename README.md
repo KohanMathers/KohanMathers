@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Moonshine Hype (feat. HypeMan Sage) - Dutty Moonshine — Rum Runners
-- 💻 **Currently coding** in *Java*, editing `DragonInteractListener.java` (Project: RideDragons) - 2 minutes ago
+- 💻 **Currently coding** in *Java*, editing `DragonAbilityListener.java` (Project: RideDragons) - Just now
 
-*Last updated: 17-10-2025 19:40:28*
+*Last updated: 17-10-2025 19:40:58*
 <!-- END_NOW_PLAYING -->

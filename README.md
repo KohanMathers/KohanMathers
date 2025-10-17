@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Vamonos - Dutty Moonshine Big Band — Villain
-- 💻 **Currently coding** in *Java*, editing `RideDragons.java` (Project: RideDragons) - 2 minutes ago
+- 🎵 **Now Playing:** Distillin - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Currently coding** in *Java*, editing `RideDragons.java` (Project: RideDragons) - 5 minutes ago
 
-*Last updated: 17-10-2025 22:12:06*
+*Last updated: 17-10-2025 22:14:33*
 <!-- END_NOW_PLAYING -->

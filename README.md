@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Simon Says - Duke Skellington & HypeMan Sage — Simon Says - Single
-- 💻 **Currently coding** in *Java*, editing `DragonAbility.java` (Project: RideDragons) - 2 minutes ago
+- 🎵 **Now Playing:** Simon Says - Duke Skellington & HypeMan Sage — Simon Says - Single Duke S...
+- 💻 **Currently coding** in *Java*, editing `DragonAbility.java` (Project: RideDragons) - 1 minutes ago
 
-*Last updated: 17-10-2025 19:56:05*
+*Last updated: 17-10-2025 19:58:48*
 <!-- END_NOW_PLAYING -->

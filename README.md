@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Aaron Burr, Sir - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Currently coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 4 minutes ago
+- 🎵 **Now Playing:** My Shot - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 💻 **Currently coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 7 minutes ago
 
-*Last updated: 17-10-2025 01:53:59*
+*Last updated: 17-10-2025 01:56:38*
 <!-- END_NOW_PLAYING -->

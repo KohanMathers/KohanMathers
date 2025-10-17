@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stay Alive - Original Broadway Cast of "Hamilton" — Hamilton: An American...
+- 🎵 **Now Playing:** Ten Duel Commandments - Anthony Ramos, Various Artists — Hamilton: An American Music...
 - 💻 **Currently coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 3 minutes ago
 
-*Last updated: 17-10-2025 02:13:44*
+*Last updated: 17-10-2025 02:13:48*
 <!-- END_NOW_PLAYING -->

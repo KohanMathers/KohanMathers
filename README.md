@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Zazou (feat. HypeMan Sage) - Smokey Joe & The Kid — Nasty Tricks
-- 💻 **Currently coding** in *Java*, editing `DragonAbilityListener.java` (Project: RideDragons) - 2 minutes ago
+- 🎵 **Now Playing:** Mr. Sandman - Mista Trick & HypeMan Sage — Mr. Sandman - Single
+- 💻 **Currently coding** in *Java*, editing `DragonAbilityListener.java` (Project: RideDragons) - 1 minutes ago
 
-*Last updated: 17-10-2025 19:46:01*
+*Last updated: 17-10-2025 19:49:57*
 <!-- END_NOW_PLAYING -->

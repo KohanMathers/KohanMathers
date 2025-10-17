@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Big Fridge feat. Hypeman Sage - Mr. Fitz — Spaghetti Stodge - EP
-- 💻 **Currently coding** in *Java*, editing `DragonAbility.java` (Project: RideDragons) - 2 minutes ago
+- 💻 **Currently coding** in *Java*, editing `DragonAbility.java` (Project: RideDragons) - 5 minutes ago
 
-*Last updated: 17-10-2025 20:08:07*
+*Last updated: 17-10-2025 20:11:11*
 <!-- END_NOW_PLAYING -->

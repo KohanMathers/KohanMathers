@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Right Hand Man - Christopher Jackson, Lin-Manuel Miranda, Leslie Odom, Jr. & ...
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Currently coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 3 minutes ago
 
-*Last updated: 17-10-2025 02:13:08*
+*Last updated: 17-10-2025 02:13:10*
 <!-- END_NOW_PLAYING -->

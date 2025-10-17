@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Click Clack Boom - Dutty Moonshine Big Band — City of Sin
-- 💻 **Last seen coding** in *Java*, editing `RideDragons.java` (Project: RideDragons) - 33 minutes ago
+- 🎵 **Now Playing:** Plastic - Dutty Moonshine Big Band — Plastic - Single
+- 💻 **Last seen coding** in *Java*, editing `RideDragons.java` (Project: RideDragons) - 35 minutes ago
 
-*Last updated: 17-10-2025 22:42:20*
+*Last updated: 17-10-2025 22:44:33*
 <!-- END_NOW_PLAYING -->

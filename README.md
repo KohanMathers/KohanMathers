@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 16 minutes ago
+- 🎵 **Now Playing:** Alexander Hamilton - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 💻 **Currently coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - Just now
 
-*Last updated: 17-10-2025 01:48:19*
+*Last updated: 17-10-2025 01:49:59*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Moonshine Hype (feat. HypeMan Sage) - Dutty Moonshine — Rum Runners
-- 💻 **Currently coding** in *Java*, editing `DragonAbilityListener.java` (Project: RideDragons) - Just now
+- 🎵 **Now Playing:** Zazou (feat. HypeMan Sage) - Smokey Joe & The Kid — Nasty Tricks
+- 💻 **Currently coding** in *Java*, editing `DragonAbilityListener.java` (Project: RideDragons) - 1 minutes ago
 
-*Last updated: 17-10-2025 19:40:58*
+*Last updated: 17-10-2025 19:45:04*
 <!-- END_NOW_PLAYING -->

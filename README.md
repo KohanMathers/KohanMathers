@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Distillin - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Currently coding** in *Java*, editing `RideDragons.java` (Project: RideDragons) - 7 minutes ago
+- 🎵 **Now Playing:** Distillin (Nodus Remix) - Dutty Moonshine Big Band — Most Wanted Remixed
+- 💻 **Currently coding** in *Java*, editing `RideDragons.java` (Project: RideDragons) - 9 minutes ago
 
-*Last updated: 17-10-2025 22:17:08*
+*Last updated: 17-10-2025 22:18:29*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Transporter - Andrew Beaton & HypeMan Sage — Radar: Black Square - EP Andr...
-- 💻 **Currently coding** in *Java*, editing `DragonAbility.java` (Project: RideDragons) - 10 minutes ago
+- 🎵 **Now Playing:** Cosmic Kid - Ade & HypeMan Sage — The Motion Is Forward (feat. Hypeman Sa...
+- 💻 **Currently coding** in *Java*, editing `DragonAbility.java` (Project: RideDragons) - 11 minutes ago
 
-*Last updated: 17-10-2025 20:16:14*
+*Last updated: 17-10-2025 20:16:38*
 <!-- END_NOW_PLAYING -->

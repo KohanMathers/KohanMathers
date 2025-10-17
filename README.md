@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Don't Want None (with ENiGMA Dubz) [feat. Hypeman Sage] You Don't Want None (with ENiGMA Dubz) [feat. Hypeman Sage] You Do - Drapez — My Way Out (with ENiGMA Dubz)
+- 🎵 **Now Playing:** Vamonos - Dutty Moonshine Big Band — Villain
 - 💻 **Currently coding** in *Java*, editing `RideDragons.java` (Project: RideDragons) - 1 minutes ago
 
-*Last updated: 17-10-2025 22:10:30*
+*Last updated: 17-10-2025 22:10:45*
 <!-- END_NOW_PLAYING -->

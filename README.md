@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Sound Advice (feat. HypeMan Sage) - The Allergies — As We Do Our Thing
-- 💻 **Currently coding** in *Java*, editing `DragonInteractListener.java` (Project: RideDragons) - 3 minutes ago
+- 🎵 **Now Playing:** Moonshine Hype (feat. HypeMan Sage) - Dutty Moonshine — Rum Runners
+- 💻 **Currently coding** in *Java*, editing `DragonInteractListener.java` (Project: RideDragons) - 2 minutes ago
 
-*Last updated: 17-10-2025 19:36:45*
+*Last updated: 17-10-2025 19:40:28*
 <!-- END_NOW_PLAYING -->

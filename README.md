@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Mr. Sandman - Mista Trick & HypeMan Sage — Mr. Sandman - Single
-- 💻 **Currently coding** in *Java*, editing `DragonAbility.java` (Project: RideDragons) - Just now
+- 🎵 **Now Playing:** Get to Know Me (feat. Non-applicable, HypeMan Sage, Mighty Moe, Specialist Moss, Malachi & Femi Santiago) - The People's Army — The Revival
+- 💻 **Currently coding** in *Java*, editing `DragonAbility.java` (Project: RideDragons) - 1 minutes ago
 
-*Last updated: 17-10-2025 19:51:03*
+*Last updated: 17-10-2025 19:52:18*
 <!-- END_NOW_PLAYING -->

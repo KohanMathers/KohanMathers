@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Get to Know Me (feat. Non-applicable, HypeMan Sage, Mighty Moe, Specialist Moss, Malachi & Femi Santiago) - The People's Army — The Revival
-- 💻 **Currently coding** in *Java*, editing `DragonAbility.java` (Project: RideDragons) - 1 minutes ago
+- 🎵 **Now Playing:** Skyline (feat. HypeMan Sage) - Black Square — Dark Matter - EP
+- 💻 **Currently coding** in *Java*, editing `DragonAbility.java` (Project: RideDragons) - 2 minutes ago
 
-*Last updated: 17-10-2025 19:52:18*
+*Last updated: 17-10-2025 19:55:49*
 <!-- END_NOW_PLAYING -->

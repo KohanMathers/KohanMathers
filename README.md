@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** My Shot - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Currently coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 1 minutes ago
+- 🎵 **Now Playing:** The Story of Tonight - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 💻 **Currently coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 5 minutes ago
 
-*Last updated: 17-10-2025 01:58:23*
+*Last updated: 17-10-2025 02:02:08*
 <!-- END_NOW_PLAYING -->

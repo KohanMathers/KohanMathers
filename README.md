@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Gem (feat. HypeMan Sage) - Black Pepper — The Gem (feat. HypeMan Sage) - Single
-- 💻 **Currently coding** in *Java*, editing `DragonAbility.java` (Project: RideDragons) - 6 minutes ago
+- 🎵 **Now Playing:** On This - Andrew Beaton & HypeMan Sage — Radar: Black Square - EP
+- 💻 **Currently coding** in *Java*, editing `DragonAbility.java` (Project: RideDragons) - 7 minutes ago
 
-*Last updated: 17-10-2025 20:11:53*
+*Last updated: 17-10-2025 20:13:14*
 <!-- END_NOW_PLAYING -->

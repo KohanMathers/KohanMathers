@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Cosmic Kid - Ade & HypeMan Sage — The Motion Is Forward (feat. Hypeman Sa...
-- 💻 **Last seen coding** in *Java*, editing `DragonAbility.java` (Project: RideDragons) - 2h 1m ago
+- 🎵 **Now Playing:** Sing Song - Ade & HypeMan Sage — The Motion Is Forward (feat. Hypeman Sa...
+- 💻 **Last seen coding** in *Java*, editing `DragonAbility.java` (Project: RideDragons) - 2h 2m ago
 
-*Last updated: 17-10-2025 22:07:04*
+*Last updated: 17-10-2025 22:07:45*
 <!-- END_NOW_PLAYING -->

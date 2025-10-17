@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Come Through (feat. Youthstar and Miscellaneous) - Dutty Moonshine Big Band — Villain
-- 💻 **Currently coding** in *Java*, editing `RideDragons.java` (Project: RideDragons) - 13 minutes ago
+- 🎵 **Now Playing:** It's Alright - Dutty Moonshine Big Band — City of Sin
+- 💻 **Last seen coding** in *Java*, editing `RideDragons.java` (Project: RideDragons) - 16 minutes ago
 
-*Last updated: 17-10-2025 22:22:38*
+*Last updated: 17-10-2025 22:25:39*
 <!-- END_NOW_PLAYING -->

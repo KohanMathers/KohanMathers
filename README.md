@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Vamonos - Dutty Moonshine Big Band — Villain
 - 💻 **Currently coding** in *Java*, editing `FireballListener.java` (Project: RideDragons) - 4 minutes ago
 
-*Last updated: 18-10-2025 02:28:50*
+*Last updated: 18-10-2025 02:29:00*
 <!-- END_NOW_PLAYING -->

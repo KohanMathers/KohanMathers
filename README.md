@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `DragonManager.java` (Project: RideDragons) - 1 minutes ago
+- 💻 **Currently coding** in *Java*, editing `DragonType.java` (Project: RideDragons) - Just now
 
-*Last updated: 18-10-2025 10:52:26*
+*Last updated: 18-10-2025 10:57:29*
 <!-- END_NOW_PLAYING -->

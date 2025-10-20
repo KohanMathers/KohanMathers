@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Various Artists — Hamilton: An American Musica...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 20-10-2025 00:02:54*
+*Last updated: 20-10-2025 01:38:41*
 <!-- END_NOW_PLAYING -->

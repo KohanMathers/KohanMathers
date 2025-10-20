@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Leslie Odom, Jr., Okieriete Onaodowan & Origin...
+- 🎵 **Now Playing:** Cabinet Battle #1 - Christopher Jackson, Various Artists — Hamilton: An American...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 20-10-2025 01:39:15*
+*Last updated: 20-10-2025 01:42:59*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Various Artists — Hamilton: An American Musica...
+- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Leslie Odom, Jr., Okieriete Onaodowan & Origin...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 20-10-2025 01:38:41*
+*Last updated: 20-10-2025 01:39:15*
 <!-- END_NOW_PLAYING -->

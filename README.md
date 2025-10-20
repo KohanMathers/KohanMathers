@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Room Where It Happens - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 🎵 **Now Playing:** Guns and Ships - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 20-10-2025 01:46:35*
+*Last updated: 20-10-2025 01:48:54*
 <!-- END_NOW_PLAYING -->

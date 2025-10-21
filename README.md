@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Little Talks - Of Monsters and Men — My Head Is an Animal
+- 🎵 **Now Playing:** Salt - Ava Max — Heaven & Hell
 - 💻 **Last seen coding** in *Java*, editing `BuiltInFunctions.java` (Project: quill) - 4h 20m ago
 
-*Last updated: 21-10-2025 21:16:33*
+*Last updated: 21-10-2025 21:16:42*
 <!-- END_NOW_PLAYING -->

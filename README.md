@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** There She Is - Frank Turner — Songbook
-- 💻 **Last seen coding** in *Java*, editing `BuiltInFunctions.java` (Project: quill) - 4h 15m ago
+- 🎵 **Now Playing:** Little Talks - Of Monsters and Men — My Head Is an Animal
+- 💻 **Last seen coding** in *Java*, editing `BuiltInFunctions.java` (Project: quill) - 4h 16m ago
 
-*Last updated: 21-10-2025 21:11:30*
+*Last updated: 21-10-2025 21:12:11*
 <!-- END_NOW_PLAYING -->

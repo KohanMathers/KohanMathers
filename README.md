@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Favorite Liar - The Wrecks — We Are the Wrecks - Single
-- 💻 **Last seen coding** in *Java*, editing `BuiltInFunctions.java` (Project: quill) - 4h 10m ago
+- 🎵 **Now Playing:** There She Is - Frank Turner — Songbook
+- 💻 **Last seen coding** in *Java*, editing `BuiltInFunctions.java` (Project: quill) - 4h 12m ago
 
-*Last updated: 21-10-2025 21:06:27*
+*Last updated: 21-10-2025 21:08:18*
 <!-- END_NOW_PLAYING -->

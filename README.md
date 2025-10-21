@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** A Winter's Ball - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
-- 💻 **Last seen coding** in *Java*, editing `BuiltInFunctions.java` (Project: quill) - 2h 47m ago
+- 🎵 **Now Playing:** Helpless - Phillipa Soo & Original Broadway Cast of "Hamilton" — Hamilt...
+- 💻 **Last seen coding** in *Java*, editing `BuiltInFunctions.java` (Project: quill) - 2h 49m ago
 
-*Last updated: 21-10-2025 19:43:51*
+*Last updated: 21-10-2025 19:45:02*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Truth & Fiction - The Undercover Hippy — Truth & Fiction
+- 🎵 **Now Playing:** Favorite Liar - The Wrecks — We Are the Wrecks - Single
 - 💻 **Last seen coding** in *Java*, editing `BuiltInFunctions.java` (Project: quill) - 4h 8m ago
 
-*Last updated: 21-10-2025 21:04:06*
+*Last updated: 21-10-2025 21:04:11*
 <!-- END_NOW_PLAYING -->

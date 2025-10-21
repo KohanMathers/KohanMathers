@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stay Alive - Original Broadway Cast of "Hamilton" — Hamilton: An American...
-- 💻 **Last seen coding** in *Java*, editing `BuiltInFunctions.java` (Project: quill) - 3h 15m ago
+- 🎵 **Now Playing:** Ten Duel Commandments - Anthony Ramos, Various Artists — Hamilton: An American Music...
+- 💻 **Last seen coding** in *Java*, editing `BuiltInFunctions.java` (Project: quill) - 3h 18m ago
 
-*Last updated: 21-10-2025 20:11:22*
+*Last updated: 21-10-2025 20:13:57*
 <!-- END_NOW_PLAYING -->

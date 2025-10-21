@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** What Comes Next? - Jonathan Groff — Hamilton: An American Musical (Original Bro...
-- 💻 **Last seen coding** in *Java*, editing `BuiltInFunctions.java` (Project: quill) - 3h 32m ago
+- 🎵 **Now Playing:** Dear Theodosia - Leslie Odom, Jr. & Lin-Manuel Miranda — Hamilton: An America...
+- 💻 **Last seen coding** in *Java*, editing `BuiltInFunctions.java` (Project: quill) - 3h 34m ago
 
-*Last updated: 21-10-2025 20:28:42*
+*Last updated: 21-10-2025 20:30:17*
 <!-- END_NOW_PLAYING -->

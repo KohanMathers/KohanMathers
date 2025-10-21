@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: quill) - 7 minutes ago
+- 💻 **Currently coding** in *Java*, editing `BuiltInFunctions.java` (Project: quill) - 2 minutes ago
 
-*Last updated: 21-10-2025 09:16:19*
+*Last updated: 21-10-2025 09:21:21*
 <!-- END_NOW_PLAYING -->

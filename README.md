@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Schuyler Defeated - Anthony Ramos, Various Artists — Hamilton: An American Music...
+- 🎵 **Now Playing:** I Know Him - Jonathan Groff — Hamilton: An American Musical (Original Bro...
 - 💻 **Last seen coding** in *Java*, editing `BuiltInFunctions.java` (Project: quill) - 4h 4m ago
 
-*Last updated: 21-10-2025 21:00:08*
+*Last updated: 21-10-2025 21:00:17*
 <!-- END_NOW_PLAYING -->

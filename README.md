@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Helpless - Phillipa Soo & Original Broadway Cast of "Hamilton" — Hamilt...
+- 🎵 **Now Playing:** Wait For It - Leslie Odom, Jr. & Original Broadway Cast of "Hamilton" — Ha...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 23-10-2025 00:00:32*
+*Last updated: 23-10-2025 00:01:41*
 <!-- END_NOW_PLAYING -->

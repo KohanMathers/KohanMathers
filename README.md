@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Meet Me Inside - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - Just now
+- 🎵 **Now Playing:** That Would Be Enough - Phillipa Soo & Lin-Manuel Miranda — Hamilton: An American Mu...
+- 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - 2 minutes ago
 
-*Last updated: 23-10-2025 00:09:47*
+*Last updated: 23-10-2025 00:11:13*
 <!-- END_NOW_PLAYING -->

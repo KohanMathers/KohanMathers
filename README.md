@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Broken Dove - Burn The Ballroom — Burn the Ballroom
+- 🎵 **Now Playing:** More Than Friends (feat. Elijah & Melody Snowflake) - Meelz — More Than Friends (feat. Elijah & Melody Snowflake) ...
 - 💻 **Currently coding** in *YAML*, editing `config.yml` (Project: quill) - 2 minutes ago
 
-*Last updated: 22-10-2025 20:25:44*
+*Last updated: 22-10-2025 20:25:47*
 <!-- END_NOW_PLAYING -->

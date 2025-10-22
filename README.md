@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `QuillInterpreter.java` (Project: quill) - Just now
+- 🎵 **Now Playing:** Alexander Hamilton - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 💻 **Currently coding** in *Java*, editing `BuiltInPlayerFuncs.java` (Project: quill) - Just now
 
-*Last updated: 22-10-2025 23:23:25*
+*Last updated: 22-10-2025 23:27:58*
 <!-- END_NOW_PLAYING -->

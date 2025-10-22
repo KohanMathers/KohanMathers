@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Schuyler Defeated - Anthony Ramos, Various Artists — Hamilton: An American Music...
-- 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** Cabinet Battle #2 - Christopher Jackson, Various Artists — Hamilton: An American...
+- 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - 2 minutes ago
 
-*Last updated: 23-10-2025 00:47:41*
+*Last updated: 23-10-2025 00:48:47*
 <!-- END_NOW_PLAYING -->

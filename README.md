@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Java*, editing `BuiltInFunctions.java` (Project: quill) - 16 minutes ago
+- 🎵 **Now Playing:** Broken Dove - Burn The Ballroom — Burn the Ballroom
+- 💻 **Currently coding** in *YAML*, editing `config.yml` (Project: quill) - 2 minutes ago
 
-*Last updated: 22-10-2025 20:21:50*
+*Last updated: 22-10-2025 20:25:44*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Non-Stop - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
-- 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - 3 minutes ago
+- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Various Artists — Hamilton: An American Musica...
+- 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - Just now
 
-*Last updated: 23-10-2025 00:25:56*
+*Last updated: 23-10-2025 00:33:21*
 <!-- END_NOW_PLAYING -->

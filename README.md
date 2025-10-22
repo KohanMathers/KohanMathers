@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Yorktown (The World Turned Upside Down) - Original Broadway Cast of "Hamilton" — Hamilton: An American...
-- 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - 2 minutes ago
+- 🎵 **Now Playing:** What Comes Next? - Jonathan Groff — Hamilton: An American Musical (Original Bro...
+- 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - 1 minutes ago
 
-*Last updated: 23-10-2025 00:16:57*
+*Last updated: 23-10-2025 00:21:16*
 <!-- END_NOW_PLAYING -->

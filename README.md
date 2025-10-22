@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** History Has Its Eyes On You - Christopher Jackson, Various Artists — Hamilton: An American...
-- 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - Just now
+- 🎵 **Now Playing:** Yorktown (The World Turned Upside Down) - Original Broadway Cast of "Hamilton" — Hamilton: An American...
+- 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - 2 minutes ago
 
-*Last updated: 23-10-2025 00:15:22*
+*Last updated: 23-10-2025 00:16:57*
 <!-- END_NOW_PLAYING -->

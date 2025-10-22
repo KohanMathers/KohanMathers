@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Right Hand Man - Christopher Jackson, Various Artists — Hamilton: An American...
-- 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - 3 minutes ago
+- 🎵 **Now Playing:** A Winter's Ball - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - 4 minutes ago
 
-*Last updated: 22-10-2025 23:58:38*
+*Last updated: 22-10-2025 23:59:22*
 <!-- END_NOW_PLAYING -->

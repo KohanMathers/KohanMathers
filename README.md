@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** My Shot - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 🎵 **Now Playing:** The Story of Tonight - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
 - 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - Just now
 
-*Last updated: 22-10-2025 23:34:37*
+*Last updated: 22-10-2025 23:40:06*
 <!-- END_NOW_PLAYING -->

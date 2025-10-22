@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Washington On Your Side - Daveed Diggs, Various Artists — Hamilton: An American Musica...
+- 🎵 **Now Playing:** One Last Time - Christopher Jackson, Various Artists — Hamilton: An American...
 - 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - Just now
 
-*Last updated: 23-10-2025 00:51:07*
+*Last updated: 23-10-2025 00:54:32*
 <!-- END_NOW_PLAYING -->

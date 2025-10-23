@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alexander Hamilton - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
-- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: quill) - 5 minutes ago
+- 🎵 **Now Playing:** Alexander Hamilton - Leslie Odom, Jr., Anthony Ramos, Daveed Diggs, Okieriete Ona...
+- 💻 **Currently coding** in *Java*, editing `QuillValue.java` (Project: quill) - 1 minutes ago
 
-*Last updated: 23-10-2025 15:01:41*
+*Last updated: 23-10-2025 15:03:44*
 <!-- END_NOW_PLAYING -->

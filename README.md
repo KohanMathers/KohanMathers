@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Out of Breath (Acoustic) - Frank Turner — Positive Songs for Negative People (Deluxe)
-- 💻 **Currently coding** in *Java*, editing `QuillInterpreter.java` (Project: quill) - 2 minutes ago
+- 🎵 **Now Playing:** Despair - leo. — Despair - Single
+- 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - 1 minutes ago
 
-*Last updated: 23-10-2025 01:10:27*
+*Last updated: 23-10-2025 01:12:26*
 <!-- END_NOW_PLAYING -->

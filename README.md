@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Suffering - Jorge Rivera-Herrans & Anna Lea — EPIC: The Thunder Saga (Of...
-- 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** Otomakaskit (Skit) - Subculture Sage — Big Smoke Autumn Blues
+- 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - Just now
 
-*Last updated: 23-10-2025 01:03:07*
+*Last updated: 23-10-2025 01:05:36*
 <!-- END_NOW_PLAYING -->

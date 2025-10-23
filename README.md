@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Moonshine Hype (feat. HypeMan Sage) - Dutty Moonshine — Rum Runners
-- 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - Just now
+- 🎵 **Now Playing:** Suffering - Jorge Rivera-Herrans & Anna Lea — EPIC: The Thunder Saga (Of...
+- 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - 1 minutes ago
 
-*Last updated: 23-10-2025 00:58:57*
+*Last updated: 23-10-2025 01:03:07*
 <!-- END_NOW_PLAYING -->

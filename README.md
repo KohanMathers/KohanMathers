@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Polaroid Picture - Frank Turner — Tape Deck Heart (Deluxe Edition)
-- 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - Just now
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Currently coding** in *Java*, editing `BuiltInWorldFuncs.java` (Project: quill) - 2 minutes ago
 
-*Last updated: 23-10-2025 01:15:21*
+*Last updated: 23-10-2025 01:17:54*
 <!-- END_NOW_PLAYING -->

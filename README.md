@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Helpless - Phillipa Soo & Original Broadway Cast of "Hamilton" — Hamilt...
+- 🎵 **Now Playing:** Satisfied - Original Broadway Cast of "Hamilton", Various Artists — Hami...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 24-10-2025 01:38:22*
+*Last updated: 24-10-2025 01:42:33*
 <!-- END_NOW_PLAYING -->

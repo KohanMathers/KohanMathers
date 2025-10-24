@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Leslie Odom, Jr., Okieriete Onaodowan & Origin...
-- 💻 **Currently coding** in *Java*, editing `QuillEventBridge.java` (Project: quill) - 3 minutes ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Currently coding** in *Java*, editing `QuillEventBridge.java` (Project: quill) - 1 minutes ago
 
-*Last updated: 25-10-2025 00:33:42*
+*Last updated: 25-10-2025 00:35:04*
 <!-- END_NOW_PLAYING -->

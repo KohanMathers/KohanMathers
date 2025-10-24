@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Alexander Hamilton - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 24-10-2025 00:03:57*
+*Last updated: 24-10-2025 01:05:59*
 <!-- END_NOW_PLAYING -->

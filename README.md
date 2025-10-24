@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** My Shot - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 🎵 **Now Playing:** The Story of Tonight - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 24-10-2025 01:12:33*
+*Last updated: 24-10-2025 01:19:17*
 <!-- END_NOW_PLAYING -->

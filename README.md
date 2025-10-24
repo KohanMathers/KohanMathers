@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** That Would Be Enough - Phillipa Soo & Lin-Manuel Miranda — Hamilton: An American Mu...
-- 💻 **Currently coding** in *Java*, editing `Quill.java` (Project: quill) - 2 minutes ago
+- 🎵 **Now Playing:** Guns and Ships - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 💻 **Currently coding** in *Java*, editing `QuillEventBridge.java` (Project: quill) - 2 minutes ago
 
-*Last updated: 24-10-2025 22:45:16*
+*Last updated: 24-10-2025 22:48:15*
 <!-- END_NOW_PLAYING -->

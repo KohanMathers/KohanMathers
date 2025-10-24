@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Non-Stop - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
-- 💻 **Last seen coding** in *Java*, editing `QuillEventBridge.java` (Project: quill) - 44 minutes ago
+- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Various Artists — Hamilton: An American Musica...
+- 💻 **Coding Status:** Not coding
 
-*Last updated: 24-10-2025 23:58:32*
+*Last updated: 25-10-2025 00:02:11*
 <!-- END_NOW_PLAYING -->

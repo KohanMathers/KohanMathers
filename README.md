@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Wait For It - Leslie Odom, Jr. & Original Broadway Cast of "Hamilton" — Ha...
+- 🎵 **Now Playing:** Stay Alive - Original Broadway Cast of "Hamilton" — Hamilton: An American...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 24-10-2025 01:49:57*
+*Last updated: 24-10-2025 01:53:13*
 <!-- END_NOW_PLAYING -->

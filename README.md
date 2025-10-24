@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Satisfied - Original Broadway Cast of "Hamilton", Various Artists — Hami...
+- 🎵 **Now Playing:** The Story of Tonight (Reprise) - Anthony Ramos, Various Artists — Hamilton: An American Music...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 24-10-2025 01:42:33*
+*Last updated: 24-10-2025 01:48:02*
 <!-- END_NOW_PLAYING -->

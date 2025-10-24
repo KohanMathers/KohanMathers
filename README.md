@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Farmer Refuted - Thayne Jasperson, Various Artists — Hamilton: An American Mu...
-- 💻 **Currently coding** in *XML*, editing `pom.xml` (Project: quill) - 5 minutes ago
+- 🎵 **Now Playing:** You'll Be Back - Jonathan Groff & Original Broadway Cast of "Hamilton" — Hami...
+- 💻 **Currently coding** in *XML*, editing `pom.xml` (Project: quill) - 8 minutes ago
 
-*Last updated: 24-10-2025 22:07:46*
+*Last updated: 24-10-2025 22:10:41*
 <!-- END_NOW_PLAYING -->

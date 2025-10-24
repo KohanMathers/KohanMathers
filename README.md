@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** History Has Its Eyes On You - Christopher Jackson, Various Artists — Hamilton: An American...
-- 💻 **Currently coding** in *Java*, editing `QuillEventBridge.java` (Project: quill) - 4 minutes ago
+- 🎵 **Now Playing:** Yorktown (The World Turned Upside Down) - Original Broadway Cast of "Hamilton" — Hamilton: An American...
+- 💻 **Currently coding** in *Java*, editing `QuillEventBridge.java` (Project: quill) - 6 minutes ago
 
-*Last updated: 24-10-2025 22:50:27*
+*Last updated: 24-10-2025 22:52:01*
 <!-- END_NOW_PLAYING -->

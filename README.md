@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alexander Hamilton - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 🎵 **Now Playing:** Aaron Burr, Sir - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 24-10-2025 01:05:59*
+*Last updated: 24-10-2025 01:10:00*
 <!-- END_NOW_PLAYING -->

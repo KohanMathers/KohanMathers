@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** A Winter's Ball - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
-- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 8 minutes ago
+- 🎵 **Now Playing:** Helpless - Phillipa Soo & Original Broadway Cast of "Hamilton" — Hamilt...
+- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 9 minutes ago
 
-*Last updated: 24-10-2025 22:19:31*
+*Last updated: 24-10-2025 22:20:42*
 <!-- END_NOW_PLAYING -->

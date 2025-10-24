@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** A Winter's Ball - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 🎵 **Now Playing:** Helpless - Phillipa Soo & Original Broadway Cast of "Hamilton" — Hamilt...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 24-10-2025 01:37:13*
+*Last updated: 24-10-2025 01:38:22*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Farmer Refuted - Thayne Jasperson, Various Artists — Hamilton: An American Mu...
+- 🎵 **Now Playing:** You'll Be Back - Jonathan Groff & Original Broadway Cast of "Hamilton" — Hami...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 24-10-2025 01:23:58*
+*Last updated: 24-10-2025 01:28:23*
 <!-- END_NOW_PLAYING -->

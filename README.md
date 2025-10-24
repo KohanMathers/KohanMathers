@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stay Alive - Original Broadway Cast of "Hamilton" — Hamilton: An American...
-- 💻 **Currently coding** in *Python*, editing `qtirlss.py` (Project: quill) - 2 minutes ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Currently coding** in *Python*, editing `qtirlss.py` (Project: quill) - 4 minutes ago
 
-*Last updated: 24-10-2025 02:44:26*
+*Last updated: 24-10-2025 02:46:11*
 <!-- END_NOW_PLAYING -->

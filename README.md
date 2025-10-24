@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Satisfied - Original Broadway Cast of "Hamilton", Various Artists — Hami...
-- 💻 **Currently coding** in *Markdown*, editing `SPEC.md` (Project: quill) - 2 minutes ago
+- 🎵 **Now Playing:** The Story of Tonight (Reprise) - Anthony Ramos, Various Artists — Hamilton: An American Music...
+- 💻 **Currently coding** in *HTML*, editing `index.html` (Project: quill) - Just now
 
-*Last updated: 24-10-2025 22:32:54*
+*Last updated: 24-10-2025 22:34:16*
 <!-- END_NOW_PLAYING -->

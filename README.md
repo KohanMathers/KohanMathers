@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Guns and Ships - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
-- 💻 **Currently coding** in *Java*, editing `QuillEventBridge.java` (Project: quill) - 2 minutes ago
+- 🎵 **Now Playing:** History Has Its Eyes On You - Christopher Jackson, Various Artists — Hamilton: An American...
+- 💻 **Currently coding** in *Java*, editing `QuillEventBridge.java` (Project: quill) - 4 minutes ago
 
-*Last updated: 24-10-2025 22:48:15*
+*Last updated: 24-10-2025 22:50:27*
 <!-- END_NOW_PLAYING -->

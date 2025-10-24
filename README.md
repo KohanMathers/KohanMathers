@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** You'll Be Back - Jonathan Groff & Original Broadway Cast of "Hamilton" — Hami...
-- 💻 **Currently coding** in *XML*, editing `pom.xml` (Project: quill) - 8 minutes ago
+- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 2 minutes ago
 
-*Last updated: 24-10-2025 22:10:41*
+*Last updated: 24-10-2025 22:12:45*
 <!-- END_NOW_PLAYING -->

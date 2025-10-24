@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Story of Tonight (Reprise) - Anthony Ramos, Various Artists — Hamilton: An American Music...
+- 🎵 **Now Playing:** Wait For It - Leslie Odom, Jr. & Original Broadway Cast of "Hamilton" — Ha...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 24-10-2025 01:48:02*
+*Last updated: 24-10-2025 01:49:57*
 <!-- END_NOW_PLAYING -->

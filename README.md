@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Markdown*, editing `control-flow.md` (Project: quilldocs) - 1 minutes ago
+- 💻 **Currently coding** in *Markdown*, editing `data-types.md` (Project: quilldocs) - Just now
 
-*Last updated: 25-10-2025 20:01:44*
+*Last updated: 25-10-2025 20:06:46*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Open Road Again - Ra Costelloe — Open Road Again - Single
-- 💻 **Last seen coding** in *Markdown*, editing `index.md` (Project: quilldocs) - 2h 51m ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Last seen coding** in *Markdown*, editing `index.md` (Project: quilldocs) - 2h 52m ago
 
-*Last updated: 25-10-2025 23:21:17*
+*Last updated: 25-10-2025 23:22:05*
 <!-- END_NOW_PLAYING -->

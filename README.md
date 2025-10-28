@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fuck Off in G minor - Dutty Moonshine Big Band — Villain
-- 💻 **Last seen coding** in *Java*, editing `ParrotData.java` (Project: Soulbound) - 1h 13m ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Last seen coding** in *Java*, editing `ParrotData.java` (Project: Soulbound) - 1h 18m ago
 
-*Last updated: 28-10-2025 17:05:58*
+*Last updated: 28-10-2025 17:10:21*
 <!-- END_NOW_PLAYING -->

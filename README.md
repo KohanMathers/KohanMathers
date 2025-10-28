@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Say No To This - Jasmine Cephas Jones, Various Artists — Hamilton: An America...
+- 🎵 **Now Playing:** Cabinet Battle #2 - Christopher Jackson, Various Artists — Hamilton: An American...
 - 💻 **Last seen coding** in *Java*, editing `ParrotData.java` (Project: Soulbound) - 2h 33m ago
 
-*Last updated: 28-10-2025 18:25:16*
+*Last updated: 28-10-2025 18:25:19*
 <!-- END_NOW_PLAYING -->

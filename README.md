@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Dear Theodosia - Leslie Odom, Jr. & Lin-Manuel Miranda — Hamilton: An America...
+- 🎵 **Now Playing:** Cabinet Battle #1 - Christopher Jackson, Various Artists — Hamilton: An American...
 - 💻 **Last seen coding** in *Java*, editing `ParrotData.java` (Project: Soulbound) - 2h 33m ago
 
-*Last updated: 28-10-2025 18:25:07*
+*Last updated: 28-10-2025 18:25:10*
 <!-- END_NOW_PLAYING -->

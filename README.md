@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** One Last Time - Christopher Jackson, Various Artists — Hamilton: An American...
+- 🎵 **Now Playing:** We Know - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
 - 💻 **Last seen coding** in *Java*, editing `ParrotData.java` (Project: Soulbound) - 2h 33m ago
 
-*Last updated: 28-10-2025 18:25:26*
+*Last updated: 28-10-2025 18:25:30*
 <!-- END_NOW_PLAYING -->

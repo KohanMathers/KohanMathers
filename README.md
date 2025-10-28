@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alexander Hamilton - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 🎵 **Now Playing:** Alexander Hamilton - Leslie Odom, Jr., Anthony Ramos, Daveed Diggs, Okieriete Ona...
 - 💻 **Last seen coding** in *Java*, editing `ParrotData.java` (Project: Soulbound) - 2h 32m ago
 
-*Last updated: 28-10-2025 18:24:11*
+*Last updated: 28-10-2025 18:24:15*
 <!-- END_NOW_PLAYING -->

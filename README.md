@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stay Alive - Original Broadway Cast of "Hamilton" — Hamilton: An American...
+- 🎵 **Now Playing:** That Would Be Enough - Phillipa Soo & Lin-Manuel Miranda — Hamilton: An American Mu...
 - 💻 **Last seen coding** in *Java*, editing `ParrotData.java` (Project: Soulbound) - 2h 32m ago
 
-*Last updated: 28-10-2025 18:24:45*
+*Last updated: 28-10-2025 18:24:49*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Yorktown (The World Turned Upside Down) - Original Broadway Cast of "Hamilton" — Hamilton: An American...
-- 💻 **Last seen coding** in *Java*, editing `ParrotData.java` (Project: Soulbound) - 2h 32m ago
+- 🎵 **Now Playing:** Dear Theodosia - Leslie Odom, Jr. & Lin-Manuel Miranda — Hamilton: An America...
+- 💻 **Last seen coding** in *Java*, editing `ParrotData.java` (Project: Soulbound) - 2h 33m ago
 
-*Last updated: 28-10-2025 18:25:00*
+*Last updated: 28-10-2025 18:25:07*
 <!-- END_NOW_PLAYING -->

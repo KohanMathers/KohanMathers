@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `MissionData.java` (Project: Soulbound) - 15 minutes ago
+- 💻 **Last seen coding** in *Java*, editing `MissionData.java` (Project: Soulbound) - 20 minutes ago
 
-*Last updated: 28-10-2025 19:57:11*
+*Last updated: 28-10-2025 20:02:13*
 <!-- END_NOW_PLAYING -->

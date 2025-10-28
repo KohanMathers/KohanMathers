@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Farmer Refuted - Thayne Jasperson, Various Artists — Hamilton: An American Mu...
+- 🎵 **Now Playing:** A Winter's Ball - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
 - 💻 **Last seen coding** in *Java*, editing `ParrotData.java` (Project: Soulbound) - 2h 32m ago
 
-*Last updated: 28-10-2025 18:24:29*
+*Last updated: 28-10-2025 18:24:35*
 <!-- END_NOW_PLAYING -->

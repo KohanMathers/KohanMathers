@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: Soulbound) - 4 minutes ago
+- 💻 **Currently coding** in *Markdown*, editing `SPEC.md` (Project: Soulbound) - 4 minutes ago
 
-*Last updated: 28-10-2025 15:20:15*
+*Last updated: 28-10-2025 15:25:17*
 <!-- END_NOW_PLAYING -->

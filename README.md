@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Java*, editing `DataManager.java` (Project: Featherpost) - 26 minutes ago
+- 💻 **Last seen coding** in *Java*, editing `DataManager.java` (Project: Featherpost) - 31 minutes ago
 
-*Last updated: 28-10-2025 21:22:53*
+*Last updated: 28-10-2025 21:27:55*
 <!-- END_NOW_PLAYING -->

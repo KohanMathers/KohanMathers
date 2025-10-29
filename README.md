@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Amnesia - 5 Seconds of Summer — 5 Seconds Of Summer
+- 🎵 **Now Playing:** Social Casualty - 5 Seconds of Summer — 5 Seconds Of Summer (Deluxe)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 03:02:44*
+*Last updated: 29-10-2025 03:06:42*
 <!-- END_NOW_PLAYING -->

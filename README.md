@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Election of 1800 - Daveed Diggs, Various Artists — Hamilton: An American Musica...
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 1h 36m ago
+- 🎵 **Now Playing:** The Election of 1800 - Daveed Diggs, Okieriete Onaodowan, Leslie Odom, Jr., Lin-Man...
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 1h 37m ago
 
-*Last updated: 29-10-2025 18:48:52*
+*Last updated: 29-10-2025 18:49:03*
 <!-- END_NOW_PLAYING -->

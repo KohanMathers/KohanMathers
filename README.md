@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** House of Cards - Faintest Idea — The Voice of Treason
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 2h 22m ago
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 2h 25m ago
 
-*Last updated: 29-10-2025 19:34:46*
+*Last updated: 29-10-2025 19:37:35*
 <!-- END_NOW_PLAYING -->

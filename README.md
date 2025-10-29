@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Down Pressure - Faintest Idea — Increasing the Minimum Rage
+- 🎵 **Now Playing:** "New Case File" Skit - Dutty Moonshine Big Band — Most Wanted
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 14:09:41*
+*Last updated: 29-10-2025 14:12:51*
 <!-- END_NOW_PLAYING -->

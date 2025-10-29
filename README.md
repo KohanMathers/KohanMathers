@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fuck Off (Reprise) - Dutty Moonshine Big Band — Villain
+- 🎵 **Now Playing:** Schuyler Defeated - Anthony Ramos, Various Artists — Hamilton: An American Music...
 - 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 1h 35m ago
 
-*Last updated: 29-10-2025 18:47:41*
+*Last updated: 29-10-2025 18:47:46*
 <!-- END_NOW_PLAYING -->

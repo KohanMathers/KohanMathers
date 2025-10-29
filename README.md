@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** DNA - Little Mix — Between Us (Deluxe Version)
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 2h 12m ago
+- 🎵 **Now Playing:** Your Obedient Servant - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 2h 13m ago
 
-*Last updated: 29-10-2025 19:24:48*
+*Last updated: 29-10-2025 19:25:16*
 <!-- END_NOW_PLAYING -->

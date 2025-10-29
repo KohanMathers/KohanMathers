@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Burn - Phillipa Soo — Belting Songs
+- 🎵 **Now Playing:** Shout Out to My Ex - Little Mix — Between Us (Deluxe Version)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 13:32:32*
+*Last updated: 29-10-2025 13:36:17*
 <!-- END_NOW_PLAYING -->

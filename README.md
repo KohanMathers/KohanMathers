@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** War to the Palaces - Faintest Idea — The Road to Sedition
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 2h 44m ago
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 2h 45m ago
 
-*Last updated: 29-10-2025 19:56:46*
+*Last updated: 29-10-2025 19:57:43*
 <!-- END_NOW_PLAYING -->

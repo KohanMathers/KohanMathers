@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Your Obedient Servant - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 🎵 **Now Playing:** Salute - Little Mix — Between Us (Deluxe Version)
 - 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 2h 15m ago
 
-*Last updated: 29-10-2025 19:27:30*
+*Last updated: 29-10-2025 19:27:47*
 <!-- END_NOW_PLAYING -->

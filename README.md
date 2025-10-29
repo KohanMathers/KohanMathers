@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 4h 31m ago
+- 🎵 **Now Playing:** Ruin The Friendship - Taylor Swift — The Life of a Showgirl
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 4h 35m ago
 
-*Last updated: 29-10-2025 21:43:30*
+*Last updated: 29-10-2025 21:47:12*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Can't Stop the Tide - The Undercover Hippy — Monkey Suit
-- 💻 **Coding Status:** Not coding
+- 🎵 **Now Playing:** Babylon - 5 Seconds of Summer — Youngblood (Deluxe)
+- 💻 **Currently coding** in *Java*, editing `AfkPlugin.java` (Project: afk-plugin) - 1 minutes ago
 
-*Last updated: 29-10-2025 15:56:59*
+*Last updated: 29-10-2025 16:00:56*
 <!-- END_NOW_PLAYING -->

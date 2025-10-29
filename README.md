@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I'd Die for You - Bon Jovi — Slippery When Wet
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: afk-plugin) - 8 minutes ago
+- 🎵 **Now Playing:** Broken Home - 5 Seconds of Summer — Sounds Good Feels Good (Deluxe)
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: afk-plugin) - 10 minutes ago
 
-*Last updated: 29-10-2025 16:11:08*
+*Last updated: 29-10-2025 16:12:32*
 <!-- END_NOW_PLAYING -->

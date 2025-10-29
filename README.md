@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Distillin - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - Just now
+- 🎵 **Now Playing:** Mutually Assured Confusion - Faintest Idea — The Road to Sedition
+- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 3 minutes ago
 
-*Last updated: 29-10-2025 23:49:21*
+*Last updated: 29-10-2025 23:53:11*
 <!-- END_NOW_PLAYING -->

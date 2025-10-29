@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Me Gusta - Dutty Moonshine Big Band — Villain
+- 🎵 **Now Playing:** the 1 - Taylor Swift — folklore (deluxe version)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 14:14:06*
+*Last updated: 29-10-2025 14:17:26*
 <!-- END_NOW_PLAYING -->

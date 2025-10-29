@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** She Looks So Perfect - 5 Seconds of Summer — 5 Seconds Of Summer
+- 🎵 **Now Playing:** Actually Romantic - Taylor Swift — The Life of a Showgirl
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 13:24:15*
+*Last updated: 29-10-2025 13:24:51*
 <!-- END_NOW_PLAYING -->

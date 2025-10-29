@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Election of 1800 - Daveed Diggs, Okieriete Onaodowan, Leslie Odom, Jr., Lin-Man...
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 1h 45m ago
+- 🎵 **Now Playing:** Secret Love Song (feat. Jason Derulo) - Little Mix — Between Us (Deluxe Version)
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 1h 47m ago
 
-*Last updated: 29-10-2025 18:57:18*
+*Last updated: 29-10-2025 18:59:01*
 <!-- END_NOW_PLAYING -->

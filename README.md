@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** "No Ones Above the Law" Skit - Dutty Moonshine Big Band — Most Wanted
+- 🎵 **Now Playing:** Long Way Home - 5 Seconds of Summer — 5 Seconds Of Summer
 - 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 56m ago
 
-*Last updated: 29-10-2025 23:08:11*
+*Last updated: 29-10-2025 23:08:21*
 <!-- END_NOW_PLAYING -->

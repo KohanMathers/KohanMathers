@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Dear Theodosia - Leslie Odom, Jr. & Lin-Manuel Miranda — Classroom Instrumentals
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 4h 40m ago
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 4h 41m ago
 
-*Last updated: 29-10-2025 21:52:27*
+*Last updated: 29-10-2025 21:53:34*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Say No To This - Jasmine Cephas Jones, Various Artists — Hamilton: An America...
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 50m ago
+- 🎵 **Now Playing:** Kill My Time - 5 Seconds of Summer — CALM
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 51m ago
 
-*Last updated: 29-10-2025 23:02:46*
+*Last updated: 29-10-2025 23:02:56*
 <!-- END_NOW_PLAYING -->

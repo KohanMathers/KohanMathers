@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** ...Back to the Asylum - Faintest Idea — The Voice of Treason
+- 🎵 **Now Playing:** Everything I Didn't Say - 5 Seconds of Summer — 5 Seconds Of Summer
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 15:02:36*
+*Last updated: 29-10-2025 15:05:26*
 <!-- END_NOW_PLAYING -->

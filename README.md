@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Stay Alive (Reprise) - Lin-Manuel Miranda, Anthony Ramos, Phillipa Soo & Original B...
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 4h 35m ago
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 4h 36m ago
 
-*Last updated: 29-10-2025 21:47:20*
+*Last updated: 29-10-2025 21:48:32*
 <!-- END_NOW_PLAYING -->

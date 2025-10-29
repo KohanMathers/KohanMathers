@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Take a Break - Phillipa Soo, Anthony Ramos, Lin-Manuel Miranda & Renée Elis...
+- 🎵 **Now Playing:** Political Prisoners - The Undercover Hippy — Why We Fight E.P. - EP
 - 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 52m ago
 
-*Last updated: 29-10-2025 23:04:07*
+*Last updated: 29-10-2025 23:04:37*
 <!-- END_NOW_PLAYING -->

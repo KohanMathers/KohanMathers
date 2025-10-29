@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Nose Dive (feat. Riskee & the Ridicule) - Faintest Idea — The Road to Sedition
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 2h 31m ago
+- 🎵 **Now Playing:** Mutually Assured Confusion - Faintest Idea — The Road to Sedition
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 2h 34m ago
 
-*Last updated: 29-10-2025 19:43:42*
+*Last updated: 29-10-2025 19:46:47*
 <!-- END_NOW_PLAYING -->

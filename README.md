@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** 36 Barrels - Faintest Idea — The Voice of Treason
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: afk-plugin) - 54 minutes ago
+- 🎵 **Now Playing:** Fiança - Dutty Moonshine Big Band — City of Sin
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: afk-plugin) - 55 minutes ago
 
-*Last updated: 29-10-2025 16:56:27*
+*Last updated: 29-10-2025 16:57:43*
 <!-- END_NOW_PLAYING -->

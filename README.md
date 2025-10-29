@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Talk Fast - 5 Seconds of Summer — Youngblood (Deluxe)
+- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Various Artists — Hamilton: An American Musica...
 - 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 1h 5m ago
 
-*Last updated: 29-10-2025 18:17:01*
+*Last updated: 29-10-2025 18:17:27*
 <!-- END_NOW_PLAYING -->

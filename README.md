@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not Coming Back - Faintest Idea — The Road to Sedition
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 2h 40m ago
+- 🎵 **Now Playing:** War to the Palaces - Faintest Idea — The Road to Sedition
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 2h 44m ago
 
-*Last updated: 29-10-2025 19:52:41*
+*Last updated: 29-10-2025 19:56:46*
 <!-- END_NOW_PLAYING -->

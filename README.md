@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Gangsters - Dutty Moonshine Big Band — Most Wanted
+- 🎵 **Now Playing:** More - 5 Seconds of Summer — Youngblood (Deluxe)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 15:16:26*
+*Last updated: 29-10-2025 15:19:38*
 <!-- END_NOW_PLAYING -->

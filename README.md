@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Take a Little Time - Dutty Moonshine Big Band — Most Wanted
+- 🎵 **Now Playing:** Never Say Goodbye - Bon Jovi — Slippery When Wet
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 14:20:56*
+*Last updated: 29-10-2025 14:42:56*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Woman Like Me (feat. Nicki Minaj) - Little Mix — Between Us (Deluxe Version)
+- 🎵 **Now Playing:** Wild In the Streets - Bon Jovi — Slippery When Wet
 - 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 1h 28m ago
 
-*Last updated: 29-10-2025 18:40:07*
+*Last updated: 29-10-2025 18:40:17*
 <!-- END_NOW_PLAYING -->

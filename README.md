@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Long Way Home - 5 Seconds of Summer — 5 Seconds Of Summer
+- 🎵 **Now Playing:** Can't Stop the Tide - The Undercover Hippy — Monkey Suit
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 15:26:17*
+*Last updated: 29-10-2025 15:56:59*
 <!-- END_NOW_PLAYING -->

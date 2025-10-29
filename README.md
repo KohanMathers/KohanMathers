@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Bull in a China Shop - Faintest Idea — The Voice of Treason
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 4h 59m ago
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 1m ago
 
-*Last updated: 29-10-2025 22:11:06*
+*Last updated: 29-10-2025 22:13:43*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Actually Romantic - Taylor Swift — The Life of a Showgirl
+- 🎵 **Now Playing:** betty - Taylor Swift — folklore (deluxe version)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 13:24:51*
+*Last updated: 29-10-2025 13:27:37*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Come Through (feat. Youthstar and Miscellaneous) - Dutty Moonshine Big Band — Villain
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 57m ago
+- 🎵 **Now Playing:** The End of 'The End of History' - Faintest Idea — The Road to Sedition
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 59m ago
 
-*Last updated: 29-10-2025 23:09:06*
+*Last updated: 29-10-2025 23:11:31*
 <!-- END_NOW_PLAYING -->

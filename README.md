@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Fiança - Dutty Moonshine Big Band — City of Sin
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: afk-plugin) - 55 minutes ago
+- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TCCEngine) - 2 minutes ago
 
-*Last updated: 29-10-2025 16:57:43*
+*Last updated: 29-10-2025 17:01:29*
 <!-- END_NOW_PLAYING -->

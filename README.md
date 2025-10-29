@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Know Best - Dutty Moonshine Big Band — Villain
+- 🎵 **Now Playing:** Vibrations - Dutty Moonshine Big Band — Villain
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 02:06:34*
+*Last updated: 29-10-2025 02:09:53*
 <!-- END_NOW_PLAYING -->

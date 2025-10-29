@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Various Artists — Hamilton: An American Musica...
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 1h 10m ago
+- 🎵 **Now Playing:** Fall From Grace - Dutty Moonshine Big Band — City of Sin
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 1h 15m ago
 
-*Last updated: 29-10-2025 18:22:03*
+*Last updated: 29-10-2025 18:27:02*
 <!-- END_NOW_PLAYING -->

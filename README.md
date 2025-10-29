@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** No More Sad Songs (feat. Machine Gun Kelly) - Little Mix — Between Us (Deluxe Version)
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: afk-plugin) - 13 minutes ago
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: afk-plugin) - 18 minutes ago
 
-*Last updated: 29-10-2025 16:16:13*
+*Last updated: 29-10-2025 16:21:12*
 <!-- END_NOW_PLAYING -->

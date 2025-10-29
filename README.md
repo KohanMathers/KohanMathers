@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Castaway - 5 Seconds of Summer — Sounds Good Feels Good
+- 🎵 **Now Playing:** Free Now - Gracie Abrams — The Secret of Us (Deluxe)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 14:02:31*
+*Last updated: 29-10-2025 14:06:07*
 <!-- END_NOW_PLAYING -->

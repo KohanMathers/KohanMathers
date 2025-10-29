@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Washington On Your Side - Daveed Diggs, Leslie Odom, Jr., Okieriete Onaodowan & Origin...
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 47m ago
+- 🎵 **Now Playing:** Say No To This - Jasmine Cephas Jones, Various Artists — Hamilton: An America...
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 50m ago
 
-*Last updated: 29-10-2025 22:59:02*
+*Last updated: 29-10-2025 23:02:46*
 <!-- END_NOW_PLAYING -->

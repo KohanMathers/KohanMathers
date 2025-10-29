@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** City of Sin - Dutty Moonshine Big Band — City of Sin
+- 🎵 **Now Playing:** Outlaws (feat. HypeMan Sage) - Dutty Moonshine Big Band — City of Sin
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 02:19:54*
+*Last updated: 29-10-2025 02:23:47*
 <!-- END_NOW_PLAYING -->

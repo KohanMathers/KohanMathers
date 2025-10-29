@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Wings - Little Mix — Between Us (Deluxe Version)
+- 🎵 **Now Playing:** ...Back to the Asylum - Faintest Idea — The Voice of Treason
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 14:58:57*
+*Last updated: 29-10-2025 15:02:36*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Free Now - Gracie Abrams — The Secret of Us (Deluxe)
+- 🎵 **Now Playing:** Down Pressure - Faintest Idea — Increasing the Minimum Rage
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 14:06:07*
+*Last updated: 29-10-2025 14:09:41*
 <!-- END_NOW_PLAYING -->

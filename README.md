@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Salute - Little Mix — Between Us (Deluxe Version)
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 4h 56m ago
+- 🎵 **Now Playing:** Lover of Mine - 5 Seconds of Summer — CALM
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 4h 59m ago
 
-*Last updated: 29-10-2025 22:08:40*
+*Last updated: 29-10-2025 22:11:02*
 <!-- END_NOW_PLAYING -->

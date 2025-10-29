@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Throw Away the Key - Faintest Idea — Increasing the Minimum Rage
+- 🎵 **Now Playing:** House of Cards - Faintest Idea — The Voice of Treason
 - 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 2h 22m ago
 
-*Last updated: 29-10-2025 19:34:32*
+*Last updated: 29-10-2025 19:34:46*
 <!-- END_NOW_PLAYING -->

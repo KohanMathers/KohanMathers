@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Secret Love Song (feat. Jason Derulo) - Little Mix — Between Us (Deluxe Version)
+- 🎵 **Now Playing:** Villain (feat. Crimehawk) - Dutty Moonshine Big Band — Villain
 - 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 1h 47m ago
 
-*Last updated: 29-10-2025 18:59:01*
+*Last updated: 29-10-2025 18:59:21*
 <!-- END_NOW_PLAYING -->

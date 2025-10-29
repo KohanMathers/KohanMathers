@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Reggaetón Lento (Remix) - CNCO & Little Mix — Between Us (Deluxe Version)
+- 🎵 **Now Playing:** Down Pressure - Faintest Idea — Increasing the Minimum Rage
 - 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 4h 37m ago
 
-*Last updated: 29-10-2025 21:49:10*
+*Last updated: 29-10-2025 21:49:14*
 <!-- END_NOW_PLAYING -->

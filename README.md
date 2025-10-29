@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** betty - Taylor Swift — folklore (deluxe version)
+- 🎵 **Now Playing:** Burn - Phillipa Soo — Belting Songs
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 13:27:37*
+*Last updated: 29-10-2025 13:32:32*
 <!-- END_NOW_PLAYING -->

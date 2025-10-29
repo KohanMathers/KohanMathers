@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** The End of 'The End of History' - Faintest Idea — The Road to Sedition
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 59m ago
+- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 1 minutes ago
 
-*Last updated: 29-10-2025 23:11:31*
+*Last updated: 29-10-2025 23:14:08*
 <!-- END_NOW_PLAYING -->

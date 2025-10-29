@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Blowing Smoke - Gracie Abrams — The Secret of Us (Deluxe)
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 11m ago
+- 🎵 **Now Playing:** Fuck Off (Reprise) - Dutty Moonshine Big Band — Villain
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 13m ago
 
-*Last updated: 29-10-2025 22:23:47*
+*Last updated: 29-10-2025 22:25:00*
 <!-- END_NOW_PLAYING -->

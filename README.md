@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Never Say Goodbye - Bon Jovi — Slippery When Wet
+- 🎵 **Now Playing:** Bully Boy - Faintest Idea — Ignorance Is This
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 14:42:56*
+*Last updated: 29-10-2025 14:47:46*
 <!-- END_NOW_PLAYING -->

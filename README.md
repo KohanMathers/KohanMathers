@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Right Hand Man - Christopher Jackson, Various Artists — Día de las Madres Fav...
+- 🎵 **Now Playing:** peace - Taylor Swift — folklore (deluxe version)
 - 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 1h 35m ago
 
-*Last updated: 29-10-2025 18:47:14*
+*Last updated: 29-10-2025 18:47:32*
 <!-- END_NOW_PLAYING -->

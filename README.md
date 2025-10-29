@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** If Walls Could Talk - 5 Seconds of Summer — Youngblood (Deluxe)
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: afk-plugin) - 49 minutes ago
+- 🎵 **Now Playing:** 36 Barrels - Faintest Idea — The Voice of Treason
+- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: afk-plugin) - 53 minutes ago
 
-*Last updated: 29-10-2025 16:52:22*
+*Last updated: 29-10-2025 16:55:26*
 <!-- END_NOW_PLAYING -->

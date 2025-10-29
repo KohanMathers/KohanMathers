@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Meet Me Inside - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 1m ago
+- 🎵 **Now Playing:** Circling the Drain - Faintest Idea — Increasing the Minimum Rage
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 2m ago
 
-*Last updated: 29-10-2025 22:13:51*
+*Last updated: 29-10-2025 22:14:16*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stay Alive (Reprise) - Lin-Manuel Miranda, Anthony Ramos, Phillipa Soo & Original B...
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 4h 36m ago
+- 🎵 **Now Playing:** Reggaetón Lento (Remix) - CNCO & Little Mix — Between Us (Deluxe Version)
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 4h 37m ago
 
-*Last updated: 29-10-2025 21:48:32*
+*Last updated: 29-10-2025 21:49:10*
 <!-- END_NOW_PLAYING -->

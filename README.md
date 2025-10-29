@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** San Francisco - 5 Seconds of Summer — Sounds Good Feels Good
+- 🎵 **Now Playing:** Castaway - 5 Seconds of Summer — Sounds Good Feels Good
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 13:58:11*
+*Last updated: 29-10-2025 14:02:31*
 <!-- END_NOW_PLAYING -->

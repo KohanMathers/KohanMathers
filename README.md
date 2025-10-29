@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Fiança - Dutty Moonshine Big Band — City of Sin
-- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TCCEngine) - 2 minutes ago
+- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - Just now
 
-*Last updated: 29-10-2025 17:01:29*
+*Last updated: 29-10-2025 17:06:31*
 <!-- END_NOW_PLAYING -->

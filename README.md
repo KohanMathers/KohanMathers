@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Everything I Didn't Say - 5 Seconds of Summer — 5 Seconds Of Summer
+- 🎵 **Now Playing:** the lakes (bonus track) - Taylor Swift — folklore (deluxe version)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 15:05:26*
+*Last updated: 29-10-2025 15:08:27*
 <!-- END_NOW_PLAYING -->

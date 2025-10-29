@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Don't Stop (Acoustic) - 5 Seconds of Summer — Don't Stop (B-Sides) - EP
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 03:16:18*
+*Last updated: 29-10-2025 03:18:52*
 <!-- END_NOW_PLAYING -->

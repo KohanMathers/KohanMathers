@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** peace - Taylor Swift — folklore (deluxe version)
+- 🎵 **Now Playing:** Fuck Off (Reprise) - Dutty Moonshine Big Band — Villain
 - 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 1h 35m ago
 
-*Last updated: 29-10-2025 18:47:32*
+*Last updated: 29-10-2025 18:47:41*
 <!-- END_NOW_PLAYING -->

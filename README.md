@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Long Way Home - 5 Seconds of Summer — 5 Seconds Of Summer
+- 🎵 **Now Playing:** Heartbreak Girl - 5 Seconds of Summer — 5 Seconds Of Summer
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 02:53:03*
+*Last updated: 29-10-2025 02:56:22*
 <!-- END_NOW_PLAYING -->

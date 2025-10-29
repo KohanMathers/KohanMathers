@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Confetti (feat. Saweetie) - Little Mix — Between Us (Deluxe Version)
+- 🎵 **Now Playing:** this is me trying - Taylor Swift — folklore (deluxe version)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 14:52:36*
+*Last updated: 29-10-2025 14:55:41*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** the lakes (bonus track) - Taylor Swift — folklore (deluxe version)
+- 🎵 **Now Playing:** Stick Up - Dutty Moonshine Big Band — Most Wanted
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 15:08:27*
+*Last updated: 29-10-2025 15:12:02*
 <!-- END_NOW_PLAYING -->

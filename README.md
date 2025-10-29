@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Meet Me Inside - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 🎵 **Now Playing:** Rattling the Cage - Faintest Idea — The Voice of Treason
 - 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 2h 16m ago
 
-*Last updated: 29-10-2025 19:28:02*
+*Last updated: 29-10-2025 19:28:11*
 <!-- END_NOW_PLAYING -->

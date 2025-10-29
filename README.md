@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Talk Fast - 5 Seconds of Summer — Youngblood (Deluxe)
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 1h 2m ago
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 1h 5m ago
 
-*Last updated: 29-10-2025 18:14:17*
+*Last updated: 29-10-2025 18:17:01*
 <!-- END_NOW_PLAYING -->

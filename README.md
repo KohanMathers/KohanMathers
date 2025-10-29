@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Tough Love - Gracie Abrams — The Secret of Us (Deluxe)
+- 🎵 **Now Playing:** Washington On Your Side - Daveed Diggs, Various Artists — Hamilton: An American Musica...
 - 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 43m ago
 
-*Last updated: 29-10-2025 22:55:31*
+*Last updated: 29-10-2025 22:55:36*
 <!-- END_NOW_PLAYING -->

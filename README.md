@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Bull in a China Shop - Faintest Idea — The Voice of Treason
+- 🎵 **Now Playing:** Meet Me Inside - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
 - 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 1m ago
 
-*Last updated: 29-10-2025 22:13:43*
+*Last updated: 29-10-2025 22:13:51*
 <!-- END_NOW_PLAYING -->

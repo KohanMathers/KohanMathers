@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Ghost of You - 5 Seconds of Summer — Youngblood (Deluxe)
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 37m ago
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 42m ago
 
-*Last updated: 29-10-2025 22:48:57*
+*Last updated: 29-10-2025 22:53:59*
 <!-- END_NOW_PLAYING -->

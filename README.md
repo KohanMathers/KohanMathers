@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Broken Record - Faintest Idea — Ignorance Is This
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 3h 11m ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 3h 14m ago
 
-*Last updated: 29-10-2025 20:22:54*
+*Last updated: 29-10-2025 20:26:00*
 <!-- END_NOW_PLAYING -->

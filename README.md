@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Bully Boy - Faintest Idea — Ignorance Is This
+- 🎵 **Now Playing:** That’s So True - Gracie Abrams — The Secret of Us (Deluxe)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 14:47:46*
+*Last updated: 29-10-2025 14:49:47*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Voodoo Doll - 5 Seconds of Summer — 5 Seconds Of Summer (Deluxe)
+- 🎵 **Now Playing:** Don't Stop (Acoustic) - 5 Seconds of Summer — Don't Stop (B-Sides) - EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 03:12:57*
+*Last updated: 29-10-2025 03:16:18*
 <!-- END_NOW_PLAYING -->

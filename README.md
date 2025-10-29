@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** That’s So True - Gracie Abrams — The Secret of Us (Deluxe)
+- 🎵 **Now Playing:** Confetti (feat. Saweetie) - Little Mix — Between Us (Deluxe Version)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 14:49:47*
+*Last updated: 29-10-2025 14:52:36*
 <!-- END_NOW_PLAYING -->

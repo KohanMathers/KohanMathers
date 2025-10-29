@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Wild In the Streets - Bon Jovi — Slippery When Wet
+- 🎵 **Now Playing:** Ten Duel Commandments - Anthony Ramos, Various Artists — Hamilton: An American Music...
 - 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 1h 28m ago
 
-*Last updated: 29-10-2025 18:40:17*
+*Last updated: 29-10-2025 18:40:22*
 <!-- END_NOW_PLAYING -->

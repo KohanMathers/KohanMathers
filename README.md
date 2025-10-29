@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Shout Out to My Ex - Little Mix — Between Us (Deluxe Version)
+- 🎵 **Now Playing:** San Francisco - 5 Seconds of Summer — Sounds Good Feels Good
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 13:36:17*
+*Last updated: 29-10-2025 13:58:11*
 <!-- END_NOW_PLAYING -->

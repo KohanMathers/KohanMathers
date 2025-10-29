@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Ten Duel Commandments - Anthony Ramos, Various Artists — Hamilton: An American Music...
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 1h 28m ago
+- 🎵 **Now Playing:** Right Hand Man - Christopher Jackson, Various Artists — Día de las Madres Fav...
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 1h 30m ago
 
-*Last updated: 29-10-2025 18:40:22*
+*Last updated: 29-10-2025 18:42:08*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Boing - Dutty Moonshine Big Band — Villain
+- 🎵 **Now Playing:** Take a Break - Phillipa Soo, Anthony Ramos, Lin-Manuel Miranda & Renée Elis...
 - 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 52m ago
 
-*Last updated: 29-10-2025 23:04:04*
+*Last updated: 29-10-2025 23:04:07*
 <!-- END_NOW_PLAYING -->

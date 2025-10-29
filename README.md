@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Broken Home - 5 Seconds of Summer — Sounds Good Feels Good (Deluxe)
+- 🎵 **Now Playing:** No More Sad Songs (feat. Machine Gun Kelly) - Little Mix — Between Us (Deluxe Version)
 - 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: afk-plugin) - 13 minutes ago
 
-*Last updated: 29-10-2025 16:16:10*
+*Last updated: 29-10-2025 16:16:13*
 <!-- END_NOW_PLAYING -->

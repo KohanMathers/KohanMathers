@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** House of Cards - Faintest Idea — The Voice of Treason
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 2h 1m ago
+- 🎵 **Now Playing:** Big Band Fam (feat. HypeMan Sage) - Dutty Moonshine Big Band — City of Sin
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 2h 4m ago
 
-*Last updated: 29-10-2025 19:13:01*
+*Last updated: 29-10-2025 19:16:11*
 <!-- END_NOW_PLAYING -->

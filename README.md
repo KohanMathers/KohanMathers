@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Political Prisoners - The Undercover Hippy — Why We Fight E.P. - EP
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 52m ago
+- 🎵 **Now Playing:** "No Ones Above the Law" Skit - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 5h 56m ago
 
-*Last updated: 29-10-2025 23:04:37*
+*Last updated: 29-10-2025 23:08:11*
 <!-- END_NOW_PLAYING -->

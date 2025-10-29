@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** More - 5 Seconds of Summer — Youngblood (Deluxe)
+- 🎵 **Now Playing:** So Undercover - The Undercover Hippy — Truth & Fiction
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 15:19:38*
+*Last updated: 29-10-2025 15:22:47*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fall From Grace - Dutty Moonshine Big Band — City of Sin
-- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 11 minutes ago
+- 🎵 **Now Playing:** Distillin - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - Just now
 
-*Last updated: 29-10-2025 23:44:19*
+*Last updated: 29-10-2025 23:49:17*
 <!-- END_NOW_PLAYING -->

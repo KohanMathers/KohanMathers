@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Down Pressure - Faintest Idea — Increasing the Minimum Rage
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 4h 37m ago
+- 🎵 **Now Playing:** Dear Theodosia - Leslie Odom, Jr. & Lin-Manuel Miranda — Classroom Instrumentals
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 4h 40m ago
 
-*Last updated: 29-10-2025 21:49:14*
+*Last updated: 29-10-2025 21:52:27*
 <!-- END_NOW_PLAYING -->

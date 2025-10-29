@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** this is me trying - Taylor Swift — folklore (deluxe version)
+- 🎵 **Now Playing:** Wings - Little Mix — Between Us (Deluxe Version)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 14:55:41*
+*Last updated: 29-10-2025 14:58:57*
 <!-- END_NOW_PLAYING -->

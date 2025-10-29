@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Cut You Off - Little Mix — Between Us (Deluxe Version)
+- 🎵 **Now Playing:** Mate Like That - The Undercover Hippy — Truth & Fiction
 - 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 1h 25m ago
 
-*Last updated: 29-10-2025 18:37:10*
+*Last updated: 29-10-2025 18:37:21*
 <!-- END_NOW_PLAYING -->

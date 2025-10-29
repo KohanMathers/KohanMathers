@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Dear Theodosia - Leslie Odom, Jr. & Lin-Manuel Miranda — Classroom Instrumentals
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 4h 41m ago
+- 🎵 **Now Playing:** Salute - Little Mix — Between Us (Deluxe Version)
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: BasicMinestom) - 4h 43m ago
 
-*Last updated: 29-10-2025 21:53:34*
+*Last updated: 29-10-2025 21:55:30*
 <!-- END_NOW_PLAYING -->

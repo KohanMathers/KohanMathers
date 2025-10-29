@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Click Clack Boom - Dutty Moonshine Big Band — City of Sin
+- 🎵 **Now Playing:** City of Sin - Dutty Moonshine Big Band — City of Sin
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 02:16:38*
+*Last updated: 29-10-2025 02:19:54*
 <!-- END_NOW_PLAYING -->

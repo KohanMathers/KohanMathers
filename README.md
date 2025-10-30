@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Let It Rock - Bon Jovi — Slippery When Wet
-- 💻 **Currently coding** in *Java*, editing `PronounsPlugin.java` (Project: pronouns-plugin) - 2 minutes ago
+- 🎵 **Now Playing:** The Election of 1800 - Daveed Diggs, Various Artists — Hamilton: An American Musica...
+- 💻 **Currently coding** in *Java*, editing `PronounsPlugin.java` (Project: pronouns-plugin) - 3 minutes ago
 
-*Last updated: 30-10-2025 01:29:39*
+*Last updated: 30-10-2025 01:33:11*
 <!-- END_NOW_PLAYING -->

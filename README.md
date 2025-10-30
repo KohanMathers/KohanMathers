@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Western World - Faintest Idea — Ignorance Is This
-- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 7 minutes ago
+- 🎵 **Now Playing:** Scream into the Void - Faintest Idea — The Road to Sedition
+- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 2 minutes ago
 
-*Last updated: 30-10-2025 01:41:41*
+*Last updated: 30-10-2025 01:44:31*
 <!-- END_NOW_PLAYING -->

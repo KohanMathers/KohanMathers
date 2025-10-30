@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** my tears ricochet - Taylor Swift — folklore (deluxe version)
+- 🎵 **Now Playing:** Burn - Phillipa Soo — Belting Songs
 - 💻 **Currently coding** in *Java*, editing `PronounsPlugin.java` (Project: pronouns-plugin) - 10 minutes ago
 
-*Last updated: 30-10-2025 02:09:55*
+*Last updated: 30-10-2025 02:10:21*
 <!-- END_NOW_PLAYING -->

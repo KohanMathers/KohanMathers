@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** cardigan - Taylor Swift — folklore (deluxe version)
+- 🎵 **Now Playing:** Why We Fight (1) - The Undercover Hippy — Why We Fight E.P. - EP
 - 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 2 minutes ago
 
-*Last updated: 30-10-2025 02:14:06*
+*Last updated: 30-10-2025 02:14:16*
 <!-- END_NOW_PLAYING -->

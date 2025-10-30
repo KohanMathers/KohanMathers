@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Wait for It - Leslie Odom, Jr. & Original Broadway Cast of "Hamilton" — Mu...
+- 🎵 **Now Playing:** Wasabi - Little Mix — Between Us (Deluxe Version)
 - 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 5 minutes ago
 
-*Last updated: 30-10-2025 01:39:43*
+*Last updated: 30-10-2025 01:40:26*
 <!-- END_NOW_PLAYING -->

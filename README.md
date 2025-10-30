@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Told You Things - Gracie Abrams — The Secret of Us (Deluxe)
-- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 4 minutes ago
+- 🎵 **Now Playing:** Eldest Daughter - Taylor Swift — The Life of a Showgirl
+- 💻 **Currently coding** in *Java*, editing `PronounsPlugin.java` (Project: pronouns-plugin) - 2 minutes ago
 
-*Last updated: 30-10-2025 01:59:51*
+*Last updated: 30-10-2025 02:01:55*
 <!-- END_NOW_PLAYING -->

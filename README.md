@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Wild In the Streets - Bon Jovi — Slippery When Wet
+- 🎵 **Now Playing:** Fuck Off in G minor - Dutty Moonshine Big Band — Villain
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 30-10-2025 01:08:56*
+*Last updated: 30-10-2025 01:12:51*
 <!-- END_NOW_PLAYING -->

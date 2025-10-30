@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Mutually Assured Confusion - Faintest Idea — The Road to Sedition
+- 🎵 **Now Playing:** Hoods Up Heads Down - Faintest Idea — The Road to Sedition
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 30-10-2025 00:04:25*
+*Last updated: 30-10-2025 01:06:06*
 <!-- END_NOW_PLAYING -->

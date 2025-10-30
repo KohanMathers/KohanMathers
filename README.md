@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Love You, I'm Sorry - Gracie Abrams — The Secret of Us (Deluxe)
+- 🎵 **Now Playing:** Kiss My (Uh Oh) - Anne-Marie & Little Mix — Between Us (Deluxe Version)
 - 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 13 minutes ago
 
-*Last updated: 30-10-2025 02:25:01*
+*Last updated: 30-10-2025 02:25:17*
 <!-- END_NOW_PLAYING -->

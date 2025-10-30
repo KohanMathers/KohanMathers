@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Farmer Refuted - Thayne Jasperson, Various Artists — Hamilton: An American Mu...
-- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 13h 25m ago
+- 🎵 **Now Playing:** Taking Over - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 13h 27m ago
 
-*Last updated: 30-10-2025 15:37:02*
+*Last updated: 30-10-2025 15:38:57*
 <!-- END_NOW_PLAYING -->

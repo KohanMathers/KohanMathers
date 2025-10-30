@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Heartbreak Anthem (feat. David Guetta & Little Mix) - Galantis — Between Us (Deluxe Version)
-- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 12h 8m ago
+- 🎵 **Now Playing:** Not in the Same Way - 5 Seconds of Summer — CALM
+- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 12h 9m ago
 
-*Last updated: 30-10-2025 14:19:59*
+*Last updated: 30-10-2025 14:21:02*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Eldest Daughter - Taylor Swift — The Life of a Showgirl
-- 💻 **Currently coding** in *Java*, editing `PronounsPlugin.java` (Project: pronouns-plugin) - 5 minutes ago
+- 🎵 **Now Playing:** my tears ricochet - Taylor Swift — folklore (deluxe version)
+- 💻 **Currently coding** in *Java*, editing `PronounsPlugin.java` (Project: pronouns-plugin) - 6 minutes ago
 
-*Last updated: 30-10-2025 02:04:55*
+*Last updated: 30-10-2025 02:06:01*
 <!-- END_NOW_PLAYING -->

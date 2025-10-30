@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Hoods Up Heads Down - Faintest Idea — The Road to Sedition
+- 🎵 **Now Playing:** Wild In the Streets - Bon Jovi — Slippery When Wet
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 30-10-2025 01:06:06*
+*Last updated: 30-10-2025 01:08:56*
 <!-- END_NOW_PLAYING -->

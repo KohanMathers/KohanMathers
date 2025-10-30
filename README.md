@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Seperation of Corporation and State - Faintest Idea — The Voice of Treason
+- 🎵 **Now Playing:** No More Sad Songs (feat. Machine Gun Kelly) - Little Mix — Between Us (Deluxe Version)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 30-10-2025 01:15:34*
+*Last updated: 30-10-2025 01:18:21*
 <!-- END_NOW_PLAYING -->

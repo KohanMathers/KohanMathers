@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Lords of War - Faintest Idea — Increasing the Minimum Rage Faintest Idea — ...
-- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 12h 58m ago
+- 🎵 **Now Playing:** Livin' On a Prayer - Bon Jovi — Slippery When Wet
+- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 13h 2m ago
 
-*Last updated: 30-10-2025 15:10:21*
+*Last updated: 30-10-2025 15:14:06*
 <!-- END_NOW_PLAYING -->

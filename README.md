@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Global Recession - The Undercover Hippy — Why We Fight E.P. - EP
-- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 12h 53m ago
+- 🎵 **Now Playing:** Lords of War - Faintest Idea — Increasing the Minimum Rage
+- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 12h 57m ago
 
-*Last updated: 30-10-2025 15:05:21*
+*Last updated: 30-10-2025 15:09:05*
 <!-- END_NOW_PLAYING -->

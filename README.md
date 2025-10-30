@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** this is me trying - Taylor Swift — folklore (deluxe version)
-- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 8 minutes ago
+- 🎵 **Now Playing:** Our Streets - The Undercover Hippy — Monkey Suit
+- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 11 minutes ago
 
-*Last updated: 30-10-2025 01:50:36*
+*Last updated: 30-10-2025 01:53:52*
 <!-- END_NOW_PLAYING -->

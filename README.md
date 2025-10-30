@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** If Walls Could Talk - 5 Seconds of Summer — Youngblood (Deluxe)
-- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 8 minutes ago
+- 🎵 **Now Playing:** I Love You, I'm Sorry - Gracie Abrams — The Secret of Us (Deluxe)
+- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 11 minutes ago
 
-*Last updated: 30-10-2025 02:19:59*
+*Last updated: 30-10-2025 02:22:42*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Told You Things - Gracie Abrams — The Secret of Us (Deluxe)
-- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 12h 43m ago
+- 🎵 **Now Playing:** The Room Where It Happens - Leslie Odom, Jr., Lin-Manuel Miranda, Daveed Diggs, Okieriet...
+- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 12h 45m ago
 
-*Last updated: 30-10-2025 14:55:14*
+*Last updated: 30-10-2025 14:57:02*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Blow Us All Away - Anthony Ramos, Ariana DeBose, Sasha Hutchings, Ephraim Sykes...
-- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 23 minutes ago
+- 🎵 **Now Playing:** Monkey Suit - The Undercover Hippy — Monkey Suit
+- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 26 minutes ago
 
-*Last updated: 30-10-2025 02:35:06*
+*Last updated: 30-10-2025 02:37:46*
 <!-- END_NOW_PLAYING -->

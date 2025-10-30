@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** peace - Taylor Swift — folklore (deluxe version)
-- 💻 **Coding Status:** Not coding
+- 💻 **Currently coding** in *Java*, editing `PronounsPlugin.java` (Project: pronouns-plugin) - Just now
 
-*Last updated: 30-10-2025 01:22:07*
+*Last updated: 30-10-2025 01:24:37*
 <!-- END_NOW_PLAYING -->

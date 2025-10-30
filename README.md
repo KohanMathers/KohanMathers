@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Room Where It Happens - Leslie Odom, Jr., Lin-Manuel Miranda, Daveed Diggs, Okieriet...
-- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 12h 48m ago
+- 🎵 **Now Playing:** Gangsters - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 12h 50m ago
 
-*Last updated: 30-10-2025 15:00:16*
+*Last updated: 30-10-2025 15:02:32*
 <!-- END_NOW_PLAYING -->

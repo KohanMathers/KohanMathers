@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Wasabi - Little Mix — Between Us (Deluxe Version)
+- 🎵 **Now Playing:** A Winter's Ball - Leslie Odom, Jr., Various Artists — Festival del 10 de Mayo ...
 - 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 5 minutes ago
 
-*Last updated: 30-10-2025 01:40:26*
+*Last updated: 30-10-2025 01:40:31*
 <!-- END_NOW_PLAYING -->

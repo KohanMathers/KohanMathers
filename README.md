@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** A Winter's Ball - Leslie Odom, Jr., Various Artists — Festival del 10 de Mayo ...
-- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 5 minutes ago
+- 🎵 **Now Playing:** Western World - Faintest Idea — Ignorance Is This
+- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 7 minutes ago
 
-*Last updated: 30-10-2025 01:40:31*
+*Last updated: 30-10-2025 01:41:41*
 <!-- END_NOW_PLAYING -->

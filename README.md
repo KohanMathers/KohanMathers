@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Schuyler Sisters - Renée Elise Goldsberry, Various Artists — De Vuelta A La Escuela
-- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 11h 59m ago
+- 🎵 **Now Playing:** Rational Pride - Faintest Idea — Ignorance Is This
+- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 12h 3m ago
 
-*Last updated: 30-10-2025 14:11:31*
+*Last updated: 30-10-2025 14:14:36*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Election of 1800 - Daveed Diggs, Various Artists — Hamilton: An American Musica...
-- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - Just now
+- 🎵 **Now Playing:** Wait for It - Leslie Odom, Jr. & Original Broadway Cast of "Hamilton" — Mu...
+- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 2 minutes ago
 
-*Last updated: 30-10-2025 01:34:41*
+*Last updated: 30-10-2025 01:37:12*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Taking Over - Dutty Moonshine Big Band — Most Wanted
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 13h 29m ago
 
-*Last updated: 30-10-2025 15:40:36*
+*Last updated: 30-10-2025 15:41:27*
 <!-- END_NOW_PLAYING -->

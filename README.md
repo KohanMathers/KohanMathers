@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fuck Off in G minor - Dutty Moonshine Big Band — Villain
+- 🎵 **Now Playing:** Seperation of Corporation and State - Faintest Idea — The Voice of Treason
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 30-10-2025 01:12:51*
+*Last updated: 30-10-2025 01:15:34*
 <!-- END_NOW_PLAYING -->

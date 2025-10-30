@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 17 minutes ago
+- 🎵 **Now Playing:** Outer Space / Carry On - 5 Seconds of Summer — Sounds Good Feels Good
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 22 minutes ago
 
-*Last updated: 30-10-2025 23:43:54*
+*Last updated: 30-10-2025 23:48:42*
 <!-- END_NOW_PLAYING -->

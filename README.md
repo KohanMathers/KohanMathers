@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** No More Sad Songs (feat. Machine Gun Kelly) - Little Mix — Between Us (Deluxe Version)
+- 🎵 **Now Playing:** peace - Taylor Swift — folklore (deluxe version)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 30-10-2025 01:18:21*
+*Last updated: 30-10-2025 01:22:07*
 <!-- END_NOW_PLAYING -->

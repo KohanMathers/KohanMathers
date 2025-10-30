@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Reynolds Pamphlet - Original Broadway Cast of "Hamilton" — Hamilton: An American...
-- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 13h 23m ago
+- 🎵 **Now Playing:** Farmer Refuted - Thayne Jasperson, Various Artists — Hamilton: An American Mu...
+- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 13h 25m ago
 
-*Last updated: 30-10-2025 15:35:32*
+*Last updated: 30-10-2025 15:37:02*
 <!-- END_NOW_PLAYING -->

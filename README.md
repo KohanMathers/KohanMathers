@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Mutually Assured Confusion - Faintest Idea — The Road to Sedition
-- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 5 minutes ago
+- 💻 **Coding Status:** Not coding
 
-*Last updated: 29-10-2025 23:59:23*
+*Last updated: 30-10-2025 00:04:25*
 <!-- END_NOW_PLAYING -->

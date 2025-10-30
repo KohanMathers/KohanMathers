@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Rational Pride - Faintest Idea — Ignorance Is This
-- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 12h 3m ago
+- 🎵 **Now Playing:** Heartbreak Anthem (feat. David Guetta & Little Mix) - Galantis — Between Us (Deluxe Version)
+- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 12h 6m ago
 
-*Last updated: 30-10-2025 14:14:57*
+*Last updated: 30-10-2025 14:17:58*
 <!-- END_NOW_PLAYING -->

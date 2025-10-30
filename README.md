@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Why We Fight (1) - The Undercover Hippy — Why We Fight E.P. - EP
-- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 3 minutes ago
+- 🎵 **Now Playing:** If Walls Could Talk - 5 Seconds of Summer — Youngblood (Deluxe)
+- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 8 minutes ago
 
-*Last updated: 30-10-2025 02:14:57*
+*Last updated: 30-10-2025 02:19:37*
 <!-- END_NOW_PLAYING -->

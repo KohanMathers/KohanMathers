@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Opalite - Taylor Swift — The Life of a Showgirl
+- 🎵 **Now Playing:** Free Now - Gracie Abrams — The Secret of Us (Deluxe)
 - 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 13h 18m ago
 
-*Last updated: 30-10-2025 15:30:22*
+*Last updated: 30-10-2025 15:30:27*
 <!-- END_NOW_PLAYING -->

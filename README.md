@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Ruin The Friendship - Taylor Swift — The Life of a Showgirl
-- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 11h 31m ago
+- 🎵 **Now Playing:** They Drew First Blood - Faintest Idea — The Voice of Treason
+- 💻 **Last seen coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 11h 33m ago
 
-*Last updated: 30-10-2025 13:43:09*
+*Last updated: 30-10-2025 13:44:41*
 <!-- END_NOW_PLAYING -->

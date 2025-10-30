@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** peace - Taylor Swift — folklore (deluxe version)
-- 💻 **Currently coding** in *Java*, editing `PronounsPlugin.java` (Project: pronouns-plugin) - Just now
+- 🎵 **Now Playing:** Broken Record - Faintest Idea — Ignorance Is This
+- 💻 **Currently coding** in *Java*, editing `PronounsPlugin.java` (Project: pronouns-plugin) - 1 minutes ago
 
-*Last updated: 30-10-2025 01:24:37*
+*Last updated: 30-10-2025 01:26:01*
 <!-- END_NOW_PLAYING -->

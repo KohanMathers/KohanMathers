@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Cabinet Battle #1 - Christopher Jackson, Various Artists — Hamilton: An American...
-- 💻 **Currently coding** in *Java*, editing `CityData.java` (Project: TheInterregnum) - 2 minutes ago
+- 🎵 **Now Playing:** Take a Break - Phillipa Soo, Anthony Ramos, Lin-Manuel Miranda & Renée Elis...
+- 💻 **Currently coding** in *Java*, editing `CityData.java` (Project: TheInterregnum) - Just now
 
-*Last updated: 31-10-2025 02:34:49*
+*Last updated: 31-10-2025 02:34:56*
 <!-- END_NOW_PLAYING -->

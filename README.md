@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Election of 1800 - Daveed Diggs, Various Artists — Hamilton: An American Musica...
+- 🎵 **Now Playing:** Your Obedient Servant - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
 - 💻 **Currently coding** in *Java*, editing `CityData.java` (Project: TheInterregnum) - Just now
 
-*Last updated: 31-10-2025 02:44:54*
+*Last updated: 31-10-2025 02:46:55*
 <!-- END_NOW_PLAYING -->

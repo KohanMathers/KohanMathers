@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The World Was Wide Enough - Leslie Odom, Jr., Lin-Manuel Miranda & Original Broadway Cas...
-- 💻 **Currently coding** in *Java*, editing `CityData.java` (Project: TheInterregnum) - 1 minutes ago
+- 🎵 **Now Playing:** Who Lives, Who Dies, Who Tells Your Story - Original Broadway Cast of "Hamilton" — Hamilton: Eliza's Sto...
+- 💻 **Currently coding** in *Java*, editing `CityData.java` (Project: TheInterregnum) - Just now
 
-*Last updated: 31-10-2025 02:49:56*
+*Last updated: 31-10-2025 02:54:30*
 <!-- END_NOW_PLAYING -->

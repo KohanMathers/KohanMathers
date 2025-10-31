@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Take a Break - Phillipa Soo, Anthony Ramos, Lin-Manuel Miranda & Renée Elis...
+- 🎵 **Now Playing:** Say No To This - Jasmine Cephas Jones, Various Artists — Hamilton: An America...
 - 💻 **Currently coding** in *Java*, editing `CityData.java` (Project: TheInterregnum) - Just now
 
-*Last updated: 31-10-2025 02:34:56*
+*Last updated: 31-10-2025 02:35:20*
 <!-- END_NOW_PLAYING -->

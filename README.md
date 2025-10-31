@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** One Last Time - Christopher Jackson, Lin-Manuel Miranda & Original Broadway ...
+- 🎵 **Now Playing:** I Know Him - Jonathan Groff — Hamilton: The King George III - EP
 - 💻 **Currently coding** in *Java*, editing `CityData.java` (Project: TheInterregnum) - Just now
 
-*Last updated: 31-10-2025 02:38:50*
+*Last updated: 31-10-2025 02:38:55*
 <!-- END_NOW_PLAYING -->

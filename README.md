@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Markdown*, editing `SPEC.md` (Project: TheInterregnum) - 4 minutes ago
+- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Various Artists — Hamilton: An American Musica...
+- 💻 **Currently coding** in *Markdown*, editing `SPEC.md` (Project: TheInterregnum) - 8 minutes ago
 
-*Last updated: 31-10-2025 02:19:43*
+*Last updated: 31-10-2025 02:24:21*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Blow Us All Away - Anthony Ramos, Ariana DeBose, Sasha Hutchings, Ephraim Sykes...
+- 🎵 **Now Playing:** The Election of 1800 - Daveed Diggs, Various Artists — Hamilton: An American Musica...
 - 💻 **Currently coding** in *Java*, editing `CityData.java` (Project: TheInterregnum) - 1 minutes ago
 
-*Last updated: 31-10-2025 02:40:20*
+*Last updated: 31-10-2025 02:43:00*
 <!-- END_NOW_PLAYING -->

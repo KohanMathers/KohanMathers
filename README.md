@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Rattling the Cage - Faintest Idea — The Voice of Treason
-- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 2 minutes ago
+- 🎵 **Now Playing:** Non-Stop - Leslie Odom, Jr., Various Artists — Belting Songs
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 1 minutes ago
 
-*Last updated: 31-10-2025 00:55:21*
+*Last updated: 31-10-2025 00:58:11*
 <!-- END_NOW_PLAYING -->

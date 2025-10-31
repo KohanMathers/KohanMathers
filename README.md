@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Farmer Refuted - Thayne Jasperson, Various Artists — Hamilton: An American Mu...
+- 🎵 **Now Playing:** Boyfriend - The Undercover Hippy — Why We Fight E.P. - EP
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 31-10-2025 00:47:36*
+*Last updated: 31-10-2025 00:49:25*
 <!-- END_NOW_PLAYING -->

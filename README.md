@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stick Up - Dutty Moonshine Big Band — Most Wanted
+- 🎵 **Now Playing:** The Girl Who Cried Wolf - 5 Seconds of Summer — Sounds Good Feels Good (Deluxe)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 31-10-2025 00:38:46*
+*Last updated: 31-10-2025 00:43:11*
 <!-- END_NOW_PLAYING -->

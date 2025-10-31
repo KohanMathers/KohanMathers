@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Adams Administration - Original Broadway Cast of "Hamilton" — Hamilton: An American...
+- 🎵 **Now Playing:** We Know - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
 - 💻 **Currently coding** in *Java*, editing `CityData.java` (Project: TheInterregnum) - 1 minutes ago
 
-*Last updated: 31-10-2025 02:39:51*
+*Last updated: 31-10-2025 02:39:56*
 <!-- END_NOW_PLAYING -->

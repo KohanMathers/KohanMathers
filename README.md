@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** my tears ricochet - Taylor Swift — folklore (deluxe version)
+- 🎵 **Now Playing:** Stick Up - Dutty Moonshine Big Band — Most Wanted
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 31-10-2025 00:34:26*
+*Last updated: 31-10-2025 00:38:46*
 <!-- END_NOW_PLAYING -->

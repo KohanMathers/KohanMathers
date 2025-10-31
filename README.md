@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Schuyler Defeated - Anthony Ramos, Various Artists — Hamilton: An American Music...
+- 🎵 **Now Playing:** Not Coming Back - Faintest Idea — The Road to Sedition
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 31-10-2025 00:01:54*
+*Last updated: 31-10-2025 00:03:00*
 <!-- END_NOW_PLAYING -->

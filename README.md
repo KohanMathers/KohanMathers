@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Tough Love - Gracie Abrams — The Secret of Us (Deluxe)
+- 🎵 **Now Playing:** Holiday - Little Mix — Between Us (Deluxe Version)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 31-10-2025 00:01:41*
+*Last updated: 31-10-2025 00:01:50*
 <!-- END_NOW_PLAYING -->

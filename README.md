@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Boyfriend - The Undercover Hippy — Why We Fight E.P. - EP
-- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 1 minutes ago
+- 🎵 **Now Playing:** Rattling the Cage - Faintest Idea — The Voice of Treason
+- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 2 minutes ago
 
-*Last updated: 31-10-2025 00:54:10*
+*Last updated: 31-10-2025 00:55:21*
 <!-- END_NOW_PLAYING -->

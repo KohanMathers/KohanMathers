@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Who Lives, Who Dies, Who Tells Your Story - Original Broadway Cast of "Hamilton" — Hamilton: Eliza's Sto...
-- 💻 **Currently coding** in *Java*, editing `CityData.java` (Project: TheInterregnum) - Just now
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Currently coding** in *Java*, editing `CityData.java` (Project: TheInterregnum) - 3 minutes ago
 
-*Last updated: 31-10-2025 02:54:58*
+*Last updated: 31-10-2025 02:57:39*
 <!-- END_NOW_PLAYING -->

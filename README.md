@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Hurricane - Lin-Manuel Miranda & Original Broadway Cast of "Hamilton" — ...
-- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 16 minutes ago
+- 🎵 **Now Playing:** Coming To the Gambia - The Undercover Hippy — Monkey Suit
+- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 20 minutes ago
 
-*Last updated: 31-10-2025 01:29:24*
+*Last updated: 31-10-2025 01:33:18*
 <!-- END_NOW_PLAYING -->

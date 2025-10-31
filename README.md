@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Ten Duel Commandments - Anthony Ramos, Various Artists — Hamilton: An American Music...
+- 🎵 **Now Playing:** my tears ricochet - Taylor Swift — folklore (deluxe version)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 31-10-2025 00:34:21*
+*Last updated: 31-10-2025 00:34:26*
 <!-- END_NOW_PLAYING -->

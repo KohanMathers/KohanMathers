@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Aaron Burr, Sir - Lin-Manuel Miranda, Leslie Odom, Jr., Anthony Ramos, Daveed ...
+- 🎵 **Now Playing:** Beside You - 5 Seconds of Summer — 5 Seconds Of Summer
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 31-10-2025 00:04:02*
+*Last updated: 31-10-2025 00:05:45*
 <!-- END_NOW_PLAYING -->

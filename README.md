@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Girl Who Cried Wolf - 5 Seconds of Summer — Sounds Good Feels Good (Deluxe)
+- 🎵 **Now Playing:** Farmer Refuted - Thayne Jasperson, Various Artists — Hamilton: An American Mu...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 31-10-2025 00:43:11*
+*Last updated: 31-10-2025 00:47:36*
 <!-- END_NOW_PLAYING -->

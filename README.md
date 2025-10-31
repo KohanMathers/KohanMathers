@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Various Artists — Hamilton: An American Musica...
-- 💻 **Currently coding** in *Markdown*, editing `SPEC.md` (Project: TheInterregnum) - 9 minutes ago
+- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Leslie Odom, Jr., Okieriete Onaodowan & Origin...
+- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 1 minutes ago
 
-*Last updated: 31-10-2025 02:24:45*
+*Last updated: 31-10-2025 02:27:21*
 <!-- END_NOW_PLAYING -->

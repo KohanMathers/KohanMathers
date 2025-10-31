@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Your Obedient Servant - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
-- 💻 **Currently coding** in *Java*, editing `CityData.java` (Project: TheInterregnum) - Just now
+- 🎵 **Now Playing:** The World Was Wide Enough - Leslie Odom, Jr., Lin-Manuel Miranda & Original Broadway Cas...
+- 💻 **Currently coding** in *Java*, editing `CityData.java` (Project: TheInterregnum) - 1 minutes ago
 
-*Last updated: 31-10-2025 02:46:55*
+*Last updated: 31-10-2025 02:49:25*
 <!-- END_NOW_PLAYING -->

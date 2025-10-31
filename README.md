@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Story of Tonight - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 🎵 **Now Playing:** The Schuyler Sisters - Renée Elise Goldsberry, Various Artists — De Vuelta A La Escuela
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 31-10-2025 00:05:55*
+*Last updated: 31-10-2025 00:07:31*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Coming To the Gambia - The Undercover Hippy — Monkey Suit
-- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 21 minutes ago
+- 🎵 **Now Playing:** Babylon - 5 Seconds of Summer — Youngblood (Deluxe)
+- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 25 minutes ago
 
-*Last updated: 31-10-2025 01:34:26*
+*Last updated: 31-10-2025 01:38:17*
 <!-- END_NOW_PLAYING -->

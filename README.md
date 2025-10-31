@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Say No To This - Jasmine Cephas Jones, Various Artists — Hamilton: An America...
+- 🎵 **Now Playing:** Cabinet Battle #1 - Christopher Jackson, Various Artists — Hamilton: An American...
 - 💻 **Currently coding** in *Java*, editing `CityData.java` (Project: TheInterregnum) - Just now
 
-*Last updated: 31-10-2025 02:35:20*
+*Last updated: 31-10-2025 02:35:24*
 <!-- END_NOW_PLAYING -->

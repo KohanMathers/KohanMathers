@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Babylon - 5 Seconds of Summer — Youngblood (Deluxe)
-- 💻 **Last seen coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 36 minutes ago
+- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 2 minutes ago
 
-*Last updated: 31-10-2025 01:49:32*
+*Last updated: 31-10-2025 01:54:34*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not Coming Back - Faintest Idea — The Road to Sedition
+- 🎵 **Now Playing:** Aaron Burr, Sir - Lin-Manuel Miranda, Leslie Odom, Jr., Anthony Ramos, Daveed ...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 31-10-2025 00:03:00*
+*Last updated: 31-10-2025 00:03:06*
 <!-- END_NOW_PLAYING -->

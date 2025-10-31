@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Holiday - Little Mix — Between Us (Deluxe Version)
+- 🎵 **Now Playing:** Schuyler Defeated - Anthony Ramos, Various Artists — Hamilton: An American Music...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 31-10-2025 00:01:50*
+*Last updated: 31-10-2025 00:01:54*
 <!-- END_NOW_PLAYING -->

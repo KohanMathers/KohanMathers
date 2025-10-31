@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Beside You - 5 Seconds of Summer — 5 Seconds Of Summer
+- 🎵 **Now Playing:** The Story of Tonight - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 31-10-2025 00:05:45*
+*Last updated: 31-10-2025 00:05:55*
 <!-- END_NOW_PLAYING -->

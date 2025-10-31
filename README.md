@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Easier - 5 Seconds of Summer — CALM
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 32 minutes ago
+- 🎵 **Now Playing:** "Public Enemy Number One" Skit - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Coding Status:** Not coding
 
-*Last updated: 30-10-2025 23:59:00*
+*Last updated: 31-10-2025 00:01:11*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** "Public Enemy Number One" Skit - Dutty Moonshine Big Band — Most Wanted
+- 🎵 **Now Playing:** Tough Love - Gracie Abrams — The Secret of Us (Deluxe)
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 31-10-2025 00:01:11*
+*Last updated: 31-10-2025 00:01:41*
 <!-- END_NOW_PLAYING -->

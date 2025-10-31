@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Hurricane - Lin-Manuel Miranda & Original Broadway Cast of "Hamilton" — ...
-- 💻 **Currently coding** in *Batchfile*, editing `build.bat` (Project: CanaryOS) - 1 minutes ago
+- 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - 1 minutes ago
 
-*Last updated: 31-10-2025 01:09:16*
+*Last updated: 31-10-2025 01:14:18*
 <!-- END_NOW_PLAYING -->

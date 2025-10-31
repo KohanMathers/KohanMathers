@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Ten Duel Commandments - Anthony Ramos, Various Artists — Hamilton: An American Music...
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 31-10-2025 00:34:00*
+*Last updated: 31-10-2025 00:34:21*
 <!-- END_NOW_PLAYING -->

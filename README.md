@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Washington On Your Side - Daveed Diggs, Various Artists — Hamilton: An American Musica...
+- 🎵 **Now Playing:** One Last Time - Christopher Jackson, Lin-Manuel Miranda & Original Broadway ...
 - 💻 **Currently coding** in *Java*, editing `CityData.java` (Project: TheInterregnum) - Just now
 
-*Last updated: 31-10-2025 02:35:45*
+*Last updated: 31-10-2025 02:38:50*
 <!-- END_NOW_PLAYING -->

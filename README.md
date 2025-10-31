@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Babylon - 5 Seconds of Summer — Youngblood (Deluxe)
-- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `settings.gradle.kts` (Project: TheInterregnum) - 7 minutes ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Currently coding** in *Gradle Kotlin DSL*, editing `settings.gradle.kts` (Project: TheInterregnum) - 8 minutes ago
 
-*Last updated: 31-10-2025 02:09:39*
+*Last updated: 31-10-2025 02:11:00*
 <!-- END_NOW_PLAYING -->

@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Boyfriend - The Undercover Hippy — Why We Fight E.P. - EP
-- 💻 **Coding Status:** Not coding
+- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 1 minutes ago
 
-*Last updated: 31-10-2025 00:49:25*
+*Last updated: 31-10-2025 00:54:10*
 <!-- END_NOW_PLAYING -->

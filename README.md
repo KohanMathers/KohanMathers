@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** We Know - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 🎵 **Now Playing:** Blow Us All Away - Anthony Ramos, Ariana DeBose, Sasha Hutchings, Ephraim Sykes...
 - 💻 **Currently coding** in *Java*, editing `CityData.java` (Project: TheInterregnum) - 1 minutes ago
 
-*Last updated: 31-10-2025 02:39:56*
+*Last updated: 31-10-2025 02:40:20*
 <!-- END_NOW_PLAYING -->

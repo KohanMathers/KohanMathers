@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Schuyler Sisters - Renée Elise Goldsberry, Various Artists — De Vuelta A La Escuela
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 31-10-2025 00:07:31*
+*Last updated: 31-10-2025 00:34:00*
 <!-- END_NOW_PLAYING -->

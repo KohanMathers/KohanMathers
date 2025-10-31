@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Non-Stop - Leslie Odom, Jr., Various Artists — Belting Songs
+- 🎵 **Now Playing:** Non-Stop - Leslie Odom, Jr., Various Artists — Belting Songs Leslie Odo...
 - 💻 **Currently coding** in *Rust*, editing `main.rs` (Project: CanaryOS) - Just now
 
-*Last updated: 31-10-2025 00:59:12*
+*Last updated: 31-10-2025 00:59:16*
 <!-- END_NOW_PLAYING -->

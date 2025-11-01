@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Kill Em Dead - Faintest Idea — The Road to Sedition
-- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: TheInterregnum) - 18 minutes ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: TheInterregnum) - 20 minutes ago
 
-*Last updated: 01-11-2025 00:18:54*
+*Last updated: 01-11-2025 00:21:38*
 <!-- END_NOW_PLAYING -->

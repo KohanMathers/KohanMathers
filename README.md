@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *JSON*, editing `amethyst_stick.json` (Project: RideDragons) - 1 hour ago
+- 💻 **Last seen coding** in *JSON*, editing `amethyst_stick.json` (Project: RideDragons) - 1h 1m ago
 
-*Last updated: 01-11-2025 22:58:30*
+*Last updated: 01-11-2025 22:58:32*
 <!-- END_NOW_PLAYING -->

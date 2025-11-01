@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Turned Up To Turn Down (feat. Ade) - Dutty Moonshine Big Band — Villain
-- 💻 **Last seen coding** in *Java*, editing `PlayerData.java` (Project: the-interregnum) - 3h 15m ago
+- 🎵 **Now Playing:** exile (feat. Bon Iver) - Taylor Swift — folklore (deluxe version)
+- 💻 **Currently coding** in *Java*, editing `PlayerData.java` (Project: the-interregnum) - 1 minutes ago
 
-*Last updated: 01-11-2025 05:56:13*
+*Last updated: 01-11-2025 05:58:49*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** These Words Are Our Weapons - Faintest Idea — The Voice of Treason
+- 🎵 **Now Playing:** Break Up Song - Little Mix — Between Us (Deluxe Version)
 - 💻 **Currently coding** in *Java*, editing `PlayerData.java` (Project: TheInterregnum) - 1 minutes ago
 
-*Last updated: 01-11-2025 06:11:50*
+*Last updated: 01-11-2025 06:15:15*
 <!-- END_NOW_PLAYING -->

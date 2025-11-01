@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Coming To the Gambia - The Undercover Hippy — Monkey Suit
-- 💻 **Currently coding** in *Java*, editing `PlayerData.java` (Project: the-interregnum) - Just now
+- 🎵 **Now Playing:** Between Us - Little Mix — Between Us (Deluxe Version)
+- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 1 minutes ago
 
-*Last updated: 01-11-2025 06:01:15*
+*Last updated: 01-11-2025 06:03:54*
 <!-- END_NOW_PLAYING -->

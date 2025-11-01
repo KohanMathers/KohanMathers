@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Hoods Up Heads Down - Faintest Idea — The Road to Sedition
 - 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: TheInterregnum) - 7h 9m ago
 
-*Last updated: 01-11-2025 14:39:49*
+*Last updated: 01-11-2025 14:40:29*
 <!-- END_NOW_PLAYING -->

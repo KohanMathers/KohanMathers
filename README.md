@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** exile (feat. Bon Iver) - Taylor Swift — folklore (deluxe version)
+- 🎵 **Now Playing:** Coming To the Gambia - The Undercover Hippy — Monkey Suit
 - 💻 **Currently coding** in *Java*, editing `PlayerData.java` (Project: the-interregnum) - 1 minutes ago
 
-*Last updated: 01-11-2025 05:58:49*
+*Last updated: 01-11-2025 05:59:01*
 <!-- END_NOW_PLAYING -->

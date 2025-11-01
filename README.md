@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Hoods Up Heads Down - Faintest Idea — The Road to Sedition
-- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: TheInterregnum) - 7h 9m ago
+- 💻 **Currently coding** in *Java*, editing `PlayerData.java` (Project: TheInterregnum) - 2 minutes ago
 
-*Last updated: 01-11-2025 14:40:29*
+*Last updated: 01-11-2025 14:44:51*
 <!-- END_NOW_PLAYING -->

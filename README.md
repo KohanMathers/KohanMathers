@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Between Us - Little Mix — Between Us (Deluxe Version)
-- 💻 **Currently coding** in *Java*, editing `PlayerData.java` (Project: TheInterregnum) - Just now
+- 🎵 **Now Playing:** Free Now (Live From Vevo) - Gracie Abrams — The Secret of Us (Deluxe)
+- 💻 **Currently coding** in *Java*, editing `PlayerData.java` (Project: TheInterregnum) - 1 minutes ago
 
-*Last updated: 01-11-2025 06:06:17*
+*Last updated: 01-11-2025 06:07:50*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Wildflower - 5 Seconds of Summer — CALM
-- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 8h 5m ago
+- 🎵 **Now Playing:** I Know Him - Jonathan Groff — Hamilton: The King George III - EP
+- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 8h 6m ago
 
-*Last updated: 03-11-2025 22:12:30*
+*Last updated: 03-11-2025 22:14:26*
 <!-- END_NOW_PLAYING -->

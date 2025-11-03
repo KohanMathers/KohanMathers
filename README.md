@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Big Band Fam (feat. HypeMan Sage) - Dutty Moonshine Big Band — City of Sin
-- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 40m ago
+- 🎵 **Now Playing:** The Fate of Ophelia - Taylor Swift — The Life of a Showgirl
+- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 41m ago
 
-*Last updated: 03-11-2025 21:47:32*
+*Last updated: 03-11-2025 21:48:41*
 <!-- END_NOW_PLAYING -->

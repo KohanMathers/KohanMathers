@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Gradle Kotlin DSL*, editing `build.gradle.kts` (Project: the-interregnum) - 18 minutes ago
+- 💻 **Currently coding** in *Java Properties*, editing `gradle-wrapper.properties` (Project: the-interregnum) - Just now
 
-*Last updated: 03-11-2025 09:54:19*
+*Last updated: 03-11-2025 09:55:30*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Moving Along - 5 Seconds of Summer — Youngblood (Deluxe)
-- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 47m ago
+- 🎵 **Now Playing:** 36 Barrels - Faintest Idea — The Voice of Treason
+- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 48m ago
 
-*Last updated: 03-11-2025 21:55:26*
+*Last updated: 03-11-2025 21:55:41*
 <!-- END_NOW_PLAYING -->

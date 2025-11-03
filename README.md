@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Cut You Off - Little Mix — Between Us (Deluxe Version)
-- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 10m ago
+- 🎵 **Now Playing:** Boogie Woogie - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 11m ago
 
-*Last updated: 03-11-2025 21:17:43*
+*Last updated: 03-11-2025 21:19:06*
 <!-- END_NOW_PLAYING -->

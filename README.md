@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Coding Status:** Not coding
+- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 2h 44m ago
 
-*Last updated: 03-11-2025 16:09:45*
+*Last updated: 03-11-2025 16:52:00*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Adams Administration - Original Broadway Cast of "Hamilton" — Hamilton: An American...
-- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 4m ago
+- 🎵 **Now Playing:** Castaway - 5 Seconds of Summer — Sounds Good Feels Good
+- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 5m ago
 
-*Last updated: 03-11-2025 21:11:57*
+*Last updated: 03-11-2025 21:12:36*
 <!-- END_NOW_PLAYING -->

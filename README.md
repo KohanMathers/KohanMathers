@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Defy + Demand - Faintest Idea — The Voice of Treason
+- 🎵 **Now Playing:** Bully Boy - Faintest Idea — Ignorance Is This
 - 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 6h 59m ago
 
-*Last updated: 03-11-2025 21:06:54*
+*Last updated: 03-11-2025 21:07:07*
 <!-- END_NOW_PLAYING -->

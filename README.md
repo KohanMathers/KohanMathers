@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** hoax - Taylor Swift — folklore (deluxe version)
-- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 8 hours ago
+- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 8h 3m ago
 
-*Last updated: 03-11-2025 22:07:30*
+*Last updated: 03-11-2025 22:10:32*
 <!-- END_NOW_PLAYING -->

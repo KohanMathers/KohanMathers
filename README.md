@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Taking Over - Dutty Moonshine Big Band — Most Wanted
+- 🎵 **Now Playing:** Our Streets - The Undercover Hippy — Monkey Suit
 - 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 33m ago
 
-*Last updated: 03-11-2025 21:40:49*
+*Last updated: 03-11-2025 21:41:01*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Fate of Ophelia - Taylor Swift — The Life of a Showgirl
+- 🎵 **Now Playing:** Moving Along - 5 Seconds of Summer — Youngblood (Deluxe)
 - 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 44m ago
 
-*Last updated: 03-11-2025 21:52:15*
+*Last updated: 03-11-2025 21:52:28*
 <!-- END_NOW_PLAYING -->

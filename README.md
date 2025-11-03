@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Our Streets - The Undercover Hippy — Monkey Suit
+- 🎵 **Now Playing:** Big Band Fam (feat. HypeMan Sage) - Dutty Moonshine Big Band — City of Sin
 - 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 37m ago
 
-*Last updated: 03-11-2025 21:45:21*
+*Last updated: 03-11-2025 21:45:27*
 <!-- END_NOW_PLAYING -->

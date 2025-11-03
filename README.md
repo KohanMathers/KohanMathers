@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Take a Little Time - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 15m ago
+- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 17m ago
 
-*Last updated: 03-11-2025 21:22:45*
+*Last updated: 03-11-2025 21:25:13*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Lie to Me - 5 Seconds of Summer — Youngblood (Deluxe)
-- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 3m ago
+- 🎵 **Now Playing:** The Adams Administration - Original Broadway Cast of "Hamilton" — Hamilton: An American...
+- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 4m ago
 
-*Last updated: 03-11-2025 21:10:35*
+*Last updated: 03-11-2025 21:11:41*
 <!-- END_NOW_PLAYING -->

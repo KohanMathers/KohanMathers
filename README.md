@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Father Figure - Taylor Swift — The Life of a Showgirl
-- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 58m ago
+- 🎵 **Now Playing:** hoax - Taylor Swift — folklore (deluxe version)
+- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 59m ago
 
-*Last updated: 03-11-2025 22:05:30*
+*Last updated: 03-11-2025 22:07:01*
 <!-- END_NOW_PLAYING -->

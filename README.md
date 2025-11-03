@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Defy + Demand - Faintest Idea — The Voice of Treason
-- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 6h 55m ago
+- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 6h 57m ago
 
-*Last updated: 03-11-2025 21:02:53*
+*Last updated: 03-11-2025 21:05:03*
 <!-- END_NOW_PLAYING -->

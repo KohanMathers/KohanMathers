@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Locked Up - Dutty Moonshine Big Band — City of Sin
-- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 52m ago
+- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 53m ago
 
-*Last updated: 03-11-2025 22:00:28*
+*Last updated: 03-11-2025 22:00:58*
 <!-- END_NOW_PLAYING -->

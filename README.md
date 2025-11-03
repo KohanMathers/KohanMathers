@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Dead Future - Faintest Idea — Ignorance Is This
-- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 53m ago
+- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 54m ago
 
-*Last updated: 03-11-2025 22:01:06*
+*Last updated: 03-11-2025 22:02:20*
 <!-- END_NOW_PLAYING -->

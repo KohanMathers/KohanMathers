@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `EventManager.java` (Project: the-interregnum) - 1 minutes ago
+- 💻 **Currently coding** in *Java*, editing `EventManager.java` (Project: the-interregnum) - Just now
 
-*Last updated: 03-11-2025 13:51:41*
+*Last updated: 03-11-2025 13:53:17*
 <!-- END_NOW_PLAYING -->

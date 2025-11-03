@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** The Fate of Ophelia - Taylor Swift — The Life of a Showgirl
-- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 43m ago
+- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7h 44m ago
 
-*Last updated: 03-11-2025 21:50:53*
+*Last updated: 03-11-2025 21:52:15*
 <!-- END_NOW_PLAYING -->

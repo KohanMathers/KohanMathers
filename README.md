@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Bully Boy - Faintest Idea — Ignorance Is This
-- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 6h 59m ago
+- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 7 hours ago
 
-*Last updated: 03-11-2025 21:07:07*
+*Last updated: 03-11-2025 21:07:39*
 <!-- END_NOW_PLAYING -->

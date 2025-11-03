@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Guns and Ships - Leslie Odom, Jr., Various Artists — Fiesta del orgullo éxito...
-- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 8h 13m ago
+- 🎵 **Now Playing:** Outlaws (feat. HypeMan Sage) - Dutty Moonshine Big Band — City of Sin
+- 💻 **Last seen coding** in *Markdown*, editing `SPEC.md` (Project: the-interregnum) - 8h 14m ago
 
-*Last updated: 03-11-2025 22:20:36*
+*Last updated: 03-11-2025 22:22:21*
 <!-- END_NOW_PLAYING -->

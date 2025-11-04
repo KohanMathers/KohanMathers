@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Say No To This - Jasmine Cephas Jones, Various Artists — Hamilton: An America...
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 17 minutes ago
+- 🎵 **Now Playing:** The Room Where It Happens - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 18 minutes ago
 
-*Last updated: 04-11-2025 19:04:37*
+*Last updated: 04-11-2025 19:05:39*
 <!-- END_NOW_PLAYING -->

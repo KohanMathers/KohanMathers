@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Reynolds Pamphlet - Original Broadway Cast of "Hamilton" — Hamilton: An American...
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 42 minutes ago
+- 🎵 **Now Playing:** Burn - Phillipa Soo — Hamilton: An American Musical (Original Broad...
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 45 minutes ago
 
-*Last updated: 04-11-2025 19:30:14*
+*Last updated: 04-11-2025 19:32:25*
 <!-- END_NOW_PLAYING -->

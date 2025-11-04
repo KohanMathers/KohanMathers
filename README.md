@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Blow Us All Away - Anthony Ramos, Ariana DeBose, Sasha Hutchings, Ephraim Sykes...
+- 🎵 **Now Playing:** Stay Alive (Reprise) - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
 - 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 52 minutes ago
 
-*Last updated: 04-11-2025 19:39:53*
+*Last updated: 04-11-2025 19:40:14*
 <!-- END_NOW_PLAYING -->

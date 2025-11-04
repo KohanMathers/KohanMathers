@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Room Where It Happens - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 22 minutes ago
+- 🎵 **Now Playing:** Schuyler Defeated - Anthony Ramos, Various Artists — Hamilton: An American Music...
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 23 minutes ago
 
-*Last updated: 04-11-2025 19:09:39*
+*Last updated: 04-11-2025 19:10:59*
 <!-- END_NOW_PLAYING -->

@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Say No To This - Jasmine Cephas Jones, Various Artists — Hamilton: An America...
-- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 15 minutes ago
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 17 minutes ago
 
-*Last updated: 04-11-2025 19:03:00*
+*Last updated: 04-11-2025 19:04:37*
 <!-- END_NOW_PLAYING -->

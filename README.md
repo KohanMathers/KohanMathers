@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Take a Break - Phillipa Soo, Various Artists — Hamilton: An American Musica...
-- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 12 minutes ago
+- 🎵 **Now Playing:** Say No To This - Jasmine Cephas Jones, Various Artists — Hamilton: An America...
+- 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 14 minutes ago
 
-*Last updated: 04-11-2025 18:59:35*
+*Last updated: 04-11-2025 19:01:39*
 <!-- END_NOW_PLAYING -->

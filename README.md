@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Your Obedient Servant - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 1h 52m ago
+- 💻 **Coding Status:** Not coding
 
-*Last updated: 04-11-2025 20:39:27*
+*Last updated: 04-11-2025 20:39:46*
 <!-- END_NOW_PLAYING -->

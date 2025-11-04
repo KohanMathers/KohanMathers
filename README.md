@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Leslie Odom, Jr., Okieriete Onaodowan & Origin...
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Currently coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 5 minutes ago
 
-*Last updated: 04-11-2025 18:52:56*
+*Last updated: 04-11-2025 18:53:11*
 <!-- END_NOW_PLAYING -->

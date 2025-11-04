@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** It's Quiet Uptown - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 57 minutes ago
+- 🎵 **Now Playing:** The Election of 1800 - Daveed Diggs, Various Artists — Hamilton: An American Musica...
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 59 minutes ago
 
-*Last updated: 04-11-2025 19:44:56*
+*Last updated: 04-11-2025 19:46:40*
 <!-- END_NOW_PLAYING -->

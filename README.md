@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** We Know - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 38 minutes ago
+- 🎵 **Now Playing:** Hurricane - Lin-Manuel Miranda & Original Broadway Cast of "Hamilton" — ...
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 40 minutes ago
 
-*Last updated: 04-11-2025 19:25:30*
+*Last updated: 04-11-2025 19:27:49*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Know Him - Jonathan Groff — Hamilton: An American Musical (Original Bro...
-- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 36 minutes ago
+- 🎵 **Now Playing:** The Adams Administration - Original Broadway Cast of "Hamilton" — Hamilton: An American...
+- 💻 **Last seen coding** in *Java*, editing `Main.java` (Project: TheInterregnum) - 37 minutes ago
 
-*Last updated: 04-11-2025 19:23:23*
+*Last updated: 04-11-2025 19:24:34*
 <!-- END_NOW_PLAYING -->

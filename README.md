@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Java*, editing `ServerCommands.java` (Project: TheInterregnum) - 2 hours ago
+- 💻 **Last seen coding** in *Java*, editing `ServerCommands.java` (Project: TheInterregnum) - 2h 1m ago
 
-*Last updated: 04-11-2025 16:31:58*
+*Last updated: 04-11-2025 16:32:25*
 <!-- END_NOW_PLAYING -->

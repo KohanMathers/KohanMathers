@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Story of Tonight (Reprise) - Anthony Ramos, Various Artists — Hamilton: An American Music...
-- 💻 **Currently coding** in *JavaScript*, editing `editor.js` (Project: quill) - Just now
+- 🎵 **Now Playing:** Wait For It - Leslie Odom, Jr. & Original Broadway Cast of "Hamilton" — Ha...
+- 💻 **Currently coding** in *JavaScript*, editing `editor.js` (Project: quill) - 1 minutes ago
 
-*Last updated: 06-11-2025 03:35:27*
+*Last updated: 06-11-2025 03:36:28*
 <!-- END_NOW_PLAYING -->

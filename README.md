@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Aaron Burr, Sir - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Last seen coding** in *HTML*, editing `index.html` (Project: quill) - 32 minutes ago
+- 🎵 **Now Playing:** My Shot - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 💻 **Last seen coding** in *HTML*, editing `index.html` (Project: quill) - 33 minutes ago
 
-*Last updated: 06-11-2025 03:01:44*
+*Last updated: 06-11-2025 03:02:43*
 <!-- END_NOW_PLAYING -->

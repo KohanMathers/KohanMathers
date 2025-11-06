@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Right Hand Man - Christopher Jackson, Various Artists — Hamilton: An American...
-- 💻 **Currently coding** in *HTML*, editing `index.html` (Project: quill) - 2 minutes ago
+- 🎵 **Now Playing:** A Winter's Ball - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 💻 **Currently coding** in *HTML*, editing `index.html` (Project: quill) - Just now
 
-*Last updated: 06-11-2025 03:23:09*
+*Last updated: 06-11-2025 03:23:38*
 <!-- END_NOW_PLAYING -->

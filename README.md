@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Ten Duel Commandments - Anthony Ramos, Various Artists — Hamilton: An American Music...
-- 💻 **Currently coding** in *JavaScript*, editing `editor.js` (Project: quill) - 3 minutes ago
+- 🎵 **Now Playing:** Meet Me Inside - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 💻 **Currently coding** in *JavaScript*, editing `editor.js` (Project: quill) - 4 minutes ago
 
-*Last updated: 06-11-2025 03:43:17*
+*Last updated: 06-11-2025 03:44:08*
 <!-- END_NOW_PLAYING -->

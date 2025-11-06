@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Schuyler Sisters - Phillipa Soo, Various Artists — Hamilton: An American Musica...
-- 💻 **Currently coding** in *HTML*, editing `index.html` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** Farmer Refuted - Thayne Jasperson, Various Artists — Hamilton: An American Mu...
+- 💻 **Currently coding** in *HTML*, editing `index.html` (Project: quill) - 2 minutes ago
 
-*Last updated: 06-11-2025 03:11:48*
+*Last updated: 06-11-2025 03:12:59*
 <!-- END_NOW_PLAYING -->

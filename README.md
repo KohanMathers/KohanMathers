@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Satisfied - Original Broadway Cast of "Hamilton", Various Artists — Hami...
-- 💻 **Currently coding** in *Java*, editing `BuiltInPlayerFuncs.java` (Project: quill) - 3 minutes ago
+- 💻 **Currently coding** in *HTML*, editing `index.html` (Project: quill) - 1 minutes ago
 
-*Last updated: 06-11-2025 03:29:03*
+*Last updated: 06-11-2025 03:30:25*
 <!-- END_NOW_PLAYING -->

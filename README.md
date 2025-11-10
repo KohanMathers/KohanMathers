@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fuck Off in G minor - Dutty Moonshine Big Band — Villain
-- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 6 minutes ago
+- 🎵 **Now Playing:** Long Way Home - 5 Seconds of Summer — 5 Seconds Of Summer
+- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 8 minutes ago
 
-*Last updated: 10-11-2025 02:10:35*
+*Last updated: 10-11-2025 02:13:20*
 <!-- END_NOW_PLAYING -->

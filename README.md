@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Good Luck Charlie - Gracie Abrams — The Secret of Us (Deluxe)
+- 🎵 **Now Playing:** Stay Alive - Original Broadway Cast of "Hamilton" — Hamilton: An American...
 - 💻 **Currently coding** in *Java*, editing `QuillScopeManager.java` (Project: quill) - Just now
 
-*Last updated: 10-11-2025 01:53:22*
+*Last updated: 10-11-2025 01:53:25*
 <!-- END_NOW_PLAYING -->

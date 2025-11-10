@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Locked Up - Dutty Moonshine Big Band — City of Sin
-- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: quill) - Just now
+- 🎵 **Now Playing:** "No Ones Above the Law" Skit - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 1 minutes ago
 
-*Last updated: 10-11-2025 02:50:09*
+*Last updated: 10-11-2025 02:53:10*
 <!-- END_NOW_PLAYING -->

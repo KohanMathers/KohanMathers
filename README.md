@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Social Casualty - 5 Seconds of Summer — 5 Seconds Of Summer (Deluxe) 5 Seconds...
-- 💻 **Last seen coding** in *Java*, editing `Editor.java` (Project: quill) - 35 minutes ago
+- 💻 **Currently coding** in *Java*, editing `Quill.java` (Project: quill) - Just now
 
-*Last updated: 10-11-2025 01:42:44*
+*Last updated: 10-11-2025 01:43:16*
 <!-- END_NOW_PLAYING -->

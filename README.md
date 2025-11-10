@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** "No Ones Above the Law" Skit - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** The Arrest (feat. HypeMan Sage) - Dutty Moonshine Big Band — City of Sin
+- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - Just now
 
-*Last updated: 10-11-2025 02:53:10*
+*Last updated: 10-11-2025 02:54:10*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Good Luck Charlie - Gracie Abrams — The Secret of Us (Deluxe)
-- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - Just now
+- 🎵 **Now Playing:** Ghost of You - 5 Seconds of Summer — Youngblood (Deluxe)
+- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 1 minutes ago
 
-*Last updated: 10-11-2025 02:35:34*
+*Last updated: 10-11-2025 02:39:32*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Broken Record - Faintest Idea — Ignorance Is This
-- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - Just now
+- 🎵 **Now Playing:** The Machine Stops - Faintest Idea — The Road to Sedition
+- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 2 minutes ago
 
-*Last updated: 10-11-2025 02:01:10*
+*Last updated: 10-11-2025 02:03:00*
 <!-- END_NOW_PLAYING -->

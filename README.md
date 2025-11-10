@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `QuillScopeManager.java` (Project: quill) - Just now
+- 💻 **Currently coding** in *Java*, editing `ScopeCommands.java` (Project: quill) - 1 minutes ago
 
-*Last updated: 10-11-2025 12:47:57*
+*Last updated: 10-11-2025 12:52:59*
 <!-- END_NOW_PLAYING -->

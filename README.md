@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Ghost of You - 5 Seconds of Summer — Youngblood (Deluxe)
-- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** Heartbreak Girl - 5 Seconds of Summer — 5 Seconds Of Summer
+- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - Just now
 
-*Last updated: 10-11-2025 02:39:32*
+*Last updated: 10-11-2025 02:42:50*
 <!-- END_NOW_PLAYING -->

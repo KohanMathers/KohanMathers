@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `QTServerSelect.java` (Project: geyserpackdelivery) - 1 minutes ago
+- 💻 **Currently coding** in *Java*, editing `ServerSelectorCommand.java` (Project: qtlobby) - Just now
 
-*Last updated: 10-11-2025 22:27:57*
+*Last updated: 10-11-2025 22:32:59*
 <!-- END_NOW_PLAYING -->

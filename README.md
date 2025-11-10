@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Various Artists — Hamilton: An American Musica...
-- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** Locked Up - Dutty Moonshine Big Band — City of Sin
+- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: quill) - Just now
 
-*Last updated: 10-11-2025 02:48:38*
+*Last updated: 10-11-2025 02:50:09*
 <!-- END_NOW_PLAYING -->

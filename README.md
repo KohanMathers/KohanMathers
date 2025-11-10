@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** False Prophets - Faintest Idea — The Road to Sedition
+- 🎵 **Now Playing:** the last great american dynasty - Taylor Swift — folklore (deluxe version)
 - 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 5 minutes ago
 
-*Last updated: 10-11-2025 02:10:19*
+*Last updated: 10-11-2025 02:10:29*
 <!-- END_NOW_PLAYING -->

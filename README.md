@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Let It Rock - Bon Jovi — Slippery When Wet
-- 💻 **Currently coding** in *YAML*, editing `translations.yml` (Project: quill) - 2 minutes ago
+- 🎵 **Now Playing:** invisible string - Taylor Swift — folklore (deluxe version)
+- 💻 **Currently coding** in *YAML*, editing `translations.yml` (Project: quill) - 3 minutes ago
 
-*Last updated: 10-11-2025 02:21:45*
+*Last updated: 10-11-2025 02:22:26*
 <!-- END_NOW_PLAYING -->

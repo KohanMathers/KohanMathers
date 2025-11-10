@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Java*, editing `Editor.java` (Project: quill) - 30 minutes ago
+- 🎵 **Now Playing:** Want You Back - 5 Seconds of Summer — Youngblood (Deluxe)
+- 💻 **Last seen coding** in *Java*, editing `Editor.java` (Project: quill) - 35 minutes ago
 
-*Last updated: 10-11-2025 01:38:13*
+*Last updated: 10-11-2025 01:42:41*
 <!-- END_NOW_PLAYING -->

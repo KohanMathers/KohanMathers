@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Social Casualty - 5 Seconds of Summer — 5 Seconds Of Summer (Deluxe) 5 Seconds...
-- 💻 **Currently coding** in *Java*, editing `Quill.java` (Project: quill) - Just now
+- 🎵 **Now Playing:** Bang Bang - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Currently coding** in *Java*, editing `QuillScopeManager.java` (Project: quill) - Just now
 
-*Last updated: 10-11-2025 01:43:16*
+*Last updated: 10-11-2025 01:45:55*
 <!-- END_NOW_PLAYING -->

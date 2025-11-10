@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The World Was Wide Enough - Leslie Odom, Jr., Lin-Manuel Miranda & Original Broadway Cas...
-- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 2 minutes ago
+- 🎵 **Now Playing:** Broken Record - Faintest Idea — Ignorance Is This
+- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - Just now
 
-*Last updated: 10-11-2025 01:58:22*
+*Last updated: 10-11-2025 02:01:10*
 <!-- END_NOW_PLAYING -->

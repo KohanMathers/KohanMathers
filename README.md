@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Without Love - Bon Jovi — Slippery When Wet
-- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 3 minutes ago
 
-*Last updated: 10-11-2025 02:57:55*
+*Last updated: 10-11-2025 03:00:36*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** seven - Taylor Swift — folklore (deluxe version)
+- 🎵 **Now Playing:** If Walls Could Talk - 5 Seconds of Summer — Youngblood (Deluxe)
 - 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 9 minutes ago
 
-*Last updated: 10-11-2025 02:13:40*
+*Last updated: 10-11-2025 02:13:45*
 <!-- END_NOW_PLAYING -->

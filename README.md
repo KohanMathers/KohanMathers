@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stay Alive - Original Broadway Cast of "Hamilton" — Hamilton: An American...
-- 💻 **Currently coding** in *Java*, editing `QuillScopeManager.java` (Project: quill) - Just now
+- 🎵 **Now Playing:** The World Was Wide Enough - Leslie Odom, Jr., Lin-Manuel Miranda & Original Broadway Cas...
+- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - Just now
 
-*Last updated: 10-11-2025 01:53:25*
+*Last updated: 10-11-2025 01:56:06*
 <!-- END_NOW_PLAYING -->

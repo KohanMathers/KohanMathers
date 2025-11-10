@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Machine Stops - Faintest Idea — The Road to Sedition
-- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 2 minutes ago
+- 🎵 **Now Playing:** The Story of Tonight (Reprise) - Leslie Odom, Jr., Anthony Ramos, Okieriete Onaodowan, Daveed...
+- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - Just now
 
-*Last updated: 10-11-2025 02:03:00*
+*Last updated: 10-11-2025 02:05:29*
 <!-- END_NOW_PLAYING -->

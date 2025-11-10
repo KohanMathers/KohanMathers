@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** epiphany - Taylor Swift — folklore (deluxe version)
+- 🎵 **Now Playing:** Good Luck Charlie - Gracie Abrams — The Secret of Us (Deluxe)
 - 💻 **Currently coding** in *Java*, editing `QuillScopeManager.java` (Project: quill) - Just now
 
-*Last updated: 10-11-2025 01:53:20*
+*Last updated: 10-11-2025 01:53:22*
 <!-- END_NOW_PLAYING -->

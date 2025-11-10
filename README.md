@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Black Magic - Little Mix — Between Us (Deluxe Version)
-- 💻 **Currently coding** in *Java*, editing `QuillScopeManager.java` (Project: quill) - 2 minutes ago
+- 🎵 **Now Playing:** Let It Rock - Bon Jovi — Slippery When Wet
+- 💻 **Currently coding** in *YAML*, editing `translations.yml` (Project: quill) - 2 minutes ago
 
-*Last updated: 10-11-2025 02:18:28*
+*Last updated: 10-11-2025 02:21:45*
 <!-- END_NOW_PLAYING -->

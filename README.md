@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Pull Up a Chair - The Undercover Hippy — Truth & Fiction
-- 💻 **Last seen coding** in *YAML*, editing `plugin.yml` (Project: quill) - 3h 18m ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Last seen coding** in *YAML*, editing `plugin.yml` (Project: quill) - 3h 23m ago
 
-*Last updated: 11-11-2025 20:52:23*
+*Last updated: 11-11-2025 20:57:08*
 <!-- END_NOW_PLAYING -->

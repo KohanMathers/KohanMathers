@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not Coming Back - Faintest Idea — The Road to Sedition
+- 🎵 **Now Playing:** Too Bad - Faintest Idea — Ignorance Is This
 - 💻 **Last seen coding** in *YAML*, editing `plugin.yml` (Project: quill) - 1h 48m ago
 
-*Last updated: 11-11-2025 19:21:30*
+*Last updated: 11-11-2025 19:21:54*
 <!-- END_NOW_PLAYING -->

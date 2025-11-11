@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Global Recession - The Undercover Hippy — Why We Fight E.P. - EP
-- 💻 **Last seen coding** in *YAML*, editing `plugin.yml` (Project: quill) - 2h 23m ago
+- 🎵 **Now Playing:** Beside You - 5 Seconds of Summer — 5 Seconds Of Summer
+- 💻 **Last seen coding** in *YAML*, editing `plugin.yml` (Project: quill) - 2h 26m ago
 
-*Last updated: 11-11-2025 19:56:49*
+*Last updated: 11-11-2025 19:59:40*
 <!-- END_NOW_PLAYING -->

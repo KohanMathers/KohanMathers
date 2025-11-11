@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Hey Everybody! - 5 Seconds of Summer — Sounds Good Feels Good
-- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: quill) - Just now
+- 🎵 **Now Playing:** War to the Palaces - Faintest Idea — The Road to Sedition
+- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: quill) - 1 minutes ago
 
-*Last updated: 11-11-2025 17:26:54*
+*Last updated: 11-11-2025 17:30:08*
 <!-- END_NOW_PLAYING -->

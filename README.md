@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** this is me trying - Taylor Swift — folklore (deluxe version)
-- 💻 **Last seen coding** in *YAML*, editing `plugin.yml` (Project: quill) - 1h 53m ago
+- 🎵 **Now Playing:** Helpless - Phillipa Soo & Original Broadway Cast of "Hamilton" — Musica...
+- 💻 **Last seen coding** in *YAML*, editing `plugin.yml` (Project: quill) - 1h 54m ago
 
-*Last updated: 11-11-2025 19:26:33*
+*Last updated: 11-11-2025 19:27:50*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Give Love a Bad Name - Bon Jovi — Slippery When Wet
+- 🎵 **Now Playing:** The End of 'The End of History' - Faintest Idea — The Road to Sedition
 - 💻 **Last seen coding** in *YAML*, editing `plugin.yml` (Project: quill) - 2h 11m ago
 
-*Last updated: 11-11-2025 19:45:16*
+*Last updated: 11-11-2025 19:45:19*
 <!-- END_NOW_PLAYING -->

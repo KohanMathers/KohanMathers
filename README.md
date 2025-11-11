@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Mate Like That - The Undercover Hippy — Truth & Fiction
-- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** Hey Everybody! - 5 Seconds of Summer — Sounds Good Feels Good
+- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: quill) - Just now
 
-*Last updated: 11-11-2025 17:25:39*
+*Last updated: 11-11-2025 17:26:54*
 <!-- END_NOW_PLAYING -->

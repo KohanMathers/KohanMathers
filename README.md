@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Normal Thing - Gracie Abrams — The Secret of Us (Deluxe)
-- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: quill) - 2 minutes ago
+- 🎵 **Now Playing:** the last great american dynasty - Taylor Swift — folklore (deluxe version)
+- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: quill) - 3 minutes ago
 
-*Last updated: 11-11-2025 17:16:14*
+*Last updated: 11-11-2025 17:20:14*
 <!-- END_NOW_PLAYING -->

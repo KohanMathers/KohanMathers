@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The End of 'The End of History' - Faintest Idea — The Road to Sedition
+- 🎵 **Now Playing:** Boing - Dutty Moonshine Big Band — Villain
 - 💻 **Last seen coding** in *YAML*, editing `plugin.yml` (Project: quill) - 2h 18m ago
 
-*Last updated: 11-11-2025 19:51:46*
+*Last updated: 11-11-2025 19:52:25*
 <!-- END_NOW_PLAYING -->

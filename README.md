@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Boyfriend - The Undercover Hippy — Monkey Suit
-- 💻 **Last seen coding** in *YAML*, editing `plugin.yml` (Project: quill) - 2h 8m ago
+- 🎵 **Now Playing:** Stay Alive (Reprise) - Lin-Manuel Miranda, Anthony Ramos, Phillipa Soo & Original B...
+- 💻 **Last seen coding** in *YAML*, editing `plugin.yml` (Project: quill) - 2h 9m ago
 
-*Last updated: 11-11-2025 19:41:40*
+*Last updated: 11-11-2025 19:42:50*
 <!-- END_NOW_PLAYING -->

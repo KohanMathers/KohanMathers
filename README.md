@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Dear Theodosia - Leslie Odom, Jr. & Lin-Manuel Miranda — Hamilton: An America...
-- 💻 **Currently coding** in *Java*, editing `QuillInterpreter.java` (Project: quill) - Just now
+- 💻 **Currently coding** in *Java*, editing `QuillScopeManager.java` (Project: quill) - Just now
 
-*Last updated: 11-11-2025 02:27:12*
+*Last updated: 11-11-2025 02:29:25*
 <!-- END_NOW_PLAYING -->

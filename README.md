@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Helpless - Phillipa Soo & Original Broadway Cast of "Hamilton" — Hamilt...
-- 💻 **Currently coding** in *Java*, editing `QuillInterpreter.java` (Project: quill) - Just now
+- 🎵 **Now Playing:** Satisfied - Original Broadway Cast of "Hamilton", Various Artists — Hami...
+- 💻 **Currently coding** in *Java*, editing `QuillInterpreter.java` (Project: quill) - 2 minutes ago
 
-*Last updated: 11-11-2025 01:59:12*
+*Last updated: 11-11-2025 02:00:57*
 <!-- END_NOW_PLAYING -->

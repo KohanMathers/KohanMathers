@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Blow Us All Away - Anthony Ramos, Ariana DeBose, Sasha Hutchings, Ephraim Sykes...
-- 💻 **Last seen coding** in *Java*, editing `QTLobby.java` (Project: qtlobby) - 21 minutes ago
+- 🎵 **Now Playing:** Stay Alive (Reprise) - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 💻 **Currently coding** in *Java*, editing `QuillScriptManager.java` (Project: quill) - 2 minutes ago
 
-*Last updated: 11-11-2025 01:29:00*
+*Last updated: 11-11-2025 01:31:51*
 <!-- END_NOW_PLAYING -->

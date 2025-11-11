@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You'll Be Back - Jonathan Groff & Original Broadway Cast of "Hamilton" — Hami...
-- 💻 **Currently coding** in *Java*, editing `QuillScriptManager.java` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** Right Hand Man - Christopher Jackson, Various Artists — Hamilton: An American...
+- 💻 **Currently coding** in *Java*, editing `QuillInterpreter.java` (Project: quill) - Just now
 
-*Last updated: 11-11-2025 01:49:08*
+*Last updated: 11-11-2025 01:50:11*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Amnesia - 5 Seconds of Summer — 5 Seconds Of Summer
+- 🎵 **Now Playing:** Outlaws (feat. HypeMan Sage) - Dutty Moonshine Big Band — City of Sin
 - 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: quill) - 14h 12m ago
 
-*Last updated: 11-11-2025 17:11:55*
+*Last updated: 11-11-2025 17:11:59*
 <!-- END_NOW_PLAYING -->

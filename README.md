@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Cabinet Battle #1 - Christopher Jackson, Various Artists — Hamilton: An American...
-- 💻 **Currently coding** in *Java*, editing `QuillScopeManager.java` (Project: quill) - 8 minutes ago
+- 🎵 **Now Playing:** Cabinet Battle #1 - Christopher Jackson, Daveed Diggs, Lin-Manuel Miranda & Okie...
+- 💻 **Currently coding** in *Java*, editing `QuillInterpreter.java` (Project: quill) - Just now
 
-*Last updated: 11-11-2025 02:49:33*
+*Last updated: 11-11-2025 02:51:52*
 <!-- END_NOW_PLAYING -->

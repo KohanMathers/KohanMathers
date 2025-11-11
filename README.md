@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Farmer Refuted - Thayne Jasperson, Various Artists — Hamilton: An American Mu...
-- 💻 **Currently coding** in *Java*, editing `QuillScriptManager.java` (Project: quill) - 3 minutes ago
+- 🎵 **Now Playing:** You'll Be Back - Jonathan Groff & Original Broadway Cast of "Hamilton" — Hami...
+- 💻 **Currently coding** in *Java*, editing `Quill.java` (Project: quill) - 1 minutes ago
 
-*Last updated: 11-11-2025 01:44:52*
+*Last updated: 11-11-2025 01:46:41*
 <!-- END_NOW_PLAYING -->

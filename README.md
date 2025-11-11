@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** War to the Palaces - Faintest Idea — The Road to Sedition
-- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** Criminals - Faintest Idea — Ignorance Is This
+- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: quill) - 3 minutes ago
 
-*Last updated: 11-11-2025 17:30:08*
+*Last updated: 11-11-2025 17:32:49*
 <!-- END_NOW_PLAYING -->

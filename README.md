@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** That Would Be Enough - Phillipa Soo & Lin-Manuel Miranda — Hamilton: An American Mu...
-- 💻 **Currently coding** in *Java*, editing `QuillScriptManager.java` (Project: quill) - 1 minutes ago
+- 💻 **Currently coding** in *Java*, editing `QuillScopeManager.java` (Project: quill) - 1 minutes ago
 
-*Last updated: 11-11-2025 02:17:21*
+*Last updated: 11-11-2025 02:19:21*
 <!-- END_NOW_PLAYING -->

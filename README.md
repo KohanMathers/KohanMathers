@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Outlaws (feat. HypeMan Sage) - Dutty Moonshine Big Band — City of Sin
-- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** Normal Thing - Gracie Abrams — The Secret of Us (Deluxe)
+- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: quill) - 2 minutes ago
 
-*Last updated: 11-11-2025 17:15:35*
+*Last updated: 11-11-2025 17:16:14*
 <!-- END_NOW_PLAYING -->

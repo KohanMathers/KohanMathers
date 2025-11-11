@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** False Prophets - Faintest Idea — The Road to Sedition
+- 🎵 **Now Playing:** illicit affairs - Taylor Swift — folklore (deluxe version)
 - 💻 **Last seen coding** in *YAML*, editing `plugin.yml` (Project: quill) - 2h 43m ago
 
-*Last updated: 11-11-2025 20:17:01*
+*Last updated: 11-11-2025 20:17:15*
 <!-- END_NOW_PLAYING -->

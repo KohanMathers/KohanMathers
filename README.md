@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** My Shot - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Currently coding** in *Java*, editing `QuillScriptManager.java` (Project: quill) - 2 minutes ago
+- 💻 **Currently coding** in *Java*, editing `QuillScopeManager.java` (Project: quill) - 3 minutes ago
 
-*Last updated: 11-11-2025 01:34:36*
+*Last updated: 11-11-2025 01:39:04*
 <!-- END_NOW_PLAYING -->

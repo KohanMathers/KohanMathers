@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** the last great american dynasty - Taylor Swift — folklore (deluxe version)
-- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: quill) - Just now
+- 🎵 **Now Playing:** Mate Like That - The Undercover Hippy — Truth & Fiction
+- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: quill) - 1 minutes ago
 
-*Last updated: 11-11-2025 17:20:37*
+*Last updated: 11-11-2025 17:24:08*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Cabinet Battle #1 - Christopher Jackson, Daveed Diggs, Lin-Manuel Miranda & Okie...
-- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: quill) - Just now
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Currently coding** in *Markdown*, editing `README.md` (Project: quill) - 2 minutes ago
 
-*Last updated: 11-11-2025 02:59:37*
+*Last updated: 11-11-2025 03:01:49*
 <!-- END_NOW_PLAYING -->

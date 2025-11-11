@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Story of Tonight - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 🎵 **Now Playing:** The Schuyler Sisters - Phillipa Soo, Various Artists — Hamilton: An American Musica...
 - 💻 **Currently coding** in *Java*, editing `QuillScriptManager.java` (Project: quill) - Just now
 
-*Last updated: 11-11-2025 01:40:11*
+*Last updated: 11-11-2025 01:41:41*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stay Alive (Reprise) - Lin-Manuel Miranda, Anthony Ramos, Phillipa Soo & Original B...
-- 💻 **Last seen coding** in *YAML*, editing `plugin.yml` (Project: quill) - 2h 9m ago
+- 🎵 **Now Playing:** Cabinet Battle #1 - Christopher Jackson, Various Artists — Hamilton: An American...
+- 💻 **Last seen coding** in *YAML*, editing `plugin.yml` (Project: quill) - 2h 11m ago
 
-*Last updated: 11-11-2025 19:42:50*
+*Last updated: 11-11-2025 19:44:45*
 <!-- END_NOW_PLAYING -->

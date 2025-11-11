@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Defy + Demand - Faintest Idea — The Voice of Treason
-- 💻 **Last seen coding** in *YAML*, editing `plugin.yml` (Project: quill) - 1h 19m ago
+- 🎵 **Now Playing:** Not Coming Back - Faintest Idea — The Road to Sedition
+- 💻 **Last seen coding** in *YAML*, editing `plugin.yml` (Project: quill) - 1h 20m ago
 
-*Last updated: 11-11-2025 18:52:49*
+*Last updated: 11-11-2025 18:53:43*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stay Alive (Reprise) - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Currently coding** in *Java*, editing `QuillScriptManager.java` (Project: quill) - 2 minutes ago
+- 🎵 **Now Playing:** Aaron Burr, Sir - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 💻 **Currently coding** in *Java*, editing `QuillScriptManager.java` (Project: quill) - Just now
 
-*Last updated: 11-11-2025 01:31:51*
+*Last updated: 11-11-2025 01:32:01*
 <!-- END_NOW_PLAYING -->

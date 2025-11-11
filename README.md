@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Human Race - The Undercover Hippy — Monkey Suit
 - 💻 **Last seen coding** in *YAML*, editing `plugin.yml` (Project: quill) - 2h 11m ago
 
-*Last updated: 11-11-2025 19:44:52*
+*Last updated: 11-11-2025 19:45:10*
 <!-- END_NOW_PLAYING -->

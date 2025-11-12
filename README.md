@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Guns and Ships - Leslie Odom, Jr., Various Artists — Fiesta del orgullo éxito...
+- 🎵 **Now Playing:** False Prophets - Faintest Idea — The Road to Sedition
 - 💻 **Currently coding** in *Java*, editing `QuillInterpreter.java` (Project: quill) - Just now
 
-*Last updated: 12-11-2025 02:10:27*
+*Last updated: 12-11-2025 02:12:27*
 <!-- END_NOW_PLAYING -->

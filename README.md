@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** End Up Here - 5 Seconds of Summer — 5 Seconds Of Summer
+- 🎵 **Now Playing:** Western World - Faintest Idea — Ignorance Is This
 - 💻 **Currently coding** in *Java*, editing `QuillInterpreter.java` (Project: quill) - 3 minutes ago
 
-*Last updated: 12-11-2025 02:15:34*
+*Last updated: 12-11-2025 02:15:38*
 <!-- END_NOW_PLAYING -->

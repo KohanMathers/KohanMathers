@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** High - 5 Seconds of Summer — CALM
+- 🎵 **Now Playing:** Mate Like That - The Undercover Hippy — Truth & Fiction
 - 💻 **Currently coding** in *Java*, editing `QuillInterpreter.java` (Project: quill) - 1 minutes ago
 
-*Last updated: 12-11-2025 02:18:34*
+*Last updated: 12-11-2025 02:18:37*
 <!-- END_NOW_PLAYING -->

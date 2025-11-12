@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *YAML*, editing `plugin.yml` (Project: pronouns-plugin) - 28 minutes ago
+- 🎵 **Now Playing:** Right Hand Man - Christopher Jackson, Various Artists — Día de las Madres Fav...
+- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 2 minutes ago
 
-*Last updated: 12-11-2025 01:59:35*
+*Last updated: 12-11-2025 02:02:39*
 <!-- END_NOW_PLAYING -->

@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Right Hand Man - Christopher Jackson, Various Artists — Día de las Madres Fav...
-- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - 2 minutes ago
+- 💻 **Currently coding** in *Java*, editing `QuillInterpreter.java` (Project: quill) - 1 minutes ago
 
-*Last updated: 12-11-2025 02:02:39*
+*Last updated: 12-11-2025 02:04:37*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Satisfied (From "Hamilton") - Renée Elise Goldsberry & Original Broadway Cast of "Hamilton...
-- 💻 **Currently coding** in *Markdown*, editing `known-beta-bugs.md` (Project: quill) - 5 minutes ago
+- 🎵 **Now Playing:** Non-Stop - Leslie Odom, Jr., Various Artists — Belting Songs
+- 💻 **Currently coding** in *Markdown*, editing `known-beta-bugs.md` (Project: quill) - 8 minutes ago
 
-*Last updated: 12-11-2025 02:29:48*
+*Last updated: 12-11-2025 02:32:24*
 <!-- END_NOW_PLAYING -->

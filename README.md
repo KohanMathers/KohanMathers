@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Mate Like That - The Undercover Hippy — Truth & Fiction
-- 💻 **Currently coding** in *Java*, editing `QuillInterpreter.java` (Project: quill) - 3 minutes ago
+- 🎵 **Now Playing:** Cabinet Battle #1 - Christopher Jackson, Various Artists — Hamilton: An American...
+- 💻 **Currently coding** in *Java*, editing `QuillInterpreter.java` (Project: quill) - 4 minutes ago
 
-*Last updated: 12-11-2025 02:19:44*
+*Last updated: 12-11-2025 02:21:23*
 <!-- END_NOW_PLAYING -->

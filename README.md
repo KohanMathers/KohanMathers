@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Cabinet Battle #1 - Christopher Jackson, Various Artists — Hamilton: An American...
+- 🎵 **Now Playing:** Stay Alive (Reprise) - Lin-Manuel Miranda, Anthony Ramos, Phillipa Soo & Original B...
 - 💻 **Currently coding** in *Markdown*, editing `known-beta-bugs.md` (Project: quill) - Just now
 
-*Last updated: 12-11-2025 02:24:46*
+*Last updated: 12-11-2025 02:24:58*
 <!-- END_NOW_PLAYING -->

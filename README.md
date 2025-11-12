@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Vibrations - Dutty Moonshine Big Band — Villain
-- 💻 **Currently coding** in *Java*, editing `QuillScopeManager.java` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** Guns and Ships - Leslie Odom, Jr., Various Artists — Fiesta del orgullo éxito...
+- 💻 **Currently coding** in *Java*, editing `QuillInterpreter.java` (Project: quill) - Just now
 
-*Last updated: 12-11-2025 02:09:40*
+*Last updated: 12-11-2025 02:10:27*
 <!-- END_NOW_PLAYING -->

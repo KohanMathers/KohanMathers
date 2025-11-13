@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Everything I Didn't Say - 5 Seconds of Summer — 5 Seconds Of Summer
-- 💻 **Currently coding** in *Markdown*, editing `known-beta-bugs.md` (Project: quill) - Just now
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Currently coding** in *Markdown*, editing `known-beta-bugs.md` (Project: quill) - 2 minutes ago
 
-*Last updated: 13-11-2025 03:38:10*
+*Last updated: 13-11-2025 03:39:59*
 <!-- END_NOW_PLAYING -->

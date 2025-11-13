@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** More - 5 Seconds of Summer — Youngblood (Deluxe)
-- 💻 **Currently coding** in *Java*, editing `QuillInternalListeners.java` (Project: quill) - Just now
+- 🎵 **Now Playing:** Heartbreak Anthem (feat. David Guetta & Little Mix) - Galantis — Between Us (Deluxe Version)
+- 💻 **Currently coding** in *Java*, editing `Quill.java` (Project: quill) - Just now
 
-*Last updated: 13-11-2025 01:15:08*
+*Last updated: 13-11-2025 01:18:22*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Down Pressure - Faintest Idea — Increasing the Minimum Rage
-- 💻 **Currently coding** in *Java*, editing `QuillScopeManager.java` (Project: quill) - Just now
+- 🎵 **Now Playing:** Echo Chamber - Faintest Idea — Increasing the Minimum Rage
+- 💻 **Currently coding** in *Java*, editing `QuillScopeManager.java` (Project: quill) - 3 minutes ago
 
-*Last updated: 13-11-2025 02:31:05*
+*Last updated: 13-11-2025 02:34:19*
 <!-- END_NOW_PLAYING -->

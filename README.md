@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Knew It, I Know You - Gracie Abrams — The Secret of Us (Deluxe)
-- 💻 **Currently coding** in *Java*, editing `ScopeCommands.java` (Project: quill) - 2 minutes ago
+- 🎵 **Now Playing:** Reggaetón Lento (Remix) - CNCO & Little Mix — Between Us (Deluxe Version)
+- 💻 **Currently coding** in *Java*, editing `ScopeCommands.java` (Project: quill) - 1 minutes ago
 
-*Last updated: 13-11-2025 02:01:24*
+*Last updated: 13-11-2025 02:05:40*
 <!-- END_NOW_PLAYING -->

@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Love (Sweet Love) - Little Mix — Between Us (Deluxe Version)
-- 💻 **Currently coding** in *Java*, editing `ScopeCommands.java` (Project: quill) - 4 minutes ago
+- 💻 **Currently coding** in *Java*, editing `ScopeCommands.java` (Project: quill) - 1 minutes ago
 
-*Last updated: 13-11-2025 00:43:10*
+*Last updated: 13-11-2025 00:44:26*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Love (Sweet Love) - Little Mix — Between Us (Deluxe Version)
-- 💻 **Currently coding** in *Java*, editing `ScopeCommands.java` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** Lonely Heart - 5 Seconds of Summer — CALM
+- 💻 **Currently coding** in *Java*, editing `QuillInterpreter.java` (Project: quill) - Just now
 
-*Last updated: 13-11-2025 00:44:26*
+*Last updated: 13-11-2025 00:46:56*
 <!-- END_NOW_PLAYING -->

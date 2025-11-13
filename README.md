@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** august - Taylor Swift — folklore (deluxe version)
-- 💻 **Currently coding** in *Markdown*, editing `known-beta-bugs.md` (Project: quill) - Just now
+- 🎵 **Now Playing:** Smokey Blues - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Currently coding** in *Java*, editing `ScopeCommands.java` (Project: quill) - 1 minutes ago
 
-*Last updated: 13-11-2025 01:39:46*
+*Last updated: 13-11-2025 01:43:09*
 <!-- END_NOW_PLAYING -->

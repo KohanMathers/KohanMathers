@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Kill Em Dead - Faintest Idea — The Road to Sedition
+- 🎵 **Now Playing:** False Prophets - Faintest Idea — The Road to Sedition
 - 💻 **Currently coding** in *Java*, editing `QuillScopeManager.java` (Project: quill) - Just now
 
-*Last updated: 13-11-2025 02:50:15*
+*Last updated: 13-11-2025 02:50:54*
 <!-- END_NOW_PLAYING -->

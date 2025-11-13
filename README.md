@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Secret Love Song (feat. Jason Derulo) - Little Mix — Between Us (Deluxe Version)
-- 💻 **Currently coding** in *YAML*, editing `translations.yml` (Project: quill) - 2 minutes ago
+- 💻 **Currently coding** in *Java*, editing `ScopeCommands.java` (Project: quill) - 1 minutes ago
 
-*Last updated: 13-11-2025 01:57:15*
+*Last updated: 13-11-2025 01:59:54*
 <!-- END_NOW_PLAYING -->

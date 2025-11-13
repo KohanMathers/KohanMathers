@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Villain (feat. Crimehawk) - Dutty Moonshine Big Band — Villain
-- 💻 **Currently coding** in *YAML*, editing `translations.yml` (Project: quill) - Just now
+- 🎵 **Now Playing:** Nose Dive (feat. Riskee & the Ridicule) - Faintest Idea — The Road to Sedition
+- 💻 **Currently coding** in *Java*, editing `ScopeCommands.java` (Project: quill) - Just now
 
-*Last updated: 13-11-2025 02:09:57*
+*Last updated: 13-11-2025 02:13:25*
 <!-- END_NOW_PLAYING -->

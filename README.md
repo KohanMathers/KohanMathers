@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Turned Up To Turn Down (feat. Ade) - Dutty Moonshine Big Band — Villain
-- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 4 minutes ago
+- 💻 **Currently coding** in *Java*, editing `ScopeCommands.java` (Project: quill) - Just now
 
-*Last updated: 13-11-2025 00:35:44*
+*Last updated: 13-11-2025 00:39:24*
 <!-- END_NOW_PLAYING -->

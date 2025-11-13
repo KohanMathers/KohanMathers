@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Opalite - Taylor Swift — The Life of a Showgirl
-- 💻 **Currently coding** in *Java*, editing `QuillInterpreter.java` (Project: quill) - Just now
+- 🎵 **Now Playing:** Airplanes - 5 Seconds of Summer — Sounds Good Feels Good
+- 💻 **Currently coding** in *Java*, editing `QuillInterpreter.java` (Project: quill) - 4 minutes ago
 
-*Last updated: 13-11-2025 00:54:31*
+*Last updated: 13-11-2025 00:58:24*
 <!-- END_NOW_PLAYING -->

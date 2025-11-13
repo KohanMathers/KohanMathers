@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Wasabi - Little Mix — Between Us (Deluxe Version)
-- 💻 **Currently coding** in *Markdown*, editing `known-beta-bugs.md` (Project: quill) - 2 minutes ago
+- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 2 minutes ago
 
-*Last updated: 13-11-2025 00:21:47*
+*Last updated: 13-11-2025 00:24:19*
 <!-- END_NOW_PLAYING -->

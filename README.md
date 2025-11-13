@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Outlaws (feat. HypeMan Sage) - Dutty Moonshine Big Band — City of Sin
+- 🎵 **Now Playing:** Babylon - 5 Seconds of Summer — Youngblood (Deluxe)
 - 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - Just now
 
-*Last updated: 13-11-2025 00:27:59*
+*Last updated: 13-11-2025 00:32:10*
 <!-- END_NOW_PLAYING -->

@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** august - Taylor Swift — folklore (deluxe version)
-- 💻 **Currently coding** in *Java*, editing `BuiltInPlayerFuncs.java` (Project: quill) - 2 minutes ago
+- 💻 **Currently coding** in *Markdown*, editing `known-beta-bugs.md` (Project: quill) - Just now
 
-*Last updated: 13-11-2025 01:38:50*
+*Last updated: 13-11-2025 01:39:46*
 <!-- END_NOW_PLAYING -->

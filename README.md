@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Criminals - Faintest Idea — Ignorance Is This
-- 💻 **Currently coding** in *Java*, editing `QuillScopeManager.java` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** Who Lives, Who Dies, Who Tells Your Story - Original Broadway Cast of "Hamilton" — Hamilton: Eliza's Sto...
+- 💻 **Currently coding** in *YAML*, editing `translations.yml` (Project: quill) - 2 minutes ago
 
-*Last updated: 13-11-2025 02:16:14*
+*Last updated: 13-11-2025 02:19:20*
 <!-- END_NOW_PLAYING -->

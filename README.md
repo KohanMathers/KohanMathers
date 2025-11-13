@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Rational Pride - Faintest Idea — Ignorance Is This
-- 💻 **Currently coding** in *Java*, editing `ScopeCommands.java` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** Love (Sweet Love) - Little Mix — Between Us (Deluxe Version)
+- 💻 **Currently coding** in *Java*, editing `ScopeCommands.java` (Project: quill) - 4 minutes ago
 
-*Last updated: 13-11-2025 00:39:59*
+*Last updated: 13-11-2025 00:43:10*
 <!-- END_NOW_PLAYING -->

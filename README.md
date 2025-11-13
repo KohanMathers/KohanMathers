@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Well Has Run Dry - Faintest Idea — Increasing the Minimum Rage
-- 💻 **Currently coding** in *Java*, editing `Scope.java` (Project: quill) - Just now
+- 🎵 **Now Playing:** Lords of War - Faintest Idea — Increasing the Minimum Rage
+- 💻 **Currently coding** in *Java*, editing `QuillEventBridge.java` (Project: quill) - Just now
 
-*Last updated: 13-11-2025 02:37:18*
+*Last updated: 13-11-2025 02:39:17*
 <!-- END_NOW_PLAYING -->

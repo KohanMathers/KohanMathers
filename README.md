@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Risk - Gracie Abrams — The Secret of Us (Deluxe)
-- 💻 **Currently coding** in *Java*, editing `QuillInternalListeners.java` (Project: quill) - 7 minutes ago
+- 🎵 **Now Playing:** Confetti (feat. Saweetie) - Little Mix — Between Us (Deluxe Version)
+- 💻 **Currently coding** in *Java*, editing `QuillInternalListeners.java` (Project: quill) - 9 minutes ago
 
-*Last updated: 13-11-2025 01:34:43*
+*Last updated: 13-11-2025 01:36:25*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Taking Over - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Currently coding** in *Java*, editing `BuiltInPlayerFuncs.java` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** Blow Us All Away - Anthony Ramos, Ariana DeBose, Sasha Hutchings, Ephraim Sykes...
+- 💻 **Currently coding** in *Java*, editing `BuiltInPlayerFuncs.java` (Project: quill) - Just now
 
-*Last updated: 13-11-2025 01:04:33*
+*Last updated: 13-11-2025 01:06:00*
 <!-- END_NOW_PLAYING -->

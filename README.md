@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Wasabi - Little Mix — Between Us (Deluxe Version)
+- 🎵 **Now Playing:** Most Wanted - Dutty Moonshine Big Band — Most Wanted
 - 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 2 minutes ago
 
-*Last updated: 13-11-2025 00:24:19*
+*Last updated: 13-11-2025 00:24:21*
 <!-- END_NOW_PLAYING -->

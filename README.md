@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Vibrations - Dutty Moonshine Big Band — Villain
-- 💻 **Currently coding** in *Java*, editing `BuiltInPlayerFuncs.java` (Project: quill) - Just now
+- 🎵 **Now Playing:** august - Taylor Swift — folklore (deluxe version)
+- 💻 **Currently coding** in *Java*, editing `BuiltInPlayerFuncs.java` (Project: quill) - 2 minutes ago
 
-*Last updated: 13-11-2025 01:36:29*
+*Last updated: 13-11-2025 01:38:50*
 <!-- END_NOW_PLAYING -->

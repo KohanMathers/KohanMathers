@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Blow Us All Away - Anthony Ramos, Ariana DeBose, Sasha Hutchings, Ephraim Sykes...
-- 💻 **Currently coding** in *Java*, editing `BuiltInPlayerFuncs.java` (Project: quill) - Just now
+- 💻 **Currently coding** in *Java*, editing `QuillInternalListeners.java` (Project: quill) - 1 minutes ago
 
-*Last updated: 13-11-2025 01:06:00*
+*Last updated: 13-11-2025 01:09:35*
 <!-- END_NOW_PLAYING -->

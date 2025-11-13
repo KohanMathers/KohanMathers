@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Right Hand Man - Christopher Jackson, Various Artists — Día de las Madres Fav...
-- 💻 **Currently coding** in *Java*, editing `QuillInternalListeners.java` (Project: quill) - 2 minutes ago
+- 🎵 **Now Playing:** More - 5 Seconds of Summer — Youngblood (Deluxe)
+- 💻 **Currently coding** in *Java*, editing `QuillInternalListeners.java` (Project: quill) - Just now
 
-*Last updated: 13-11-2025 01:09:46*
+*Last updated: 13-11-2025 01:15:08*
 <!-- END_NOW_PLAYING -->

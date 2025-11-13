@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Lords of War - Faintest Idea — Increasing the Minimum Rage
-- 💻 **Currently coding** in *Java*, editing `QuillEventBridge.java` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** Throw Away the Key - Faintest Idea — Increasing the Minimum Rage
+- 💻 **Currently coding** in *Java*, editing `ScopeCommands.java` (Project: quill) - 1 minutes ago
 
-*Last updated: 13-11-2025 02:40:10*
+*Last updated: 13-11-2025 02:42:25*
 <!-- END_NOW_PLAYING -->

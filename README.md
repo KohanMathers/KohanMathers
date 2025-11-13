@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The End of 'The End of History' - Faintest Idea — The Road to Sedition
-- 💻 **Currently coding** in *YAML*, editing `translations.yml` (Project: quill) - Just now
+- 🎵 **Now Playing:** She Looks So Perfect - 5 Seconds of Summer — 5 Seconds Of Summer
+- 💻 **Currently coding** in *YAML*, editing `translations.yml` (Project: quill) - 1 minutes ago
 
-*Last updated: 13-11-2025 03:20:28*
+*Last updated: 13-11-2025 03:21:59*
 <!-- END_NOW_PLAYING -->

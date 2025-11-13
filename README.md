@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Babylon - 5 Seconds of Summer — Youngblood (Deluxe)
-- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 3 minutes ago
+- 🎵 **Now Playing:** Turned Up To Turn Down (feat. Ade) - Dutty Moonshine Big Band — Villain
+- 💻 **Currently coding** in *Java*, editing `QuillCommands.java` (Project: quill) - 4 minutes ago
 
-*Last updated: 13-11-2025 00:34:22*
+*Last updated: 13-11-2025 00:35:44*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Mutually Assured Confusion - Faintest Idea — The Road to Sedition
-- 💻 **Currently coding** in *Java*, editing `ScopeCommands.java` (Project: quill) - 3 minutes ago
+- 🎵 **Now Playing:** Hoods Up Heads Down - Faintest Idea — The Road to Sedition
+- 💻 **Currently coding** in *Java*, editing `QuillScopeManager.java` (Project: quill) - 2 minutes ago
 
-*Last updated: 13-11-2025 02:57:00*
+*Last updated: 13-11-2025 02:59:49*
 <!-- END_NOW_PLAYING -->

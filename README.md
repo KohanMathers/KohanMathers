@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** That Would Be Enough - Phillipa Soo & Lin-Manuel Miranda — Hamilton: An American Mu...
-- 💻 **Currently coding** in *YAML*, editing `translations.yml` (Project: quill) - 2 minutes ago
+- 🎵 **Now Playing:** Villain (feat. Crimehawk) - Dutty Moonshine Big Band — Villain
+- 💻 **Currently coding** in *YAML*, editing `translations.yml` (Project: quill) - 3 minutes ago
 
-*Last updated: 13-11-2025 02:08:44*
+*Last updated: 13-11-2025 02:09:25*
 <!-- END_NOW_PLAYING -->

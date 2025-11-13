@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Nose Dive (feat. Riskee & the Ridicule) - Faintest Idea — The Road to Sedition
-- 💻 **Currently coding** in *Java*, editing `ScopeCommands.java` (Project: quill) - Just now
+- 💻 **Currently coding** in *Java*, editing `QuillScopeManager.java` (Project: quill) - Just now
 
-*Last updated: 13-11-2025 02:13:25*
+*Last updated: 13-11-2025 02:14:59*
 <!-- END_NOW_PLAYING -->

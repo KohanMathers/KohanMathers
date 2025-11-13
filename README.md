@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Helpless - Phillipa Soo & Original Broadway Cast of "Hamilton" — Musica...
-- 💻 **Currently coding** in *Java*, editing `ScopeCommands.java` (Project: quill) - Just now
+- 💻 **Currently coding** in *YAML*, editing `translations.yml` (Project: quill) - Just now
 
-*Last updated: 13-11-2025 01:53:08*
+*Last updated: 13-11-2025 01:54:52*
 <!-- END_NOW_PLAYING -->

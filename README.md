@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Mutually Assured Confusion - Faintest Idea — The Road to Sedition
+- 🎵 **Now Playing:** The Adams Administration - Original Broadway Cast of "Hamilton" — Hamilton: An American...
 - 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quill) - 4 minutes ago
 
-*Last updated: 14-11-2025 22:54:55*
+*Last updated: 14-11-2025 22:55:08*
 <!-- END_NOW_PLAYING -->

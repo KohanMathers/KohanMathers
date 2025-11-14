@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quill) - Just now
+- 🎵 **Now Playing:** Mutually Assured Confusion - Faintest Idea — The Road to Sedition
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quill) - 4 minutes ago
 
-*Last updated: 14-11-2025 22:51:34*
+*Last updated: 14-11-2025 22:54:55*
 <!-- END_NOW_PLAYING -->

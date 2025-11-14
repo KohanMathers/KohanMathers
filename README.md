@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** The Adams Administration - Original Broadway Cast of "Hamilton" — Hamilton: An American...
-- 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: quill) - 16 minutes ago
+- 💻 **Currently coding** in *Markdown*, editing `known-beta-bugs.md` (Project: quill) - 1 minutes ago
 
-*Last updated: 14-11-2025 23:06:41*
+*Last updated: 14-11-2025 23:11:43*
 <!-- END_NOW_PLAYING -->

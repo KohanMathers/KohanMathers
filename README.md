@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Adams Administration - Original Broadway Cast of "Hamilton" — Hamilton: An American...
-- 💻 **Last seen coding** in *YAML*, editing `translations.yml` (Project: quill) - 19 minutes ago
+- 🎵 **Now Playing:** Borders - The Undercover Hippy — Monkey Suit
+- 💻 **Last seen coding** in *YAML*, editing `translations.yml` (Project: quill) - 20 minutes ago
 
-*Last updated: 14-11-2025 23:36:55*
+*Last updated: 14-11-2025 23:38:04*
 <!-- END_NOW_PLAYING -->

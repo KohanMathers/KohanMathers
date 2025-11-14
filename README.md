@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Borders - The Undercover Hippy — Monkey Suit
-- 💻 **Last seen coding** in *YAML*, editing `translations.yml` (Project: quill) - 20 minutes ago
+- 💻 **Currently coding** in *Markdown*, editing `script-management.md` (Project: quilldocs) - 1 minutes ago
 
-*Last updated: 14-11-2025 23:38:04*
+*Last updated: 14-11-2025 23:41:57*
 <!-- END_NOW_PLAYING -->

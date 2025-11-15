@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Down Pressure - Faintest Idea — Increasing the Minimum Rage
-- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 1h 35m ago
+- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 1h 40m ago
 
-*Last updated: 15-11-2025 18:24:53*
+*Last updated: 15-11-2025 18:29:55*
 <!-- END_NOW_PLAYING -->

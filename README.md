@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Holiday - Little Mix — Between Us (Deluxe Version)
+- 🎵 **Now Playing:** My Shot - Anthony Ramos, Various Artists — Rewrite the Stars - Movie Hits
 - 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 3h 51m ago
 
-*Last updated: 15-11-2025 20:41:08*
+*Last updated: 15-11-2025 20:41:14*
 <!-- END_NOW_PLAYING -->

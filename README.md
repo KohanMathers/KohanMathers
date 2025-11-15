@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Down Pressure - Faintest Idea — Increasing the Minimum Rage
-- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 1h 55m ago
+- 🎵 **Now Playing:** Cabinet Battle #1 - Christopher Jackson, Various Artists — Hamilton: An American...
+- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 1h 57m ago
 
-*Last updated: 15-11-2025 18:45:02*
+*Last updated: 15-11-2025 18:47:13*
 <!-- END_NOW_PLAYING -->

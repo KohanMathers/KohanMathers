@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Vibrations - Dutty Moonshine Big Band — Villain
-- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - Just now
+- 🎵 **Now Playing:** Stay Alive - Original Broadway Cast of "Hamilton" — Hamilton: An American...
+- 💻 **Currently coding** in *Markdown*, editing `faq.md` (Project: quilldocs) - Just now
 
-*Last updated: 15-11-2025 08:10:27*
+*Last updated: 15-11-2025 08:12:46*
 <!-- END_NOW_PLAYING -->

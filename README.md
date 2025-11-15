@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Wi$h Li$t - Taylor Swift — The Life of a Showgirl
+- 🎵 **Now Playing:** Tough Love - Gracie Abrams — The Secret of Us (Deluxe)
 - 💻 **Currently coding** in *Markdown*, editing `utility.md` (Project: quilldocs) - 1 minutes ago
 
-*Last updated: 15-11-2025 05:44:18*
+*Last updated: 15-11-2025 05:46:33*
 <!-- END_NOW_PLAYING -->

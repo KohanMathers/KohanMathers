@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** You Give Love a Bad Name - Bon Jovi — Slippery When Wet
+- 🎵 **Now Playing:** Schuyler Defeated - Anthony Ramos, Various Artists — Hamilton: An American Music...
 - 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 1h 21m ago
 
-*Last updated: 15-11-2025 18:11:24*
+*Last updated: 15-11-2025 18:11:27*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Non-Stop - Leslie Odom, Jr., Various Artists — Belting Songs
+- 🎵 **Now Playing:** Waste the Night - 5 Seconds of Summer — Sounds Good Feels Good
 - 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - 2 minutes ago
 
-*Last updated: 15-11-2025 05:34:13*
+*Last updated: 15-11-2025 05:34:28*
 <!-- END_NOW_PLAYING -->

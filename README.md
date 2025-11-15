@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Long Way Home - 5 Seconds of Summer — 5 Seconds Of Summer
-- 💻 **Currently coding** in *Markdown*, editing `string-interpolation.md` (Project: quilldocs) - 2 minutes ago
+- 🎵 **Now Playing:** Better Man - 5 Seconds of Summer — Youngblood (Deluxe)
+- 💻 **Currently coding** in *Markdown*, editing `player.md` (Project: quilldocs) - 2 minutes ago
 
-*Last updated: 15-11-2025 05:05:33*
+*Last updated: 15-11-2025 05:08:54*
 <!-- END_NOW_PLAYING -->

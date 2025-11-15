@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Bully Boy - Faintest Idea — Ignorance Is This
+- 🎵 **Now Playing:** Vibrations - Dutty Moonshine Big Band — Villain
 - 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - Just now
 
-*Last updated: 15-11-2025 08:10:19*
+*Last updated: 15-11-2025 08:10:27*
 <!-- END_NOW_PLAYING -->

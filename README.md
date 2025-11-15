@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Take a Break - Phillipa Soo, Various Artists — Hamilton: Angelica's Story (...
-- 💻 **Currently coding** in *Markdown*, editing `utility.md` (Project: quilldocs) - 1 minutes ago
+- 🎵 **Now Playing:** Hurricane - Lin-Manuel Miranda & Original Broadway Cast of "Hamilton" — ...
+- 💻 **Currently coding** in *Markdown*, editing `scope.md` (Project: quilldocs) - 1 minutes ago
 
-*Last updated: 15-11-2025 05:49:22*
+*Last updated: 15-11-2025 05:54:07*
 <!-- END_NOW_PLAYING -->

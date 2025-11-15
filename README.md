@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Actually Romantic - Taylor Swift — The Life of a Showgirl
+- 🎵 **Now Playing:** epiphany - Taylor Swift — folklore (deluxe version)
 - 💻 **Currently coding** in *Markdown*, editing `quickstart.md` (Project: quilldocs) - 1 minutes ago
 
-*Last updated: 15-11-2025 04:03:48*
+*Last updated: 15-11-2025 04:06:33*
 <!-- END_NOW_PLAYING -->

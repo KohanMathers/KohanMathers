@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Can't Stop The Tide - The Undercover Hippy — Monkey Suit
+- 🎵 **Now Playing:** Ten Duel Commandments - Anthony Ramos, Various Artists — Hamilton: An American Music...
 - 💻 **Currently coding** in *Markdown*, editing `faq.md` (Project: quilldocs) - 1 minutes ago
 
-*Last updated: 15-11-2025 08:18:37*
+*Last updated: 15-11-2025 08:18:42*
 <!-- END_NOW_PLAYING -->

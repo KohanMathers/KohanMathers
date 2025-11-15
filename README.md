@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Election of 1800 - Daveed Diggs, Various Artists — Hamilton: An American Musica...
-- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quill) - 8 minutes ago
+- 🎵 **Now Playing:** The Election of 1800 - Daveed Diggs, Okieriete Onaodowan, Leslie Odom, Jr., Lin-Man...
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quill) - 11 minutes ago
 
-*Last updated: 15-11-2025 09:30:55*
+*Last updated: 15-11-2025 09:34:09*
 <!-- END_NOW_PLAYING -->

@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** It's Quiet Uptown (From "Hamilton") - Renée Elise Goldsberry, Lin-Manuel Miranda, Phillipa Soo & O...
-- 💻 **Currently coding** in *Markdown*, editing `faq.md` (Project: quilldocs) - 2 minutes ago
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - 2 minutes ago
 
-*Last updated: 15-11-2025 08:26:54*
+*Last updated: 15-11-2025 08:30:28*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Youth - Faintest Idea — The Voice of Treason
-- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - 4 minutes ago
+- 🎵 **Now Playing:** Outlaws (feat. HypeMan Sage) - Dutty Moonshine Big Band — City of Sin
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - 7 minutes ago
 
-*Last updated: 15-11-2025 04:18:40*
+*Last updated: 15-11-2025 04:21:57*
 <!-- END_NOW_PLAYING -->

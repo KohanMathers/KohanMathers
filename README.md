@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Kill My Time - 5 Seconds of Summer — CALM
+- 🎵 **Now Playing:** Aaron Burr, Sir - Lin-Manuel Miranda, Leslie Odom, Jr., Anthony Ramos, Daveed ...
 - 💻 **Currently coding** in *Markdown*, editing `faq.md` (Project: quilldocs) - Just now
 
-*Last updated: 15-11-2025 08:15:23*
+*Last updated: 15-11-2025 08:15:32*
 <!-- END_NOW_PLAYING -->

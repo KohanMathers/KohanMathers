@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Various Artists — Hamilton: An American Musica...
-- 💻 **Currently coding** in *Java*, editing `QuillInterpreter.java` (Project: quill) - 3 minutes ago
+- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Leslie Odom, Jr., Okieriete Onaodowan & Origin...
+- 💻 **Currently coding** in *Java*, editing `QuillParser.java` (Project: quill) - Just now
 
-*Last updated: 15-11-2025 08:55:39*
+*Last updated: 15-11-2025 08:57:24*
 <!-- END_NOW_PLAYING -->

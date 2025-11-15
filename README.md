@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Your Obedient Servant - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
-- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quill) - 13 minutes ago
+- 🎵 **Now Playing:** The World Was Wide Enough - Leslie Odom, Jr., Lin-Manuel Miranda & Original Broadway Cas...
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quill) - 14 minutes ago
 
-*Last updated: 15-11-2025 09:35:57*
+*Last updated: 15-11-2025 09:36:58*
 <!-- END_NOW_PLAYING -->

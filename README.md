@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Broken Home - 5 Seconds of Summer — Sounds Good Feels Good (Deluxe)
-- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - 1 minutes ago
+- 🎵 **Now Playing:** Holiday - Little Mix — Between Us (Deluxe Version)
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - 2 minutes ago
 
-*Last updated: 15-11-2025 04:38:48*
+*Last updated: 15-11-2025 04:38:58*
 <!-- END_NOW_PLAYING -->

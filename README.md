@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not in the Same Way - 5 Seconds of Summer — CALM
+- 🎵 **Now Playing:** Blow Us All Away - Anthony Ramos, Ariana DeBose, Sasha Hutchings, Ephraim Sykes...
 - 💻 **Currently coding** in *Markdown*, editing `Untitled-1.md` (Project: quill) - 2 minutes ago
 
-*Last updated: 15-11-2025 00:52:18*
+*Last updated: 15-11-2025 00:54:48*
 <!-- END_NOW_PLAYING -->

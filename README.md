@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Monkey Suit - The Undercover Hippy — Monkey Suit
-- 💻 **Currently coding** in *Markdown*, editing `syntax.md` (Project: quilldocs) - 3 minutes ago
+- 🎵 **Now Playing:** Helpless - Phillipa Soo & Original Broadway Cast of "Hamilton" — Musica...
+- 💻 **Currently coding** in *Markdown*, editing `data-types.md` (Project: quilldocs) - Just now
 
-*Last updated: 15-11-2025 04:43:50*
+*Last updated: 15-11-2025 04:46:12*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Schuyler Defeated - Anthony Ramos, Various Artists — Hamilton: An American Music...
-- 💻 **Currently coding** in *HTML*, editing `installation.html` (Project: quill) - 5 minutes ago
+- 🎵 **Now Playing:** Cabinet Battle #1 - Christopher Jackson, Various Artists — Hamilton: An American...
+- 💻 **Currently coding** in *HTML*, editing `installation.html` (Project: quill) - 6 minutes ago
 
-*Last updated: 15-11-2025 09:09:37*
+*Last updated: 15-11-2025 09:10:43*
 <!-- END_NOW_PLAYING -->

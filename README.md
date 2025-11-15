@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Room Where It Happens - Leslie Odom, Jr., Lin-Manuel Miranda, Daveed Diggs, Okieriet...
-- 💻 **Currently coding** in *HTML*, editing `installation.html` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** Schuyler Defeated - Anthony Ramos, Various Artists — Hamilton: An American Music...
+- 💻 **Currently coding** in *HTML*, editing `installation.html` (Project: quill) - 5 minutes ago
 
-*Last updated: 15-11-2025 09:05:43*
+*Last updated: 15-11-2025 09:09:37*
 <!-- END_NOW_PLAYING -->

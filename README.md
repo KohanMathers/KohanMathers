@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Wild In the Streets - Bon Jovi — Slippery When Wet
-- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 2h 55m ago
+- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 3 hours ago
 
-*Last updated: 15-11-2025 19:45:29*
+*Last updated: 15-11-2025 19:50:31*
 <!-- END_NOW_PLAYING -->

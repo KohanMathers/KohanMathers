@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** False Prophets - Faintest Idea — The Road to Sedition
+- 🎵 **Now Playing:** A Winter's Ball - Leslie Odom, Jr., Lin-Manuel Miranda & Original Broadway Cas...
 - 💻 **Currently coding** in *Markdown*, editing `getting-started.md` (Project: quilldocs) - 1 minutes ago
 
-*Last updated: 15-11-2025 04:33:46*
+*Last updated: 15-11-2025 04:34:08*
 <!-- END_NOW_PLAYING -->

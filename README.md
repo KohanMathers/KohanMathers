@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** One Last Time - Christopher Jackson, Lin-Manuel Miranda & Original Broadway ...
-- 💻 **Currently coding** in *None*, editing `Untitled-2` (Project: quill) - 4 minutes ago
+- 🎵 **Now Playing:** Nothing To Lose - The Undercover Hippy — Truth & Fiction
+- 💻 **Currently coding** in *None*, editing `Untitled-2` (Project: quill) - 8 minutes ago
 
-*Last updated: 15-11-2025 21:51:32*
+*Last updated: 15-11-2025 21:54:42*
 <!-- END_NOW_PLAYING -->

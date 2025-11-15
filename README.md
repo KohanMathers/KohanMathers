@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Broken Record - Faintest Idea — Ignorance Is This
-- 💻 **Currently coding** in *Python*, editing `quilldocs.py` (Project: quilldocs) - 13 minutes ago
+- 🎵 **Now Playing:** Not in the Same Way - 5 Seconds of Summer — CALM
+- 💻 **Currently coding** in *Markdown*, editing `Untitled-1.md` (Project: quill) - 1 minutes ago
 
-*Last updated: 15-11-2025 00:49:17*
+*Last updated: 15-11-2025 00:51:04*
 <!-- END_NOW_PLAYING -->

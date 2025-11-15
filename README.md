@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Cabinet Battle #1 - Christopher Jackson, Various Artists — Hamilton: An American...
-- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 2 hours ago
+- 🎵 **Now Playing:** History Has Its Eyes On You - Christopher Jackson, Lin-Manuel Miranda & Original Broadway ...
+- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 2h 1m ago
 
-*Last updated: 15-11-2025 18:50:04*
+*Last updated: 15-11-2025 18:50:54*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Livin' On a Prayer - Bon Jovi — Slippery When Wet
+- 🎵 **Now Playing:** Seperation of Corporation and State - Faintest Idea — The Voice of Treason
 - 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 4h 36m ago
 
-*Last updated: 15-11-2025 21:26:20*
+*Last updated: 15-11-2025 21:26:38*
 <!-- END_NOW_PLAYING -->

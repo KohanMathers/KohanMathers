@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** City of Sin - Dutty Moonshine Big Band — City of Sin
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Currently coding** in *Markdown*, editing `Untitled-1.md` (Project: quill) - 6 minutes ago
 
-*Last updated: 15-11-2025 01:04:13*
+*Last updated: 15-11-2025 01:05:01*
 <!-- END_NOW_PLAYING -->

@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Non-Stop - Leslie Odom, Jr., Various Artists — Belting Songs
-- 💻 **Currently coding** in *Markdown*, editing `scope.md` (Project: quilldocs) - 4 minutes ago
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - 2 minutes ago
 
-*Last updated: 15-11-2025 05:29:11*
+*Last updated: 15-11-2025 05:34:13*
 <!-- END_NOW_PLAYING -->

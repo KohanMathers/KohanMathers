@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stick Up - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Currently coding** in *Python*, editing `quilldocs.py` (Project: quilldocs) - 6 minutes ago
+- 🎵 **Now Playing:** Stay Alive (Reprise) - Lin-Manuel Miranda, Anthony Ramos, Phillipa Soo & Original B...
+- 💻 **Currently coding** in *Python*, editing `quilldocs.py` (Project: quilldocs) - 8 minutes ago
 
-*Last updated: 15-11-2025 00:42:14*
+*Last updated: 15-11-2025 00:44:18*
 <!-- END_NOW_PLAYING -->

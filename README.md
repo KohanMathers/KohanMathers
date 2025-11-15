@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Burn - Phillipa Soo — Belting Songs
+- 🎵 **Now Playing:** Blow Us All Away - Anthony Ramos, Ariana DeBose, Sasha Hutchings, Ephraim Sykes...
 - 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quill) - Just now
 
-*Last updated: 15-11-2025 09:23:04*
+*Last updated: 15-11-2025 09:23:08*
 <!-- END_NOW_PLAYING -->

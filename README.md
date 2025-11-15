@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stay Alive (Reprise) - Lin-Manuel Miranda, Anthony Ramos, Phillipa Soo & Original B...
-- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quill) - 3 minutes ago
+- 🎵 **Now Playing:** The Election of 1800 - Daveed Diggs, Various Artists — Hamilton: An American Musica...
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quill) - 4 minutes ago
 
-*Last updated: 15-11-2025 09:26:03*
+*Last updated: 15-11-2025 09:26:43*
 <!-- END_NOW_PLAYING -->

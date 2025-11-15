@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Say No To This - Jasmine Cephas Jones, Various Artists — Hamilton: An America...
+- 🎵 **Now Playing:** The Room Where It Happens - Leslie Odom, Jr., Lin-Manuel Miranda, Daveed Diggs, Okieriet...
 - 💻 **Currently coding** in *Java*, editing `ScopeContext.java` (Project: quill) - 4 minutes ago
 
-*Last updated: 15-11-2025 09:04:17*
+*Last updated: 15-11-2025 09:04:26*
 <!-- END_NOW_PLAYING -->

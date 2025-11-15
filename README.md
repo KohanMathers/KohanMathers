@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** If Walls Could Talk - 5 Seconds of Summer — Youngblood (Deluxe)
-- 💻 **Currently coding** in *Markdown*, editing `api-integration.md` (Project: quilldocs) - 3 minutes ago
+- 🎵 **Now Playing:** Ruin The Friendship - Taylor Swift — The Life of a Showgirl
+- 💻 **Currently coding** in *Markdown*, editing `Untitled-1.md` (Project: quill) - 1 minutes ago
 
-*Last updated: 15-11-2025 08:40:32*
+*Last updated: 15-11-2025 08:42:48*
 <!-- END_NOW_PLAYING -->

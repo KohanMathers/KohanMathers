@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Washington On Your Side - Daveed Diggs, Various Artists — Hamilton: An American Musica...
-- 💻 **Currently coding** in *HTML*, editing `installation.html` (Project: quill) - 6 minutes ago
+- 🎵 **Now Playing:** One Last Time - Christopher Jackson, Lin-Manuel Miranda & Original Broadway ...
+- 💻 **Currently coding** in *HTML*, editing `installation.html` (Project: quill) - 9 minutes ago
 
-*Last updated: 15-11-2025 09:10:57*
+*Last updated: 15-11-2025 09:14:02*
 <!-- END_NOW_PLAYING -->

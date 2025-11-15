@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Ouroboros - Faintest Idea — Increasing the Minimum Rage
-- 💻 **Currently coding** in *Markdown*, editing `faq.md` (Project: quilldocs) - Just now
+- 🎵 **Now Playing:** It's Quiet Uptown (From "Hamilton") - Renée Elise Goldsberry, Lin-Manuel Miranda, Phillipa Soo & O...
+- 💻 **Currently coding** in *Markdown*, editing `faq.md` (Project: quilldocs) - 2 minutes ago
 
-*Last updated: 15-11-2025 08:25:26*
+*Last updated: 15-11-2025 08:26:54*
 <!-- END_NOW_PLAYING -->

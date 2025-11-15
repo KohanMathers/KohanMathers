@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Salute - Little Mix — Between Us (Deluxe Version)
+- 🎵 **Now Playing:** Everything I Didn't Say - 5 Seconds of Summer — 5 Seconds Of Summer
 - 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - Just now
 
-*Last updated: 15-11-2025 03:27:24*
+*Last updated: 15-11-2025 03:27:28*
 <!-- END_NOW_PLAYING -->

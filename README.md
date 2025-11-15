@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Know Best - Dutty Moonshine Big Band — Villain
+- 🎵 **Now Playing:** Packing It Up - Gracie Abrams — The Secret of Us (Deluxe)
 - 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: quill) - 23 minutes ago
 
-*Last updated: 15-11-2025 09:46:01*
+*Last updated: 15-11-2025 09:46:04*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Take a Break - Phillipa Soo, Various Artists — Hamilton: Angelica's Story (...
-- 💻 **Currently coding** in *Java*, editing `ScopeContext.java` (Project: quill) - 3 minutes ago
+- 🎵 **Now Playing:** Say No To This - Jasmine Cephas Jones, Various Artists — Hamilton: An America...
+- 💻 **Currently coding** in *Java*, editing `ScopeContext.java` (Project: quill) - 4 minutes ago
 
-*Last updated: 15-11-2025 09:02:33*
+*Last updated: 15-11-2025 09:04:17*
 <!-- END_NOW_PLAYING -->

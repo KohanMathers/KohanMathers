@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Tough Love - Gracie Abrams — The Secret of Us (Deluxe)
+- 🎵 **Now Playing:** Take a Break - Phillipa Soo, Various Artists — Hamilton: Angelica's Story (...
 - 💻 **Currently coding** in *Markdown*, editing `utility.md` (Project: quilldocs) - 1 minutes ago
 
-*Last updated: 15-11-2025 05:46:33*
+*Last updated: 15-11-2025 05:49:22*
 <!-- END_NOW_PLAYING -->

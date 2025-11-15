@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Aaron Burr, Sir - Lin-Manuel Miranda, Leslie Odom, Jr., Anthony Ramos, Daveed ...
-- 💻 **Currently coding** in *Markdown*, editing `faq.md` (Project: quilldocs) - Just now
+- 🎵 **Now Playing:** Let It Rock - Bon Jovi — Slippery When Wet
+- 💻 **Currently coding** in *Markdown*, editing `faq.md` (Project: quilldocs) - 1 minutes ago
 
-*Last updated: 15-11-2025 08:15:32*
+*Last updated: 15-11-2025 08:18:13*
 <!-- END_NOW_PLAYING -->

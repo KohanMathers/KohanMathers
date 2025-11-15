@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** The Tight Rope - Faintest Idea — Increasing the Minimum Rage
-- 💻 **Currently coding** in *Markdown*, editing `scope.md` (Project: quilldocs) - 2 minutes ago
+- 💻 **Currently coding** in *Markdown*, editing `security.md` (Project: quilldocs) - 2 minutes ago
 
-*Last updated: 15-11-2025 05:54:38*
+*Last updated: 15-11-2025 05:59:23*
 <!-- END_NOW_PLAYING -->

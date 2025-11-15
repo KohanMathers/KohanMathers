@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Last Chance To Dance - The Undercover Hippy — Monkey Suit
-- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 4h 6m ago
+- 🎵 **Now Playing:** Valentine - 5 Seconds of Summer — Youngblood (Deluxe)
+- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 4h 8m ago
 
-*Last updated: 15-11-2025 20:56:03*
+*Last updated: 15-11-2025 20:58:33*
 <!-- END_NOW_PLAYING -->

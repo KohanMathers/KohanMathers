@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** ...Back to the Asylum - Faintest Idea — The Voice of Treason
-- 💻 **Currently coding** in *Markdown*, editing `world.md` (Project: quilldocs) - 1 minutes ago
+- 🎵 **Now Playing:** Want You Back - 5 Seconds of Summer — Youngblood (Deluxe)
+- 💻 **Currently coding** in *Markdown*, editing `world.md` (Project: quilldocs) - 2 minutes ago
 
-*Last updated: 15-11-2025 05:14:04*
+*Last updated: 15-11-2025 05:14:53*
 <!-- END_NOW_PLAYING -->

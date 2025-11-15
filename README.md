@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Coming To The Gambia - The Undercover Hippy — Monkey Suit
-- 💻 **Currently coding** in *Markdown*, editing `world-events.md` (Project: quilldocs) - 11 minutes ago
+- 💻 **Last seen coding** in *Markdown*, editing `world-events.md` (Project: quilldocs) - 16 minutes ago
 
-*Last updated: 15-11-2025 06:44:42*
+*Last updated: 15-11-2025 06:49:44*
 <!-- END_NOW_PLAYING -->

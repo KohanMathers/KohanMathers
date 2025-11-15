@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Better Man - 5 Seconds of Summer — Youngblood (Deluxe)
-- 💻 **Currently coding** in *Markdown*, editing `player.md` (Project: quilldocs) - 2 minutes ago
+- 🎵 **Now Playing:** ...Back to the Asylum - Faintest Idea — The Voice of Treason
+- 💻 **Currently coding** in *Markdown*, editing `player.md` (Project: quilldocs) - 5 minutes ago
 
-*Last updated: 15-11-2025 05:09:02*
+*Last updated: 15-11-2025 05:12:02*
 <!-- END_NOW_PLAYING -->

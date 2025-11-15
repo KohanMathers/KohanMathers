@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** The Room Where It Happens - Leslie Odom, Jr., Lin-Manuel Miranda, Daveed Diggs, Okieriet...
-- 💻 **Currently coding** in *Java*, editing `ScopeContext.java` (Project: quill) - 4 minutes ago
+- 💻 **Currently coding** in *HTML*, editing `installation.html` (Project: quill) - 1 minutes ago
 
-*Last updated: 15-11-2025 09:04:26*
+*Last updated: 15-11-2025 09:05:43*
 <!-- END_NOW_PLAYING -->

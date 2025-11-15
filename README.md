@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Markdown*, editing `quickstart.md` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** Salute - Little Mix — Between Us (Deluxe Version)
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - Just now
 
-*Last updated: 15-11-2025 03:23:18*
+*Last updated: 15-11-2025 03:27:24*
 <!-- END_NOW_PLAYING -->

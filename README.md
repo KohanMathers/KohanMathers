@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Want You Back - 5 Seconds of Summer — Youngblood (Deluxe)
-- 💻 **Currently coding** in *Markdown*, editing `world.md` (Project: quilldocs) - 2 minutes ago
+- 🎵 **Now Playing:** One Heart One Life - The Undercover Hippy — Truth & Fiction
+- 💻 **Currently coding** in *Markdown*, editing `player.md` (Project: quilldocs) - 2 minutes ago
 
-*Last updated: 15-11-2025 05:14:53*
+*Last updated: 15-11-2025 05:17:53*
 <!-- END_NOW_PLAYING -->

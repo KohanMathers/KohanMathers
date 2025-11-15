@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Wood - Taylor Swift — The Life of a Showgirl
+- 🎵 **Now Playing:** Dead Future - Faintest Idea — Ignorance Is This
 - 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: quill) - 23 minutes ago
 
-*Last updated: 15-11-2025 09:45:48*
+*Last updated: 15-11-2025 09:45:52*
 <!-- END_NOW_PLAYING -->

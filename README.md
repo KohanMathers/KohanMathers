@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Livin' On a Prayer - Bon Jovi — Slippery When Wet
-- 💻 **Currently coding** in *Markdown*, editing `utility.md` (Project: quilldocs) - 2 minutes ago
+- 🎵 **Now Playing:** Wi$h Li$t - Taylor Swift — The Life of a Showgirl
+- 💻 **Currently coding** in *Markdown*, editing `utility.md` (Project: quilldocs) - Just now
 
-*Last updated: 15-11-2025 05:39:15*
+*Last updated: 15-11-2025 05:43:11*
 <!-- END_NOW_PLAYING -->

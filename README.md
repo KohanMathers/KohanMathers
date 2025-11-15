@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Who Lives, Who Dies, Who Tells Your Story - Original Broadway Cast of "Hamilton" — Hamilton: Eliza's Sto...
-- 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: quill) - 19 minutes ago
+- 🎵 **Now Playing:** I Told You Things - Gracie Abrams — The Secret of Us (Deluxe)
+- 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: quill) - 20 minutes ago
 
-*Last updated: 15-11-2025 09:41:58*
+*Last updated: 15-11-2025 09:42:39*
 <!-- END_NOW_PLAYING -->

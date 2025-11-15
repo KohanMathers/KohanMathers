@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Hurricane - Lin-Manuel Miranda & Original Broadway Cast of "Hamilton" — ...
-- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 1h 19m ago
+- 🎵 **Now Playing:** You Give Love a Bad Name - Bon Jovi — Slippery When Wet
+- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 1h 21m ago
 
-*Last updated: 15-11-2025 18:09:46*
+*Last updated: 15-11-2025 18:11:24*
 <!-- END_NOW_PLAYING -->

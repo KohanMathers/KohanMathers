@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** ...Back to the Asylum - Faintest Idea — The Voice of Treason
-- 💻 **Currently coding** in *Markdown*, editing `Untitled-1.md` (Project: quill) - 3 minutes ago
+- 🎵 **Now Playing:** City of Sin - Dutty Moonshine Big Band — City of Sin
+- 💻 **Currently coding** in *Markdown*, editing `Untitled-1.md` (Project: quill) - 6 minutes ago
 
-*Last updated: 15-11-2025 01:01:22*
+*Last updated: 15-11-2025 01:04:13*
 <!-- END_NOW_PLAYING -->

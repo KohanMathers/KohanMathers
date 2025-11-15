@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Voodoo Doll - 5 Seconds of Summer — 5 Seconds Of Summer (Deluxe)
-- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - 1 minutes ago
+- 🎵 **Now Playing:** The End of 'The End of History' - Faintest Idea — The Road to Sedition
+- 💻 **Currently coding** in *Markdown*, editing `minigames.md` (Project: quilldocs) - Just now
 
-*Last updated: 15-11-2025 08:00:15*
+*Last updated: 15-11-2025 08:01:22*
 <!-- END_NOW_PLAYING -->

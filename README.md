@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Honey - Taylor Swift — The Life of a Showgirl
-- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - 14 minutes ago
+- 🎵 **Now Playing:** False Prophets - Faintest Idea — The Road to Sedition
+- 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: quilldocs) - 16 minutes ago
 
-*Last updated: 15-11-2025 04:28:44*
+*Last updated: 15-11-2025 04:31:02*
 <!-- END_NOW_PLAYING -->

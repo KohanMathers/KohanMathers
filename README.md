@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Reynolds Pamphlet - Original Broadway Cast of "Hamilton" — Hamilton: An American...
-- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 2h 10m ago
+- 🎵 **Now Playing:** This is the System - Faintest Idea — Ignorance Is This
+- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 2h 11m ago
 
-*Last updated: 15-11-2025 19:00:09*
+*Last updated: 15-11-2025 19:01:47*
 <!-- END_NOW_PLAYING -->

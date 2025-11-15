@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Ouroboros - Faintest Idea — Increasing the Minimum Rage
-- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: quill) - 1 minutes ago
+- 💻 **Currently coding** in *Markdown*, editing `faq.md` (Project: quilldocs) - Just now
 
-*Last updated: 15-11-2025 08:23:42*
+*Last updated: 15-11-2025 08:25:26*
 <!-- END_NOW_PLAYING -->

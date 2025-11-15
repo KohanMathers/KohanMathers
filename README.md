@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Washington On Your Side - Daveed Diggs, Various Artists — Hamilton: An American Musica...
-- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 4h 21m ago
+- 🎵 **Now Playing:** seven - Taylor Swift — folklore (deluxe version)
+- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 4h 22m ago
 
-*Last updated: 15-11-2025 21:11:12*
+*Last updated: 15-11-2025 21:12:23*
 <!-- END_NOW_PLAYING -->

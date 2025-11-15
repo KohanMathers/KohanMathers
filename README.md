@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not Coming Back - Faintest Idea — The Road to Sedition
+- 🎵 **Now Playing:** Shell Shock - Faintest Idea — The Road to Sedition
 - 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 2h 5m ago
 
-*Last updated: 15-11-2025 18:55:07*
+*Last updated: 15-11-2025 18:55:33*
 <!-- END_NOW_PLAYING -->

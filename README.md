@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Take a Little Time - Dutty Moonshine Big Band — Most Wanted
+- 🎵 **Now Playing:** Down Pressure - Faintest Idea — Increasing the Minimum Rage
 - 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 1h 25m ago
 
-*Last updated: 15-11-2025 18:15:17*
+*Last updated: 15-11-2025 18:15:27*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** We Know - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Currently coding** in *Markdown*, editing `world-events.md` (Project: quilldocs) - 1 minutes ago
+- 🎵 **Now Playing:** Father Figure - Taylor Swift — The Life of a Showgirl
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - 1 minutes ago
 
-*Last updated: 15-11-2025 07:41:53*
+*Last updated: 15-11-2025 07:44:19*
 <!-- END_NOW_PLAYING -->

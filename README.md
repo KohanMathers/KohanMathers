@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** epiphany - Taylor Swift — folklore (deluxe version)
-- 💻 **Currently coding** in *Markdown*, editing `quickstart.md` (Project: quilldocs) - Just now
+- 🎵 **Now Playing:** House of Cards - Faintest Idea — The Voice of Treason
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - Just now
 
-*Last updated: 15-11-2025 04:08:36*
+*Last updated: 15-11-2025 04:11:23*
 <!-- END_NOW_PLAYING -->

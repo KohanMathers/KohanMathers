@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** History Has Its Eyes On You - Christopher Jackson, Lin-Manuel Miranda & Original Broadway ...
-- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 2h 1m ago
+- 🎵 **Now Playing:** Not Coming Back - Faintest Idea — The Road to Sedition
+- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 2h 2m ago
 
-*Last updated: 15-11-2025 18:50:54*
+*Last updated: 15-11-2025 18:52:27*
 <!-- END_NOW_PLAYING -->

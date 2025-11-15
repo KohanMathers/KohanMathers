@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Borders - The Undercover Hippy — Monkey Suit
-- 💻 **Currently coding** in *Markdown*, editing `custom-mechanics.md` (Project: quilldocs) - 1 minutes ago
+- 🎵 **Now Playing:** Catch Fire - 5 Seconds of Summer — Sounds Good Feels Good
+- 💻 **Currently coding** in *Python*, editing `quilldocs.py` (Project: quilldocs) - Just now
 
-*Last updated: 15-11-2025 00:32:10*
+*Last updated: 15-11-2025 00:36:23*
 <!-- END_NOW_PLAYING -->

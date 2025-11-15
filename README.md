@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Election of 1800 - Daveed Diggs, Okieriete Onaodowan, Leslie Odom, Jr., Lin-Man...
-- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quill) - 11 minutes ago
+- 🎵 **Now Playing:** Your Obedient Servant - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quill) - 12 minutes ago
 
-*Last updated: 15-11-2025 09:34:09*
+*Last updated: 15-11-2025 09:34:28*
 <!-- END_NOW_PLAYING -->

@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** We Know - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quill) - Just now
+- 💻 **Currently coding** in *HTML*, editing `installation.html` (Project: quill) - Just now
 
-*Last updated: 15-11-2025 09:18:33*
+*Last updated: 15-11-2025 09:20:50*
 <!-- END_NOW_PLAYING -->

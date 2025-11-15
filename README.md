@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Borders - The Undercover Hippy — Monkey Suit
+- 🎵 **Now Playing:** Wings - Little Mix — Between Us (Deluxe Version)
 - 💻 **Currently coding** in *Markdown*, editing `faq.md` (Project: quilldocs) - 2 minutes ago
 
-*Last updated: 15-11-2025 08:35:58*
+*Last updated: 15-11-2025 08:36:07*
 <!-- END_NOW_PLAYING -->

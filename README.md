@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Most Wanted - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Currently coding** in *Markdown*, editing `world.md` (Project: quilldocs) - 3 minutes ago
+- 🎵 **Now Playing:** Non-Stop - Leslie Odom, Jr., Various Artists — Belting Songs
+- 💻 **Currently coding** in *Markdown*, editing `scope.md` (Project: quilldocs) - 2 minutes ago
 
-*Last updated: 15-11-2025 05:24:28*
+*Last updated: 15-11-2025 05:28:05*
 <!-- END_NOW_PLAYING -->

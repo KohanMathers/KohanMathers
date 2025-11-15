@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Blow Us All Away - Anthony Ramos, Ariana DeBose, Sasha Hutchings, Ephraim Sykes...
-- 💻 **Currently coding** in *Markdown*, editing `Untitled-1.md` (Project: quill) - 6 minutes ago
+- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Various Artists — Hamilton: An American Musica...
+- 💻 **Currently coding** in *Java*, editing `QuillInterpreter.java` (Project: quill) - 2 minutes ago
 
-*Last updated: 15-11-2025 08:52:04*
+*Last updated: 15-11-2025 08:54:57*
 <!-- END_NOW_PLAYING -->

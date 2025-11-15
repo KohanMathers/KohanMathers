@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The World Was Wide Enough - Leslie Odom, Jr., Lin-Manuel Miranda & Original Broadway Cas...
-- 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: quill) - 18 minutes ago
+- 🎵 **Now Playing:** Who Lives, Who Dies, Who Tells Your Story - Original Broadway Cast of "Hamilton" — Hamilton: Eliza's Sto...
+- 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: quill) - 19 minutes ago
 
-*Last updated: 15-11-2025 09:40:59*
+*Last updated: 15-11-2025 09:41:58*
 <!-- END_NOW_PLAYING -->

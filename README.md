@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** My Shot - Anthony Ramos, Various Artists — Rewrite the Stars - Movie Hits
+- 🎵 **Now Playing:** My Shot - Anthony Ramos, Daveed Diggs, Leslie Odom, Jr., Lin-Manuel Mi...
 - 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 3h 51m ago
 
-*Last updated: 15-11-2025 20:41:14*
+*Last updated: 15-11-2025 20:41:18*
 <!-- END_NOW_PLAYING -->

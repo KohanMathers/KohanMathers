@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Leslie Odom, Jr., Okieriete Onaodowan & Origin...
-- 💻 **Currently coding** in *Java*, editing `QuillParser.java` (Project: quill) - Just now
+- 🎵 **Now Playing:** Cabinet Battle #1 - Christopher Jackson, Various Artists — Hamilton: An American...
+- 💻 **Currently coding** in *Java*, editing `QuillParser.java` (Project: quill) - 2 minutes ago
 
-*Last updated: 15-11-2025 08:57:24*
+*Last updated: 15-11-2025 08:58:58*
 <!-- END_NOW_PLAYING -->

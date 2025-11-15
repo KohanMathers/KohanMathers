@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stay Alive - Original Broadway Cast of "Hamilton" — Hamilton: An American...
+- 🎵 **Now Playing:** Kill My Time - 5 Seconds of Summer — CALM
 - 💻 **Currently coding** in *Markdown*, editing `faq.md` (Project: quilldocs) - Just now
 
-*Last updated: 15-11-2025 08:15:21*
+*Last updated: 15-11-2025 08:15:23*
 <!-- END_NOW_PLAYING -->

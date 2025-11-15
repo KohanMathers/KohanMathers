@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Let It Rock - Bon Jovi — Slippery When Wet
+- 🎵 **Now Playing:** Can't Stop The Tide - The Undercover Hippy — Monkey Suit
 - 💻 **Currently coding** in *Markdown*, editing `faq.md` (Project: quilldocs) - 1 minutes ago
 
-*Last updated: 15-11-2025 08:18:13*
+*Last updated: 15-11-2025 08:18:37*
 <!-- END_NOW_PLAYING -->

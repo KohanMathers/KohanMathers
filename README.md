@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Can't Stop The Tide - The Undercover Hippy — Monkey Suit
-- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 2h 25m ago
+- 🎵 **Now Playing:** Villain (feat. Crimehawk) - Dutty Moonshine Big Band — Villain
+- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 2h 27m ago
 
-*Last updated: 15-11-2025 19:15:15*
+*Last updated: 15-11-2025 19:17:38*
 <!-- END_NOW_PLAYING -->

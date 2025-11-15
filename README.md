@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Criminals - Faintest Idea — Ignorance Is This
+- 🎵 **Now Playing:** Too Bad - Faintest Idea — Ignorance Is This
 - 💻 **Currently coding** in *Markdown*, editing `faq.md` (Project: quilldocs) - Just now
 
-*Last updated: 15-11-2025 08:31:22*
+*Last updated: 15-11-2025 08:32:02*
 <!-- END_NOW_PLAYING -->

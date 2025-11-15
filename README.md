@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Rattling the Cage - Faintest Idea — The Voice of Treason
-- 💻 **Currently coding** in *Markdown*, editing `string-interpolation.md` (Project: quilldocs) - 1 minutes ago
+- 🎵 **Now Playing:** Long Way Home - 5 Seconds of Summer — 5 Seconds Of Summer
+- 💻 **Currently coding** in *Markdown*, editing `string-interpolation.md` (Project: quilldocs) - 2 minutes ago
 
-*Last updated: 15-11-2025 05:04:00*
+*Last updated: 15-11-2025 05:05:33*
 <!-- END_NOW_PLAYING -->

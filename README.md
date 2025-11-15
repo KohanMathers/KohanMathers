@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Fight for Progress - Faintest Idea — Ignorance Is This
-- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 2h 45m ago
+- 🎵 **Now Playing:** Nose Dive (feat. Riskee & the Ridicule) - Faintest Idea — The Road to Sedition
+- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 2h 46m ago
 
-*Last updated: 15-11-2025 19:35:24*
+*Last updated: 15-11-2025 19:36:19*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Yorktown (The World Turned Upside Down) - Original Broadway Cast of "Hamilton" — Hamilton: An American...
+- 🎵 **Now Playing:** the last great american dynasty - Taylor Swift — folklore (deluxe version)
 - 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 3h 51m ago
 
-*Last updated: 15-11-2025 20:40:55*
+*Last updated: 15-11-2025 20:41:03*
 <!-- END_NOW_PLAYING -->

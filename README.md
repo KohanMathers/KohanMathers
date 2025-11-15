@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** One Heart One Life - The Undercover Hippy — Truth & Fiction
-- 💻 **Currently coding** in *Markdown*, editing `player.md` (Project: quilldocs) - 3 minutes ago
+- 🎵 **Now Playing:** Bull in a China Shop - Faintest Idea — The Voice of Treason
+- 💻 **Currently coding** in *Markdown*, editing `world.md` (Project: quilldocs) - Just now
 
-*Last updated: 15-11-2025 05:19:07*
+*Last updated: 15-11-2025 05:21:42*
 <!-- END_NOW_PLAYING -->

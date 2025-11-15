@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Invisible - 5 Seconds of Summer — Sounds Good Feels Good
+- 🎵 **Now Playing:** Voodoo Doll - 5 Seconds of Summer — 5 Seconds Of Summer (Deluxe)
 - 💻 **Currently coding** in *Markdown*, editing `basic-scripts.md` (Project: quilldocs) - 5 minutes ago
 
-*Last updated: 15-11-2025 07:58:02*
+*Last updated: 15-11-2025 07:58:07*
 <!-- END_NOW_PLAYING -->

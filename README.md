@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** The End of 'The End of History' - Faintest Idea — The Road to Sedition
-- 💻 **Currently coding** in *Markdown*, editing `minigames.md` (Project: quilldocs) - Just now
+- 💻 **Currently coding** in *Markdown*, editing `minigames.md` (Project: quilldocs) - 4 minutes ago
 
-*Last updated: 15-11-2025 08:01:22*
+*Last updated: 15-11-2025 08:05:17*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Father Figure - Taylor Swift — The Life of a Showgirl
-- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - 2 minutes ago
+- 🎵 **Now Playing:** 18 - 5 Seconds of Summer — 5 Seconds Of Summer
+- 💻 **Currently coding** in *Markdown*, editing `player.md` (Project: quilldocs) - 2 minutes ago
 
-*Last updated: 15-11-2025 07:45:08*
+*Last updated: 15-11-2025 07:47:49*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** One Last Time - Christopher Jackson, Lin-Manuel Miranda & Original Broadway ...
-- 💻 **Currently coding** in *HTML*, editing `installation.html` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** We Know - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quill) - Just now
 
-*Last updated: 15-11-2025 09:15:48*
+*Last updated: 15-11-2025 09:18:33*
 <!-- END_NOW_PLAYING -->

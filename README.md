@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Helpless - Phillipa Soo & Original Broadway Cast of "Hamilton" — Musica...
-- 💻 **Currently coding** in *Markdown*, editing `data-types.md` (Project: quilldocs) - Just now
+- 🎵 **Now Playing:** Eldest Daughter - Taylor Swift — The Life of a Showgirl
+- 💻 **Currently coding** in *Markdown*, editing `data-types.md` (Project: quilldocs) - 2 minutes ago
 
-*Last updated: 15-11-2025 04:48:54*
+*Last updated: 15-11-2025 04:50:23*
 <!-- END_NOW_PLAYING -->

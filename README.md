@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Kill Em Dead - Faintest Idea — The Road to Sedition
-- 💻 **Currently coding** in *Markdown*, editing `faq.md` (Project: quilldocs) - 1 minutes ago
+- 🎵 **Now Playing:** Ouroboros - Faintest Idea — Increasing the Minimum Rage
+- 💻 **Currently coding** in *YAML*, editing `plugin.yml` (Project: quill) - 1 minutes ago
 
-*Last updated: 15-11-2025 08:20:32*
+*Last updated: 15-11-2025 08:23:42*
 <!-- END_NOW_PLAYING -->

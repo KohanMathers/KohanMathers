@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Kiss Me Kiss Me - 5 Seconds of Summer — 5 Seconds Of Summer
+- 🎵 **Now Playing:** Wood - Taylor Swift — The Life of a Showgirl
 - 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: quill) - 23 minutes ago
 
-*Last updated: 15-11-2025 09:45:43*
+*Last updated: 15-11-2025 09:45:48*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** A Winter's Ball - Leslie Odom, Jr., Lin-Manuel Miranda & Original Broadway Cas...
-- 💻 **Currently coding** in *Markdown*, editing `getting-started.md` (Project: quilldocs) - 1 minutes ago
+- 🎵 **Now Playing:** Broken Home - 5 Seconds of Summer — Sounds Good Feels Good (Deluxe)
+- 💻 **Currently coding** in *Markdown*, editing `getting-started.md` (Project: quilldocs) - 2 minutes ago
 
-*Last updated: 15-11-2025 04:34:08*
+*Last updated: 15-11-2025 04:35:18*
 <!-- END_NOW_PLAYING -->

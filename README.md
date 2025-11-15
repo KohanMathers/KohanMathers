@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Red Desert - 5 Seconds of Summer — CALM
-- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 2h 15m ago
+- 🎵 **Now Playing:** august - Taylor Swift — folklore (deluxe version)
+- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 2h 19m ago
 
-*Last updated: 15-11-2025 19:05:27*
+*Last updated: 15-11-2025 19:09:18*
 <!-- END_NOW_PLAYING -->

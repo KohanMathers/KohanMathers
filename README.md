@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Nothing To Lose - The Undercover Hippy — Truth & Fiction
-- 💻 **Currently coding** in *None*, editing `Untitled-2` (Project: quill) - 9 minutes ago
+- 🎵 **Now Playing:** Heartbreak Anthem (feat. David Guetta & Little Mix) - Galantis — Between Us (Deluxe Version)
+- 💻 **Currently coding** in *None*, editing `Untitled-2` (Project: quill) - 13 minutes ago
 
-*Last updated: 15-11-2025 21:56:34*
+*Last updated: 15-11-2025 21:59:44*
 <!-- END_NOW_PLAYING -->

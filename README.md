@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Broken Record - Faintest Idea — Ignorance Is This
-- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - 11 minutes ago
+- 🎵 **Now Playing:** Honey - Taylor Swift — The Life of a Showgirl
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - 13 minutes ago
 
-*Last updated: 15-11-2025 04:26:12*
+*Last updated: 15-11-2025 04:28:03*
 <!-- END_NOW_PLAYING -->

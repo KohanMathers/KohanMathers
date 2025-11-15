@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Eldest Daughter - Taylor Swift — The Life of a Showgirl
-- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - 3 minutes ago
+- 🎵 **Now Playing:** Good Luck Charlie - Gracie Abrams — The Secret of Us (Deluxe)
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quilldocs) - Just now
 
-*Last updated: 15-11-2025 04:53:56*
+*Last updated: 15-11-2025 04:54:29*
 <!-- END_NOW_PLAYING -->

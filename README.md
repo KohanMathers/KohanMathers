@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Monster Among Men - 5 Seconds of Summer — Youngblood (Deluxe)
-- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 4h 12m ago
+- 🎵 **Now Playing:** Rise & Fall - The Undercover Hippy — Truth & Fiction
+- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 4h 15m ago
 
-*Last updated: 15-11-2025 21:01:53*
+*Last updated: 15-11-2025 21:05:08*
 <!-- END_NOW_PLAYING -->

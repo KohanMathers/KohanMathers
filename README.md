@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Hurricane - Lin-Manuel Miranda & Original Broadway Cast of "Hamilton" — ...
-- 💻 **Currently coding** in *Markdown*, editing `scope.md` (Project: quilldocs) - 1 minutes ago
+- 🎵 **Now Playing:** The Tight Rope - Faintest Idea — Increasing the Minimum Rage
+- 💻 **Currently coding** in *Markdown*, editing `scope.md` (Project: quilldocs) - 2 minutes ago
 
-*Last updated: 15-11-2025 05:54:20*
+*Last updated: 15-11-2025 05:54:38*
 <!-- END_NOW_PLAYING -->

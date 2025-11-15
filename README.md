@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Ten Duel Commandments - Anthony Ramos, Various Artists — Hamilton: An American Music...
+- 🎵 **Now Playing:** Kill Em Dead - Faintest Idea — The Road to Sedition
 - 💻 **Currently coding** in *Markdown*, editing `faq.md` (Project: quilldocs) - 1 minutes ago
 
-*Last updated: 15-11-2025 08:20:23*
+*Last updated: 15-11-2025 08:20:32*
 <!-- END_NOW_PLAYING -->

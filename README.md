@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Heartbreak Anthem (feat. David Guetta & Little Mix) - Galantis — Between Us (Deluxe Version)
-- 💻 **Currently coding** in *None*, editing `Untitled-2` (Project: quill) - 14 minutes ago
+- 🎵 **Now Playing:** Fall From Grace - Dutty Moonshine Big Band — City of Sin
+- 💻 **Last seen coding** in *None*, editing `Untitled-2` (Project: quill) - 16 minutes ago
 
-*Last updated: 15-11-2025 22:01:37*
+*Last updated: 15-11-2025 22:02:43*
 <!-- END_NOW_PLAYING -->

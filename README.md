@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** peace - Taylor Swift — folklore (deluxe version)
+- 🎵 **Now Playing:** Coming To The Gambia - The Undercover Hippy — Monkey Suit
 - 💻 **Currently coding** in *Markdown*, editing `security.md` (Project: quilldocs) - 2 minutes ago
 
-*Last updated: 15-11-2025 05:59:32*
+*Last updated: 15-11-2025 06:03:23*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Reynolds Pamphlet - Original Broadway Cast of "Hamilton" — Hamilton: An American...
-- 💻 **Currently coding** in *HTML*, editing `installation.html` (Project: quill) - 1 minutes ago
+- 🎵 **Now Playing:** Burn - Phillipa Soo — Belting Songs
+- 💻 **Currently coding** in *None*, editing `Untitled-1` (Project: quill) - Just now
 
-*Last updated: 15-11-2025 09:21:06*
+*Last updated: 15-11-2025 09:23:04*
 <!-- END_NOW_PLAYING -->

@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** ...Back to the Asylum - Faintest Idea — The Voice of Treason
-- 💻 **Currently coding** in *Markdown*, editing `player.md` (Project: quilldocs) - 5 minutes ago
+- 💻 **Currently coding** in *Markdown*, editing `world.md` (Project: quilldocs) - 1 minutes ago
 
-*Last updated: 15-11-2025 05:12:02*
+*Last updated: 15-11-2025 05:14:04*
 <!-- END_NOW_PLAYING -->

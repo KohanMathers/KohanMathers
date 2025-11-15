@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Hurricane - Lin-Manuel Miranda & Original Broadway Cast of "Hamilton" — ...
-- 💻 **Currently coding** in *HTML*, editing `installation.html` (Project: quill) - Just now
+- 🎵 **Now Playing:** The Reynolds Pamphlet - Original Broadway Cast of "Hamilton" — Hamilton: An American...
+- 💻 **Currently coding** in *HTML*, editing `installation.html` (Project: quill) - 1 minutes ago
 
-*Last updated: 15-11-2025 09:20:57*
+*Last updated: 15-11-2025 09:21:06*
 <!-- END_NOW_PLAYING -->

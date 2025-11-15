@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Valentine - 5 Seconds of Summer — Youngblood (Deluxe)
-- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 4h 11m ago
+- 🎵 **Now Playing:** Monster Among Men - 5 Seconds of Summer — Youngblood (Deluxe)
+- 💻 **Last seen coding** in *Java*, editing `DragonFlightListener.java` (Project: RideDragons) - 4h 12m ago
 
-*Last updated: 15-11-2025 21:01:06*
+*Last updated: 15-11-2025 21:01:53*
 <!-- END_NOW_PLAYING -->

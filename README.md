@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Told You Things - Gracie Abrams — The Secret of Us (Deluxe)
+- 🎵 **Now Playing:** No Gods No Money - Faintest Idea — The Voice of Treason
 - 💻 **Last seen coding** in *None*, editing `Untitled-1` (Project: quill) - 20 minutes ago
 
-*Last updated: 15-11-2025 09:42:39*
+*Last updated: 15-11-2025 09:42:43*
 <!-- END_NOW_PLAYING -->

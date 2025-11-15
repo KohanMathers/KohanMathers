@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Bull in a China Shop - Faintest Idea — The Voice of Treason
+- 🎵 **Now Playing:** Most Wanted - Dutty Moonshine Big Band — Most Wanted
 - 💻 **Currently coding** in *Markdown*, editing `world.md` (Project: quilldocs) - 3 minutes ago
 
-*Last updated: 15-11-2025 05:24:09*
+*Last updated: 15-11-2025 05:24:28*
 <!-- END_NOW_PLAYING -->

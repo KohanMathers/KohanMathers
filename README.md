@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** 18 - 5 Seconds of Summer — 5 Seconds Of Summer
-- 💻 **Currently coding** in *Markdown*, editing `player.md` (Project: quilldocs) - 2 minutes ago
+- 💻 **Currently coding** in *Markdown*, editing `configuration.md` (Project: quilldocs) - Just now
 
-*Last updated: 15-11-2025 07:47:49*
+*Last updated: 15-11-2025 07:50:10*
 <!-- END_NOW_PLAYING -->

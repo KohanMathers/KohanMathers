@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Arrest (feat. HypeMan Sage) - Dutty Moonshine Big Band — City of Sin
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Coding Status:** Not coding
 
-*Last updated: 16-11-2025 00:02:30*
+*Last updated: 16-11-2025 01:17:56*
 <!-- END_NOW_PLAYING -->

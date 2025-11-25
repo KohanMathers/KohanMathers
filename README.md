@@ -48,5 +48,5 @@ a game studio where being generic was never an option.
 - 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Currently coding** in *Java*, editing `PresenceListener.java` (Project: SudoBot) - 1 minutes ago
 
-*Last updated: 25-11-2025 22:10:37*
+*Last updated: 25-11-2025 22:13:24*
 <!-- END_NOW_PLAYING -->

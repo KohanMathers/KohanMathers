@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Hoods Up Heads Down - Faintest Idea — The Road to Sedition
 - 💻 **Currently coding** in *Java*, editing `Main.java` (Project: SudoBot) - 2 minutes ago
 
-*Last updated: 25-11-2025 22:29:15*
+*Last updated: 25-11-2025 22:29:16*
 <!-- END_NOW_PLAYING -->

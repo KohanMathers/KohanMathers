@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Java*, editing `ConfigManager.java` (Project: SudoBot) - 8h 5m ago
+- 💻 **Currently coding** in *Python*, editing `app.py` (Project: racereplay) - 1 minutes ago
 
-*Last updated: 26-11-2025 09:02:00*
+*Last updated: 26-11-2025 09:07:00*
 <!-- END_NOW_PLAYING -->

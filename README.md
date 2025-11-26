@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `CommandListener.java` (Project: SudoBot) - 1 minutes ago
+- 💻 **Currently coding** in *Java*, editing `CommandListener.java` (Project: SudoBot) - Just now
 
-*Last updated: 26-11-2025 00:05:40*
+*Last updated: 26-11-2025 00:07:19*
 <!-- END_NOW_PLAYING -->

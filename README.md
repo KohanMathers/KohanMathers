@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Close To You - Gracie Abrams — The Secret of Us (Deluxe)
-- 💻 **Currently coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - Just now
+- 🎵 **Now Playing:** illicit affairs - Taylor Swift — folklore (deluxe version)
+- 💻 **Currently coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1 minutes ago
 
-*Last updated: 28-11-2025 03:27:00*
+*Last updated: 28-11-2025 03:28:45*
 <!-- END_NOW_PLAYING -->

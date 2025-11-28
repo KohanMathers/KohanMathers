@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Burn - Phillipa Soo — Belting Songs
-- 💻 **Currently coding** in *XML*, editing `pom.xml` (Project: racereplay) - 1 minutes ago
+- 🎵 **Now Playing:** Secret Love Song, Pt. II - Little Mix — Between Us (Deluxe Version)
+- 💻 **Currently coding** in *XML*, editing `pom.xml` (Project: racereplay) - 2 minutes ago
 
-*Last updated: 28-11-2025 03:06:59*
+*Last updated: 28-11-2025 03:07:40*
 <!-- END_NOW_PLAYING -->

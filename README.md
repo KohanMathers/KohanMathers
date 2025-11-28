@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Eldest Daughter - Taylor Swift — The Life of a Showgirl
-- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 20 minutes ago
+- 🎵 **Now Playing:** Good Luck Charlie - Gracie Abrams — The Secret of Us (Deluxe)
+- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 23 minutes ago
 
-*Last updated: 28-11-2025 03:46:59*
+*Last updated: 28-11-2025 03:50:35*
 <!-- END_NOW_PLAYING -->

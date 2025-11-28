@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `SessionMetadata.java` (Project: racereplay) - 1 minutes ago
+- 💻 **Currently coding** in *Java*, editing `SessionType.java` (Project: racereplay) - Just now
 
-*Last updated: 28-11-2025 14:57:00*
+*Last updated: 28-11-2025 15:02:00*
 <!-- END_NOW_PLAYING -->

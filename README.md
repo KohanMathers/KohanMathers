@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Most Wanted - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Currently coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - Just now
+- 🎵 **Now Playing:** Burn - Phillipa Soo — Belting Songs
+- 💻 **Currently coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1 minutes ago
 
-*Last updated: 28-11-2025 03:00:20*
+*Last updated: 28-11-2025 03:03:56*
 <!-- END_NOW_PLAYING -->

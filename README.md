@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Take a Break - Phillipa Soo, Various Artists — Hamilton: Angelica's Story (...
-- 💻 **Currently coding** in *Java*, editing `TrackName.java` (Project: racereplay) - Just now
+- 🎵 **Now Playing:** "New Case File" Skit - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Currently coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - Just now
 
-*Last updated: 28-11-2025 02:51:59*
+*Last updated: 28-11-2025 02:55:48*
 <!-- END_NOW_PLAYING -->

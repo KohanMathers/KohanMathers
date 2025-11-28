@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** She's Kinda Hot - 5 Seconds of Summer — Sounds Good Feels Good
-- 💻 **Currently coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 5 minutes ago
+- 🎵 **Now Playing:** Outlaws (feat. HypeMan Sage) - Dutty Moonshine Big Band — City of Sin
+- 💻 **Currently coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 8 minutes ago
 
-*Last updated: 28-11-2025 03:31:59*
+*Last updated: 28-11-2025 03:35:34*
 <!-- END_NOW_PLAYING -->

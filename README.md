@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Opalite - Taylor Swift — The Life of a Showgirl
-- 💻 **Currently coding** in *Markdown*, editing `ROADMAP.md` (Project: racereplay) - 2 minutes ago
+- 🎵 **Now Playing:** Stick Up - Dutty Moonshine Big Band — Most Wanted
+- 💻 **Currently coding** in *Java*, editing `TrackNames.java` (Project: racereplay) - Just now
 
-*Last updated: 28-11-2025 02:42:36*
+*Last updated: 28-11-2025 02:46:33*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** If Walls Could Talk - 5 Seconds of Summer — Youngblood (Deluxe)
-- 💻 **Currently coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1 minutes ago
+- 🎵 **Now Playing:** Close To You - Gracie Abrams — The Secret of Us (Deluxe)
+- 💻 **Currently coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - Just now
 
-*Last updated: 28-11-2025 03:21:59*
+*Last updated: 28-11-2025 03:25:00*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** "New Case File" Skit - Dutty Moonshine Big Band — Most Wanted
-- 💻 **Currently coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - Just now
+- 🎵 **Now Playing:** I Love You, I'm Sorry (Live From Vevo) - Gracie Abrams — The Secret of Us (Deluxe)
+- 💻 **Currently coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1 minutes ago
 
-*Last updated: 28-11-2025 02:55:48*
+*Last updated: 28-11-2025 02:56:54*
 <!-- END_NOW_PLAYING -->

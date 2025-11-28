@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Secret Love Song, Pt. II - Little Mix — Between Us (Deluxe Version)
+- 🎵 **Now Playing:** Black Magic - Little Mix — Between Us (Deluxe Version)
 - 💻 **Currently coding** in *Java*, editing `RaceReplayServer.java` (Project: racereplay) - 2 minutes ago
 
-*Last updated: 28-11-2025 03:12:00*
+*Last updated: 28-11-2025 03:12:04*
 <!-- END_NOW_PLAYING -->

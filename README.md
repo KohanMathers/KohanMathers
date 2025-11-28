@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Wanted Dead or Alive - Bon Jovi — Slippery When Wet
+- 🎵 **Now Playing:** Voodoo Doll - 5 Seconds of Summer — 5 Seconds Of Summer (Deluxe)
 - 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 42 minutes ago
 
-*Last updated: 28-11-2025 04:09:05*
+*Last updated: 28-11-2025 04:09:14*
 <!-- END_NOW_PLAYING -->

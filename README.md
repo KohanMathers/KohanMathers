@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Good Luck Charlie - Gracie Abrams — The Secret of Us (Deluxe)
-- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 25 minutes ago
+- 🎵 **Now Playing:** The End of 'The End of History' - Faintest Idea — The Road to Sedition
+- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 27 minutes ago
 
-*Last updated: 28-11-2025 03:52:00*
+*Last updated: 28-11-2025 03:54:35*
 <!-- END_NOW_PLAYING -->

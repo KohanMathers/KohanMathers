@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Invisible - 5 Seconds of Summer — Sounds Good Feels Good
-- 💻 **Currently coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 15 minutes ago
+- 🎵 **Now Playing:** The Schuyler Sisters - Renée Elise Goldsberry, Various Artists — De Vuelta A La Escuela
+- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 16 minutes ago
 
-*Last updated: 28-11-2025 03:42:00*
+*Last updated: 28-11-2025 03:43:24*
 <!-- END_NOW_PLAYING -->

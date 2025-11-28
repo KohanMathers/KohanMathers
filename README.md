@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Bash*, editing `.env` (Project: racereplay) - Just now
+- 💻 **Currently coding** in *Markdown*, editing `ROADMAP.md` (Project: racereplay) - 1 minutes ago
 
-*Last updated: 28-11-2025 02:36:59*
+*Last updated: 28-11-2025 02:41:59*
 <!-- END_NOW_PLAYING -->

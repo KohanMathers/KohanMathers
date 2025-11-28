@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Alexander Hamilton (From "Hamilton") - Christopher Jackson, Various Artists — Movie Night
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 45 minutes ago
 
-*Last updated: 28-11-2025 04:12:34*
+*Last updated: 28-11-2025 04:12:35*
 <!-- END_NOW_PLAYING -->

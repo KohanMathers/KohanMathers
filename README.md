@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Markdown*, editing `ROADMAP.md` (Project: racereplay) - 1 minutes ago
+- 🎵 **Now Playing:** Opalite - Taylor Swift — The Life of a Showgirl
+- 💻 **Currently coding** in *Markdown*, editing `ROADMAP.md` (Project: racereplay) - 2 minutes ago
 
-*Last updated: 28-11-2025 02:41:59*
+*Last updated: 28-11-2025 02:42:36*
 <!-- END_NOW_PLAYING -->

@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `MVE_V1_19_4.java` (Project: Origins-Reborn-Folia-Fork) - Just now
+- 💻 **Currently coding** in *XML*, editing `pom.xml` (Project: Origins-Reborn-Folia-Fork) - 1 minutes ago
 
-*Last updated: 29-11-2025 01:52:00*
+*Last updated: 29-11-2025 01:57:00*
 <!-- END_NOW_PLAYING -->

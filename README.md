@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Cabinet Battle #1 - Christopher Jackson, Various Artists — Hamilton: An American...
-- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 44 minutes ago
+- 🎵 **Now Playing:** Hurricane - Lin-Manuel Miranda & Original Broadway Cast of "Hamilton" — ...
+- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 48 minutes ago
 
-*Last updated: 30-11-2025 03:03:04*
+*Last updated: 30-11-2025 03:06:43*
 <!-- END_NOW_PLAYING -->

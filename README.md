@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Say No To This - Jasmine Cephas Jones, Various Artists — Hamilton: An America...
-- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1h 3m ago
+- 🎵 **Now Playing:** You'll Be Back - Jonathan Groff & Original Broadway Cast of "Hamilton" — Hami...
+- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1h 4m ago
 
-*Last updated: 30-11-2025 03:21:59*
+*Last updated: 30-11-2025 03:22:29*
 <!-- END_NOW_PLAYING -->

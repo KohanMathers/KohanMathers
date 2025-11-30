@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Story of Tonight (Reprise) - Anthony Ramos, Various Artists — Hamilton: An American Music...
-- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 58 minutes ago
+- 🎵 **Now Playing:** Say No To This - Jasmine Cephas Jones, Various Artists — Hamilton: An America...
+- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1 hour ago
 
-*Last updated: 30-11-2025 03:16:59*
+*Last updated: 30-11-2025 03:18:25*
 <!-- END_NOW_PLAYING -->

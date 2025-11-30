@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** My Shot - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 38 minutes ago
+- 🎵 **Now Playing:** Wait For It - Leslie Odom, Jr. & Original Broadway Cast of "Hamilton" — Ha...
+- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 41 minutes ago
 
-*Last updated: 30-11-2025 02:56:59*
+*Last updated: 30-11-2025 02:59:55*
 <!-- END_NOW_PLAYING -->

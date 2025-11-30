@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Schuyler Sisters - Phillipa Soo, Various Artists — Hamilton: An American Musica...
-- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1h 28m ago
+- 🎵 **Now Playing:** We Know - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1h 30m ago
 
-*Last updated: 30-11-2025 03:46:59*
+*Last updated: 30-11-2025 03:48:34*
 <!-- END_NOW_PLAYING -->

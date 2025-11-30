@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** One Last Time - Christopher Jackson, Various Artists — Hamilton: An American...
-- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1h 38m ago
+- 🎵 **Now Playing:** Best of Wives and Best of Women - Lin-Manuel Miranda & Phillipa Soo — Hamilton: An American Mu...
+- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1h 41m ago
 
-*Last updated: 30-11-2025 03:57:00*
+*Last updated: 30-11-2025 03:59:34*
 <!-- END_NOW_PLAYING -->

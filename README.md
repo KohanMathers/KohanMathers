@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Burn - Phillipa Soo — Hamilton: An American Musical (Original Broad...
-- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 33 minutes ago
+- 🎵 **Now Playing:** Farmer Refuted - Thayne Jasperson, Various Artists — Hamilton: An American Mu...
+- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 34 minutes ago
 
-*Last updated: 30-11-2025 02:51:59*
+*Last updated: 30-11-2025 02:52:24*
 <!-- END_NOW_PLAYING -->

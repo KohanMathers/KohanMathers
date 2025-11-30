@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
+- 🎵 **Now Playing:** Non-Stop - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
 - 💻 **Currently coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 5 minutes ago
 
-*Last updated: 30-11-2025 02:23:17*
+*Last updated: 30-11-2025 02:23:24*
 <!-- END_NOW_PLAYING -->

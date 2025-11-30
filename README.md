@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Room Where It Happens - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
-- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1h 18m ago
+- 🎵 **Now Playing:** Stay Alive (Reprise) - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1h 20m ago
 
-*Last updated: 30-11-2025 03:37:00*
+*Last updated: 30-11-2025 03:38:25*
 <!-- END_NOW_PLAYING -->

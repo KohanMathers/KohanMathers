@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** We Know - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1h 30m ago
+- 🎵 **Now Playing:** Who Lives, Who Dies, Who Tells Your Story - Original Broadway Cast of "Hamilton" — Hamilton: An American...
+- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1h 32m ago
 
-*Last updated: 30-11-2025 03:48:34*
+*Last updated: 30-11-2025 03:51:00*
 <!-- END_NOW_PLAYING -->

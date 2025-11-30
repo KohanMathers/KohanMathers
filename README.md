@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Helpless - Phillipa Soo & Original Broadway Cast of "Hamilton" — Hamilt...
-- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 2h 23m ago
+- 🎵 **Now Playing:** Not listening to music - Check again later
+- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 2h 24m ago
 
-*Last updated: 30-11-2025 04:41:59*
+*Last updated: 30-11-2025 04:42:33*
 <!-- END_NOW_PLAYING -->

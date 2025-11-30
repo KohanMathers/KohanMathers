@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Best of Wives and Best of Women - Lin-Manuel Miranda & Phillipa Soo — Hamilton: An American Mu...
-- 💻 **Currently coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 3 minutes ago
+- 🎵 **Now Playing:** The World Was Wide Enough - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 💻 **Currently coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 4 minutes ago
 
-*Last updated: 30-11-2025 02:21:59*
+*Last updated: 30-11-2025 02:22:44*
 <!-- END_NOW_PLAYING -->

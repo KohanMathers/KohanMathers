@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Schuyler Defeated - Anthony Ramos, Various Artists — Hamilton: An American Music...
-- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1h 23m ago
+- 🎵 **Now Playing:** Blow Us All Away - Anthony Ramos, Ariana DeBose, Sasha Hutchings, Ephraim Sykes...
+- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1h 24m ago
 
-*Last updated: 30-11-2025 03:41:59*
+*Last updated: 30-11-2025 03:42:36*
 <!-- END_NOW_PLAYING -->

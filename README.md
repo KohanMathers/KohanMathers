@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Election of 1800 - Daveed Diggs, Various Artists — Hamilton: An American Musica...
-- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 28 minutes ago
+- 🎵 **Now Playing:** Burn - Phillipa Soo — Hamilton: An American Musical (Original Broad...
+- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 30 minutes ago
 
-*Last updated: 30-11-2025 02:47:00*
+*Last updated: 30-11-2025 02:48:40*
 <!-- END_NOW_PLAYING -->

@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Python*, editing `app.py` (Project: racereplay) - Just now
+- 🎵 **Now Playing:** The Election of 1800 - Daveed Diggs, Various Artists — Hamilton: An American Musica...
+- 💻 **Currently coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1 minutes ago
 
-*Last updated: 30-11-2025 02:06:59*
+*Last updated: 30-11-2025 02:15:26*
 <!-- END_NOW_PLAYING -->

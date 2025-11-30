@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Best of Wives and Best of Women - Lin-Manuel Miranda & Phillipa Soo — Hamilton: An American Mu...
-- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1h 41m ago
+- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Various Artists — Hamilton: An American Musica...
+- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 1h 42m ago
 
-*Last updated: 30-11-2025 03:59:34*
+*Last updated: 30-11-2025 04:00:20*
 <!-- END_NOW_PLAYING -->

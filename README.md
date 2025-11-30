@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** That Would Be Enough - Phillipa Soo & Lin-Manuel Miranda — Hamilton: An American Mu...
-- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 2h 3m ago
+- 🎵 **Now Playing:** It's Quiet Uptown - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 2h 6m ago
 
-*Last updated: 30-11-2025 04:21:59*
+*Last updated: 30-11-2025 04:24:55*
 <!-- END_NOW_PLAYING -->

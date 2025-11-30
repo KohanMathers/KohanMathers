@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** I Know Him - Jonathan Groff — Hamilton: An American Musical (Original Bro...
-- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 18 minutes ago
+- 🎵 **Now Playing:** Satisfied - Original Broadway Cast of "Hamilton", Various Artists — Hami...
+- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 19 minutes ago
 
-*Last updated: 30-11-2025 02:36:59*
+*Last updated: 30-11-2025 02:37:39*
 <!-- END_NOW_PLAYING -->

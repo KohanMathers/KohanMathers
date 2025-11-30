@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Take a Break - Phillipa Soo, Various Artists — Hamilton: An American Musica...
-- 💻 **Currently coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 13 minutes ago
+- 🎵 **Now Playing:** I Know Him - Jonathan Groff — Hamilton: An American Musical (Original Bro...
+- 💻 **Last seen coding** in *Java*, editing `F1ApiClient.java` (Project: racereplay) - 17 minutes ago
 
-*Last updated: 30-11-2025 02:31:59*
+*Last updated: 30-11-2025 02:36:00*
 <!-- END_NOW_PLAYING -->

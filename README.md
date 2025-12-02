@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *JSON*, editing `rear_wing_open.json` (Project: racereplay) - 3 minutes ago
+- 💻 **Currently coding** in *JSON*, editing `cockpit_left.json` (Project: racereplay) - 3 minutes ago
 
-*Last updated: 02-12-2025 02:22:00*
+*Last updated: 02-12-2025 02:27:00*
 <!-- END_NOW_PLAYING -->

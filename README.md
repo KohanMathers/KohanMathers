@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Coding Status:** Not coding
+- 💻 **Last seen coding** in *HTML*, editing `qti.html` (Project: racereplay) - 1h 5m ago
 
-*Last updated: 02-12-2025 16:27:00*
+*Last updated: 02-12-2025 16:42:00*
 <!-- END_NOW_PLAYING -->

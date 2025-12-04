@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Cabinet Battle #2 - Christopher Jackson, Various Artists — Hamilton: An American...
-- 💻 **Currently coding** in *Java*, editing `CockpitLeft.java` (Project: raceplayback) - Just now
+- 🎵 **Now Playing:** Stay Alive (Reprise) - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
+- 💻 **Currently coding** in *Java*, editing `CockpitRight.java` (Project: raceplayback) - Just now
 
-*Last updated: 04-12-2025 01:31:59*
+*Last updated: 04-12-2025 01:34:14*
 <!-- END_NOW_PLAYING -->

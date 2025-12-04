@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Last seen coding** in *Markdown*, editing `README.md` (Project: racereplay) - 13h 11m ago
+- 💻 **Currently coding** in *JavaScript*, editing `App.jsx` (Project: githubwrapped) - 1 minutes ago
 
-*Last updated: 03-12-2025 23:56:59*
+*Last updated: 04-12-2025 00:01:59*
 <!-- END_NOW_PLAYING -->

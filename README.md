@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Non-Stop - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
-- 💻 **Currently coding** in *Java*, editing `CockpitRight.java` (Project: raceplayback) - Just now
+- 🎵 **Now Playing:** The World Was Wide Enough - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 💻 **Currently coding** in *Java*, editing `CockpitRight.java` (Project: raceplayback) - 1 minutes ago
 
-*Last updated: 04-12-2025 01:37:00*
+*Last updated: 04-12-2025 01:40:49*
 <!-- END_NOW_PLAYING -->

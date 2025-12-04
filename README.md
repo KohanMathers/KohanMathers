@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Room Where It Happens - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
-- 💻 **Currently coding** in *Java*, editing `F1Car.java` (Project: raceplayback) - 8 minutes ago
+- 🎵 **Now Playing:** The Adams Administration - Original Broadway Cast of "Hamilton" — Hamilton: An American...
+- 💻 **Currently coding** in *Java*, editing `CockpitLeft.java` (Project: raceplayback) - 1 minutes ago
 
-*Last updated: 04-12-2025 01:06:59*
+*Last updated: 04-12-2025 01:09:36*
 <!-- END_NOW_PLAYING -->

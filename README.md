@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The World Was Wide Enough - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 🎵 **Now Playing:** Not listening to music - Check again later
 - 💻 **Currently coding** in *Java*, editing `CockpitRight.java` (Project: raceplayback) - 1 minutes ago
 
-*Last updated: 04-12-2025 01:40:49*
+*Last updated: 04-12-2025 01:45:54*
 <!-- END_NOW_PLAYING -->

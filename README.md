@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Adams Administration - Original Broadway Cast of "Hamilton" — Hamilton: An American...
-- 💻 **Currently coding** in *Java*, editing `CockpitLeft.java` (Project: raceplayback) - 1 minutes ago
+- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Various Artists — Hamilton: An American Musica...
+- 💻 **Currently coding** in *Java*, editing `CockpitLeft.java` (Project: raceplayback) - 2 minutes ago
 
-*Last updated: 04-12-2025 01:09:36*
+*Last updated: 04-12-2025 01:10:30*
 <!-- END_NOW_PLAYING -->

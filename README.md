@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Wait For It - Leslie Odom, Jr. & Original Broadway Cast of "Hamilton" — Ha...
-- 💻 **Currently coding** in *Java*, editing `F1Car.java` (Project: raceplayback) - 3 minutes ago
+- 🎵 **Now Playing:** Schuyler Defeated - Anthony Ramos, Various Artists — Hamilton: An American Music...
+- 💻 **Currently coding** in *Java*, editing `F1Car.java` (Project: raceplayback) - 4 minutes ago
 
-*Last updated: 04-12-2025 01:01:59*
+*Last updated: 04-12-2025 01:03:10*
 <!-- END_NOW_PLAYING -->

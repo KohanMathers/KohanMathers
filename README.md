@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Stay Alive - Original Broadway Cast of "Hamilton" — Hamilton: An American...
-- 💻 **Currently coding** in *JSON*, editing `cockpit_right.json` (Project: raceplayback) - 1 minutes ago
+- 🎵 **Now Playing:** Hurricane - Lin-Manuel Miranda & Original Broadway Cast of "Hamilton" — ...
+- 💻 **Currently coding** in *Java*, editing `CockpitRight.java` (Project: raceplayback) - 1 minutes ago
 
-*Last updated: 04-12-2025 01:26:59*
+*Last updated: 04-12-2025 01:29:25*
 <!-- END_NOW_PLAYING -->

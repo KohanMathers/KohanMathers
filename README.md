@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** The Story of Tonight - Lin-Manuel Miranda, Various Artists — Hamilton: An American ...
-- 💻 **Currently coding** in *Java*, editing `F1Car.java` (Project: raceplayback) - Just now
+- 🎵 **Now Playing:** Wait For It - Leslie Odom, Jr. & Original Broadway Cast of "Hamilton" — Ha...
+- 💻 **Currently coding** in *Java*, editing `F1Car.java` (Project: raceplayback) - 1 minutes ago
 
-*Last updated: 04-12-2025 00:58:31*
+*Last updated: 04-12-2025 00:59:57*
 <!-- END_NOW_PLAYING -->

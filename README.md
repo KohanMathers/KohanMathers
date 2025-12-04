@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Hurricane - Lin-Manuel Miranda & Original Broadway Cast of "Hamilton" — ...
-- 💻 **Currently coding** in *Java*, editing `CockpitRight.java` (Project: raceplayback) - 1 minutes ago
+- 🎵 **Now Playing:** The Schuyler Sisters - Phillipa Soo, Various Artists — Hamilton: An American Musica...
+- 💻 **Currently coding** in *Java*, editing `CockpitLeft.java` (Project: raceplayback) - Just now
 
-*Last updated: 04-12-2025 01:29:25*
+*Last updated: 04-12-2025 01:31:46*
 <!-- END_NOW_PLAYING -->

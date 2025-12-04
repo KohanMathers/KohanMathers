@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** What'd I Miss - Daveed Diggs, Various Artists — Hamilton: An American Musica...
-- 💻 **Currently coding** in *Java*, editing `CockpitLeft.java` (Project: raceplayback) - Just now
+- 🎵 **Now Playing:** That Would Be Enough - Phillipa Soo & Lin-Manuel Miranda — Hamilton: An American Mu...
+- 💻 **Currently coding** in *Java*, editing `CarPart.java` (Project: raceplayback) - Just now
 
-*Last updated: 04-12-2025 01:11:59*
+*Last updated: 04-12-2025 01:14:29*
 <!-- END_NOW_PLAYING -->

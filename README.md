@@ -45,8 +45,8 @@ a game studio where being generic was never an option.
 ```
 
 <!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Schuyler Defeated - Anthony Ramos, Various Artists — Hamilton: An American Music...
-- 💻 **Currently coding** in *Java*, editing `F1Car.java` (Project: raceplayback) - 4 minutes ago
+- 🎵 **Now Playing:** The Room Where It Happens - Leslie Odom, Jr., Various Artists — Hamilton: An American Mu...
+- 💻 **Currently coding** in *Java*, editing `F1Car.java` (Project: raceplayback) - 5 minutes ago
 
-*Last updated: 04-12-2025 01:03:10*
+*Last updated: 04-12-2025 01:04:15*
 <!-- END_NOW_PLAYING -->

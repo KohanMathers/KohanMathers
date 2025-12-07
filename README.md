@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `PronounsPlugin.class` (Project: pronouns-plugin) - 1 minutes ago
+- 💻 **Currently coding** in *Groovy*, editing `build.gradle` (Project: pronouns-plugin) - Just now
 
-*Last updated: 07-12-2025 18:36:53*
+*Last updated: 07-12-2025 18:41:53*
 <!-- END_NOW_PLAYING -->

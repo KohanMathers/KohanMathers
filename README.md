@@ -46,7 +46,7 @@ a game studio where being generic was never an option.
 
 <!-- NOW_PLAYING -->
 - 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Currently coding** in *Java*, editing `RacePlaybackServer.java` (Project: raceplayback) - 3 minutes ago
+- 💻 **Currently coding** in *Markdown*, editing `ADAPTIVE_MAPPING_GUIDE.md` (Project: raceplayback) - 2 minutes ago
 
-*Last updated: 11-12-2025 20:36:31*
+*Last updated: 11-12-2025 20:41:32*
 <!-- END_NOW_PLAYING -->

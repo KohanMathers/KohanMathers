@@ -12,16 +12,16 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <summary>...some more info about you</summary>
 
-> Sure! What would you like to know about me?
+    > Sure! What would you like to know about me?
 
-*"I would like to find out..."*
+    *"I would like to find out..."*
 
-<details>
+    <details>
 
-<summary>...what to call you</summary>
+    <summary>...what to call you</summary>
 
-> Of course! My name is Kohan Mathers so most people call me Kohan. If you know me online as IEatSystemFiles I get called system a lot, and sometimes files.
+    > Of course! My name is Kohan Mathers so most people call me Kohan. If you know me online as IEatSystemFiles I get called system a lot, and sometimes files.
 
-</details>
+    </details>
 
 </details>

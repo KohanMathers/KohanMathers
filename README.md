@@ -2,51 +2,26 @@
 
 > *"Asking the useless questions since 2007"*
 
-```txt
-> whoami
-```
-Developer · Game Designer · Data Hoarder
+Want to navigate my profile easier? Use the interactive dialogue game below!
 
-```txt
-> about
-```
-I'm Kohan Mathers — aka IEatSystemFiles.  
-I run [Quiet Terminal Interactive](https://quietterminal.co.uk),  
-a game studio where being generic was never an option.  
+> Hi there, I'm Kohan! What would you like to explore?
 
-```txt
-> projects
-```
+*"I would like to explore..."*
 
-- 🔧 **[Wrench](https://github.com/kohanmathers)** – Custom Minecraft server engine built from scratch with Minestom.
-- 🏷️ **[PlaceholderNametags](https://www.spigotmc.org/resources/placeholdernametags.125083/)** – Use PlaceholderAPI placeholders in nametags.
-- 💻 **[Project Neon](https://github.com/Quiet-Terminal-Interactive/ProjectNeon)** – A game agnostic, relay-based, netcode protocol.
-- 🤖 **[Discord Bots](https://discord.gg/FZuVXszuuM)** – TwitchAnnouncer, MemberMessenger, and more.
+<details>
 
-```txt
-> tech
-```
+<summary>...some more info about you</summary>
 
-**Languages**: Java , Kotlin, Rust, Python, Brew (yes I count it)  
-**Tools**: SSH, Notepad++, Git, Linux, Terminal  
+> Sure! What would you like to know about me?
 
-```txt
-> socials
-```
+*"I would like to find out..."*
 
-- 📧 [mathers.kohan@gmail.com](mailto:mathers.kohan@gmail.com)  
-- 🐙 [GitHub: kohanmathers](https://github.com/kohanmathers)  
-- 🗨️ Discord: IEatSystemFiles  
-- 🧠 [QTI Website](https://quietterminal.co.uk)  
-- 🧵 [Discord Server](https://discord.gg/FZuVXszuuM)
+<details>
 
-```txt
-> status
-```
+<summary>...what to call you</summary>
 
-<!-- NOW_PLAYING -->
-- 🎵 **Now Playing:** Not listening to music - Check again later
-- 💻 **Coding Status:** Not coding
+> Of course! My name is Kohan Mathers so most people call me Kohan. If you know me online as IEatSystemFiles I get called system a lot, and sometimes files.
 
-*Last updated: 13-12-2025 00:46:55*
-<!-- END_NOW_PLAYING -->
+</details>
+
+</details>

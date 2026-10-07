@@ -10,7 +10,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>...some more info about you</summary>
+<summary>`...some more info about you`</summary>
 
 > Sure! What would you like to know about me?
 
@@ -18,7 +18,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...what to call you</summary>
+<summary>`  ...what to call you`</summary>
 
 > Of course! My name is Kohan Mathers so most people call me Kohan. If you know me online as IEatSystemFiles I get called system a lot, and sometimes files.
 
@@ -26,7 +26,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...your pronouns</summary>
+<summary>`  ...your pronouns`</summary>
 
 > Sure! My preferred pronouns are they/them, but I don't mind people using feminine pronouns on me. I ask you don't use masculine pronouns on me unless this is our first time talking :)
 
@@ -34,7 +34,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...where you're based</summary>
+<summary>`  ...where you're based`</summary>
 
 > I'm based in Milton Keynes, but enjoy travelling around the UK whenever I get a chance.
 
@@ -42,7 +42,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...how long you've been coding</summary>
+<summary>`  ...how long you've been coding`</summary>
 
 > I learned Scratch at 9 years old, but I learnt Python at 10 so this is my 9th year coding in languages!
 
@@ -50,7 +50,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...what you're currently working on</summary>
+<summary>`  ...what you're currently working on`</summary>
 
 > I'm sort of jumping between projects at the moment, but my main focus is on [KmResolv](https://github.com/KohanMathers/KmResolv) and [QTI Neon](https://github.com/Quiet-Terminal-Interactive/QTINeon)
 
@@ -58,7 +58,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...what you do outside of coding</summary>
+<summary>`  ...what you do outside of coding`</summary>
 
 > It's sort of sad but...not much lmao. If I'm not coding, I'm usually playing Minecraft on [JagSMP](https://discord.com/invite/j4reckPnEU) or playing Roblox with my girlfriend, and I occasionally stream on my [Twitch](https://twitch.tv/ieatsystemfiles)!
 
@@ -68,7 +68,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>...your projects</summary>
+<summary>`...your projects`</summary>
 
 > Absolutely! What project would you like to explore first?
 
@@ -76,7 +76,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...your favourite project</summary>
+<summary>`  ...your favourite project`</summary>
 
 > It's tough, but my favourite project would have to be [QTI Neon](https://github.com/Quiet-Terminal-interactive/QTINeon), because it's been through a few versions but the result is so worth it.
 
@@ -84,7 +84,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...one you've worked the hardest on</summary>
+<summary>`  ...one you've worked the hardest on`</summary>
 
 > Easily [Quill](https://github.com/KohanMathers/Quill), I mean that's an entire programming language in Paper, that was not easy...
 
@@ -92,7 +92,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...one you're most proud of</summary>
+<summary>`  ...one you're most proud of`</summary>
 
 > My star child will always be [Pronouns](https://github.com/KohanMathers/PronounsPlugin), it was my first ever Paper plugin and is still used to this day by 43 servers, one with over 1k members!
 
@@ -100,7 +100,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...your most recent project</summary>
+<summary>`  ...your most recent project`</summary>
 
 > I have a few small things but my best recent project is [KmResolv](https://github.com/KohanMathers/KmResolv), my custom DNS resolver written in Go.
 
@@ -108,11 +108,11 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...one I can actually try and I am a...</summary>
+<summary>`  ...one I can actually try and I am a...`</summary>
 
 <details>
 
-<summary>    ...developer</summary>
+<summary>`    ...developer`</summary>
 
 > You might be interested in [KmResolv](https://github.com/KohanMathers/KmResolv), my custom DNS resolver written in Go!
 
@@ -120,11 +120,11 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>    ...non developer who...</summary>
+<summary>`    ...non developer who...`</summary>
 
 <details>
 
-<summary>      ...plays Minecraft</summary>
+<summary>`      ...plays Minecraft`</summary>
 
 > Try any of my [plugins](https://plugins.kmathers.co.uk)!
 
@@ -132,7 +132,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>      ...doesn't play Minecraft</summary>
+<summary>`      ...doesn't play Minecraft`</summary>
 
 > Check out my favourite Discord bot of mine, [TwitchAnnouncer](https://github.com/KohanMathers/TwitchAnnouncer), who can announce the streams of any amount of Twitch users to your server!
 
@@ -144,7 +144,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...a surprise pick</summary>
+<summary>`  ...a surprise pick`</summary>
 
 > Check out [KmAuth](https://github.com/KohanMathers/KmAuth), a custom Minecraft authentication server built with Spring Boot that implements the Yggdrasil protocol and supports Microsoft account linking!
 
@@ -154,7 +154,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>...your games studio</summary>
+<summary>`...your games studio`</summary>
 
 > QTI has a lot you could find out about, what would you like to see?
 
@@ -162,7 +162,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...QTI's open source projects</summary>
+<summary>`  ...QTI's open source projects`</summary>
 
 > Check out the [GitHub org](https://github.com/Quiet-Terminal-Interactive)!
 
@@ -170,7 +170,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...QTI's website</summary>
+<summary>`  ...QTI's website`</summary>
 
 > There's a few domains, all but one lead to the same place
 
@@ -183,7 +183,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...QTI's Discord server</summary>
+<summary>`  ...QTI's Discord server`</summary>
 
 > We'd be welcome to see you there! https://discord.com/invite/mxBCtjbWKu
 
@@ -191,7 +191,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...QTI's socials</summary>
+<summary>`  ...QTI's socials`</summary>
 
 > Of course, all company is good company!
 
@@ -205,7 +205,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>...your website</summary>
+<summary>`...your website`</summary>
 
 > Ooh decisions, which website would you like to see first?
 
@@ -213,7 +213,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...personal website</summary>
+<summary>`  ...personal website`</summary>
 
 > Easy to remember, https://kmathers.co.uk
 
@@ -221,7 +221,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...Mojang auth status website</summary>
+<summary>`  ...Mojang auth status website`</summary>
 
 > Ah is it down again? https://mojauth.kmathers.co.uk
 
@@ -229,7 +229,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...puzzle web game</summary>
+<summary>`  ...puzzle web game`</summary>
 
 > Become the CPU and run assembly code by hand, https://human.kmathers.co.uk
 
@@ -237,7 +237,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...graphic design tool</summary>
+<summary>`  ...graphic design tool`</summary>
 
 > Poat, the open source Canva replacement I made for my girlfriend, https://poat.kmathers.co.uk
 
@@ -245,7 +245,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...areweminecraft yet site</summary>
+<summary>`  ...areweminecraft yet site`</summary>
 
 > You'll never guess, https://areweminecraftyet.com
 
@@ -253,7 +253,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...other website design</summary>
+<summary>`  ...other website design`</summary>
 
 > I made the portfolio design as seen on https://natalia-r.co.uk and https://hannahstewart.co.uk!
 
@@ -263,7 +263,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>...a picture of your dog</summary>
+<summary>`...a picture of your dog`</summary>
 
 > Here she is! This is Luckypops, a border collie who is somehow both the bane of my existence and love of my life at the same time. She will soon have her own website at https://lucky.kmathers.co.uk! (Still under construction)
 
@@ -273,7 +273,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>...options to contact you</summary>
+<summary>`...options to contact you`</summary>
 
 > I love being contacted! What's your preferred method?
 
@@ -281,7 +281,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...email</summary>
+<summary>`  ...email`</summary>
 
 > Absolutely! [kmathers@kmathers.co.uk](mailto:kmathers@kmathers.co.uk)
 
@@ -289,11 +289,11 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...your discord...</summary>
+<summary>`  ...your discord...`</summary>
 
 <details>
 
-<summary>    ...DMs</summary>
+<summary>`    ...DMs`</summary>
 
 > Ah, my favourite form of communication! @ieatsystemfiles
 
@@ -301,7 +301,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>    ...server</summary>
+<summary>`    ...server`</summary>
 
 > My server is mainly for support, but it has general chats for a reason, the more the merrier! https://discord.gg/FZuVXszuuM
 
@@ -311,7 +311,7 @@ Want to navigate my profile easier? Use the interactive dialogue game below!
 
 <details>
 
-<summary>  ...carrier pigeon</summary>
+<summary>`  ...carrier pigeon`</summary>
 
 > You know what, if you want to do this pop me a message on one of the above and we will organise a date and time, and a rendezvous point for the pigeon!
 
